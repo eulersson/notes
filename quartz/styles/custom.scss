@@ -1,3 +1,34 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+article.tibetan {
+  font-size: 1.8rem;
+  p {
+    line-height: 2.4rem;
+  }
+}
+
+i.g {
+  font-style: normal;
+  color: #6aa84f;
+}
+
+i.r {
+  font-style: normal;
+  color: #cc0000;
+}
+
+i.b {
+  font-style: normal;
+  color: #3c78d8;
+}
+
+i.y {
+  font-style: normal;
+  color: #f1c231;
+}
+
+i.p {
+  font-style: normal;
+  color: #d679d6;
+}
