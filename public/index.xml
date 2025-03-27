@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Ramon&#039;s Notes</title>
+      <link>https://notes.ramn.dev</link>
+      <description>Last 10 notes on Ramon&#039;s Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Tibetan Tournadre Phonetical Transcription</title>
+    <link>https://notes.ramn.dev/Tibetan-Tournadre-Phonetical-Transcription</link>
+    <guid>https://notes.ramn.dev/Tibetan-Tournadre-Phonetical-Transcription</guid>
+    <description>A very solid approach is laid down in the Manual of Standard Tibetan in the Appendix 7.</description>
+    <pubDate>Thu, 27 Mar 2025 04:51:31 GMT</pubDate>
+  </item><item>
+    <title>Tibetan Tones</title>
+    <link>https://notes.ramn.dev/Tibetan-Tones</link>
+    <guid>https://notes.ramn.dev/Tibetan-Tones</guid>
+    <description>I was investigating if the tone only exists on the first syllable as said in Manual of Standard Tibetan.</description>
+    <pubDate>Thu, 27 Mar 2025 04:46:51 GMT</pubDate>
+  </item><item>
+    <title>Home</title>
+    <link>https://notes.ramn.dev/</link>
+    <guid>https://notes.ramn.dev/</guid>
+    <description>At the moment this is quite empty but as time goes on hopefully you will see ideas or texts I want to share with the world: Reflections Technical write-ups Workflows and productivity hacks Psychology Buddhism and Tibetan language Travel guides and local information Sources of inspiration Drawings or...</description>
+    <pubDate>Thu, 27 Mar 2025 04:26:21 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
