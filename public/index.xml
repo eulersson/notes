@@ -6,65 +6,65 @@
       <description>Last 10 notes on Sampitsal</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Quick Notes</title>
+    <link>https://notes.ramn.dev/Quick-Notes</link>
+    <guid>https://notes.ramn.dev/Quick-Notes</guid>
+    <description>syllables from lobsang experience publishing དབྱིངས། - དོ་དབྱིངས། interest དོ་སྣང་། focus, interest ངས་ ངའི་ ཡི་གེ་ཚོ་ མི་གཞན་དང་ མཉམ་དུ་ བགོ་བཤའ་ བྱེད་འདོད་ཡོད། Broken down: ངས་ (ngé) - I (instrumental case) ངའི་ (ngai) - my ཡི་གེ་ཚོ་ (yi gé tsho) - letters མི་གཞན་དང་ (mi zhen dang) - with other pe...</description>
+    <pubDate>Thu, 27 Mar 2025 14:08:00 GMT</pubDate>
+  </item><item>
+    <title>Tibetan Diary</title>
+    <link>https://notes.ramn.dev/Tibetan-Diary</link>
+    <guid>https://notes.ramn.dev/Tibetan-Diary</guid>
+    <description> Daily Practise 1h memorising 30 min listening 30 min reading 1h exercises Transfer questions Tibetan Language Questions 2025-03-27 སྤྱི་ཟླ་གསུམ་པའི་ཉི་ཤུ་རྩ་བདུན། དགོང་དག་ཆུ་ཚོད་བཅུ་ཟིན་པ་ལ་སྐར་མ་བཅུ་དྲུག Tasks Enumerate ནས་ use cases to SLC.</description>
+    <pubDate>Thu, 27 Mar 2025 14:07:05 GMT</pubDate>
+  </item><item>
+    <title>Untitled 1</title>
+    <link>https://notes.ramn.dev/Drafts/Untitled-1</link>
+    <guid>https://notes.ramn.dev/Drafts/Untitled-1</guid>
+    <description></description>
+    <pubDate>Thu, 27 Mar 2025 13:57:10 GMT</pubDate>
+  </item><item>
+    <title>2025-03-27</title>
+    <link>https://notes.ramn.dev/Journal/Daily/2025-03-27</link>
+    <guid>https://notes.ramn.dev/Journal/Daily/2025-03-27</guid>
+    <description>&lt;&lt; 2025-03-26 | 2025-03-28 &gt;&gt; I am very happy that at last I managed to find a good workflow to publish my notes outside of the vault.</description>
+    <pubDate>Thu, 27 Mar 2025 13:48:54 GMT</pubDate>
+  </item><item>
+    <title>Publish Obsidian Notes</title>
+    <link>https://notes.ramn.dev/Drafts/Publish-Obsidian-Notes</link>
+    <guid>https://notes.ramn.dev/Drafts/Publish-Obsidian-Notes</guid>
+    <description>Goals Ability to select what gets published and what not. Media attachments to get included, and also audio. Tibetan text to be read properly.</description>
+    <pubDate>Thu, 27 Mar 2025 13:44:21 GMT</pubDate>
+  </item><item>
+    <title>Deploying Digital Garden</title>
+    <link>https://notes.ramn.dev/Drafts/Deploying-Digital-Garden</link>
+    <guid>https://notes.ramn.dev/Drafts/Deploying-Digital-Garden</guid>
+    <description>Website: notes.ramn.dev/ Repository: github.com/eulersson/quartz Branch: ramn On the page add the publish: true property.</description>
+    <pubDate>Thu, 27 Mar 2025 13:43:54 GMT</pubDate>
+  </item><item>
+    <title>Tibetan Agentive Particle on Uncontrolled Perception</title>
+    <link>https://notes.ramn.dev/Tibetan-Agentive-Particle-on-Uncontrolled-Perception</link>
+    <guid>https://notes.ramn.dev/Tibetan-Agentive-Particle-on-Uncontrolled-Perception</guid>
+    <description>Gen Alexandra said: Agentive particles also mark the subjects of the verbs of uncontrollable perceptions ཤེས་, མཐོང་, ཐུག་, གོ་, ཧ་གོ་, མཇལ་, and knowledge in all tenses.</description>
+    <pubDate>Thu, 27 Mar 2025 09:34:48 GMT</pubDate>
+  </item><item>
+    <title>Buddhism</title>
+    <link>https://notes.ramn.dev/MOC/Buddhism</link>
+    <guid>https://notes.ramn.dev/MOC/Buddhism</guid>
+    <description>Community Sadhanas Relation Tibetan Kanguage ijafoif.</description>
+    <pubDate>Thu, 27 Mar 2025 06:48:58 GMT</pubDate>
+  </item><item>
     <title>Home</title>
     <link>https://notes.ramn.dev/</link>
     <guid>https://notes.ramn.dev/</guid>
     <description>བསམ་པའི་ཙལ། My Garden (tsal) of Thoughts (sampa) | Ramon’s Notes and Reflections”, At the moment this is quite empty.</description>
     <pubDate>Thu, 27 Mar 2025 06:30:36 GMT</pubDate>
   </item><item>
-    <title>Tibetan Diary</title>
-    <link>https://notes.ramn.dev/Tibetan-Diary</link>
-    <guid>https://notes.ramn.dev/Tibetan-Diary</guid>
-    <description> Daily Practise 2h memorising. 30 min listening. 30 min reading. 1h exercises.</description>
-    <pubDate>Thu, 27 Mar 2025 06:18:56 GMT</pubDate>
-  </item><item>
     <title>Dedication Prayer</title>
     <link>https://notes.ramn.dev/Sources/Prayers/Dedication-Prayer</link>
     <guid>https://notes.ramn.dev/Sources/Prayers/Dedication-Prayer</guid>
     <description>བསྡོ་བའི་སྨོན་ལམ་དང་། དྲིལ་བུ་ཡི་སྒྲ་གསུམ། བསོད་ནམས་འདི་ཝིས་ཐམས་ཅད་གཟིགས་པ་ཡིད།། ཐོབ་ནས་ཉིས་པའི་དགྲ་རྣམས་ཕམ་བྱས་ཤིང་།། སྐྱེ་རྒ་ན་འཆིའི་རྦ་རླབས་འཁྲུགས་པ་ཡི།། སྲིད་པའི་མཚོ་ལས་འགྲོ་བ་སྒྲོལ་བར་ཤོག། .</description>
     <pubDate>Thu, 27 Mar 2025 06:17:22 GMT</pubDate>
-  </item><item>
-    <title>Tibetan Anthem Gyallu (bod rgyal khab chen po&#039;i rgyal glu)</title>
-    <link>https://notes.ramn.dev/Sources/Prayers/Tibetan-Anthem-Gyallu-(bod-rgyal-khab-chen-po'i-rgyal-glu)</link>
-    <guid>https://notes.ramn.dev/Sources/Prayers/Tibetan-Anthem-Gyallu-(bod-rgyal-khab-chen-po'i-rgyal-glu)</guid>
-    <description>བོད་རྒྱལ་ཁབ་ཆེན་པོའི་རྒྱལ་གླུ། སྲིད་ཞིའི་ཕན་བདེའི་འདོད་རྒུ་འབྱུང་བའི་གཏེར། ཐུབ་བསྟན་བསམ་འཕེལ་ནོར་བུའི་འོད་སྣང་འབར། བསྟན་འགྲོའི་ནོར་འཛིན་རྒྱ་ཆེར་སྐྱོང་བའི་མགོན། འཕྲིན་ལས་ཀྱི་རོལ་མཚོ་རྒྱས། རྡོ་རྗེའི་ཁམས་སུ་བརྟན་པས་ཕྱོགས་ཀུན་བྱམས་བརྩེས་སྐྱོང། གནམ་བསྐོས་དགའ་བ་བརྒྱ་ལྡན་དབུ་འཕང་དགུང་ལ་རེག ཕུན་ཚོགས་སྡེ་བཞི...</description>
-    <pubDate>Thu, 27 Mar 2025 06:17:10 GMT</pubDate>
-  </item><item>
-    <title>Taking Refuge (Kyabdro)</title>
-    <link>https://notes.ramn.dev/Sources/Prayers/Taking-Refuge-(Kyabdro)</link>
-    <guid>https://notes.ramn.dev/Sources/Prayers/Taking-Refuge-(Kyabdro)</guid>
-    <description>སྐྱབས་འགྲོ སངས་རྒྱས་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་རྣམས་ལ། ། བྱང་ཆུབ་བར་དུ་བདག་ནི་སྐྱབས་སུ་མཆི། ། བདག་གི་སྦྱིན་སོགས་བགྱིས་པའི་བསོད་ནམས་ཀྱིས། ། འགྲོ་ལ་ཕན་ཕྱིར་སངས་རྒྱས་འགྲུབ་པར་ཤོག ། In the Buddha, the Dharma and the Supreme Assembly I take refuge until I attain enlightenment.</description>
-    <pubDate>Thu, 27 Mar 2025 06:16:55 GMT</pubDate>
-  </item><item>
-    <title>Prayer to Padmasambhava</title>
-    <link>https://notes.ramn.dev/Sources/Prayers/Prayer-to-Padmasambhava</link>
-    <guid>https://notes.ramn.dev/Sources/Prayers/Prayer-to-Padmasambhava</guid>
-    <description>༄༅། །གསོལ་འདེབས་རྒྱ་གར་པཎ་ཆེན་མ་བཞུགས། རྒྱ་གར་པཎ་ཆེན་བོད་ལ་བཀའ་དྲིན་ཆེ། ། པདྨ་ལས་འཁྲུངས་སྐུ་ལ་འདས་གྲོངས་མེད། ། ད་ལྟ་ལྷོ་ནུབ་སྲིན་པོའི་ཁ་གནོན་མཛད། ། ཨོ་རྒྱན་རིན་པོ་ཆེ་ལ་གསོལ་བ་འདེབས། ། gyagar panchen böla kadrin ché pema lé trung ku la dé drongmé darta lhonup sinpö kha nön dzé orgyen rinpoche la solw...</description>
-    <pubDate>Thu, 27 Mar 2025 06:16:50 GMT</pubDate>
-  </item><item>
-    <title>Food Offering</title>
-    <link>https://notes.ramn.dev/Sources/Prayers/Food-Offering</link>
-    <guid>https://notes.ramn.dev/Sources/Prayers/Food-Offering</guid>
-    <description>སྟོན་པ་བླ་མེད་སངས་རྒྱས་རིན་པོ་ཆེ། ། སྐྱོབ་པ་བླ་མེད་དམ་ཆོས་རིན་པོ་ཆེ། ། འདྲེན་པ་བླ་མེད་དགེ་འདུན་རིན་པོ་ཆེ། ། སྐྱབས་གནས་དཀོན་མཆོག་གསུམ་ལ་ཕྱག་འཚལ་ལོ། ། tönpa lamé sangye rinpoche kyobpa lamé damchö rinpoche drenpa lamé gendün rinpoche kyabné könchok sum la chaktsal lo To the precious Buddha, the unsurp...</description>
-    <pubDate>Thu, 27 Mar 2025 06:16:36 GMT</pubDate>
-  </item><item>
-    <title>100 Syllables Vajrasattva Mantra (Dorje Sempa)</title>
-    <link>https://notes.ramn.dev/Sources/Prayers/100-Syllables-Vajrasattva-Mantra-(Dorje-Sempa)</link>
-    <guid>https://notes.ramn.dev/Sources/Prayers/100-Syllables-Vajrasattva-Mantra-(Dorje-Sempa)</guid>
-    <description>ཨོཾ་བཛྲ་སཏྭ་ས་མ་ཡ༔ མ་ནུ་པཱ་ལ་ཡ༔ བཛྲ་སཏྭ་ཏྭེ་ནོ་པ་ཏིཥྛ་དྲྀ་ཌྷོ་མེ་བྷ་ཝ༔ སུ་ཏོ་ཥྱོ་མེ་བྷ་ཝ༔ སུ་པོ་ཥྱོ་མེ་བྷ་ཝ༔ ཨ་ནུ་རཀྟོ་མེ་བྷ་ཝ༔ སརྦ་སིདྡྷི་མྨེ་པྲ་ཡཙྪ༔ སརྦ་ཀརྨ་སུ་ཙ་མེ༔ ཙིཏྟཾ་ཤྲེ་ཡཾཿ ཀུ་རུ་ཧཱུྂ༔ ཧ་ཧ་ཧ་ཧ་ཧོཿ བྷ་ག་ཝཱན༔ སརྦ་ཏ་ཐཱ་ག་ཏ་བཛྲ་མཱ་མེ་མུཉྩ་བཛྲཱི་བྷ་ཝ་མ་ཧཱ་ས་མ་ཡ་སཏྭ་ཨཱཿ om benza sato samaya | man...</description>
-    <pubDate>Thu, 27 Mar 2025 06:16:30 GMT</pubDate>
-  </item><item>
-    <title>Gang Gi Lodröma Jam-pel-yang Manjushri Prayer (Pema Tsal)</title>
-    <link>https://notes.ramn.dev/Sources/Prayers/Gang-Gi-Lodr%C3%B6ma-Jam-pel-yang-Manjushri-Prayer-(Pema-Tsal)</link>
-    <guid>https://notes.ramn.dev/Sources/Prayers/Gang-Gi-Lodr%C3%B6ma-Jam-pel-yang-Manjushri-Prayer-(Pema-Tsal)</guid>
-    <description>འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ། (གང་གི་བློ་གྲོས་མ།) བླ་མ་དང་མགོན་པོ་འཇམ་པའི་དབྱངས་ལ་འཇམ་དབྱངས་ཕྱག་འཚལ་ལོ། Note (Pema Tsal) adds these here: གཞོན་ནུ་སྐུ་ལས་འཚང་བ་པོ། ཨོ་ཤེས་སྒྲོན་མེ་ནབ་མཇས་ཤིང་། འཇེག་རྟེན་གསུམ་རྒྱལ་མུན་སེལ་བའི། འཇམ་པའི་དབྱངས་ལ་ཕྱག་འཚལ་ལོ། གང་གི་བློ་གྲོས་སྒྲིབ་གཉིས་སྤྲིན་བྲལ་ཉི་ལྟར་...</description>
-    <pubDate>Thu, 27 Mar 2025 06:16:18 GMT</pubDate>
-  </item><item>
-    <title>Sakya Pandita Kunga Gyaltzen</title>
-    <link>https://notes.ramn.dev/Sources/Prayers/Sakya-Pandita-Kunga-Gyaltzen</link>
-    <guid>https://notes.ramn.dev/Sources/Prayers/Sakya-Pandita-Kunga-Gyaltzen</guid>
-    <description>༈ ཤེས་བྱ་ཐམས་ཅད་གཟིགས་པའི་སྤྱན་ཡངས་ཤིང་། ། འགྲོ་ཀུན་དགེ་ལེགས་སྒྲུབ་པའི་ཐུགས་རྗེ་ཅན། ། བསམ་ཡས་ཕྲིན་ལས་མཛད་པའི་སྟོབས་མངའ་བ། ། འཇམ་མགོན་བླ་མའི་ཞབས་ལ་གསོལ་བ་འདེབས། ། .</description>
-    <pubDate>Thu, 27 Mar 2025 06:13:46 GMT</pubDate>
   </item>
     </channel>
   </rss>
