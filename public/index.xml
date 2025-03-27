@@ -6,6 +6,12 @@
       <description>Last 10 notes on Sampitsal</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Home</title>
+    <link>https://notes.ramn.dev/</link>
+    <guid>https://notes.ramn.dev/</guid>
+    <description>བསམ་པའི་ཙལ། My Garden (tsal) of Thoughts (sampa) | Ramon’s Notes and Reflections”, At the moment this is quite empty.</description>
+    <pubDate>Thu, 27 Mar 2025 06:30:36 GMT</pubDate>
+  </item><item>
     <title>Tibetan Diary</title>
     <link>https://notes.ramn.dev/Tibetan-Diary</link>
     <guid>https://notes.ramn.dev/Tibetan-Diary</guid>
@@ -59,12 +65,6 @@
     <guid>https://notes.ramn.dev/Sources/Prayers/Sakya-Pandita-Kunga-Gyaltzen</guid>
     <description>༈ ཤེས་བྱ་ཐམས་ཅད་གཟིགས་པའི་སྤྱན་ཡངས་ཤིང་། ། འགྲོ་ཀུན་དགེ་ལེགས་སྒྲུབ་པའི་ཐུགས་རྗེ་ཅན། ། བསམ་ཡས་ཕྲིན་ལས་མཛད་པའི་སྟོབས་མངའ་བ། ། འཇམ་མགོན་བླ་མའི་ཞབས་ལ་གསོལ་བ་འདེབས། ། .</description>
     <pubDate>Thu, 27 Mar 2025 06:13:46 GMT</pubDate>
-  </item><item>
-    <title>Amithaba School Song - Jema Kara</title>
-    <link>https://notes.ramn.dev/Sources/Songs/Amithaba-School-Song---Jema-Kara</link>
-    <guid>https://notes.ramn.dev/Sources/Songs/Amithaba-School-Song---Jema-Kara</guid>
-    <description> ཀ་ར་ - བྱེ་མ་ཀ་ར་ནི་མངར་མོ་ཡོད། ཁ་བ་ - དགུན་ཁའི་དུས་སུ་ཁ་བ་བབས། གའུ་ - གའུའི་ནང་དུ་བྱིན་རྟེན་ཡོད། ང་རོ་ - གཅན་གཟན་སྟག་ནི་ང་རོ་ཆེ། ཅ་ནེ་ - ཅ་ནེའི་ནང་དུ་རྩམ་པ་འདུག ཆ་ག་པ་ - ཆ་ག་པ་ཡིས་ཅག་ཅག་སྐྲོག ཇ་ཐང་ - དཀར་ཡོལ་ནང་དུ་ང་ཐང་བླུག ཉ་པ་ - ཉ་པའི་ལག་ཏུ་ཉ་གཅིག་འདུག Sung by Susil Bolon.</description>
-    <pubDate>Thu, 27 Mar 2025 06:08:35 GMT</pubDate>
   </item>
     </channel>
   </rss>
