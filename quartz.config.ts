@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Sampitsal",
-    pageTitleSuffix: "My Garden (tsal) of Thoughts (sampa) | Ramon's Notes and Reflections",
+    pageTitleSuffix: " | Sampitsal (Garden of Thoughts) | Notes and Reflections",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
