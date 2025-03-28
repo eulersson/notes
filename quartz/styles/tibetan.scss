@@ -1,0 +1,43 @@
+// Tibetan text styling
+// Using the uchen class like Wikipedia for proper Tibetan font rendering
+//
+@font-face {
+  font-family: "Jomolhari";
+  src: local("Jomolhari"), url("/static/Jomolhari-Regular.ttf");
+}
+
+.uchen {
+  font-family: "Jomolhari";
+
+  font-size: 1.6em;
+  line-height: 1.4em;
+  
+  // Make it inline-block to enable vertical positioning
+  display: inline-block;
+  
+  // Using position: relative is more reliable than transform for inline-block elements
+  position: relative;
+  top: 0.3em;
+
+  margin: auto 0.1em;
+  
+  // Prevent text selection issues with positioning
+  vertical-align: baseline;
+}
+
+// For code blocks containing Tibetan text
+code.uchen {
+  // Inherit most properties from above
+  font-size: 1.6em;
+  line-height: 1em;
+  
+  // Code elements should also be inline-block for consistent positioning
+  display: inline-block;
+  position: relative;
+  top: 0.1em;
+
+  margin: 0.1em;
+  
+  // Preserve code formatting
+  white-space: pre-wrap;
+}
