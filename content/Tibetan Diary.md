@@ -10,25 +10,38 @@ linklist:
 > [!info] Questions
 > As they arise I write them on this shared [Google Doc](https://docs.google.com/document/d/1wGcCFSY7tffI8tl-jIMJHfIju-8MMrIcRoOmYtEOwR0/edit?usp=sharing) and you are welcome do contribute by adding more or answering them.
 
->[!note] Daily Practise
-> - 1h memorising
-> - 30 min listening
-> - 30 min reading
-> - 1h exercises
-> - Transfer questions [Tibetan Language Questions](https://docs.google.com/document/d/1wGcCFSY7tffI8tl-jIMJHfIju-8MMrIcRoOmYtEOwR0)
+>[!TODO] Daily Practise
+> - [ ] Vocabulary
+> - [ ] Listening
+> - [ ] Reading
+> - [ ] Exercises
+> - [ ] Transfer Questions into [Shared Google Docs](https://docs.google.com/document/d/1wGcCFSY7tffI8tl-jIMJHfIju-8MMrIcRoOmYtEOwR0)
 
-## Backlog
-- [ ] Enumerate ནས་ use cases to SLC.
-- [ ] Format Google Docs.
+> [!BACKLOG]
+> - [ ] འཁྱུག་ཡིག (Tibetan Quick Handwriting) 
+> - [ ] Format Google Docs.
+> - [ ] Practice counting.
+
+## 2025-03-30
+སྤྱིན་ཟླ་གསུམ་པའི་ཚེས་པ་<i class="r">ག</i>སུམ་<i class="r">བ</i>ཅུ། ཞོག་གས་ཆུ་ཚོད་བརྒྱད་དང་ཕྱེ་ཀ།
+### Tasks
+- [ ] Vocabulary
+- [ ] Listening
+- [ ] Reading
+- [ ] Exercises
+
+### Writing
+[[Tibetan Diary 2025-03-30]]
 
 ## 2025-03-28
-སྤྱིན་ཟླ་གསུམ་པའི་ཉི་ཤུ་རྩ་བརྒྱད། ཞོག་གས་ཆུ་ཚོད་བཅུ་པ་ཡོལ་ནས་སྐར་མ་བཅུ་གསུམ།
+སྤྱིན་ཟླ་གསུམ་པའི་<i class="g">ཚེས་པ་</i>ཉི་ཤུ་རྩ་བརྒྱད། ཞོག་གས་ཆུ་ཚོད་བཅུ་པ་ཡོལ་ནས་སྐར་མ་བཅུ་གསུམ།
 ### Tasks
+- [x] Vocabulary
 - [x] Listening
 	- [x] Module 1 Listening Comprehension
 - [x] Exercises 
 	- [x] Module 1 Listening Comprehension
-- [ ] Reading
+- [x] Reading
 
 ### Struggles
 #### Listening Comprehension
@@ -45,15 +58,10 @@ linklist:
 ##### Phonetic Lookup
 One big **issue** with the language is how hard is to look up words if you don't know their spelling. **It would be amazing to have a phonetic reverse search dictionary**, that is **you type with phonetic transcription**, and then **it presents all the possible spellings**. Does this exist? Investigate! Otherwise it would be an amazing technical project to work on!
 
-## 2025-03-27
-སྤྱི་ཟླ་གསུམ་པའི་ཉི་ཤུ་རྩ་བདུན། དགོང་དག་ཆུ་ཚོད་བཅུ་པ་ཟིན་པ་ལ་སྐར་མ་བཅུ་དྲུག
-### Tasks
-- [x] Anki
-- [x] Dump questions.
-
 ### Learnt
 #### Pronouncing སྐྲོན་, སྒྲོན, གྲོན
 [[Tibetan Pronouncing skron sgron gron]]
+
 #### I can't hear you...
 Tibetan's don't use "can" they simply say ང་གོ་མིན་འདུག
 
@@ -77,7 +85,7 @@ But I'm very happy because I can now publish notes like [[Tibetan Tones]] outsid
 ### Tasks
 - [x] Watch ePortfolio
 - [x] Watch Online learning
-- [ ] Added questions 67, 68, 69, 70, 71
+- [x] Added questions 67, 68, 69, 70, 71
 
 ### Struggles 
 ཉེན་ཁ་ཡོད་པ་ (dangerous) != རྙོག་དྲ་
@@ -91,7 +99,6 @@ Translation for "Dalai Lama asked Wangchen la to establish a Dharma centre in Ba
 བཙུགས་ = establish, built = བཞེངས། 
 
 ### Diary
-
 Recorded a video to show how to fix broken character stacking: [Trick to stack Tibetan letters when Wylie breaks](https://www.youtube.com/watch?v=IqcWuasfWkk)
 
 You can omit ང་ལ་ when using verb "to have" ལས་ཀ་གལ་མེད། "I don't have important work".
@@ -104,7 +111,6 @@ Listened [A2 - Talking About the Date and Your Day in Tibetan](https://www.youtu
 
 ## 2025-03-25
 སྤྱི་ཟླ་གསུམ་ཚེས་པའི་ཉི་ཤུ་རྩ་ལྔ། ཆུ་ཚོད་བརྒྱད་པ་ཡོལ་ནས་སྐར་མ་བདུན།
-
 ### Struggles
 Kitchen is hard to memorise... ཐབ་ཚང་...
 
@@ -122,15 +128,7 @@ Try to get used to ཡོལ་ནས་ (past) and ཟིན་པ་ (to) when
 
 ## 2025-03-24
 ### Writing
-This morning I woke up a bit late. Not only that but I spent 30 minutes on my phone (I was not in control). That's too much time! When I become lazy I feel bad. But after waking up I meditated for one hour. At that time the guest house owner had already woken up. I felt good because I meditated. Then I went to get breakfast by crossing the lake with boat.
-#### Original
-དེ་རིང་ཞོག་གས་ངས་ཕྱིད་པོ་ཏོག་ཙམ་ཡར་ལང་སོང། རེད་མ་ཟེད་ངས་ཁ་པར་སྐར་མ་གསུམ་བཅུ་རིང་བལྟས་སོང་། དེ་མང་དྲག་གི་ཡོད་རེད་ད། ང་ལེ་ལོ་ཙན་འདུག་ན་སེམས་སྐྱོ་པོ་འདུག ཡིན་ནའི་ཡར་ལང་ཡག་རྗེས་ལ་ཆུ་ཚོད་གཅིག་རིང་བསྒོམ་བརྒྱབ་པ་ཡིན། དུས་སུ་ངའི་མགྲོན་ཁང་གི་སྦྱིན་བཏག་གིས་ཡར་ལངས་ཚར་འདུག བསྒོམ་བརྒྱབ་ནས་ང་ཡག་པོ་ཆགས་སོང་། དེ་ནས་ང་ཞོག་ཇ་ཟ་གར་ཀྱི་ཆེད་དུ་མཚོ་གྲུ་གཟིངས་ཡིས་བརྒྱལ་པ་ཡིན།
-#### Corrected
-དེ་རིང་ཞོག་གས་ངས་ཕྱིད་པོ་ཏོག་ཙམ་ཡར་ལང་པ་ཡིན། དེ་མ་ཟེད་ངས་ཁ་པར་སྐར་མ་སུམ་ཅུ་རིང་བལྟས་པ་ཡིན། དེ་མང་དྲག་གི་ཡོད་རེད་ད། ང་ལེ་ལོ་ཅན་ཆག་དུས་སེམས་པ་སྐྱོའི་འདུག ཡིན་ནའི་ཡར་ལང་པའི་རྗེས་ལ་ཆུ་ཚོད་གཅིག་རིང་བསྒོམ་བརྒྱབ་པ་ཡིན། དེ་དུས་ངའི་མགྲོན་ཁང་གི་སྦྱིན་བདག་ཡར་ལངས་ཚར་འདུག བསྒོམ་བརྒྱབ་ནས་ང་ཡག་པོ་ཚོར་སོང་། དེ་ནས་ང་ཞོག་ཇ་ཟ་གར་ཀྱི་ཆེད་དུ་མཚོ་གྲུ་གཟིངས་ཡིས་བརྒྱལ་པ་ཡིན།
-#### Corrections
-ཡར་ལང་<i class="r">སོང་</i><i class="g">ཡིན་</i> <i class="r">ག</i>སུམ་<i class="r">བ</i>ཅུ་ སུམ་ཅུ་, བལྟས་<i class="r">སོང་</i><i class="g">ཡིན་</i>, ང་ལེ་ལོ་<i class="r">ཙ</i><i class="g">ཅ</i>ན་ཆག་དུས་སེམས་<i class="g">པ་</i>སྐྱོ<i class="g">འི</i>་<i class="r">པོ་</i>་འདུག  (འི་ on text but we pronounce གི་) <i class="r">དུས་སུ་</i><i class="g">དེ་དུས་</i>ངའི་མགྲོན་ཁང་གི་སྦྱིན་བཏག་<i class="r">གིས་</i>ཡར་ལངས་ཚར་འདུག བསྒོམ་བརྒྱབ་ནས་ང་ཡག་པོ་<i class="r">ཆགས་</i><i class="g">ཚོར་ (feeling verbalizer, you want to say I felt good, not I became good)</i> སོང་། ཟ་<i class="r">གར་ཀྱི་</i><i class="g">ཡག་གི་</i>ཆེད་དུ་མཚོ<i class="g">འི་ནང་ལ་</i>་གྲུ་གཟིངས་<i class="r">ཡིས་བརྒྱལ་</i><i class="g">བཏང་ (to sail) བར་ཕྱིན་</i>པ་ཡིན།
-
-ཡར་ལང་<i class="r">ཡག་</i>རྗེས་ལ་བསྒོམ་བརྒྱབ་པ་ཡིན། "after waking up I meditated" is incorrect because ཡག་ it has an implication of future, and so does རྒྱུ་, but the latter with an extra sense of obligation. ང་སློབ་གྲྭ་ལ་འགྲོ་ཡག་ཡིན། see here how ཡག་ replaces the གི་ (part of the future auxiliary). So instead we use པའི་ ཡར་ལང་<i class="r">ཡག་</i><i class="g">པའི་</i>རྗེས་ལ་བསྒོམ་བརྒྱབ་པ་ཡིན།
+![[Tibetan Diary 2025-03-24]]
 
 ## 2025-03-24
 - Sometimes I see the nominalizer ཡག་ added on the past form of the verb... Interesting...
@@ -138,12 +136,7 @@ This morning I woke up a bit late. Not only that but I spent 30 minutes on my ph
 	- གཅིག་གི་གཅིག་ལ་ = each other
 	- ཡག་རུ་ཡག་རུ་ = better and better
 
-Writing Sanskrit words with Tibetan alphabet using Wylie:
-༄༅།། ཨོཾ་ཨཿཧཱུྂ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྂ༔
-```
-@#//_oM aHhU~M` badz+ra gu ru pad+ma sid+d+hi hU~M`:
-```
-
+![[Tibetan Writing Sanksrit in Wylie]]
 ## 2025-03-23
 - ✅ Listening. Lesson 5 dialog.
 - The particle ད་ acts like an exclamation mark.
