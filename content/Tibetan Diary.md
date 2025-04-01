@@ -22,6 +22,11 @@ linklist:
 > - [ ] Format Google Docs.
 > - [ ] Practice counting.
 
+## 2025-04-01
+སྤྱིན་ཟླ་བཞི་པའི་ཚེས་པ་གཅིག ཉིན་གུང་ཆུ་ཚོད་གཅིག་དང་ཕྱེད་ཀ།
+ང་ Anki deck གསར་པ་བྱེད་གི་ཡིན། དེ་ངས་གྲྭ་པ་སྐད་ recorded པ་ཡིན། ང་དང་པོ་ཚིག་སྒྲུབ་ [[Tibetan Quarentine]] འབྲི་ཡོད། དེ་ནས་ Anki deck ལ་གཞག་གི་ཡོད།
+### Struggles
+གྱོན་པ་ = to wear,  གྱོང་ = loss
 ## 2025-03-30
 སྤྱིན་ཟླ་གསུམ་པའི་ཚེས་པ་<i class="r">ག</i>སུམ་<i class="r">བ</i>ཅུ། ཞོག་གས་ཆུ་ཚོད་བརྒྱད་དང་ཕྱེ་ཀ།
 ### Tasks
@@ -55,8 +60,7 @@ linklist:
 ##### Uncaught Words
 [[Tibetan Module 0 Listening Comprehension 1 Uncaught Words]]
 #### Diary
-##### Phonetic Lookup
-One big **issue** with the language is how hard is to look up words if you don't know their spelling. **It would be amazing to have a phonetic reverse search dictionary**, that is **you type with phonetic transcription**, and then **it presents all the possible spellings**. Does this exist? Investigate! Otherwise it would be an amazing technical project to work on!
+How hard is to look up words in a dictionary when sometimes not even the Tibetan speakers know the spelling! So check this [[Tibetan Phonetic Lookup Dictionary]]. I wrote an email to *Monlam AI* team about it!
 
 ### Learnt
 #### Pronouncing སྐྲོན་, སྒྲོན, གྲོན
