@@ -7,7 +7,7 @@ These sentences have been translated with the help of AI (Claude) by making expl
 1. When is it going to be finished?
 	1. ག་དུས་ ཚར་གྱི་རེད། 
 2. Have you already added sugar to my tea?
-	2. ཁྱེད་རང་ངའི་ཇ་ནང་ལ་ཀ་ར་བླུགས་ཚར་པས།
+	1. ཁྱེད་རང་ངའི་ཇ་ནང་ལ་ཀ་ར་བླུགས་ཚར་པས།
 3. I only ate fish three times.
 	1. ང་ཉ་ཐེངས་གསུམ་མ་གཏོགས་བཟས་མེད།
 4. If we don't have the money we can't do the thing.
