@@ -3,8 +3,14 @@ publish: true
 ---
 
 Recently [[Pema Tsal]] monastery got the UKG room walls beautifully re-painted with Tibetan, Nepali and English vocabulary.
-![[IMG_0266-1.png]]
-![[IMG_0141.jpeg]]![[IMG_0![[IMG_0147.jpeg]]
-![[IMG_0148.jpeg]]
-![[IMG_0145.jpeg]]
-![[IMG_0144.jpeg]]![[IMG_0143.jpeg]]![[IMG_0142.jpeg]]
+
+![[Pema Tsal UKG 010.png]]
+![[Pema Tsal UKG 001.jpeg]]
+![[Pema Tsal UKG 002.jpeg]]
+![[Pema Tsal UKG 003.jpeg]]
+![[Pema Tsal UKG 004.jpeg]]
+![[Pema Tsal UKG 005.jpeg]]
+![[Pema Tsal UKG 006.jpeg]]
+![[Pema Tsal UKG 007.jpeg]]
+![[Pema Tsal UKG 008.jpeg]]
+![[Pema Tsal UKG 009.jpeg]]
