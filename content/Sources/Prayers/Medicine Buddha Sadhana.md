@@ -1,7 +1,8 @@
 ---
 publish: true
+tags:
+- tibetan
+linklist:
+- "[[Medicine Buddha]]"
 ---
-
-The [[Medicine Buddha]]  Buddha Practice.
-
 ![[Medicine Buddha Sadhana.pdf]]
