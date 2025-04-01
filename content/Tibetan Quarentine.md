@@ -10,6 +10,9 @@ These sentences have been translated with the help of AI (Claude) by making expl
 	2. ཁྱེད་རང་ངའི་ཇ་ནང་ལ་ཀ་ར་བླུགས་ཚར་པས།
 3. I only ate fish three times.
 	1. ང་ཉ་ཐེངས་གསུམ་མ་གཏོགས་བཟས་མེད།
+4. If we don't have the money we can't do the thing.
+	1. ང་ཚོར་དངུལ་མེད་ན་ལས་ཀ་བྱེད་ཐུབ་གི་མ་རེད།
+		1. But... The monk said something before the subject... Something that I asked and he said it means "if". So it seems there's an explicit word to use to say "if"?
 
 This is the context I introduced under *Settings > Preferences*:
 > Every time I ask you to translate from Tibetan always give to me in Colloquial Style, not literary.

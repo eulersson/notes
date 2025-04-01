@@ -29,6 +29,7 @@ linklist:
 Kids in [[Pema Tsal]] are starting to speak more Tibetan to me since I start to understand more for instance the sentence one of the little monks said which warmed my heart both because of the content and because of the fact of understanding it. In the context of me telling them I would be leaving the monastery after 4 months very soon, he said: *"Well, now you could put the image of us in wallpaper so when you miss us you feel better"*. I forgot the exact Tibetan words now though 😅. But moments like this really encourage me to keep going.
 ### Struggles
 གྱོན་པ་ = to wear,  གྱོང་ = loss
+སྦྱིན་པ (*jinpa*) = generosity, བྱམས་པ (jhampa) = loving-kindness 
 ## 2025-03-30
 སྤྱིན་ཟླ་གསུམ་པའི་ཚེས་པ་<i class="r">ག</i>སུམ་<i class="r">བ</i>ཅུ། ཞོག་གས་ཆུ་ཚོད་བརྒྱད་དང་ཕྱེ་ཀ།
 ### Tasks
@@ -63,7 +64,8 @@ Kids in [[Pema Tsal]] are starting to speak more Tibetan to me since I start to 
 [[Tibetan Module 0 Listening Comprehension 1 Uncaught Words]]
 #### Diary
 How hard is to look up words in a dictionary when sometimes not even the Tibetan speakers know the spelling! So check this [[Tibetan Phonetic Lookup Dictionary]]. I wrote an email to *Monlam AI* team about it!
-
+I am happy because [[Eloi Singla]] says  now I am getting to a level where I start pulling him sometimes! That means that this also stimulates his [[Tibetan]] language learning process! I'm happy to see I'm progressing!
+They told me not to use ཇ་བསྲུབས་མ། for "Tibetan tea" unless it has been produced with the Tibetan tea maker (སྡོང་མོ།).
 ### Learnt
 #### Pronouncing སྐྲོན་, སྒྲོན, གྲོན
 [[Tibetan Pronouncing skron sgron gron]]
@@ -83,9 +85,8 @@ Tibetan's don't use "can" they simply say ང་གོ་མིན་འདུ�
 
 ### Diary
 Within the SLC classes I see I have to slow down my speed on collecting questions and answering them and focus more on the human interactions with Tibetan language. I'm trying to find this middle way...  ང་ལྷོད་ལྷོད་བྱེད་དགོས་ཡོད། དེ་མིན་ང་ཚབ་ཚབ་གི་རེད།
-
 But I'm very happy because I can now publish notes like [[Tibetan Tones]] outside of my vault as in here: https://notes.ramn.dev/Tibetan-Tones.
-
+I am impressed to see that some child monks don't know how to say "jump" in Tibetan (མཆོངས་པ།). Maybe they learn the liturgical classical [[Tibetan]] first?
 ##  2025-03-25
 སྤྱི་ཟླ་གསུམ་པའི་ཉི་ཤུ་རྩ་ལྔ། ཆུ་ཚོད་དགུ་དང་ཕྱེད་ཀ།
 ### Tasks
