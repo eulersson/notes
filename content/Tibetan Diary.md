@@ -24,7 +24,9 @@ linklist:
 
 ## 2025-04-01
 སྤྱིན་ཟླ་བཞི་པའི་ཚེས་པ་གཅིག ཉིན་གུང་ཆུ་ཚོད་གཅིག་དང་ཕྱེད་ཀ།
+### Diary
 ང་ Anki deck གསར་པ་བྱེད་གི་ཡིན། དེ་ངས་གྲྭ་པ་སྐད་ recorded པ་ཡིན། ང་དང་པོ་ཚིག་སྒྲུབ་ [[Tibetan Quarentine]] འབྲི་ཡོད། དེ་ནས་ Anki deck ལ་གཞག་གི་ཡོད།
+Kids in [[Pema Tsal]] are starting to speak more Tibetan to me since I start to understand more for instance the sentence one of the little monks said which warmed my heart both because of the content and because of the fact of understanding it. In the context of me telling them I would be leaving the monastery after 4 months very soon, he said: *"Well, now you could put the image of us in wallpaper so when you miss us you feel better"*. I forgot the exact Tibetan words now though 😅. But moments like this really encourage me to keep going.
 ### Struggles
 གྱོན་པ་ = to wear,  གྱོང་ = loss
 ## 2025-03-30
