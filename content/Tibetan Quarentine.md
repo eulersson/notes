@@ -4,15 +4,10 @@ publish: true
 
 These sentences have been translated with the help of AI (Claude) by making explicit request to do it colloquial.
 
-1. When is it going to be finished?
-	1. ག་དུས་ ཚར་གྱི་རེད། 
-2. Have you already added sugar to my tea?
-	1. ཁྱེད་རང་ངའི་ཇ་ནང་ལ་ཀ་ར་བླུགས་ཚར་པས།
-3. I only ate fish three times.
-	1. ང་ཉ་ཐེངས་གསུམ་མ་གཏོགས་བཟས་མེད།
-4. If we don't have the money we can't do the thing.
-	1. ང་ཚོར་དངུལ་མེད་ན་ལས་ཀ་བྱེད་ཐུབ་གི་མ་རེད།
-		1. But... The monk said something before the subject... Something that I asked and he said it means "if". So it seems there's an explicit word to use to say "if"?
+1. Empty
+	1. Empty
+2. Empty
+	1. Empty
 
 This is the context I introduced under *Settings > Preferences*:
 > Every time I ask you to translate from Tibetan always give to me in Colloquial Style, not literary.
