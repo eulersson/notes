@@ -23,7 +23,28 @@ linklist:
 > - [ ] Practice counting.
 
 > [!INFO] Color Coding
-> <i class="g">correct</i>, <i class="r">incorrect</i>, <i class="p">needs verification</i>
+> <i class="g">correct</i>, <i class="r">incorrect</i>, <i class="p">verify</i>, <i class="b">attention</i>
+
+## 2025-04-03
+སྤྱིན་ཟླ་བཞི་ཚེས་པའི་གསུམ ཆུ་ཚོད་བརྒྱད་པ་<i class="b">ཟིན་པ་ལ་</i>སྐར་མ་<i class="b">བཅོ</i>་ལྔ།
+### Diary
+ག་ལེར་ག་ལེར་ང་ གློང་མོལ་ (dialog) ཚུ་ཧ་གོ་ ཚུགས་ (start) ཀྱི་འདུག བྱས་ཙང་ང་ཡག་པོ་ཆོག་གི་འདུག
+<i class="g">ང་</i>བོད་སྐད་སྦྱང་དུས་<i class="r">ང་</i>དགོ<i class="r">ང</i>ན་པ་ལ་བསྡད་<i class="r">པ་</i><i class="g">ཡག་</i>ལ་དགའ་པོ་ཡོད། གང་ཡིན་ཟེར་ན་ངའི་བོད་སྐད་མགྱོགས་པོ<i class="r">ར</i>་<i class="r">ཤེས་</i><i class="g">ཡར་རྒྱས་</i><i class="g">འགྲོ་</i>གི་<i class="r">ཡོད</i><i class="g">འདུག</i> ཨ་ནི་ཆོས་གྲོགས་གསར་པ་ཐུག་གི་ཡོད།
+
+### Observations
+མཇོད་བདེ་ refers to the adapting of the speech to make it more comfortable, but we don't write that sound, it only shows when speaking, e.g. སྐུ་འདྲ་ is pronounced *kundra* and there is no "n"!
+
+Good for health འཕྲོད་བསྟེན་ལ་ཕན་གྱི་རེད,  bad for health འཕྲོད་བསྟེན་ལ་གནོད་ཀྱི་རེད།
+
+I want to try to use more:
+- In my opinion ངས་བྱས་ན་
+- I think ངའི་བསམ་པ་ལ་
+
+To take ལེན་པ་ to give སྤྲོད་པ་.
+
+སྐྱིད་པོ་ = pleasant
+སྐྱིད་ལོད་ = how much pleasant, asking what dregree of "pleasant"
+སྐྱིད་ཤོད་ = pronounced "kipshö", the best, not favourite, which would be དགའ་ཤོད་
 
 ## 2025-04-02
 སྤྱིན་ཟླ་བཞི་པའི་ཚེས་པ་གཉི<i class="r">ད</i><i class="g">ས</i> དགོང་མོ་ཆུ་ཚོད་དུག་དང་ཕྱེད་ཀ
@@ -75,11 +96,6 @@ Why in "Who is that who is giving food to the dog?!" we use ཀྱི་ and not
 
 ## 2025-03-30
 སྤྱིན་ཟླ་གསུམ་པའི་ཚེས་པ་<i class="r">ག</i>སུམ་<i class="r">བ</i>ཅུ། ཞོག་གས་ཆུ་ཚོད་བརྒྱད་དང་ཕྱེ་ཀ།
-### Tasks
-- [ ] Vocabulary
-- [ ] Listening
-- [ ] Reading
-- [ ] Exercises
 
 ### Writing
 [[Tibetan Diary 2025-03-30]]
