@@ -41,6 +41,6 @@ To encourage them to participate a reward system might be suitable: **1 point if
 This [VR roller coaster](https://apps.apple.com/es/app/roller-coaster-vr-theme-park/id1029391378?l=en-GB) game (you can buy the plastic case for 3-4 dollars and use your phone as screen) or offering the student with most points to go to roller skate, bumper cars or something that's also fun for you, teacher!
 
 # Classes
-- [[ESL Class 1]]
-- [[ESL Class 2]]
-- [[ESL Class 3]]
+- [[English Class 1]]
+- [[English Class 2]]
+- [[English Class 3]]

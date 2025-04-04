@@ -59,6 +59,7 @@ To deploy to to *Cloudflare* follow the guide in [Quartz's documentation](https:
 To create the right API Token for this task go to *User API Tokens > Create API Token*  and select the preset **Edit Cloudflare Workers**.
 
 ## Next Steps
+- Fixing timestamps since all articles show the latest commit date.
 - Seeing how to have better social images.
 - Replacing the quartz logo.
 - Getting a custom theme that reflects my style more.
