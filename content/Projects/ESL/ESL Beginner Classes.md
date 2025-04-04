@@ -36,8 +36,6 @@ Sometimes instead of having to randomly select choices or players (which I strug
 > [!INFO] 
 > Before class if you get time to spend with the students a good ice-breaker to get to know them good is to elaborate and produce those paper figures **Origami Fortune Teller** and **Origami Dice**.
 
-
-
 To encourage them to participate a reward system might be suitable: **1 point if they participate** and **1 extra point if they get the answer right**.
 
 This [VR roller coaster](https://apps.apple.com/es/app/roller-coaster-vr-theme-park/id1029391378?l=en-GB) game (you can buy the plastic case for 3-4 dollars and use your phone as screen) or offering the student with most points to go to roller skate, bumper cars or something that's also fun for you, teacher!

@@ -25,8 +25,13 @@ linklist:
 > [!INFO] Color Coding
 > <i class="g">correct</i>, <i class="r">incorrect</i>, <i class="p">verify</i>, <i class="b">attention</i>
 
+## 2025-04-04
+སྤྱིན་ཟླ་བཞི་ཚེས་པའི་བཞི དགོང་མོ་ཆུ་ཚོད་བདུན་<i class="g">པ་</i>ཏག་ཏག
+### Corrections
+I'm very grateful to Lhakpa Tsering ལགས་ to have added corrections to my [[Tibetan Entrance Presentation#Corrections]].
+
 ## 2025-04-03
-སྤྱིན་ཟླ་བཞི་ཚེས་པའི་གསུམ ཆུ་ཚོད་བརྒྱད་པ་<i class="b">ཟིན་པ་ལ་</i>སྐར་མ་<i class="b">བཅོ</i>་ལྔ།
+སྤྱིན་ཟླ་བཞི་ཚེས་པའི་གསུམ ཞག་གས་ཆུ་ཚོད་བརྒྱད་པ་<i class="b">ཟིན་པ་ལ་</i>སྐར་མ་<i class="b">བཅོ</i>་ལྔ།
 ### Diary
 ག་ལེར་ག་ལེར་ང་ གློང་མོལ་ (dialog) ཚུ་ཧ་གོ་ ཚུགས་ (start) ཀྱི་འདུག བྱས་ཙང་ང་ཡག་པོ་ཆོག་གི་འདུག
 <i class="g">ང་</i>བོད་སྐད་སྦྱང་དུས་<i class="r">ང་</i>དགོ<i class="r">ང</i>ན་པ་ལ་བསྡད་<i class="r">པ་</i><i class="g">ཡག་</i>ལ་དགའ་པོ་ཡོད། གང་ཡིན་ཟེར་ན་ངའི་བོད་སྐད་མགྱོགས་པོ<i class="r">ར</i>་<i class="r">ཤེས་</i><i class="g">ཡར་རྒྱས་</i><i class="g">འགྲོ་</i>གི་<i class="r">ཡོད</i><i class="g">འདུག</i> ཨ་ནི་ཆོས་གྲོགས་གསར་པ་ཐུག་གི་ཡོད།
@@ -67,6 +72,7 @@ To take ལེན་པ་ to give སྤྲོད་པ་.
 	- <i class="g">གལ་སྲིད་</i>དངུལ་མེད་ན་ལས་ཀ་བྱེད་ཐུབ་ཀྱི་མ་རེད།
 ### Diary
 དེ་རིང་གྲྭ་པ་ལ་བོད་སྐད་སྐད་ཆ་མང་པོ་བཤད་པ་ཡིན་གང་ཡིན་ཟེར་ན་ཁོང་རྣམ་པ་ཚོ་དབྱིན་སྐད་ཏོག་ཙམ་མ་གཏོགས་ཤེས་དུག བྱས་ཙང་ངའ་དབྱིང་སྐད་ཡག་པོ་ཐུབ་གི་མི་འདུག བོད་སྐད་སྦྱང་པའི་ཆེད་དུ་དེ་བདེ་པོ་འདུག ང་དབྱིང་སྐད་སློབ་ནས་ཚབ་ཚབ་འདུག ང་ཕྲུ་གུ་ཆུང་ཆུང་ལ་སློབ་མ་མྱོང། ཡིན་ནའི་དེ་སྐྱི་པོ་ཆག་གི་རེད།
+
 ## 2025-04-01
 སྤྱིན་ཟླ་བཞི་པའི་ཚེས་པ་གཅིག ཉིན་གུང་ཆུ་ཚོད་གཅིག་དང་ཕྱེད་ཀ།
 ### Diary
@@ -80,7 +86,6 @@ Kids in [[Pema Tsal]] are starting to speak more Tibetan to me since I start to 
 ཁྱེད་རང་གིས་མཐོང་ཐུབ་གི་འདུག་གས = Can you see 
 ང་སླེབ་ཡོད། = I'm back
 འདི་འགྲིག་འདུག་གས། = Like this? (lit. Is this correct)
-
 
 ### Observations
 <i class="p">It seems སྔོན་མར་ is used when a time unit is before like ལོ་སྔོན་མར་ and སྔོན་མ་ alone when it stands alone meaning "in the past".</i>
