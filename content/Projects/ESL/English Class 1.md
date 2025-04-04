@@ -36,7 +36,7 @@ Write the alphabet regular and capitals and have them sing it.
 ### Activity: L for Learning! (5 min)
 Balloon with letters A-Z: make a balloon and write all letters of the alphabet and toss it along.
 
-When the student gets it then checks the letter closest to the right thumb and then says "L for `___`" saying a word that starts with `L`. If they can't find one in English, they can use their own language.
+When the student gets it then checks the letter closest to the right thumb and then says "L for \_\_\_" saying a word that starts with `L`. If they can't find one in English, they can use their own language.
 
 ### Activity: Spelling Your Name (5 min)
 Select student to spell the name loud and teacher writes it to whiteboard. Teacher can make mistakes to catch up attention of students.
@@ -65,10 +65,10 @@ Sentences to learn:
 ---
 ## 4. Introducing Themselves (20 min)
 Write the following sentences and have them copy (10 min)
-	- (1) What is your name? - My name is `___`.
+	- (1) What is your name? - My name is \_\_\_.
 	- (2) What are you? - I am a student.
-	- (3) How old are you? -  I am `___` years old.
-	- (4) Where are you from? - I am from `___`.
-	- (5) What languages do you speak? - I speak `___` and `___`.
+	- (3) How old are you? -  I am \_\_\_ years old.
+	- (4) Where are you from? - I am from \_\_\_.
+	- (5) What languages do you speak? - I speak \_\_\_ and \_\_\_.
 
 Now roll the dice one by one from first to the last student, and based on number they have to ask the question to the next person. 
