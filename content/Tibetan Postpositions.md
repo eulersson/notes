@@ -1,0 +1,33 @@
+---
+publish: true
+tags:
+- tibetan
+linklist:
+- "[[Tibetan]]"
+---
+
+ཉེ་ཁོར་ (surroundings) གྱི་ཚཨིག (words)
+
+noun + འབྲེལ་སྒྲ་ + postposition + ལ།
+མཆོད་རྟེན་<i class="b">གྱི་</i><i class="p">མདུན་</i><i class="b">ལ་</i> དྲིལ་བུ་ (bell) ཆེན་པོ་གཅིག་ཡོད་རེད
+In front of the stupa, there's a big bell.
+
+| Postposition | Meaning          |
+| ------------ | ---------------- |
+| ནང་ལ་        | inside of        |
+| མདུན་ལ་      | in front of      |
+| རྒུབ་ལོགས་ལ་ | behind           |
+| སྒང་ལ་       | above            |
+| དཀྱིལ་ལ་     | in the middle of |
+| འོག་ལ་       | under            |
+| འགྲམ་ལ་      | next to          |
+| གཡས་གཡོན་ལ་  | around           |
+| ཕྱི་ལོགས་ལ་  | outside          |
+| བར་ལ་        | between          |
+| འཁྲིལ་ལ་     | near             |
+
+### Question
+How does the following order create a different meaning?
+
+<i class="p">མདུན་</i><i class="b">གྱི་</i>མཆོད་རྟེན<i class="b">་ལ་</i> དྲིལ་བུ་ (bell) ཆེན་པོ་གཅིག་ཡོད་རེད
+There is a big bell in front of the stupa.

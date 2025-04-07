@@ -6,14 +6,16 @@ tags:
 ---
 
 ## Learning Goals
-- (Refresh) Alphabet A-Z and numbers 1-30.
-- Greet and introduce themselves.
-- Say their name, age, and where they’re from.
+- Alphabet A-Z.
+- Numbers 1-20.
+- Shapes.
+- How many \_\_\_?
 
 ## Material
 - Bag with 20 words to be dictated.
 - Balloon with letters A-Z.
-- Dice with numbers 1-6.
+- Balloon with shapes △ / ○ / □.
+
 ## 1. Introducing Myself (5 min)
 - Write **date** on board.
 - Write my **\[teacher\] name** on board.
@@ -24,19 +26,27 @@ tags:
 	- I am **from** Spain.
 	- I speak Spanish and English.
 
+Ask to **write their name on a paper**, fold it in half and leave it standing on the table.
+
+> [!NOTE] Remembering Names
+> I will pass recording a video of the student holding the name for me to try to make flashcards and learn their names... When working on a foreign country it can be tricky to memorize phonetically.
+
 ### Explain: Point & Rewards
 > [!NOTE] Points
-> Now explain that **points will be recorded**. **Participating** is **1 point**. Getting **good answer** is **1 point**. At the end of the class who's got most points gets to ride on the VR roller coaster. At the end of the month the 2 monks with most points go roller skating in Kathmandu or to fun park.
+> Now explain that **points will be recorded**. **Participating** is **1 point**. Getting **good answer** is **1 point**. At the end of the class who's got most points gets to play a computer video game, VR ride, or whatever other treat. At the end of the month the 2 monks with most points go roller skating in Kathmandu or to fun park.
+
+## 2. Magic English (10 min)
+DVD 1 0:00 - 6:40
 
 ---
-## 2. Alphabet (20 min)
+## 3. Alphabet (25 min)
 ### Refresh: Alphabet (5min)
-Write the alphabet regular and capitals and have them sing it.
+Write the alphabet lowercase and capital letters and have them sing it.
 
 ### Activity: L for Learning! (5 min)
 Balloon with letters A-Z: make a balloon and write all letters of the alphabet and toss it along.
 
-When the student gets it then checks the letter closest to the right thumb and then says "L for \_\_\_" saying a word that starts with `L`. If they can't find one in English, they can use their own language.
+When the student gets it then checks the letter closest to the right thumb and then says "L for \_\_\_" saying a word that starts with "L". If they can't find one in English, they can use their own language.
 
 ### Activity: Spelling Your Name (5 min)
 Select student to spell the name loud and teacher writes it to whiteboard. Teacher can make mistakes to catch up attention of students.
@@ -45,14 +55,24 @@ Select student to spell the name loud and teacher writes it to whiteboard. Teach
 Select students. The selected student receives a word from the teacher by picking one word from the bag with words written in paper snippets. Then the goal is that the student **spells** it loud and the rest of students **write it down**.
 
 ---
-## 3. Numbers (15 min)
+## 4. Numbers (15 min)
 ### Refresh: Count Up & Down (5min)
 Write the number and have the class count up and down. 
 
 ### Activity: How many? (10 min)
+Write in the board the words:
+- triangle △ triangles △△△
+- circle ○ circles ○○○
+- square □ squares □□□
+
+And also the sentence:
+- How many \_\_\_ are there?
+- There are \_\_\_ △/○/□
+
 Write on the white board a few number of mixed shapes (triangle, circle and square).
 
 The balloon now has 3 sections, one with a triangle, the other with a circle and the other with a square. Toss the balloon and the student that catches it, checks where the right thumb is and has to ask the question and throw the balloon around again, who catches has to answer the previous question and ask the new question.
+
 In between balloon passes the teacher updates the whiteboard with more or less shapes!
 
 Sentences to learn:
@@ -62,13 +82,10 @@ Sentences to learn:
 > [!CAUTION] Answers
 > They must reply properly: ❌ ~~3~~  ✅ **There are 3 circles**.
 
----
-## 4. Introducing Themselves (20 min)
-Write the following sentences and have them copy (10 min)
-	- (1) What is your name? - My name is \_\_\_.
-	- (2) What are you? - I am a student.
-	- (3) How old are you? -  I am \_\_\_ years old.
-	- (4) Where are you from? - I am from \_\_\_.
-	- (5) What languages do you speak? - I speak \_\_\_ and \_\_\_.
+### Gameplay (5min)
+Students with most points get to play video-game.
 
-Now roll the dice one by one from first to the last student, and based on number they have to ask the question to the next person. 
+## Reflection
+- The small kids need much help with physical things like tearing the paper, writing the name and folding it. So allocate enough time based on number and age.
+- The balloon game worked, but sometimes it's hard to randomly throw it around, I needed to remember what areas I covered so I don't reuse too much the same.
+- When prompting the students, you sometimes say for instance "How many", and then you prompt them to say the animal that is to be counted "what here?" and they repeat "what here?" literally instead of saying the name of the animal to count. This happened many times.

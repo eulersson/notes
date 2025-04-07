@@ -5,109 +5,89 @@ tags:
 - teaching
 ---
 
-> [!CAUTION] WIP
-> This is a work in progress!
-
 ## Learning Goals
-- Expressing their state, how are you.
-- Colours and shapes.
-- Likes and preferences: "Like", "don't like", "favourite".
-	- Ask and answer: "Do you like `__` colour?", "I like / don't like blue, but I like yellow" "What's your favourite `__`". 
-	- Asking what things are:
-		- "What's this (ø | shape | colour)": "This is a red circle", "This is a circle", "This is red".
-		
-## 5. How Are You (10 min)
+- Introducing themselves: name, role, age, where they’re from and languages they speak.
+- How Are You?
+- Feelings / Emotions.
+- "Like", "don't like", "very", "favourite", and "but".
+
+## Material
+- Balloon with 8 numbers.
+- 6-sided dice.
+- Cardboard disk or coin or something with 2 sides.
+- Memo game cards with emotion names (8).
+
+
+> [!WARNING] Names
+> Remember them to show their folded paper with the name sitting on the top of their table.
+
+## 1. Introducing Themselves (20 min)
+### Explain (10 min)
+Write the following sentences and have them copy.
+	- (1) What is your name? - My name is \_\_\_.
+	- (2) What do you do? - I am studying.
+	- (3) How old are you? -  I am \_\_\_ years old.
+	- (4) Where are you from? - I am from \_\_\_.
+	- (5) What languages do you speak? - I speak \_\_\_ and \_\_\_. I don't speak \_\_\_.
+
+### Activity (10min)
+Now roll the dice one by one from first to the last student, and based on number they have to ask the question to the next person. 
+
+## 2. How Are You (15 min)
+### Explain (5min)
 Write on the board and have them copy:
-- How are you
-	- (1) I'm good, thanks, and you?
-	- (2) I'm fine, thanks, and you?
-	- (3) I'm OK, thanks, and you?
-	- (4) I'm alright, thanks, and you?
-- How are you doing?
-	- (5) I'm doing well.
-	- (6) I'm doing alright.
+- How are you / How are you doing?
+	- (1) I'm (<i class="r">not</i>) <i class="g">good</i>, thanks, and you?
+	- (2) I'm (<i class="r">not</i>) <i class="g">fine</i>, thanks, and you?
+	- (3) I'm (<i class="r">not</i>) <i class="g">OK</i>, thanks, and you?
+	- (4) I'm (<i class="r">not</i>) <i class="g">alright</i>, thanks, and you?
+	- (5) I'm (<i class="r">not</i>) doing <i class="g">well</i>.
+	- (6) I'm (<i class="r">not</i>) doing <i class="g">alright</i>.
 
-Roll dice.
+### Activity: State (10min)
+Students will receive dice and flipping cardboard. With those combinations they will select one sentence and whether they have to negate or not. Then the teacher throws balloon to the person who has to say the answer.
 
-	
-## 2. **Grammar & Sentence Practice** (10 min)
-**Board Activity:**
-- Write scrambled sentence parts on the board. Example:
-	1. name / my / is / Lhamo
-	2. years / am / I / old / ten
-	3. from / am / I / Nepal
-	4. pizza / like / I
-	5. you / how / are
-	6. football / you / do / like
-	7. is / your / what / name
-	8. dog / I / don’t / like
-	9. do / music / like / you
-	10. happy / I / am
-	11. from / India / am / I
-	12. old / am / years / twelve / I
-	13. dancing / like / I
-	14. is / my / name / Tenzin
-	15. I / fine / am
-	16. cat / I / like
-	17. name / what / your / is
-	18. you / where / from / are
-	19. do / ice cream / like / you
-	20. don’t / basketball / I / like
-	21. like / I / milk
-	22. am / I / okay
-	23. you / do / rice / like
-	24. I / am / from / Tibet
-	25. drawing / I / like
+## 3. Feelings (15min)
+### Explain (5min)
+(1) happy, (2) sad, (3) bored, (4) angry, (5) tired, (6) nervous, (7) relaxed, (8) sick.
 
----
-## 3. **Listening Activity (Video + Comprehension)** (10 min)
-10 minute Magic English.
+> [!NOTE] Acting
+> Make gestures or mimicking to act those emotions.
 
----
-## 4.  **Memo Game – Likes & Dislikes** (15 min)
-**Vocabulary to Use (Drawings + Words):**
-1. happy
-2.  sad
-3.  bored
-4.  tired
-5. momos
-6. ice cream
-7. rice
-8. milk
-9. football
-10. cat
-11. dog
-12. music
-13. dancing
+### Activity: Emotions Board Memo (10min)
+Memo game on the whiteboard covering the emojis and the emotion names.
 
 **Setup:**
-- On the **whiteboard**, draw 10 simple images.
-- On another part of the whiteboard, write the 10 matching words.
-- Cover all images and words with numbered papers (1–20, shuffled).
+	- On the **whiteboard**
+		- Draw those emotions, and also their names.
+		- Write "How are you?", "How do you feel?"
+		- Write "Are you \_\_\_?", “Do you feel \_\_\?” 
+- Cover all images and words with numbered papers (1–16, shuffled).
 
 **How to Play:**
-- Students call out 2 numbers (e.g., “3 and 17”).
+- Students call out 2 numbers (e.g., “3 and 12”), in English!
 - Uncover both—if it’s a match, they earn 1 point.
-- Ask: “Do you like `__`?” or "Are you `___`?" 
+- Ask what is the name in Nepali.
+- Ask: "Are you \_\_\_?", “Do you feel \_\_\?” as you point to whiteboard.
 - Student replies: “Yes, I do” or “No, I don’t.”
-- Bonus: Let the student ask the same question to another student.
 
----
+### Activity: Emotions Balloon (10min)
+Balloon-select the participants. Then select another student to ask the question "How do you feel?" and the balloon-selected person replies:
+- I feel tired (5) and **must act it**.
 
-###5.  **Balloon Speaking Game – Introduce Yourself!** (12 min)
+### 4. Liking and Disliking (15min)
+### Explain (5min)
+How to say I like or I don't like:
+(1) cats, (2) dogs, (3) monkeys, (4) pizza, (5) football, (6) spider game, (7) momos, (8) bananas.
+- Do you like \_\_\_
+	- Yes, I do
+	- Yes, I do like \_\_\_
+	- No, I don't
+	- No, I don't like \_\_\_
+	- ... but I like \_\_\_
 
-I write numbers 1-13 to the balloon and toss it to a student. Then he has to say "Do you like `___`" where the word is the mapping of that number at the whiteboard, and throw it up. The one that catches it or that it falls closest to has to answer.
+### Activity: Student Preferences (10min)
+I write numbers 1-8 to the balloon and toss it to a student. Then he has to say "Do you like \_\_\_?" where the word is the mapping of that number at the whiteboard, and throw it up. The one that catches it or that it falls closest to has to answer.
 
----
-
-### 6.  **Wrap-Up & Group Repeat** (3 min)
-
-- On the blackboard, write a final sentence with blanks:
-    
-    - “My name is Ramon. I’m 29 years old. I’m from Spain. I like momos. I don't like dancing”.
-        
-- Say it together as a group.
-- Clap and high-five everyone!
-- End with: “Goodbye! See you!”
-
----
+### Gameplay (5min)
+Students with most points get to play videogame.
