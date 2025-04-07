@@ -60,6 +60,8 @@ To create the right API Token for this task go to *User API Tokens > Create API 
 
 ## Next Steps
 - Fixing timestamps since all articles show the latest commit date.
+- General graph view on Home page would be great.
+- Add message to console when publishing finished.
 - Seeing how to have better social images.
 - Replacing the quartz logo.
 - Getting a custom theme that reflects my style more.

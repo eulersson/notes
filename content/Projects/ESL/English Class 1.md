@@ -5,11 +5,14 @@ tags:
 - teaching
 ---
 
+<< ø | [[English Class 2]] >>
+
 ## Learning Goals
 - Alphabet A-Z.
 - Numbers 1-20.
 - Shapes.
 - How many \_\_\_?
+- There is / There are.
 
 ## Material
 - Bag with 20 words to be dictated.
@@ -35,11 +38,7 @@ Ask to **write their name on a paper**, fold it in half and leave it standing on
 > [!NOTE] Points
 > Now explain that **points will be recorded**. **Participating** is **1 point**. Getting **good answer** is **1 point**. At the end of the class who's got most points gets to play a computer video game, VR ride, or whatever other treat. At the end of the month the 2 monks with most points go roller skating in Kathmandu or to fun park.
 
-## 2. Magic English (10 min)
-DVD 1 0:00 - 6:40
-
----
-## 3. Alphabet (25 min)
+## 2. Alphabet (25 min)
 ### Refresh: Alphabet (5min)
 Write the alphabet lowercase and capital letters and have them sing it.
 
@@ -55,11 +54,12 @@ Select student to spell the name loud and teacher writes it to whiteboard. Teach
 Select students. The selected student receives a word from the teacher by picking one word from the bag with words written in paper snippets. Then the goal is that the student **spells** it loud and the rest of students **write it down**.
 
 ---
-## 4. Numbers (15 min)
+## 3. Numbers (15 min)
 ### Refresh: Count Up & Down (5min)
 Write the number and have the class count up and down. 
 
-### Activity: How many? (10 min)
+### Activity: How many? (10 min)^8fda69
+
 Write in the board the words:
 - triangle △ triangles △△△
 - circle ○ circles ○○○
@@ -68,6 +68,9 @@ Write in the board the words:
 And also the sentence:
 - How many \_\_\_ are there?
 - There are \_\_\_ △/○/□
+
+> [!TODO] Anki Deck
+> Create flashcards for those learn words into an Anki Deck, e.g. a picture with many shapes asking "How many circles are there?" and the response has to be typed: "There are 10 circles.", etc...
 
 Write on the white board a few number of mixed shapes (triangle, circle and square).
 
@@ -82,10 +85,11 @@ Sentences to learn:
 > [!CAUTION] Answers
 > They must reply properly: ❌ ~~3~~  ✅ **There are 3 circles**.
 
-### Gameplay (5min)
-Students with most points get to play video-game.
+---
 
-## Reflection
-- The small kids need much help with physical things like tearing the paper, writing the name and folding it. So allocate enough time based on number and age.
-- The balloon game worked, but sometimes it's hard to randomly throw it around, I needed to remember what areas I covered so I don't reuse too much the same.
-- When prompting the students, you sometimes say for instance "How many", and then you prompt them to say the animal that is to be counted "what here?" and they repeat "what here?" literally instead of saying the name of the animal to count. This happened many times.
+## 4. Magic English (10 min)
+
+---
+
+## 5. Gameplay (15 min)
+Students with most points get to play video-game.
