@@ -5,89 +5,88 @@ tags:
 - teaching
 ---
 
+<< [[English Class 1]] | [[English Class 3]] >>
+
 ## Learning Goals
-- Introducing themselves: name, role, age, where they’re from and languages they speak.
-- How Are You?
-- Feelings / Emotions.
-- "Like", "don't like", "very", "favourite", and "but".
+- Transforming capital and small letters.
+- Identifying words.
+- (reinforce) How many \_\_\_?
+- (reinforce) There is / There are
+- Word "only".
+- Word "Where".
+
+---
 
 ## Material
-- Balloon with 8 numbers.
-- 6-sided dice.
-- Cardboard disk or coin or something with 2 sides.
-- Memo game cards with emotion names (8).
-
+- Balloon
+- 2 portable whiteboards
+- Candy (for the [[#4. Imperative and Continuous (20 min)]])
 
 > [!WARNING] Names
 > Remember them to show their folded paper with the name sitting on the top of their table.
 
-## 1. Introducing Themselves (20 min)
-### Explain (10 min)
-Write the following sentences and have them copy.
-	- (1) What is your name? - My name is \_\_\_.
-	- (2) What do you do? - I am studying.
-	- (3) How old are you? -  I am \_\_\_ years old.
-	- (4) Where are you from? - I am from \_\_\_.
-	- (5) What languages do you speak? - I speak \_\_\_ and \_\_\_. I don't speak \_\_\_.
+---
 
-### Activity (10min)
-Now roll the dice one by one from first to the last student, and based on number they have to ask the question to the next person. 
+## 1. Refresh: Alphabet + Numbers (10 min)
+Make a big circle with students standing up and holding hands. Then each student places the hand on top of the other, and they have to clap their way through the alphabet, that is, I clap the person next to me on the left after saying the letter. And then numbers from 30 to 0.
 
-## 2. How Are You (15 min)
-### Explain (5min)
-Write on the board and have them copy:
-- How are you / How are you doing?
-	- (1) I'm (<i class="r">not</i>) <i class="g">good</i>, thanks, and you?
-	- (2) I'm (<i class="r">not</i>) <i class="g">fine</i>, thanks, and you?
-	- (3) I'm (<i class="r">not</i>) <i class="g">OK</i>, thanks, and you?
-	- (4) I'm (<i class="r">not</i>) <i class="g">alright</i>, thanks, and you?
-	- (5) I'm (<i class="r">not</i>) doing <i class="g">well</i>.
-	- (6) I'm (<i class="r">not</i>) doing <i class="g">alright</i>.
+---
 
-### Activity: State (10min)
-Students will receive dice and flipping cardboard. With those combinations they will select one sentence and whether they have to negate or not. Then the teacher throws balloon to the person who has to say the answer.
+## 2. Capital Letters & Small Letters Make Words (20 min)
+*[[Headway English Grammar and Composition 1|Grammar and Composition]] page 8, 9, 10.*
 
-## 3. Feelings (15min)
-### Explain (5min)
-(1) happy, (2) sad, (3) bored, (4) angry, (5) tired, (6) nervous, (7) relaxed, (8) sick.
+Explain letters combined make words, not not all group of letters are words. A word must have a meaning.
 
-> [!NOTE] Acting
-> Make gestures or mimicking to act those emotions.
+### Activity: Changing from Capital to Small Letter (5 min)
+Teacher holds one of the portable boards, and a student is selected, and receives the other portable board. The teacher writes a word in CAPITALS and all the students write it in small letters, or vice-versa. Then I get the student board and I check with the rest of the class if it's correct or not.
 
-### Activity: Emotions Board Memo (10min)
-Memo game on the whiteboard covering the emojis and the emotion names.
+### Activity: Is This a Word? (5 min)
+Write in the portable whiteboard one word and ask if they think it's a word or not. Do the same with gibberish words. Let them pass the balloon to select upcoming players.
 
-**Setup:**
-	- On the **whiteboard**
-		- Draw those emotions, and also their names.
-		- Write "How are you?", "How do you feel?"
-		- Write "Are you \_\_\_?", “Do you feel \_\_\?” 
-- Cover all images and words with numbered papers (1–16, shuffled).
+### Work: Changing from Capital to Small Letter (2.5 min)
+*[[Headway English Grammar and Composition 1|Grammar and Composition]] page 10, exercise I, II.*
 
-**How to Play:**
-- Students call out 2 numbers (e.g., “3 and 12”), in English!
-- Uncover both—if it’s a match, they earn 1 point.
-- Ask what is the name in Nepali.
-- Ask: "Are you \_\_\_?", “Do you feel \_\_\?” as you point to whiteboard.
-- Student replies: “Yes, I do” or “No, I don’t.”
+### Work: Write Name in Capitals and Small Letters (2.5 min)
+*[[Headway English Grammar and Composition 1|Grammar and Composition]] page 10, exercise IV.*
 
-### Activity: Emotions Balloon (10min)
-Balloon-select the participants. Then select another student to ask the question "How do you feel?" and the balloon-selected person replies:
-- I feel tired (5) and **must act it**.
+### Work: Circling Meaningless Words (5 min)
+*[[Headway English Grammar and Composition 1|Grammar and Composition]] page 10, exercise IV.*
 
-### 4. Liking and Disliking (15min)
-### Explain (5min)
-How to say I like or I don't like:
-(1) cats, (2) dogs, (3) monkeys, (4) pizza, (5) football, (6) spider game, (7) momos, (8) bananas.
-- Do you like \_\_\_
-	- Yes, I do
-	- Yes, I do like \_\_\_
-	- No, I don't
-	- No, I don't like \_\_\_
-	- ... but I like \_\_\_
+---
 
-### Activity: Student Preferences (10min)
-I write numbers 1-8 to the balloon and toss it to a student. Then he has to say "Do you like \_\_\_?" where the word is the mapping of that number at the whiteboard, and throw it up. The one that catches it or that it falls closest to has to answer.
+## 3.  Vocabulary: Lion King (30 min)
 
-### Gameplay (5min)
-Students with most points get to play videogame.
+Play *I Just Can't Wait to be King* of the traditional animation.
+
+> [!TODO] 
+> Find video link.
+
+First play the entire video to not disrupt the flow of the animation.
+
+> [!NOTE] On Whiteboard
+> How many \_\_\_ are there?
+> There is \_\_\_ \_\_\_.
+> There are \_\_\_ \_\_\_.
+
+During the second play of the video pause and also ask "What is this animal?", and they reply "This is a monkey.". Also ask "Is it an elephant?", and they must answer "No, it's not an elephant", etc. And also reinforce the counting "How many birds are there?", "There are 4 birds".
+
+The name of the animals will be collected and studied: ^f40775
+- elephant
+- ostrich
+- giraffe
+- gorilla
+- rhino
+- zebra
+- hippo
+- leopard
+- monkey
+
+> [!TODO] Anki Deck
+> Create flashcards for those learn words into an Anki Deck, the app for making your own flash cards (text-to-text, image-to-text, or whatever! You design them with HTML, so complete freedom).
+
+At the end: Two volunteers, one has to formulate sentence "How many rhinos are there?" and the other needs to answer, "There is one rhino". Time to introduce the **only** word. "There is ==only== one rhino". They get ==point==!
+
+Now work on the ==translation== of the words collected from the video into their native language (ideally would be nice to draw the concept, but we can't afford so much time). Tell them you will ask them with images tomorrow, so they need to study. Ask volunteers to draw on the whiteboard (4 and 4). They get ==point==.
+
+## Gameplay (15 min)
+Students with most points get to play video-game.

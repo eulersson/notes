@@ -19,6 +19,11 @@ Material:
 - White board and marker.
 - Sticky tape and cardboard.
 
+Digital Resources:
+- Anki Deck (Flashcard App)
+	- Anki allows creating one own's deck with any word, so the ones we accumulate in these lessons I'm dumping them into a public deck.
+	- With a projector it's fun because then a student comes in and types the name of the image that shows on he flashcard and it shows the letters you failed.
+
 ## Selection Methods and Reward System
 Sometimes instead of having to randomly select choices or players (which I struggle with) it's better to have some physical activity such as the ones listed below.
 
@@ -48,3 +53,9 @@ Another option is to find a quick party game for laptop that can be played with 
 - [[English Class 1]]
 - [[English Class 2]]
 - [[English Class 3]]
+- [[English Class 4]]
+
+## General Reflection
+- The small kids need much help with physical things like tearing the paper, writing the name and folding it. So allocate enough time based on number and age.
+- The balloon game worked, but sometimes it's hard to randomly throw it around, I needed to remember what areas I covered so I don't reuse too much the same.
+- When prompting the students, you sometimes say for instance "How many", and then you prompt them to say the animal that is to be counted "what here?" and they repeat "what here?" literally instead of saying the name of the animal to count. This happened many times.
