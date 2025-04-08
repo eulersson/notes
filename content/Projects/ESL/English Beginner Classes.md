@@ -6,7 +6,7 @@ tags:
 ---
 ## Resources
 Books:
-- [[Cheap Materials and Engaging Activities for Teaching English as a Foreign Language.pdf|ESL Games]]
+- [[ESL Games]]
 - (Nepal) Grade 1 Headway English: Grammar and Composition
 - (Nepal) Grade 1 Headway English: Activity Book
 
