@@ -10,6 +10,52 @@ tags:
 > [!DANGER]
 > Work in progress.
 
+## Learning Goals
+- Introducing themselves: name, role, age, from, languages.
+- How are you?
+- "Like", "don't like", "very", "favourite", and "but".
+
+## Material
+- 6-sided dice.
+- Cardboard disk or coin or something with 2 sides.
+
+
+## Refresh
+- Anki
+	- Animals
+	- Emotions
+
+
+## 3. How Are You (15 min)
+### Explain (5 min)
+Write on the board and have them copy:
+- How are you / How are you doing?
+	- (1) I'm (<i class="r">not</i>) <i class="g">good</i>, thank you, and you?
+	- (2) I'm (<i class="r">not</i>) <i class="g">fine</i>, thank you, and you?
+	- (3) I'm (<i class="r">not</i>) <i class="g">OK</i>, thank you, and you?
+	- (4) I'm (<i class="r">not</i>) <i class="g">alright</i>, thank you, and you?
+	- (5) I'm (<i class="r">not</i>) doing <i class="g">well</i>.
+	- (6) I'm (<i class="r">not</i>) doing <i class="g">alright</i>.
+
+### Activity (10 min)
+Students will receive dice and flipping cardboard. With those combinations they will select one sentence and whether they have to negate or not. Then the teacher throws balloon to the person who has to say the answer.
+
+## 4. Imperative and Continuous (20 min)
+Actions or verbs:
+- read / reading
+- stand / standing
+- chase / chasing
+- eat / eating
+- jump / jumping
+- sit / sitting
+
+Have them copy those words and write translations.
+
+Ask students to read / stand (on the floor) / chase (me) / eat (candy) / jump / sit. And when the action is going say "he is reading, standing, chasing me, eating candy".
+
+### Activity (10 min)
+*[[Headway English Activity Book 1|Activity Book]] page 8.*
+
 ## 1. Refresh: Learnt Words
 Now Anki has:
 - Animals.
