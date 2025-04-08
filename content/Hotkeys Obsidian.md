@@ -1,7 +1,8 @@
 ---
 publish: true
+tags:
+- hotkeys
 ---
-
 
 | Hotkey    | Action                                |
 | --------- | ------------------------------------- |

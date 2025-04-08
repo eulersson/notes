@@ -68,3 +68,4 @@ To create the right API Token for this task go to *User API Tokens > Create API 
 - Write README on the **obsidian-github-exporter** after the quarentine has finished.
 - Write a post about my workflow.
 - Cancel previous running actions if you dispatch the publish action before the current hasn't finished.
+- Make the graph text bigger.

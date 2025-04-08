@@ -26,6 +26,7 @@ linklist:
 > <i class="g">correct</i>, <i class="r">incorrect</i>, <i class="p">verify</i>, <i class="b">attention</i>
 
 ### 2025-04-08
+སྤྱི་ཟླ་བཞི་པའི་ཚེས་པའི་བརྒྱད ཉིང་ཁུང་ཆུ་ཚོད་ལྔ་པ་ཡོལ་ནས་སྐར་མ་བརྒྱད།
 
 ### Observations
 སྨོན་ལམ་ཚོགས་པ་ = to meet for prayer
