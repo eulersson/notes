@@ -18,14 +18,14 @@ The <i class="g">modifiers</i> go between the <i class="p">word</i> and the <i c
 
 In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་པ་<i class="r">མ་</i>རྒྱག་པ་
 
-<i class="y">\+ བྱེད་པ་</i> (honorific: གནང་བ།):
+<i class="y">○ + བྱེད་པ་</i> (honorific: གནང་བ།):
 - ལྷོད་ལྷོད (to relax)
 - རང་སྦྱོང་ (to do homework)
 - དད་པ་ (to have faith)
 - ཡིད་ཆེས་ (to believe in)
 - འགྲུལ་བཞུད་ (to travel)
 
-<i class="y">\+ བརྒྱབས་པ་</i> (རྒག་པ་[^1]) (honorific: སྐྱོན་པ་): 
+<i class="y">◯ + བརྒྱབས་པ་</i> (རྒག་པ་[^1]) (honorific: སྐྱོན་པ་): 
 - ངལ་གསོ་ (to take rest)
 - འཁྲུག་པ་ (to fight)
 - སྨོན་ལམ་ (make prayers)
@@ -37,13 +37,13 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 	- ཟུག་ (to hurt, ache)
 	- ཆམ་ (to have a cold)
 
-<i class="y">\◌ + བཟོ་པ་</i>:
+<i class="y">◌ + བཟོ་པ་</i>:
 - ཁ་ལག་ (to cook)
 - རྙོག་དྲ་ (to cause problems)
 - སུན་པོ་ (to give a hard time)
 - རོགས་པ་གསར་པ་ (to make new friends)
 
-<i class="y">\ ◌ + བཏང་བ་</i> (གཏོང་[^1]):
+<i class="y">◌ + བཏང་བ་</i> (གཏོང་[^1]):
 - སྐྱིད་པོ་ (to enjoy oneself, volitional)
 - འགུལ་བསྐྱོད་ (to move)
 - ཡིག་ཚད་ (to take exam)
@@ -56,7 +56,7 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - སྐད་ (to invite)
 - གཅིན་པ་ (to pee)
 
-<i class="y">\ ◌ + ཤོར་</i>, builds **non-volitional** verbs:
+<i class="y">◌ + ཤོར་</i>, builds **non-volitional** verbs:
 - སེམས་པ་ (to fall in love)
 - ནོར་འཁྲུལ་ (to make mistakes)
 - གད་མོ་ཤོར་ (to laugh)
