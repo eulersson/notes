@@ -34,3 +34,7 @@ tags:
 | ⌘ E          | Toggle edit / preview mode                    |
 | ⌘ File Hover | Preview text                                  |
 | ⌥ P          | Toggle Tibetan accessibility view             |
+
+| Hotkey        | Action                                             |
+| ------------- | -------------------------------------------------- |
+| ⌃ ⌥ r/g/b/p/y | Color selection red / green / blue / pink / yellow |

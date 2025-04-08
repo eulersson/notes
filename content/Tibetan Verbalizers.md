@@ -18,14 +18,14 @@ The <i class="g">modifiers</i> go between the <i class="p">word</i> and the <i c
 
 In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་པ་<i class="r">མ་</i>རྒྱག་པ་
 
-\+ བྱེད་པ་ (honorific: གནང་བ།):
+<i class="y">\+ བྱེད་པ་</i> (honorific: གནང་བ།):
 - ལྷོད་ལྷོད (to relax)
 - རང་སྦྱོང་ (to do homework)
 - དད་པ་ (to have faith)
 - ཡིད་ཆེས་ (to believe in)
 - འགྲུལ་བཞུད་ (to travel)
 
-==+ བརྒྱབས་པ་== (རྒག་པ་[^1]) (honorific: སྐྱོན་པ་): 
+<i class="y">\+ བརྒྱབས་པ་</i> (རྒག་པ་[^1]) (honorific: སྐྱོན་པ་): 
 - ངལ་གསོ་ (to take rest)
 - འཁྲུག་པ་ (to fight)
 - སྨོན་ལམ་ (make prayers)
@@ -37,13 +37,13 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 	- ཟུག་ (to hurt, ache)
 	- ཆམ་ (to have a cold)
 
-==+ བཟོ་པ་==:
+<i class="y">\◌ + བཟོ་པ་</i>:
 - ཁ་ལག་ (to cook)
 - རྙོག་དྲ་ (to cause problems)
 - སུན་པོ་ (to give a hard time)
 - རོགས་པ་གསར་པ་ (to make new friends)
 
-==\+ བཏང་བ་== (གཏོང་[^1]):
+<i class="y">\ ◌ + བཏང་བ་</i> (གཏོང་[^1]):
 - སྐྱིད་པོ་ (to enjoy oneself, volitional)
 - འགུལ་བསྐྱོད་ (to move)
 - ཡིག་ཚད་ (to take exam)
@@ -56,7 +56,7 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - སྐད་ (to invite)
 - གཅིན་པ་ (to pee)
 
-==ཤོར་==, builds **non-volitional** verbs:
+<i class="y">\ ◌ + ཤོར་</i>, builds **non-volitional** verbs:
 - སེམས་པ་ (to fall in love)
 - ནོར་འཁྲུལ་ (to make mistakes)
 - གད་མོ་ཤོར་ (to laugh)
@@ -65,13 +65,13 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - གཅིན་པ་ (to pee oneself[^2])
 
 To reply to questions, repeat the verbalizer alone:
-- Q: བཞས་མང་པོ་==བཏང་==པ་ཡིན་པས།
-- A: མང་པོ་==བཏང་==མེད།
+- Q: བཞས་མང་པོ་<i class="y">བཏང་</i>པ་ཡིན་པས།
+- A: མང་པོ་<i class="y">བཏང་</i>མེད།
 
 > [!CAUTION] Careful
 > Not because of the fact the verbalizer བཟོ་ or བརྒབས་ are volitional means the resulting verb will also be.
 
-The ཟ་ in ཏོགས་པ་ཟ་སོང་། (to have some doubts) or འཚིག་པ་ཟ་སོང་། (to have anger) doesn't mean "to eat" but "to get into a certain mental state".
+The <i class="y">ཟ་</i> in ཏོགས་པ་<i class="y">ཟ་</i>སོང་། (to have some doubts) or འཚིག་པ་<i class="y">ཟ་</i>སོང་། (to have anger) doesn't mean "to eat" but "to get into a certain mental state".
 
 Some nouns can use multiple verbalizers, and their meanings therefore are differents.
 
