@@ -18,7 +18,7 @@ The <i class="g">modifiers</i> go between the <i class="p">word</i> and the <i c
 
 In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་པ་<i class="r">མ་</i>རྒྱག་པ་
 
-==\+ བྱེད་པ་== (honorific: གནང་བ།):
+\+ བྱེད་པ་ (honorific: གནང་བ།):
 - ལྷོད་ལྷོད (to relax)
 - རང་སྦྱོང་ (to do homework)
 - དད་པ་ (to have faith)
