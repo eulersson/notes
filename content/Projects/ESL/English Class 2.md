@@ -12,8 +12,6 @@ tags:
 - Identifying words.
 - (reinforce) How many \_\_\_?
 - (reinforce) There is / There are
-- Word "only".
-- Word "Where".
 
 ---
 
