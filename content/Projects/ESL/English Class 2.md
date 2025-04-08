@@ -19,7 +19,6 @@ tags:
 ## Material
 - Balloon
 - 2 portable whiteboards
-- Candy (for the [[#4. Imperative and Continuous (20 min)]])
 
 > [!WARNING] Names
 > Remember them to show their folded paper with the name sitting on the top of their table.
