@@ -69,3 +69,4 @@ To create the right API Token for this task go to *User API Tokens > Create API 
 - Write a post about my workflow.
 - Cancel previous running actions if you dispatch the publish action before the current hasn't finished.
 - Make the graph text bigger.
+- Highlighted text with \=\=text\=\= does not render properly using quartz ==see it here with this example==.
