@@ -5,6 +5,7 @@ tags:
 - teaching
 ---
 
+[[English Beginner Classes]]
 << ø | [[English Class 2]] >>
 
 ## Learning Goals
@@ -84,12 +85,3 @@ Sentences to learn:
 
 > [!CAUTION] Answers
 > They must reply properly: ❌ ~~3~~  ✅ **There are 3 circles**.
-
----
-
-## 4. Magic English (10 min)
-
----
-
-## 5. Gameplay (15 min)
-Students with most points get to play video-game.

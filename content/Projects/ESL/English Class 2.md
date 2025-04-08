@@ -5,6 +5,7 @@ tags:
 - teaching
 ---
 
+[[English Beginner Classes]]
 << [[English Class 1]] | [[English Class 3]] >>
 
 ## Learning Goals
@@ -54,10 +55,7 @@ Write in the portable whiteboard one word and ask if they think it's a word or n
 
 ## 3.  Vocabulary: Lion King (30 min)
 
-Play *I Just Can't Wait to be King* of the traditional animation.
-
-> [!TODO] 
-> Find video link.
+Play *I Just Can't Wait to be King* ([YouTube link](https://www.youtube.com/watch?v=cHxCIQuWDd0)) of the traditional animation.
 
 First play the entire video to not disrupt the flow of the animation.
 
@@ -85,6 +83,3 @@ The name of the animals will be collected and studied: ^f40775
 At the end: Two volunteers, one has to formulate sentence "How many rhinos are there?" and the other needs to answer, "There is one rhino". Time to introduce the **only** word. "There is ==only== one rhino". They get ==point==!
 
 Now work on the ==translation== of the words collected from the video into their native language (ideally would be nice to draw the concept, but we can't afford so much time). Tell them you will ask them with images tomorrow, so they need to study. Ask volunteers to draw on the whiteboard (4 and 4). They get ==point==.
-
-## Gameplay (15 min)
-Students with most points get to play video-game.
