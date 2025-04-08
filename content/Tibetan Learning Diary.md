@@ -29,6 +29,7 @@ linklist:
 སྤྱི་ཟླ་བཞི་པའི་ཚེས་པའི་བརྒྱད ཉིང་ཁུང་ཆུ་ཚོད་ལྔ་པ་ཡོལ་ནས་སྐར་མ་བརྒྱད།
 
 ### Observations
+Notes from the [[Tibetan Verbalizers]] webinar.
 སྨོན་ལམ་ཚོགས་པ་ = to meet for prayer
 ཚོར་ = feeling verbalizer, to become \<emotion adjective>.
 
