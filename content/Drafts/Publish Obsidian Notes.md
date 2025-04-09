@@ -71,3 +71,4 @@ To create the right API Token for this task go to *User API Tokens > Create API 
 - Make the graph text bigger.
 - Highlighted text with ==Latin text== works well but not with ==བོད་སྐད་== text.
 - Publish anything in attachments that is being referenced from markdown.
+- The text in the og:image preview that shows when you share this in WhatsApp to show Tibetan text correctly. Maybe the font for that can be configured.
