@@ -14,11 +14,9 @@ tags:
 - (reinforce) How many \_\_\_?
 - (reinforce) There is / There are
 
----
-
 ## Material
-- Balloon
-- 2 portable whiteboards
+- [ ] Balloon
+- [ ] 2 portable whiteboards
 
 > [!WARNING] Names
 > Remember them to show their folded paper with the name sitting on the top of their table.

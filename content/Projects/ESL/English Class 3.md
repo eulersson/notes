@@ -13,13 +13,12 @@ tags:
 - Refresh: Counting (during Magic English).
 - Feelings / Emotions.
 
----
-
 ## Material
-- [ ] Laptop with Anki flashcards.
+- [ ] Laptop and projector or screen.
 - [ ] Balloon with 8 numbers.
 - [ ] Memo game cards with emotion names (16 cards total).
 
+---
 ## 1. Refresh: Learnt Words (20 min)
 Using Anki have images of all the vocabulary that has been added to the deck, e.g.  [[English Class 2#^f40775]], have students come to the computer and type them in (maybe 4) and get ==point==. Others must write to their notebook too.
 
