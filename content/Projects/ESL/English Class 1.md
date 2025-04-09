@@ -16,9 +16,11 @@ tags:
 - There is / There are.
 
 ## Material
-- Bag with 20 words to be dictated.
-- Balloon with letters A-Z.
-- Balloon with shapes △ / ○ / □.
+- [ ] Bag with 20 words to be dictated.
+- [ ] Balloon with letters A-Z.
+- [ ] Balloon with shapes △ / ○ / □.
+
+---
 
 ## 1. Introducing Myself (5 min)
 - Write **date** on board.
@@ -38,6 +40,8 @@ Ask to **write their name on a paper**, fold it in half and leave it standing on
 ### Explain: Point & Rewards
 > [!NOTE] Points
 > Now explain that **points will be recorded**. **Participating** is **1 point**. Getting **good answer** is **1 point**. At the end of the class who's got most points gets to play a computer video game, VR ride, or whatever other treat. At the end of the month the 2 monks with most points go roller skating in Kathmandu or to fun park.
+
+---
 
 ## 2. Alphabet (25 min)
 ### Refresh: Alphabet (5min)

@@ -15,10 +15,10 @@ This class I want to relax a bit from doing interactive activities and try to se
 - Actions: read, stand, chase, eat, jump, sit.
 - Imperative, only say the verb.
 - Continuous: -ing, if it's happening right now.
-- Writing misc. vocabulary from activity book.
 
 ## Material
-- Bag with the vocabulary words (16).
+- [ ] Laptop and projector or screen.
+- [ ] Bag with the vocabulary words (16).
 
 ---
 
@@ -45,9 +45,8 @@ Now write the pronouns at the board and have them copy. Write them with little d
 ## 3. Verbs (Infinitive and Continuous) (30 min)
 
 ### Explain (20 min)
-Review "Verbs 1" in [Games to Learn English | Monster Phrases](https://www.gamestolearnenglish.com/monster-phrases/#review).
 
-Now write the following verbs
+We will work on the following verbs. No need to whiteboard them yet.
 
 | read     | stand    | chase     | eat        |
 | -------- | -------- | --------- | ---------- |
@@ -58,34 +57,23 @@ Now write the following verbs
 > [!NOTE] Anki
 > Add those words to the Anki deck for memorizing!
 
-Have them copy those words and write translations.
-
 ## Activity: Acting (10 min)
+Getting the imperative (play) and continuous form (playing), practicing dictation at the same time. Give points to the volunteers.
 - Student gets selected.
 - Student pulls a paper verb from the bag.
-- Student spells it and reads it.
-- Teachers says an imperative action
-	- read a book
-	- stand on the cushion
-	- chase me
-	- eat your finger
-	- jump a little bit (a lot)
-	- sit on the chair
-- As you say the imperative write it on whiteboard.
-- And when the action is ongoing say "What is he doing?" everyone has to say "He is reading a book, standing on the cushion, chasing me, eating candy".
-- Write on the board as you make those sentences.
+- Student spells it in front of the class while other students write it down.
+- Other students read the word aloud together without spelling after the 3-2-1 from the teacher.
+- Teachers says an imperative action that involve other objects too so they get familiarized with real sentences:
+	- you ==read== a book
+	- ==stand== on the cushion
+	- ==chase== me
+	- ==eat== your finger
+	- ==jump== a little bit (a lot)
+	- ==sit== on the chair
+- The student performs it and while it performs asks the other students "What ==is he== doing?", and they reply "He ==is talking==."
+- The teacher can also put the student under test to perform the action with others and do the action collectively so the teacher asks "What ==are they== doing?", and students reply "==They are== talking.", instead of "What ==is he doing?==.". Also you can ask the student to say "What ==am I doing==?" while performing the actions. All this is to drill the **subject pronouns.**
 
 ---
 
 ### Activity (10 min)
-*[[Headway English Activity Book 1|Activity Book]] page 7, 8*
-
----
-
-## 3. Vocabulary (20 min)
-*[[Headway English Grammar and Composition 1|Grammar and Composition]] page 11, 12, 13, 14.* (add those words to ==Anki== decks).
-
----
-
-## 4. Sentence Building Game (15 min)
-https://www.gamestolearnenglish.com/monster-phrases/#game
+*[[Headway English Activity Book 1|Activity Book]] page 8*

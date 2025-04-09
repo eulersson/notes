@@ -8,6 +8,8 @@ tags:
 [[English Beginner Classes]]
 << [[English Class 4]] | [[English Class 6]] >>
 
+---
+
 ##  Learning Goals
 - Body parts.
 - Directions.
@@ -15,9 +17,22 @@ tags:
 ## Material
 - Piece of cloth to cover eyes.
 
+---
+
 ## 1: Refresh Vocabulary (Anki) (20 min)
 - Subjects
 - Verbs
+
+
+---
+
+## 2. Vocabulary (20 min)
+*[[Headway English Grammar and Composition 1|Grammar and Composition]] page 11, 12, 13, 14.* (add those words to ==Anki== decks).
+
+---
+
+## 4. Sentence Building Game (15 min)
+https://www.gamestolearnenglish.com/monster-phrases/#game
 
 ## 2. Body Parts (5 min)
 - Arm
