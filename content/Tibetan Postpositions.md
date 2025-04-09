@@ -31,3 +31,4 @@ However if you change the order the meaning changes:
 | ཕྱི་ལོགས་ལ་  | outside          |
 | བར་ལ་        | between          |
 | འཁྲིལ་ལ་     | near             |
+| ངོས་ལ་       | on (wall)        |
