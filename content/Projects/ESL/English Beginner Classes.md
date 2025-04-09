@@ -7,6 +7,7 @@ tags:
 ## Resources
 Books:
 - [[ESL Games]]
+- [[Basic ESL Curriculums]]
 - (Nepal) Grade 1 Headway English: Grammar and Composition
 - (Nepal) Grade 1 Headway English: Activity Book
 
