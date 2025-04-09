@@ -70,3 +70,4 @@ To create the right API Token for this task go to *User API Tokens > Create API 
 - Cancel previous running actions if you dispatch the publish action before the current hasn't finished.
 - Make the graph text bigger.
 - Highlighted text with ==Latin text== works well but not with ==བོད་སྐད་== text.
+- Publish anything in attachments that is being referenced from markdown.
