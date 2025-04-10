@@ -24,7 +24,7 @@ However if you change the order the meaning changes:
 | ------------ | -------------------------- |
 | ནང་          | inside of                  |
 | མདུན་        | in front of                |
-| རྒུབ་ལོགས་   | behind                     |
+| བརྒྱབ་ལོགས་  | behind                     |
 | སྒང་         | above                      |
 | དཀྱིལ་       | in the middle of           |
 | འོག་         | under                      |
