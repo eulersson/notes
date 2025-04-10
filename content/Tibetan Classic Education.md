@@ -1,8 +1,10 @@
 ---
 publish: true
+tags:
+- tibetan
 ---
 
-The monks from [[Amithaba Monastery]] (*kagyupa* tradition) usually are sent to **Central Insitute of [[Tibetan]] Higher Studies** at **Sarnath, Varanasi** after class 8.
+The monks from [[Amithaba Monastery]] (*kagyupa* tradition) usually are sent to **Central Insitute of Tibetan Higher Studies** at **Sarnath, Varanasi** after class 8.
 
 So first usually they start with UKG སྔོན་འགྲོའི་སློབ་གྲྭ།, then Primary School གཞི་རིམ་སློབ་གྲྭ། (year 1 to 8).
 

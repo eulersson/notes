@@ -3,8 +3,6 @@ publish: true
 tags:
 - tibetan
 - diary
-linklist:
-- "[[Tibetan]]"
 ---
 
 > [!info] Questions
@@ -198,7 +196,7 @@ Kids in [[Pema Tsal]] are starting to speak more Tibetan to me since I start to 
 
 #### Diary
 How hard is to look up words in a dictionary when sometimes not even the Tibetan speakers know the spelling! So check this [[Tibetan Phonetic Lookup Dictionary]]. I wrote an email to *Monlam AI* team about it!
-I am happy because [[Eloi Singla]] says  now I am getting to a level where I start pulling him sometimes! That means that this also stimulates his [[Tibetan]] language learning process! I'm happy to see I'm progressing!
+I am happy because [[Eloi Singla]] says  now I am getting to a level where I start pulling him sometimes! That means that this also stimulates his #tibetan  language learning process! I'm happy to see I'm progressing!
 They told me not to use ཇ་བསྲུབས་མ། for "Tibetan tea" unless it has been produced with the Tibetan tea maker (སྡོང་མོ།).
 
 ### Learnt
@@ -221,7 +219,7 @@ Tibetan's don't use "can" they simply say ང་གོ་མིན་འདུ�
 ### Diary
 Within the SLC classes I see I have to slow down my speed on collecting questions and answering them and focus more on the human interactions with Tibetan language. I'm trying to find this middle way...  ང་ལྷོད་ལྷོད་བྱེད་དགོས་ཡོད། དེ་མིན་ང་ཚབ་ཚབ་གི་རེད།
 But I'm very happy because I can now publish notes like [[Tibetan Tones]] outside of my vault as in here: https://notes.ramn.dev/Tibetan-Tones.
-I am impressed to see that some child monks don't know how to say "jump" in Tibetan (མཆོངས་པ།). Maybe they learn the liturgical classical [[Tibetan]] first?
+I am impressed to see that some child monks don't know how to say "jump" in Tibetan (མཆོངས་པ།). Maybe they learn the liturgical classical #tibetan first?
 
 ##  2025-03-25
 སྤྱི་ཟླ་གསུམ་པའི་ཉི་ཤུ་རྩ་ལྔ། ཆུ་ཚོད་དགུ་དང་ཕྱེད་ཀ།
