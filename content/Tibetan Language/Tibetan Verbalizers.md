@@ -78,7 +78,6 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - སྐད་ (to cry out)
 - གཅིན་པ་ (to pee oneself[^2])
 
-
 To reply to questions, repeat the verbalizer alone:
 - Q: བཞས་མང་པོ་<i class="b">བཏང་</i>པ་ཡིན་པས།
 - A: མང་པོ་<i class="b">བཏང་</i>མེད།
