@@ -34,7 +34,7 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - འཁྲུག་པ་ (to fight)
 - སྨོན་ལམ་ (make prayers)
 - སྒོམ་ (to meditate)
-- འགྲེལ་ (to explain)
+- འགྲེལ་བཤད་ (to explain)
 - སྐད་ (to shout)
 - བོད་སྐད་ (to speak Tibetan)
 - གདོང་ཐུག་ (to bump into)
@@ -67,7 +67,8 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - སྐད་ (to invite)
 - གཅིན་པ་ (to pee)
 - སྐྱིད་པོ་ (to have fun)
-- སྤ་སེ་བཏོག་པ་ (to reserve a ticket)
+- སྤ་སེ་(to reserve a ticket)
+- སྦག་སྦག་ (to ride motorbike)
 
 <i class="b">○ + ཤོར་</i>, builds **non-volitional** verbs:
 - སེམས་པ་ (to fall in love)
@@ -76,6 +77,7 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - འཁྲུགས་པ་ (to end up in a fight)
 - སྐད་ (to cry out)
 - གཅིན་པ་ (to pee oneself[^2])
+
 
 To reply to questions, repeat the verbalizer alone:
 - Q: བཞས་མང་པོ་<i class="b">བཏང་</i>པ་ཡིན་པས།
