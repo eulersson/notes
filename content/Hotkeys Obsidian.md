@@ -1,7 +1,7 @@
 ---
 publish: true
-tags:
-- hotkeys
+linklist:
+- "[[Hotkeys]]"
 ---
 
 | Hotkey    | Action                                |

@@ -1,8 +1,8 @@
 ---
 publish: true
+linklist:
+- "[[Hotkeys]]"
 ---
-
-Tags: [[Hotkeys]]
 
 | Hotkey       | Action                        |
 | ------------ | ----------------------------- |
