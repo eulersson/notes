@@ -2,8 +2,6 @@
 publish: true
 tags:
 - tibetan
-linklist:
-- "[[Tibetan]]"
 ---
 
 Source: [[SINI Colloquial Tibetan Programs]]

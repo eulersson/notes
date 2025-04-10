@@ -2,8 +2,6 @@
 publish: true
 tags:
 - tibetan
-linklist:
-- "[[Tibetan]]"
 ---
 
 ![[Je Ma Ka Ra.mp3]]

@@ -1,5 +1,8 @@
 ---
 publish: true
+tags:
+- tibetan
+- 
 ---
 
 Recently [[Pema Tsal]] monastery got the UKG room walls beautifully re-painted with Tibetan, Nepali and English vocabulary.

@@ -3,8 +3,6 @@ publish: true
 tags:
 - tibetan
 - prayer
-linklist:
-- "[[Tibetan]]"
 ---
 ## སྐྱབས་འགྲོ
 སངས་རྒྱས་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་རྣམས་ལ། །

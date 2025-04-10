@@ -2,8 +2,6 @@
 publish: true
 tags:
 - tibetan
-linklist:
-- "[[Tibetan]]"
 ---
 Gen Alexandra said:
 > Agentive particles also mark the subjects of the verbs of uncontrollable perceptions ཤེས་, མཐོང་, ཐུག་, གོ་, ཧ་གོ་, མཇལ་,   and knowledge in **all tenses**.  
