@@ -34,9 +34,11 @@ Notes from the [[Tibetan Verbalizers]] webinar.
 ཚོར་ = feeling verbalizer, to become \<emotion adjective>.
 
 ## Question
-Riding is གཏོང་ or གཞོན?
+Riding is གཏོང་ or གཞོན? #tutor
 - ངས་སྦག་སྦག་ཡང་<i class="b">གཏོང་</i>ཤེས་ཀྱི་ཡོད།
 - ང་རྐང་འཁོར་<i class="b">བཞོན་</i>ནས་གླིང་ག་ལ་ཕྱིན་པ་ཡིན།
+The shop closes at seven #tutor
+- ཚོང་ཁང་ཆུ་ཚོད་བདུན་སྒོ་བརྒྱབས་ཀྱི་རེད།
 
 ### 2025-04-07
 སྤྱིན་ཟླ་བཞི་པའི་ཚེས་པའི་བདུན ཉིན་ཁུང་ཆུ་ཚོད་བཞི་པ་ཡོལ་ནས་སྐར་མ་ཉི་ཤུ་རྩ་ལྔ
@@ -186,7 +188,7 @@ Kids in [[Pema Tsal]] are starting to speak more Tibetan to me since I start to 
 	- I managed to stay quite relaxed even though I did not understand every single word of the monologue. ~~I did not get too caught with unknown words or feel too nervous about them.~~ I had to attempt to transcribe those uncaught words lest to be left unresolved and met again later on. Specially the ones that sabotaged my intuition for resolving the meaning based on context.
 
 ##### Uncaught Words
-[[Tibetan Module 0 Listening Comprehension 1 Uncaught Words]]
+[[Tibetan Module 0 Listening Comprehension 1 Uncaught Words]] #tutor
 
 #### Diary
 How hard is to look up words in a dictionary when sometimes not even the Tibetan speakers know the spelling! So check this [[Tibetan Phonetic Lookup Dictionary]]. I wrote an email to *Monlam AI* team about it!

@@ -6,11 +6,7 @@ linklist:
 - "[[Tibetan]]"
 ---
 
-Source: [SINI Colloquial Tibetan Programs](https://www.sinibridge.org/project_category/colloquial-tibetan/)
-
-
-> [!INFO] Disclaimer
-> These are notes taken while watching the *Colloquial Tibetan Lower Intermediate Course* at SINI. So it is complimentary to it, do not rely on this article as a grammar lesson.
+Source: [[SINI Colloquial Tibetan Programs]]
 
 བྱེད་པ། རྒྱག་པ། བཟོ་བ། གཏོང་བ། ཤོར་བ། ... are used to construct verbs.
 
@@ -24,14 +20,28 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - དད་པ་ (to have faith)
 - ཡིད་ཆེས་ (to believe in)
 - འགྲུལ་བཞུད་ (to travel)
+- རོག་པ་ (to help)
+- གཟབ་གཟབ་ (to be careful)
+- ལྟ་རྟོག་ (to take care)
+- ཐག་ཆོད་ (to decide)
+- སེམས་ཁྲལ་ (to worry)
 
 <i class="b">○ + བརྒྱབས་པ་</i> (རྒག་པ་[^1]) (honorific: སྐྱོན་པ་): 
+- པར་ (to take pictures)
+- སྐོར་ར་ (to circumambulate)
+- སྒོ་ (to close the door)
 - ངལ་གསོ་ (to take rest)
 - འཁྲུག་པ་ (to fight)
 - སྨོན་ལམ་ (make prayers)
 - སྒོམ་ (to meditate)
 - འགྲེལ་ (to explain)
 - སྐད་ (to shout)
+- བོད་སྐད་ (to speak Tibetan)
+- གདོང་ཐུག་ (to bump into)
+- ཉོ་ཆ་ (to do shopping)
+- ངལ་གསོ་ (to take rest)
+- དཀའ་ལས་ (to make an effort)
+- བརྗེ་པོ་ (to change the time)
 - Some non-volitional ones too!
 	- བློ་ (to cough)
 	- ཟུག་ (to hurt, ache)
@@ -42,6 +52,7 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - རྙོག་དྲ་ (to cause problems)
 - སུན་པོ་ (to give a hard time)
 - རོགས་པ་གསར་པ་ (to make new friends)
+- འཆར་བཞི་ (to make plans)
 
 <i class="b">○ + བཏང་བ་</i> (གཏོང་[^1]):
 - སྐྱིད་པོ་ (to enjoy oneself, volitional)
@@ -55,6 +66,8 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - བློས་ (to let go)
 - སྐད་ (to invite)
 - གཅིན་པ་ (to pee)
+- སྐྱིད་པོ་ (to have fun)
+- སྤ་སེ་བཏོག་པ་ (to reserve a ticket)
 
 <i class="b">○ + ཤོར་</i>, builds **non-volitional** verbs:
 - སེམས་པ་ (to fall in love)
