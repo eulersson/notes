@@ -44,6 +44,7 @@ https://www.gamestolearnenglish.com/monster-phrases/#game
 - Feet
 
 ## 3. Directions (10 min)
+![[Directions.png]]
 
 > [!SUCCESS] Goal
 > Where is up / down / forward / back / right / left?
@@ -58,7 +59,6 @@ Get volunteer (gets ==point==) and start saying:
 - Point back with feet.
 
 ## 5. Navigating
-
 ### Explain (5 min)
 - Go (3 steps) forward
 - Go (2 steps) back

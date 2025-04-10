@@ -25,6 +25,9 @@ linklist:
 > [!INFO] Color Coding
 > <i class="g">correct</i>, <i class="r">incorrect</i>, <i class="p">verify</i>, <i class="b">attention</i>
 
+## 2025-05-10
+སྤྱི་ཟླ་བཞི་པའི་ཚེས་པའི་བཅུ ཆུ་ཚོད་བརྒྱད་པ་ཡོལ་སྐར་མ་ཉི་ཤུ་རྩ་གཅིག
+
 ### 2025-04-08
 སྤྱི་ཟླ་བཞི་པའི་ཚེས་པའི་བརྒྱད ཉིང་ཁུང་ཆུ་ཚོད་ལྔ་པ་ཡོལ་ནས་སྐར་མ་བརྒྱད།
 
@@ -33,7 +36,7 @@ Notes from the [[Tibetan Verbalizers]] webinar.
 སྨོན་ལམ་ཚོགས་པ་ = to meet for prayer
 ཚོར་ = feeling verbalizer, to become \<emotion adjective>.
 
-## Question
+### Question
 Riding is གཏོང་ or གཞོན? #tutor
 - ངས་སྦག་སྦག་ཡང་<i class="b">གཏོང་</i>ཤེས་ཀྱི་ཡོད།
 - ང་རྐང་འཁོར་<i class="b">བཞོན་</i>ནས་གླིང་ག་ལ་ཕྱིན་པ་ཡིན།
