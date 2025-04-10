@@ -34,3 +34,5 @@ However if you change the order the meaning changes:
 | ངོས་         | on (wall)                  |
 | ཕར་ཕྱོགས་    | opposite                   |
 | ཡར་མར་       | here and there, everywhere |
+
+![[Tibetan Bedroom Postpositions]]

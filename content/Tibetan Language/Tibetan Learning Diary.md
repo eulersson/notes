@@ -80,9 +80,8 @@ Remarks:
 - དྲི་བ་ཡོད་ན་རྒན་ལགས་ལ་ཐད་ཀར་འདྲི་རོགས་གནང་།
 	- A: ངས་ཁོང་ལ་དྲི་བ་འདྲི་ཡིན།
 	- A: Use དྲི་བ་ཞུ་ if the person that is asking deserves respect.
-- [[Tibetan Postpositions#Question]] #tutor
+- [[Tibetan Postpositions#Question]]
 - [[Tibetan Nominalizer "pa" or "yag"?]]
-
 
 ### 2025-04-05
 སྤྱིན་ཟླ་བཞི་<i class="g">པའི་</i>ཚེས་པ<i class="r">འི</i>་ལྔ དགོང་དག་ཆུ་ཚོད་དགུ་པ་ཡོལ་ནས་སྐར་མ་ལྔ
