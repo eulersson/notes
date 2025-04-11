@@ -41,7 +41,7 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - དཀའ་ལས་ (to make an effort)
 - བརྗེ་པོ་ (to change the time)
 - Some non-volitional ones too!
-	- བློ་ (to cough)
+	- གློ་ (to cough)
 	- ཟུག་ (to hurt, ache)
 	- ཆམ་ (to have a cold)
 
@@ -53,7 +53,6 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - འཆར་བཞི་ (to make plans)
 
 <i class="b">○ + བཏང་བ་</i> (གཏོང་[^1]):
-- སྐྱིད་པོ་ (to enjoy oneself, volitional)
 - འགུལ་བསྐྱོད་ (to move)
 - ཡིག་ཚད་ (to take exam)
 - འདྲི་བ་ (to ask a question)

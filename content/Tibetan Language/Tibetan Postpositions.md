@@ -22,7 +22,7 @@ However if you change the order the meaning changes:
 | ------------ | -------------------------- |
 | ནང་          | inside of                  |
 | མདུན་        | in front of                |
-| བརྒྱབ་ལོགས་  | behind                     |
+| བརྒྱབ་       | behind                     |
 | སྒང་         | above                      |
 | དཀྱིལ་       | in the middle of           |
 | འོག་         | under                      |
@@ -34,5 +34,6 @@ However if you change the order the meaning changes:
 | ངོས་         | on (wall)                  |
 | ཕར་ཕྱོགས་    | opposite                   |
 | ཡར་མར་       | here and there, everywhere |
+|              |                            |
 
 ![[Tibetan Bedroom Postpositions]]
