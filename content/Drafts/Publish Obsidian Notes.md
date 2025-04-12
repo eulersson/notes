@@ -60,6 +60,7 @@ To create the right API Token for this task go to *User API Tokens > Create API 
 
 ## Next Steps
 - Fixing timestamps since all articles show the latest commit date.
+- A way to squash the graph of git tree node
 - General graph view on Home page would be great.
 - Add message to console when publishing finished.
 - Seeing how to have better social images.

@@ -34,6 +34,7 @@ linklist:
 | ⌘ E          | Toggle edit / preview mode                    |
 | ⌘ File Hover | Preview text                                  |
 | ⌥ P          | Toggle Tibetan accessibility view             |
+| ⌥ L          | Reveal current file in navigation             |
 
 | Hotkey        | Action                                             |
 | ------------- | -------------------------------------------------- |
