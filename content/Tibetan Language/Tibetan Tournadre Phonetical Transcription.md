@@ -15,7 +15,7 @@ The correspondence between Tibetan letters and Wylie letters is the exact same e
 
 **Superscribed** letters (ར་ ལ་ ས་) fall down and disappear during transcription. and so do **prefixes** (ག་ ད་ བ་ མ་ འ་) and silent **suffixes** (ས་ ད་). 
 
-But some **superscribed** letters or **prefixes** (specially when not at beginning of word) sometimes they can be pronounced so we transliterate them in, such as བློ་བཟང་ "Lo**b**sang" or རྡོ་རྗེ་ "Dorje". So that leads to the question: [[Tibetan Language Questions#33. Transcribing Tibetan Words When does the prefix letter sound?]]
+But some **superscribed** letters or **prefixes** (specially when not at beginning of word) sometimes they can be pronounced so we transliterate them in, such as བློ་བཟང་ "Lo**b**sang" or རྡོ་རྗེ་ "Dorje". So that leads to the question: *33. Transcribing Tibetan Words When does the prefix letter sound?* in [Tibetan Language Questions Google Doc](https://docs.google.com/document/d/1wGcCFSY7tffI8tl-jIMJHfIju-8MMrIcRoOmYtEOwR0/edit?usp=sharing). 
 
 Vowels *a*, *o*, *u* followed by ད་ ན་ ལ་ ས་ acquire umlaut *ä*, *ö*, *ü*.
 
