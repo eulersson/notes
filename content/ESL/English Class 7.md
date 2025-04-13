@@ -13,6 +13,8 @@ tags:
 - Prepositions.
 
 ## Material
+- 2 small whiteboards with markers.
+- Printed sheet with the prepositions.
 - Two balloons.
 - String to attach the balloon on the active player.
 
