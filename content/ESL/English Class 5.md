@@ -17,7 +17,7 @@ tags:
 
 ---
 
-## 1: Refresh Vocabulary (Anki) (20 min)
+## 1. Refresh Vocabulary (Anki) (20 min)
 Since there are many cards now each pair of students write 3 cards.
 - Subjects
 - Verbs

@@ -24,6 +24,9 @@ Digital Resources:
 - Anki Deck (Flashcard App)
 	- Anki allows creating one own's deck with any word, so the ones we accumulate in these lessons I'm dumping them into a public deck.
 	- With a projector it's fun because then a student comes in and types the name of the image that shows on he flashcard and it shows the letters you failed.
+	- When there's too many flashcards for the students (which slows down the rhythm of the class so much) the teacher can either:
+		- Have one student do many flashcards instead of only one.
+		- Simply have them speak loud and pressing enter.
 
 ## Selection Methods and Reward System
 Sometimes instead of having to randomly select choices or players (which I struggle with) it's better to have some physical activity such as the ones listed below.
@@ -60,6 +63,11 @@ If many kids have to play at computer it's long, therefore I like the idea of sp
 - [[English Class 3]]
 - [[English Class 4]]
 - [[English Class 5]]
+- [[English Class 6]]
+- [[English Class 7]]
+- [[English Class 8]]
+- [[English Class 9]]
+- [[English Class 10]]
 
 ---
 

@@ -9,11 +9,11 @@ tags:
 << ø | [[English Class 2]] >>
 
 ## Learning Goals
-- Alphabet A-Z.
-- Numbers 1-20.
-- Shapes.
+- Alphabet A-Z
+- Numbers 1-20
+- Shapes
 - How many \_\_\_?
-- There is / There are.
+- There is / There are
 
 ## Material
 - [ ] Bag with 20 words to be dictated.

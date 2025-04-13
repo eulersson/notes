@@ -10,8 +10,8 @@ tags:
 
 ## Learning Goals
 - Refresh: Animals (using Anki flashcards)
-- Refresh: Counting (during Magic English).
-- Feelings / Emotions.
+- Refresh: Counting (during Magic English)
+- Feelings / Emotions
 
 ## Material
 - [ ] Laptop and projector or screen.
