@@ -18,3 +18,5 @@ tags:
 😔 When prompting the students, you sometimes say for instance "How many", and then you prompt them to say the animal that is to be counted "what here?" and they repeat "what here?" literally instead of saying the name of the animal to count. This happened many times.
 
 😔 I don't know how to handle the case where they take long to reply or when they fail. In both of these cases I say the correct answer and continue to prevent stopping the flow of the class.
+
+😔 Don't assume they can draw shapes you consider simple as in the [[Prepositions of Place Sheet for Students]] easily... That's why I ended up making the printed handout.
