@@ -57,7 +57,7 @@ Prepare two teams of 3 people each one. Say a sentence like "Touch the window wi
 
 Elements to play with: pen, pencil, floor, whiteboard, door, desk, chair, book, curtain, window, tv, computer, ...
 
-21 minutes = 3 games of 7 minutes (each player gets 2 minutes).
+> 21 minutes = 3 games of 7 minutes (each player gets 2 minutes).
 
 ---
 
@@ -86,7 +86,7 @@ Elements to play with: pen, pencil, floor, whiteboard, door, desk, chair, book, 
 
 ![](https://www.youtube.com/watch?v=VSn-7QmnJr8)
 
-## Activity: Placing Items Around (30 min)
+### Activity: Placing Items Around (30 min)
 Have two teams with 3 members. All team members can discuss together, but one player is the one who will perform the action. Active player can be marked with a balloon attached on him.
 
 With the prepositions projected on screen, say sentences like "Put the pen inside the teacher's bag.". If the students miss vocabulary, draw the item in the whiteboard.
