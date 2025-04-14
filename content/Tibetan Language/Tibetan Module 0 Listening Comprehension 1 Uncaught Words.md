@@ -8,7 +8,7 @@ Full Listening Comprehension:
 1. `0:19-0:22` <i class="r">cham pa?</i> ཨོ་ཙམ་རྒྱག་གི་དུག
 ![[Confusion Listening 'cham pa o tsam 0.19-0.22.mp3]]
 
-2. `0:38-0:55` <i class="r">jhe nang?</i> ང་ཇ་འཐུང་ཐུབ་ <i class="r">sa?</i> མ་རེད། འོ་མ་དེ་ <i class="r">champala ngo?</i> གི་རེད། <i class="r">chug korma?</i> ཡོད་ན་འགྲིག་གི་རེད། ལ་<i class="r">ཨོ?</i>། ཏག་ཏག་རེད།
+2. `0:40-0:55` ང་ཇ་འཐུང་ཐུབ་ <i class="r">sa?</i> མ་རེད། འོ་མ་དེ་ <i class="r">champala ngo?</i> གི་རེད། <i class="r">chug korma?</i> ཡོད་ན་འགྲིག་གི་རེད། ལ་<i class="r">ཨོ?</i>། ཏག་ཏག་རེད།
 ![[Confusion Listening champala ngo chug korma yona 0.38-0.55.mp3]]
 
 3. `1:15-1:24` <i class="r">སོ་སོ་སོ་སོ?</i> <i class="r">བདེ?</i>་གི་ཡོད་རེད།

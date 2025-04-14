@@ -57,10 +57,9 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 <span style="color: #38761d">○ + བཟོ་པ་</span>:
 - ཁ་ལག་ (to cook)
 - རྙོག་དྲ་ (to cause problems)
-- སུན་པོ་ (to give a hard time)
+- (ཅ་)སུན་པོ་ (to give a hard time)
 - རོགས་པ་གསར་པ་ (to make new friends)
 - འཆར་བཞི་ (to make plans)
-- ཅ་སུན་པོ་ (to bother)
 
 <span style="color: #e69038">○ + བཏང་བ་</span> (གཏོང་[^1]):
 - འགུལ་བསྐྱོད་ (to move)
@@ -79,7 +78,7 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - ཆར་པ་ (to rain)
 - གངས་ (to snow)
 - ཐུགས་སྤྲོ་ (to throw a party)
-- གླིང་ག་ (to have pic-nic)
+- གླིང་ག་ (to have picnic)
 - འཕྲོ་བརླག་ (to waste)
 - གཤེ་གཤེ་ (to scold)
 
@@ -87,7 +86,7 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - སེམས་པ་ (to fall in love)
 - ནོར་འཁྲུལ་ (to make mistakes)
 - གད་མོ་ཤོར་ (to laugh)
-- འཁྲུགས་པ་ (to end up in a fight)
+- འཁྲུག་པ་ (to end up in a fight)
 - སྐད་ (to cry out)
 - རྐུ་མ་ (to get stolen)
 - གཅིན་པ་ (to pee oneself[^2])
