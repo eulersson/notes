@@ -12,9 +12,10 @@ The <i class="g">modifiers</i> go between the <i class="p">word</i> and the <i c
 
 In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་པ་<i class="r">མ་</i>རྒྱག་པ་
 
-<i class="b">○ + བྱེད་པ་</i> (honorific: གནང་བ།):
+<span style="color: #1255cb">○ + བྱེད་པ་</span> (honorific: གནང་བ།):
 - ལྷོད་ལྷོད (to relax)
 - རང་སྦྱོང་ (to do homework)
+- སྦྱོང་བརྟར་ (to practice)
 - དད་པ་ (to have faith)
 - ཡིད་ཆེས་ (to believe in)
 - འགྲུལ་བཞུད་ (to travel)
@@ -23,9 +24,13 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - ལྟ་རྟོག་ (to take care)
 - ཐག་ཆོད་ (to decide)
 - སེམས་ཁྲལ་ (to worry)
+- ལས་ཀ་ (to make work)
+- བེད་སྤྱོད་ (to use)
+- གུང་སེང་ (to spend)
 
-<i class="b">○ + བརྒྱབས་པ་</i> (རྒག་པ་[^1]) (honorific: སྐྱོན་པ་): 
+<span style="color: #9901ff">○ + བརྒྱབས་པ་</span> (རྒག་པ་[^1]) (honorific: སྐྱོན་པ་): 
 - པར་ (to take pictures)
+- ལེན་ (to answer)
 - སྐོར་ར་ (to circumambulate)
 - སྒོ་ (to close the door)
 - ངལ་གསོ་ (to take rest)
@@ -37,22 +42,27 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - བོད་སྐད་ (to speak Tibetan)
 - གདོང་ཐུག་ (to bump into)
 - ཉོ་ཆ་ (to do shopping)
+- ཚོང་ (to make business)
 - ངལ་གསོ་ (to take rest)
 - དཀའ་ལས་ (to make an effort)
-- བརྗེ་པོ་ (to change the time)
+- བརྗེ་པོ་ (to exchange)
+- རྐུ་མ་ (to steal)
+- གོམ་པ་ (to walk)
+- སྒོ་ (to close the door)
 - Some non-volitional ones too!
 	- གློ་ (to cough)
 	- ཟུག་ (to hurt, ache)
 	- ཆམ་ (to have a cold)
 
-<i class="b">○ + བཟོ་པ་</i>:
+<span style="color: #38761d">○ + བཟོ་པ་</span>:
 - ཁ་ལག་ (to cook)
 - རྙོག་དྲ་ (to cause problems)
 - སུན་པོ་ (to give a hard time)
 - རོགས་པ་གསར་པ་ (to make new friends)
 - འཆར་བཞི་ (to make plans)
+- ཅ་སུན་པོ་ (to bother)
 
-<i class="b">○ + བཏང་བ་</i> (གཏོང་[^1]):
+<span style="color: #e69038">○ + བཏང་བ་</span> (གཏོང་[^1]):
 - འགུལ་བསྐྱོད་ (to move)
 - ཡིག་ཚད་ (to take exam)
 - འདྲི་བ་ (to ask a question)
@@ -65,19 +75,26 @@ In imperative <i class="r">negation</i> sits in-between too: འཁྲུག་�
 - གཅིན་པ་ (to pee)
 - སྐྱིད་པོ་ (to have fun)
 - སྤ་སེ་(to reserve a ticket)
-- སྦག་སྦག་ (to ride motorbike)
+- སྦག་སྦག་ (to drive motorbike)
+- ཆར་པ་ (to rain)
+- གངས་ (to snow)
+- ཐུགས་སྤྲོ་ (to throw a party)
+- གླིང་ག་ (to have pic-nic)
+- འཕྲོ་བརླག་ (to waste)
+- གཤེ་གཤེ་ (to scold)
 
-<i class="b">○ + ཤོར་</i>, builds **non-volitional** verbs:
+<span style="color: #f1c231">○ + ཤོར་</span>, builds **non-volitional** verbs:
 - སེམས་པ་ (to fall in love)
 - ནོར་འཁྲུལ་ (to make mistakes)
 - གད་མོ་ཤོར་ (to laugh)
 - འཁྲུགས་པ་ (to end up in a fight)
 - སྐད་ (to cry out)
+- རྐུ་མ་ (to get stolen)
 - གཅིན་པ་ (to pee oneself[^2])
 
 To reply to questions, repeat the verbalizer alone:
-- Q: བཞས་མང་པོ་<i class="b">བཏང་</i>པ་ཡིན་པས།
-- A: མང་པོ་<i class="b">བཏང་</i>མེད།
+- Q: བཞས་མང་པོ་<span style="color: #e69038">བཏང་</span>པ་ཡིན་པས།
+- A: མང་པོ་<span style="color: #e69038">བཏང་</span>མེད།
 
 > [!CAUTION] Careful
 > Not because of the fact the verbalizer བཟོ་ or བརྒབས་ are volitional means the resulting verb will also be.
