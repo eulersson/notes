@@ -29,12 +29,20 @@ However if you change the order the meaning changes:
 | འགྲམ་              | next to                        |
 | གཡས་གཡོན་          | around, in the surroundings of |
 | ཕྱི་ལོགས་          | outside                        |
-| བར་(རུ་)[^1]           | between                        |
+| བར་(རུ་)[^1]       | between                        |
 | འཁྲིལ་             | near                           |
 | ངོས་               | on (wall)                      |
 | ཕར་ཕྱོགས་          | opposite                       |
 | ཡར་མར་ or ག་ས་ག་ལ་ | here and there, everywhere     |
-|                    |                                |
+
+> [!WARNING] Omission of འབྱེལ་སྒྲ་
+> Sometimes the *connective particle* in spoken language drops so the speech is more smooth.
+> 
+> According to [[SINI Colloquial Tibetan Programs]] when the noun where the *connective particle* would attach to does not have suffix, for example:
+> -  ངའི་བླ་མ་ང<i class="g">འི</i>་མདུན་ལ་ཡོད་རེད། (or ང་ཡི་, remember འབྲེལ་སྒྲ་ has two possibilities) does not omit it because ང་ doesn't have a suffix.
+> - ངའི་བླ་མ་ངའི་ཨ་མ་ལགས་~~ཀྱི་~~མདུན་ལ་ཡོད་རེད། can be omitted.
+> 
+> **However do not take this rule too strictly**, this is based on [[Franziska Oertle]]'s observation; spoken language is a very fluid phenomena.
 
 ![[Tibetan Bedroom Postpositions]]
 
