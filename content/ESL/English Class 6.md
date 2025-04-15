@@ -90,3 +90,5 @@ Explain each one by using any item from the class room and placing them in relat
 
 ![](https://www.youtube.com/watch?v=VSn-7QmnJr8)
 
+[[English Beginner Classes]]
+<< [[English Class 5]] | [[English Class 7]] >>

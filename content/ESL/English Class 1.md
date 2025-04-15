@@ -89,3 +89,6 @@ Sentences to learn:
 
 > [!CAUTION] Answers
 > They must reply properly: ❌ ~~3~~  ✅ **There are 3 circles**.
+
+[[English Beginner Classes]]
+<< ø | [[English Class 2]] >>

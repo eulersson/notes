@@ -65,3 +65,5 @@ With this students will practice translating navigation instructions to speech a
 - Have the students say the correct instructions.
 - Number of steps can be drawing.
 
+[[English Beginner Classes]]
+<< [[English Class 4]] | [[English Class 6]] >>

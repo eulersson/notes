@@ -80,3 +80,6 @@ The name of the animals will be collected and studied: ^f40775
 At the end: Two volunteers, one has to formulate sentence "How many rhinos are there?" and the other needs to answer, "There is one rhino". Time to introduce the **only** word. "There is ==only== one rhino". They get ==point==!
 
 Now work on the ==translation== of the words collected from the video into their native language (ideally would be nice to draw the concept, but we can't afford so much time). Tell them you will ask them with images tomorrow, so they need to study. Ask volunteers to draw on the whiteboard (4 and 4). They get ==point==.
+
+[[English Beginner Classes]]
+<< [[English Class 1]] | [[English Class 3]] >>

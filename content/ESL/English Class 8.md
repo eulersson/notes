@@ -18,17 +18,36 @@ tags:
 
 ## 1. Review Vocabulary (Anki) (20 min)
 
-| Set          | Way         | Points         |     |
-| ------------ | ----------- | -------------- | --- |
-| Animals      | Speak aloud | No             |     |
-| Verbs        | Speak aloud | No             |     |
-| Body parts   | Speak aloud | No             |     |
-| Directions   | Speak aloud | No             |     |
-| Prepositions | Type        | Yes in 3 right |     |
+| Set          | Way  | Points         |     |
+| ------------ | ---- | -------------- | --- |
+| Verbs        | Type | Yes if 3 right |     |
+| Prepositions | Type | Yes if 3 right |     |
+
+## 2. To Have (20 min)
+Explain **have / has**
+- (I / you) <i class="p">have</i>
+- (He / she / it) <i class="b">has</i>
+- (We / you / they) <i class="p">have</i>
+
+Asking questions:
+- How many do (I / you / we / you / they) <i class="p">have</i>
+- How many **does** he <i class="b">have</i>?
+
+Asking questions:
+- How many arms do <i class="p">you</i> have?
+- I <i class="p">have</i> 2 arms.
+
+- How many pens do <i class="p">I</i> have
+- You <i class="p">have</i> 1 pen.
+
+- How many eyes does <i class="b">he</i> have
+- He <i class="b">has</i> two eyes.
+
+[Games to Learn English | Monster Phrases | Have Has](https://www.gamestolearnenglish.com/monster-phrases/#review)
 
 ---
 
-## Introducing Themselves (55 min)
+## 3. Introducing Themselves (55 min)
 ### Explain (15 min)
 Write the following sentences and have them copy.
 
@@ -58,7 +77,6 @@ By rolling a dice one student needs to ask that question to the student next to 
 > [!NOTE] Efficiency
 > We can split the class in two so the assisting teacher can do the other half
 
-
 ### Activity: Small Dialog (20 min)
 Get a student pair, they will get ==points== regardless of their performance.
 
@@ -67,3 +85,9 @@ They need to go through the entire dialog in the [[#Explain (15 min)]] section. 
 When it comes to choosing the emotion or the action:
 - **The emotion is acted by the teacher.** Then the student that replies needs to say it loud and act it.
 - The action is whispered and written by the teacher in small whiteboard. Then the student acts and the person asking has to say **You are ...**.
+
+### Homework: Study Dialog
+That dialog should be studied and next day if students can deliver them without looking at the board they get ==2 points==.
+
+[[English Beginner Classes]]
+<< [[English Class 7]] | [[English Class 9]] >>

@@ -77,3 +77,6 @@ Getting the imperative (play) and continuous form (playing), practicing dictatio
 
 ### Activity (10 min)
 *[[Headway English Activity Book 1|Activity Book]] page 8*
+
+[[English Beginner Classes]]
+<< [[English Class 3]] | [[English Class 5]] >>

@@ -49,6 +49,9 @@ To encourage them to participate a reward system might be suitable: **1 point if
 
 Those points can be paper tokens signed by the teacher, or be written on a colour paper sheet which makes it more difficult for them to fake, and can be exchanged and recorded at the end of the class.
 
+> [!NOTE] Point Cash Out
+> When a point is cashed out, rip the paper token.
+
 This [VR roller coaster](https://apps.apple.com/es/app/roller-coaster-vr-theme-park/id1029391378?l=en-GB) game (you can buy the plastic case for 3-4 dollars and use your phone as screen) or offering the student with most points to go to roller skate, bumper cars or something that's also fun for you, teacher!
 
 Another option is to find a quick party game for laptop that can be played with 2 USB controllers and at the end of the class everyone can enjoy together the gameplay.

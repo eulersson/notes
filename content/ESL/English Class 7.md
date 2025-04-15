@@ -26,14 +26,18 @@ tags:
 | ------------ | ----------- | -------------- | --- |
 | Animals      | Speak aloud | No             |     |
 | Verbs        | Speak aloud | No             |     |
-| Body parts   | Speak aloud | No             |     |
-| Directions   | Type        | Yes if 3 right |     |
-| Prepositions | Type        | Yes in 3 right |     |
+| Actions      | Speak aloud | No             |     |
+| Directions   | Speak aloud | No             |     |
+| Prepositions | Type        | Yes if 3 right |     |
+
+Competition between two teams with ==points==.
+- [Games to Learn English | Body Parts | Set 2](https://www.gamestolearnenglish.com/body-parts/#review)
+- [Games to Learn English | Body Parts | Set 4](https://www.gamestolearnenglish.com/body-parts/#review)
 
 ---
 
 ## 2. Class Room Item Vocabulary
-Ask students "What is this?" with classroom items you see, they must reply "This is a \_\_\_". This is going to be useful for the upcoming exercises. Take a picture of the whiteboard and add those words in the Anki deck.
+Ask students to ask "What is this?" with classroom items you see, then teacher replies "This is a \_\_\_". This is going to be useful for the upcoming exercises. Take a picture of the whiteboard and add those words in the Anki deck.
 
 ## 3. Review Body Parts (20 min)
 ### Activity: Touching Something With Body Part (21 min)

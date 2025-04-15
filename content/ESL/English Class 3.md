@@ -70,3 +70,6 @@ Memo game on the whiteboard covering the emojis and the emotion names.
 - Student replies: “I feel \_\_\_”.
 
 Students get ==1 point== for this and ==1 extra== if they did acting.
+
+[[English Beginner Classes]]
+<< [[English Class 2]] | [[English Class 4]] >>
