@@ -59,6 +59,7 @@ To deploy to to *Cloudflare* follow the guide in [Quartz's documentation](https:
 To create the right API Token for this task go to *User API Tokens > Create API Token*  and select the preset **Edit Cloudflare Workers**.
 
 ## Next Steps
+- **Publish only what was modified since last push. Maybe look at the file modification dates and the date of the last commit. Either this or we need to keep track of a store of hashes.** Otherwise as I have more notes this will take loooooooong times.
 - Fixing timestamps since all articles show the latest commit date.
 - A way to squash the graph of git tree nodes.
 - General graph view on Home page would be great.
