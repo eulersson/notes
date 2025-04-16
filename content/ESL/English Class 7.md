@@ -51,6 +51,14 @@ The teacher will reveal four sentences like:
 - Touch a head with your nose. 
 - Touch a whiteboard with a pen.
 
+
+
+Touch a bell with your ear
+Touch a table with your nose
+Touch a pillow with your finger
+Touch a book with your left hand
+
+
 And one by one the students need to perform these actions while the teacher **keeps track of time**.
 
 The winner is the team that finished them the fastest. If no winner then the team who completed more actions wins.
@@ -70,23 +78,12 @@ Rewatch (or watch for the first time if you run out of time in [[English Class 6
 
 ![](https://www.youtube.com/watch?v=iyjny2WAKcg)
 
-![](https://www.youtube.com/watch?v=VSn-7QmnJr8)
 
 
 ### Activity: Prepositions Computer Game (20 minutes)
 Play in teams (one team out of the classroom) as done recently, check [[English Class 6#Activity Interactive Review (10 min)|how we conducted the game]].  Each team 2 students. The highest scoring team wins. Track time to resolve tie results.
 
 [Games to Learn English | Prepositions Game](https://www.gamestolearnenglish.com/prepositions-game/)
-
-### Activity: Placing Items Around (30 min)
-Have two teams with 3 members. All team members can discus together, but one player is the one who will perform the action. Active player can be marked with a ==balloon== attached on him.
-
-With the prepositions projected on screen, say sentences like "Put the pen inside the teacher's bag.". If the students miss vocabulary, draw the item in the whiteboard.
-
-## 4. Video Games (10 min)
-Cash out the ==point== holders and play video games. Limit it to only 2 rounds of playing, that is, cashing out 4 tickets (since 2 students play at once in my case, it's a game with 2 game controllers).
-
-Also because recently they have not been playing, and that way the motivation might still get sustained to keep them motivated after the difficulty of earning points has increased.
 
 [[English Beginner Classes]]
 << [[English Class 6]] | [[English Class 8]] >>

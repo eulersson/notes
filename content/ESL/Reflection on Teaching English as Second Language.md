@@ -5,11 +5,21 @@ tags:
 - teaching
 ---
 
+This document reflects my personal observations when conducting the [[English Beginner Classes]].
+
 🙂 With projector, students typing in Anki flashcards works so well, since it tells you the letters that you failed. If the word is difficult then I allow them to fail 1 or 2 characters.
 
 🙂 Selecting written words from bag works well, because the taken word is not reintroduced and does not repeat, as in other word selection methods.
 
 🙂 Acting actions works very well, they get motivated and happy. It makes the class less boring.
+
+🙂 Better to cash out the points (for video games) on their free day, so it's bigger of an event!
+
+🙂 Write the date on the point. Cash the points by ripping the ticket.
+
+🙂 For the Anki decks where students go in front of the class to spell the images they see on screen, if you change players every 4 flashcards it works better. For that the number of flash cards must be a multiple of 4.
+
+🙂 For the Anki deck vocabulary review, having 4 students simultaneously with little whiteboards in front of the class works better, so there are more contestants. If nobody reaches the thresholds to win points, then the one with highest score wins. In case of draw then do a lightning round of showing flashcards and the first of the students says the name correctly then gets the point.
 
 😔 The small kids need much help with physical things like tearing the paper, writing the name and folding it. So allocate enough time based on number and age.
 

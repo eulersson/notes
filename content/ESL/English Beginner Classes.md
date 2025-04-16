@@ -5,28 +5,40 @@ tags:
 - teaching
 ---
 ## Resources
-Books:
+### Books
 - [[ESL Games]]
 - [[Basic ESL Curriculums]]
 - (Nepal) Grade 1 Headway English: Grammar and Composition
 - (Nepal) Grade 1 Headway English: Activity Book
 
-Audio-Visual:
+### Audio-Visual
 - [Magic English](https://www.youtube.com/playlist?list=PLL4rJkInfUHUL44tyu1bu7YxwWRukTExx) when we finish and there's still 10 minutes left, or to do a full day of Magic English and exercises.
 
-Material:
+### Material
 - Computer and projector.
 - White board and marker.
 - Sticky tape and cardboard.
 - Material from [[#Selection Methods and Reward System]]
 
-Digital Resources:
-- Anki Deck (Flashcard App)
-	- Anki allows creating one own's deck with any word, so the ones we accumulate in these lessons I'm dumping them into a public deck.
-	- With a projector it's fun because then a student comes in and types the name of the image that shows on he flashcard and it shows the letters you failed.
-	- When there's too many flashcards for the students (which slows down the rhythm of the class so much) the teacher can either:
-		- Have one student do many flashcards instead of only one.
-		- Simply have them speak loud and pressing enter.
+### Digital Resources
+#### Computer Games
+- [Games to Learn English](https://www.gamestolearnenglish.com/)
+
+#### Anki
+> [!SUCCESS] Custom Anki Deck
+> Drill in or memorize these lesson's vocabulary with this set:
+> - [Anki Deck: rmn English Beginner Type-In Pictures](https://ankiweb.net/shared/info/1831769758)  
+
+Anki allows creating one own's deck with any word, so the ones we accumulate in these lessons I'm dumping them into a public deck.
+With a projector it's fun because then a student comes in and types the name of the image that shows on he flashcard and it shows the letters you failed.
+
+You don't need to download the software, you can play it online.
+
+When there's too many flashcards for the students (which slows down the rhythm of the class so much) the teacher can either:
+
+Have many student do many flashcards instead of only one, and make sure they don't cheat by looking at each other's work.
+
+Simply have them speak loud and pressing enter.
 
 ## Selection Methods and Reward System
 Sometimes instead of having to randomly select choices or players (which I struggle with) it's better to have some physical activity such as the ones listed below.
