@@ -13,7 +13,7 @@ tags:
 - To Have
 
 ## Material
-- 6-sided dice
+- 2 balloons with string.
 
 ---
 ## 1. Review Vocabulary (Anki) (20 min)
@@ -38,7 +38,7 @@ With the prepositions projected on screen, say sentences like "Put the pen insid
 
 **Classroom Items**: wall, table, switch plug, pillow, pencil, pen, eraser, dust bin, door, dog, curtain, computer, chair, book, bell, whiteboard
 
-- Put the dust bin among the tables.
+- Put the pen among the tables.
 - Put a pillow behind the door.
 - Put two pens between two tables.
 
@@ -46,17 +46,21 @@ With the prepositions projected on screen, say sentences like "Put the pen insid
 - Put a chair next to the wall.
 - Put a གཟན། under a table.
 
-- Put a paper in front the dust bin.
+- Put a paper in front of the dust bin.
 - Put a book far from the bell.
 - Put a pillow outside (Bāhira) the room (Kōṭhā).
 
 - Put a pencil under the plug.
-- Put an eraser on a monk's head.
+- Put an sharpner on a monk's head.
 - Put a book under a monk.
 
 - Put a pen in རྔུལ་ལེན།
-- Put a pencil in a चप्पल
+- Put a pencil in a sandal (चप्पल)
 - Put an eraser among pens.
+
+- Put the pen in your nose
+- Put a sandal on your knee
+- Put a sharpener
 
 ---
 ## 3. To Have (20 min)

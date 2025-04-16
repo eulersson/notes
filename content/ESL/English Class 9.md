@@ -12,15 +12,13 @@ tags:
 - Introducing themselves
 
 ## Material
-- 6-sided dice
+- 25 squared pieces of paper
+- 16 drawings
 
 ---
-## 1. Review Vocabulary (Anki) (20 min)
+## 1. Describing (20 min)
 
-| Set          | Way  | Points         |
-| ------------ | ---- | -------------- |
-| Body Parts   | Type | Yes if 2 right |
-| Prepositions | Type | Yes if 2 right |
+Draw 25 pictures that show repeated elements on certain positions so the students need to say "There are N things on the thing.", or "There is only 1 thing under the thing."
 
 ---
 ## 2. Crafting a Dice
@@ -40,6 +38,11 @@ By rolling a dice one student needs to ask that question to the student next to 
 
 > [!NOTE] Efficiency
 > We can split the class in two so the assisting teacher can do the other half
+
+---
+
+### Homework: Study Dialog
+Tomorrow you will give 2 points to each person that completes it by heart.
 
 [[English Beginner Classes]]
 << [[English Class 8]] | [[English Class 10]] >>

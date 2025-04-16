@@ -30,3 +30,5 @@ This document reflects my personal observations when conducting the [[English Be
 😔 I don't know how to handle the case where they take long to reply or when they fail. In both of these cases I say the correct answer and continue to prevent stopping the flow of the class.
 
 😔 Don't assume they can draw shapes you consider simple as in the [[Prepositions of Place Sheet for Students]] easily... That's why I ended up making the printed handout.
+
+😔 Activities such as [[English Class 8#Activity Placing Items Around (30 min)]] that involves racing for completing objectives can get chaotic! Careful!
