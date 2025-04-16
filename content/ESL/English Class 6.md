@@ -17,7 +17,6 @@ tags:
 - Printed sheet with the prepositions.
 
 ---
-
 ## 1. Refresh Vocabulary (Anki) (20 min)
 Since we start to have many words, speed up the process by speaking aloud instead of having the student to type.
 
@@ -56,6 +55,7 @@ Give ==points== to the winning team members.
 > [!TODO] Anki
 > Add those extra vocabulary pieces into the Anki deck for next class.
 
+---
 ## 3. Prepositions (10 min)
 ### Explain (15 min)
 Show the picture below and draw a simpler one in the whiteboard that they must copy without the 3D depth of the cube. Students must ==copy== them down and study for next class.

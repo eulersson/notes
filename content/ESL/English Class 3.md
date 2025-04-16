@@ -23,14 +23,12 @@ tags:
 Using Anki have images of all the vocabulary that has been added to the deck, e.g.  [[English Class 2#^f40775]], have students come to the computer and type them in (maybe 4) and get ==point==. Others must write to their notebook too.
 
 ---
-
 ## 2. Refresh: Lion King Live Action (20 min)
 Play *I Just Can't Wait to be King* ([YouTube link](https://www.youtube.com/watch?v=ysb_gxJ8LE4)) of the live action.
 
 After playing, skip around and ask some students what is the animal, and practice counting "How many birds are there?", "There are 5 birds.".
 
 ---
-
 ## 3. Feelings (40 min)
 ### Explain (5min)
 (1) angry, (2) bored, (3) happy, (4) nervous, (5) relaxed, (6) sad, (7) sick, (8) tired.

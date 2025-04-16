@@ -16,7 +16,6 @@ tags:
 - Piece of cloth to cover eyes.
 
 ---
-
 ## 1. Refresh Vocabulary (Anki) (20 min)
 Since there are many cards now each pair of students write 3 cards.
 - Subjects
@@ -24,10 +23,10 @@ Since there are many cards now each pair of students write 3 cards.
 - Animals
 
 ---
-
 ## 2. Sentence Building Game (10 min)
 https://www.gamestolearnenglish.com/monster-phrases/#game
 
+---
 ## 3. Body Parts (5 min)
 - Arm
 - Finger
@@ -35,6 +34,7 @@ https://www.gamestolearnenglish.com/monster-phrases/#game
 - Elbow
 - Foot
 
+---
 ## 4. Directions (10 min)
 ![[Directions.png]]
 
@@ -42,6 +42,7 @@ https://www.gamestolearnenglish.com/monster-phrases/#game
 > Where is up / down / forward / back / right / left?
 > Throw the balloon to your left / right / forward / back.
 
+---
 ## 5. Pointing with Body (10 min)
 ### Activity: Simon Says
 Get volunteer (gets ==point==) and start saying:
@@ -50,12 +51,14 @@ Get volunteer (gets ==point==) and start saying:
 - Point forward with finger.
 - Point back with foot.
 
+---
 ## 6. Navigating (35 min)
 ### Explain (5 min)
 - Go (3 steps) forward
 - Go (2 steps) back
 - Turn right / left.
 
+---
 ### Activity (30 min)
 With this students will practice translating navigation instructions to speech and the person receiving them to execute them.
 - Draw in the board the distribution of tables.

@@ -22,7 +22,6 @@ tags:
 > Remember them to show their folded paper with the name sitting on the top of their table.
 
 ---
-
 ## 1. Refresh: Alphabet + Numbers (10 min)
 Make a big circle with students standing up and holding hands. Then each student places the hand on top of the other, and they have to clap their way through the alphabet, that is, I clap the person next to me on the left after saying the letter. And then numbers from 30 to 0.
 
@@ -33,23 +32,27 @@ Make a big circle with students standing up and holding hands. Then each student
 
 Explain letters combined make words, not not all group of letters are words. A word must have a meaning.
 
+---
 ### Activity: Changing from Capital to Small Letter (5 min)
 Teacher holds one of the portable boards, and a student is selected, and receives the other portable board. The teacher writes a word in CAPITALS and all the students write it in small letters, or vice-versa. Then I get the student board and I check with the rest of the class if it's correct or not.
 
+---
 ### Activity: Is This a Word? (5 min)
 Write in the portable whiteboard one word and ask if they think it's a word or not. Do the same with gibberish words. Let them pass the balloon to select upcoming players.
 
+---
 ### Work: Changing from Capital to Small Letter (2.5 min)
 *[[Headway English Grammar and Composition 1|Grammar and Composition]] page 10, exercise I, II.*
 
+---
 ### Work: Write Name in Capitals and Small Letters (2.5 min)
 *[[Headway English Grammar and Composition 1|Grammar and Composition]] page 10, exercise IV.*
 
+---
 ### Work: Circling Meaningless Words (5 min)
 *[[Headway English Grammar and Composition 1|Grammar and Composition]] page 10, exercise IV.*
 
 ---
-
 ## 3.  Vocabulary: Lion King (30 min)
 
 Play *I Just Can't Wait to be King* ([YouTube link](https://www.youtube.com/watch?v=cHxCIQuWDd0)) of the traditional animation.

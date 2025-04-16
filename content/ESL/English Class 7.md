@@ -19,7 +19,6 @@ tags:
 - String to attach the balloon on the active player.
 
 ---
-
 ## 1. Review Vocabulary (Anki) (20 min)
 
 | Set          | Way         | Points         |     |
@@ -35,10 +34,10 @@ Competition between two teams with ==points==.
 - [Games to Learn English | Body Parts | Set 4](https://www.gamestolearnenglish.com/body-parts/#review)
 
 ---
-
 ## 2. Class Room Item Vocabulary
 Ask students to ask "What is this?" with classroom items you see, then teacher replies "This is a \_\_\_". This is going to be useful for the upcoming exercises. Take a picture of the whiteboard and add those words in the Anki deck.
 
+---
 ## 3. Review Body Parts (20 min)
 ### Activity: Touching Something With Body Part (21 min)
 Play with 2 teams of 3 players each.
@@ -70,7 +69,6 @@ Elements to play with:
 > 21 minutes = 3 games of 7 minutes (each player gets 2 minutes).
 
 ---
-
 ## 3. Review Prepositions (20 min)
 
 ### Activity: Videos (10 min)

@@ -42,19 +42,21 @@ Ask to **write their name on a paper**, fold it in half and leave it standing on
 > Now explain that **points will be recorded**. **Participating** is **1 point**. Getting **good answer** is **1 point**. At the end of the class who's got most points gets to play a computer video game, VR ride, or whatever other treat. At the end of the month the 2 monks with most points go roller skating in Kathmandu or to fun park.
 
 ---
-
 ## 2. Alphabet (25 min)
 ### Refresh: Alphabet (5min)
 Write the alphabet lowercase and capital letters and have them sing it.
 
+---
 ### Activity: L for Learning! (5 min)
 Balloon with letters A-Z: make a balloon and write all letters of the alphabet and toss it along.
 
 When the student gets it then checks the letter closest to the right thumb and then says "L for \_\_\_" saying a word that starts with "L". If they can't find one in English, they can use their own language.
 
+---
 ### Activity: Spelling Your Name (5 min)
 Select student to spell the name loud and teacher writes it to whiteboard. Teacher can make mistakes to catch up attention of students.
 
+---
 ### Activity: Student-Student Dictation (10 min)
 Select students. The selected student receives a word from the teacher by picking one word from the bag with words written in paper snippets. Then the goal is that the student **spells** it loud and the rest of students **write it down**.
 
@@ -63,6 +65,7 @@ Select students. The selected student receives a word from the teacher by pickin
 ### Refresh: Count Up & Down (5min)
 Write the number and have the class count up and down. 
 
+---
 ### Activity: How many? (10 min)^8fda69
 
 Write in the board the words:

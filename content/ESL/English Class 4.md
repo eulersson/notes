@@ -17,17 +17,15 @@ This class I want to relax a bit from doing interactive activities and try to se
 - Continuous: -ing, if it's happening right now.
 
 ## Material
-- [ ] Laptop and projector or screen.
-- [ ] Bag with the vocabulary words (16).
+- Laptop and projector or screen.
+- Bag with the vocabulary words (16).
 
 ---
-
 ## 1. Refresh: Vocabulary (Anki) (20 min)
 - Animals
 - Emotions
 
 ---
-
 ## 2. Pronouns
 I, you, he / she / it, we, you, they
 
@@ -41,7 +39,6 @@ Now write the pronouns at the board and have them copy. Write them with little d
 > Add those words as flashcards for refreshing.
 
 ---
-
 ## 3. Verbs (Infinitive and Continuous) (30 min)
 
 ### Explain (20 min)
@@ -57,7 +54,8 @@ We will work on the following verbs. No need to whiteboard them yet.
 > [!NOTE] Anki
 > Add those words to the Anki deck for memorizing!
 
-## Activity: Acting (10 min)
+---
+### Activity: Acting (10 min)
 Getting the imperative (play) and continuous form (playing), practicing dictation at the same time. Give points to the volunteers.
 - Student gets selected.
 - Student pulls a paper verb from the bag.
@@ -74,7 +72,6 @@ Getting the imperative (play) and continuous form (playing), practicing dictatio
 - The teacher can also put the student under test to perform the action with others and do the action collectively so the teacher asks "What ==are they== doing?", and students reply "==They are== talking.", instead of "What ==is he doing?==.". Also you can ask the student to say "What ==am I doing==?" while performing the actions. All this is to drill the **subject pronouns.**
 
 ---
-
 ### Activity (10 min)
 *[[Headway English Activity Book 1|Activity Book]] page 8*
 

@@ -9,13 +9,13 @@ tags:
 << [[English Class 7]] | [[English Class 9]] >>
 
 ## Learning Goals
-- Introducing themselves
+- Prepositions
+- To Have
 
 ## Material
 - 6-sided dice
 
 ---
-
 ## 1. Review Vocabulary (Anki) (20 min)
 
 | Set          | Way  | Points         |
@@ -24,9 +24,8 @@ tags:
 | Prepositions | Type | Yes if 2 right |
 
 ---
-
 ## 2. Prepositions (30 min)
-
+Continue practicing prepositions
 ### Activity: Video
 ![](https://www.youtube.com/watch?v=VSn-7QmnJr8)
 
@@ -35,6 +34,7 @@ Have two teams with 3 members. All team members can discus together, but one pla
 
 With the prepositions projected on screen, say sentences like "Put the pen inside the teacher's bag.". If the students miss vocabulary, draw the item in the whiteboard.
 
+---
 ## 3. To Have (20 min)
 Explain **have / has**
 - (I / you) <i class="p">have</i>
@@ -55,10 +55,14 @@ Asking questions:
 - How many eyes does <i class="b">he</i> have
 - He <i class="b">has</i> two eyes.
 
+---
 ### Activity: Computer Game
 [Games to Learn English | Monster Phrases | Have Has](https://www.gamestolearnenglish.com/monster-phrases/#review)
 
 ---
+### Extra
+- Magic English DVD 13 - My Body
+- Work from [[Headway English Grammar and Composition 1|Grammar and Composition]] or [[Headway English Activity Book 1|Activity Book]]
 
 [[English Beginner Classes]]
 << [[English Class 7]] | [[English Class 9]] >>
