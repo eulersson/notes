@@ -44,7 +44,7 @@ With the prepositions projected on screen, say sentences like "Put the pen insid
 
 - Put a pencil in the teacher's backpack.
 - Put a chair next to the wall.
-- Put a གཟན་ under a table.
+- Put a གཟན། under a table.
 
 - Put a paper in front the dust bin.
 - Put a book far from the bell.
@@ -54,6 +54,9 @@ With the prepositions projected on screen, say sentences like "Put the pen insid
 - Put an eraser on a monk's head.
 - Put a book under a monk.
 
+- Put a pen in རྔུལ་ལེན།
+- Put a pencil in a चप्पल
+- Put an eraser among pens.
 
 ---
 ## 3. To Have (20 min)
