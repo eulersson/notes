@@ -6,7 +6,7 @@ title: Home
  བསམ་པའི་ཙལ།
 > My Garden (tsal) of Thoughts (sampa) | Ramon's Notes and Reflections".
 
-At the moment this is quite empty. Use the left sidebar (three horizontal line) or start from the #tibetan tag. As time goes on hopefully you will see ideas or texts I want to share with the world:
+At the moment this is quite empty. Use the left sidebar (three horizontal line) or start from the #tibetan tag (or see my [[Tibetan Learning Diary]] documenting my language learnings and challenges). As time goes on hopefully you will see ideas or texts I want to share with the world:
 - Reflections
 - Notes about teaching
 - Technical write-ups
