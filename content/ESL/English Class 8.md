@@ -34,6 +34,27 @@ Have two teams with 3 members. All team members can discus together, but one pla
 
 With the prepositions projected on screen, say sentences like "Put the pen inside the teacher's bag.". If the students miss vocabulary, draw the item in the whiteboard.
 
+**Prepositions**: under, top, on, next to, near, in front of, far, bottom, below, behind, among, above.
+
+**Classroom Items**: wall, table, switch plug, pillow, pencil, pen, eraser, dust bin, door, dog, curtain, computer, chair, book, bell, whiteboard
+
+- Put the dust bin among the tables.
+- Put a pillow behind the door.
+- Put two pens between two tables.
+
+- Put a pencil in the teacher's backpack.
+- Put a chair next to the wall.
+- Put a གཟན་ under a table.
+
+- Put a paper in front the dust bin.
+- Put a book far from the bell.
+- Put a pillow outside (Bāhira) the room (Kōṭhā).
+
+- Put a pencil under the plug.
+- Put an eraser on a monk's head.
+- Put a book under a monk.
+
+
 ---
 ## 3. To Have (20 min)
 Explain **have / has**
