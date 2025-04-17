@@ -9,40 +9,30 @@ tags:
 << [[English Class 8]] | [[English Class 10]] >>
 
 ## Learning Goals
-- Introducing themselves
+- Prepositions
 
 ## Material
-- 25 squared pieces of paper
-- 16 drawings
-
----
-## 1. Describing (20 min)
-
-Draw 25 pictures that show repeated elements on certain positions so the students need to say "There are N things on the thing.", or "There is only 1 thing under the thing."
-
----
-## 2. Crafting a Dice
-With the student's let's craft a dice they will use for the rest of their classes.
-![](https://www.youtube.com/watch?v=8hA1BKyx5lA)
-
----
-## 2. Introducing Themselves (35 min)
-### Explain (15 min)
-Write on whiteboard or project the following sentences and have them copy.
-
-![[Introducing Yourself Small Dialog]]
-
----
-### Activity: Asking Next Student (20 min)
-By rolling a dice one student needs to ask that question to the student next to him. After the student replies, rolls the dice and go on.
-
-> [!NOTE] Efficiency
-> We can split the class in two so the assisting teacher can do the other half
+- 2 little extra whiteboards
+- Balloon
 
 ---
 
-### Homework: Study Dialog
-Tomorrow you will give 2 points to each person that completes it by heart.
+## 1. Review: Prepositions
+
+| Set          | Way         | Points         |
+| ------------ | ----------- | -------------- |
+| Class Items  | Speak aloud | No             |
+| Prepositions | Type        | Yes if 2 right |
+
+## 2. Prepositions (20 min)
+Play the [[English Class 8#Activity Placing Items Around (30 min)]] again to reinforce **class items** as well as **prepositions**.
+
+## 3. Book Activities
+Do some vocabulary and preposition writing on those pages:
+
+- [[Headway English Activity Book 1|Activity Book]] page 7.
+- [[Headway English Activity Book 1|Activity Book]] page 12.
+- [[Headway English Activity Book 1|Activity Book]] page 14 and 15.
 
 [[English Beginner Classes]]
 << [[English Class 8]] | [[English Class 10]] >>

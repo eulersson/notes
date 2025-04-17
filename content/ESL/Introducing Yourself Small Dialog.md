@@ -20,7 +20,7 @@ tags:
  **(5) How do you feel?** [^1]
  I feel happy / sad / tired / bored / relaxed / angry / sick / nervous [^2].
  
- **(6) Am I doing?** [^1]
+ **(6) What am I doing?** [^1]
  You are \_\_\_. [^3]
 
 [^1]: Whisper the action or feeling to the acting student, otherwise take him out of classroom and act it there, and have it come back and act.

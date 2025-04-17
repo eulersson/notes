@@ -2,39 +2,41 @@
 publish: true
 tags:
 - tibetan
+linklist:
+- "[[Tibetan Postpositions]]"
 ---
 
-My <i class="b">bedroom</i> generally has three big things: a <i class="b">table</i> for meals, a <i class="b">bed</i> and a study <i class="b">desk</i>.
 ངའི་<i class="b">ཤག་</i>ལ་དམིགས་བསལ་ཅ་ལག་ཆེན་པོ་གསུམ་མ་གཏོགས་ཡོད་མ་རེད། ཉལ་ཁྲི་དང། ཁ་ལག་གི་ཆེད་དུ་ཅོག་ཙེ་དང། རང་སྦྱོང་གི་ཆེད་དུ་ཅོག་ཙེ།
 
+My <i class="b">bedroom</i> generally has three big things: a <i class="b">table</i> for meals, a <i class="b">bed</i> and a study <i class="b">desk</i>.
+
+---
+
+<i class="b">ཉལ་ཁྲི་</i>ཤག་གི་<i class="p">རྒྱབ་</i>ལ་<i class="p">གཡོན་ཕྱོགས་</i>ལ་ཡོད་རེད   <i class="b">རྩིག་པ</i>འི་<i class="p">འཁྲིལ་</i>ལ་ཡོད་རེད   དེའི་<i class="p">སྒང་</i>ལ་<i class="b">སྔས་མགོ་</i>གཅིག་དང་<i class="b">ཉལ་ཆས་</i>གཅིག་འདུག   meter གཅིག་དང་ཕྱེད་ཀ་ཙམ་ལ་<i class="b">བང་ཁྲི</i>འི་<i class="p">སྒང་</i>ལ་<i class="b">རྩི་ཤིང་</i>གཅིག་ཡོད་རེད  <i class="b">བང་ཁྲི</i>འི་<i class="p">འགྲམ་</i>ལ་<i class="b">ཆུ་ཚོད་</i>གཅིག་ཡོད་རེད།
+
 The <i class="b">bed</i> is <i class="p">at the back</i> <i class="p">left</i> of the room, <i class="p">close to</i> the <i class="b">wall</i>. <i class="p">On</i> the <i class="b">bed</i> there is a <i class="b">pillow</i> and a <i class="b">blanket</i>. <i class="p">Above</i>, one and half meters up, there is a <i class="b">plant</i> <i class="p">on</i> a <i class="b">shelf</i>. <i class="p">Next to</i> the <i class="b">shelf</i> there is a <i class="b">clock</i>.
-<i class="b">ཉལ་ཁྲི་</i>ཤག་གི་<i class="p">བརྒྱབ་</i>ལ་<i class="p">གཡོན་ཕྱོགས་</i>ལ་འདུག <i class="b">རྩིག་པ</i>འི་<i class="p">འཁྲིལ་</i>ལ་འདུག དེའི་<i class="p">སྒང་</i>ལ་<i class="b">སྔས་མགོ་</i>གཅིག་དང་<i class="b">ཉལ་ཆས་</i>གཅིག་འདུག meter གཅིག་དང་ཕྱེད་ཀ་ཙམ་ལ་<i class="b">བང་ཁྲི</i>འི་<i class="p">སྒང་</i>ལ་<i class="b">རྩི་ཤིང་</i>གཅིག་འདུག <i class="b">བང་ཁྲི</i>འི་<i class="p">འགྲམ་</i>ལ་ཞིག་འདུག
 
-The <i class="p">front</i> <i class="b">table</i> is for eating. Now it it has some <i class="b">plates</i> <i class="p">all over</i>. It has two <i class="b">chairs</i> <i class="p">around</i>. The <i class="b">table</i> is <i class="p">between</i> the <i class="p">chairs</i>. <i class="p">Under</i> the table there is a <i class="b">carpet</i>. Behind the <i class="b">table</i> there is a mice!
-<i class="p">མདུན་</i>གྱི་<i class="b">ཅོག་ཙེ་</i>ལ་ཁ་ལག་གི་ཆེད་དུ་རེད། ད་ལྟ་<i class="b">ཅོག་ཙེ</i>འི་<i class="p">སྒང་</i>ལ་<i class="p">ཡར་མར་</i>ལ་<i class="b">སྡེར་མ་</i>ཁ་ཤས་ཡོད་རེད། <i class="b">ཅོག་ཙེ</i>འི་<i class="p">གཡས་གཡོན་</i>ལ་<i class="b">རྐུབ་ཀྱག་</i>གཉིས་ཡོད་རེད། <i class="b">རྐུབ་ཀྱབ་</i>གཉིས་ཀྱི་<i class="p">བར་</i>ལ་<i class="b">ཅོག་ཙེ་</i>ཡོད་རེད། <i class="b">ས་གདན་</i><i class="b">ཅོག་ཙེ</i>འི་འོག་ལ་ཡོད་རེད། ཨོ། <i class="b">ཙི་ཙི་</i>ཆུང་ཆུང་གཅིག་<i class="b">ཅོག་ཙེ</i>འི་<i class="p">རྒྱབ་</i>ལ་བཞག
+---
 
-There is a window at the centre of the right wall.
-རྩིག་པ་གཡས་ཕྱོགས་ཀྱི་མཁྲིལ་ལ་སྒེའུ་ཁོང་གཅིག་ཡོད་རེད།
+<i class="p">མདུན་</i>གྱི་<i class="b">ཅོག་ཙེ་</i>ཁ་ལག་ཟ་ཡག་གི་ཆེད་དུ་རེད།    <i class="b">ཅོག་ཙེ</i>འི་<i class="p">གཡས་གཡོན་</i>ལ་<i class="b">རྐུབ་ཀྱག་</i>གཉིས་ཡོད་རེད།   <i class="b">རྐུབ་ཀྱག་</i>གཉིས་ཀྱི་<i class="p">བར་</i>ལ་<i class="b">ཅོག་ཙེ་</i>དེ་ཡོད་རེད།   <i class="b">ས་གདན་</i><i class="b">ཅོག་ཙེ</i>འི་<i class="p">འོག་</i>ལ་ཡོད་རེད།   ཨོ།   <i class="b">ཙི་ཙི་</i>ཆུང་ཆུང་གཅིག་<i class="b">ཅོག་ཙེ</i>འི་<i class="p">རྒྱབ་</i>ལ་བཞག
 
-In the distance (through the window) you can see trees.
-རྒྱང་པོ་ལ་ཕྱི་ལོགས་ལ་ཤིང་སྡོང་ཁ་ཤས་མཐོང་ཐུབ་གི་ཡོད་རེད།
+The <i class="p">front</i> <i class="b">table</i> is for eating. It has two <i class="b">chairs</i> <i class="p">around</i>. The <i class="b">table</i> is <i class="p">between</i> the <i class="p">chairs</i>. <i class="p">Under</i> the table there is a <i class="b">carpet</i>. Behind the <i class="b">table</i> there is a mice!
 
-There is a poster on the the opposite wall.
-ཕར་ཕོགས་ཀྱི་རྩིག་པ་ལ་པར་བྱང་གཅིག་ཡོད་རེད།
-On the table there is one flower vase.
-ཅོག་ཙེའི་སྒང་ལ་མེ་ཏོག་བུམ་པ་གཅིག་ཡོད་རེད།
-Under the table there is a carpet.
-ཙོ་ཙེའི
-There is one flower in the vase. But another flower outside the base.
-དེའི་ནང་ལ་མེ་ཏོག་གཅིག་ཡོད་རེད། ཡིན་ན་ཡང་ཕྱི་ལོགས་ལ་མེད་ཏོག་གཅིག་ཡོད་རེད།
-Everywhere in the floor there are also flowers.
-At the back of the room, close to the front wall, at the left there is a bed.
-The front wall has a clock at the centre.
-The bed has a pillow and a blanket on top.
-On top of the bed there a shelf. The shelf has a plant.
-Next to the shelf there is a clock.
-Next to the shelf there is a wardrobe.
-There are statues in the shelf inside the wardrobe.
+---
+
+<i class="b">རྩིག་པ་</i><i class="p">གཡས་ཕྱོགས་</i>ཀྱི་<i class="p">མཁྲིལ་</i>ལ་<i class="b">སྒེའུ་ཁོང་</i>གཅིག་ཡོད་རེད།   <i class="p">རྒྱང་པོ་</i>ལ་<i class="p">ཕྱི་ལོགས་</i>ལ་<i class="b">ཤིང་སྡོང་</i>ཁ་ཤས་<i class="p">མཐོང་ཡག་ཡོད་རེད</i>།   ཕར་ཕོགས་ཀྱི་རྩིག་པ་ལ་པར་བྱང་གཅིག་ཡོད་རེད།
+
+There is a <i class="b">window</i> at the <i class="p">centre</i> of the <i class="p">right</i> wall. <i class="p">In the distance</i> (through the window) trees <i class="p">can be seen</i>. There is a <i class="b">poster</i> on the the <i class="p">opposite</i> wall.
+
+---
+
+<i class="b">ཅོག་ཙེ</i>འི་<i class="p">སྒང་</i>ལ་<i class="b">མེ་ཏོག་བུམ་པ་</i>གཅིག་ཡོད་རེད།   དེའི་<i class="p">ནང་</i>ལ་<i class="b">མེ་ཏོག་</i>གཅིག་ཡོད་རེད། ཡིན་ན་ཡང་<i class="b">བུམ་པ</i>འི་<i class="p">ཕྱི་ལོགས་</i>ལ་<i class="b">མེད་ཏོག་</i>གཅིག་ཡང་ཡོད་རེད།   <i class="b">ཅོག་ཙེ</i>འི་<i class="p">སྒང་</i>ལ་<i class="p">ག་ས་ག་ལ་</i><i class="p">སྡེར་མ་</i>ཙོག་པ་མང་པོ་ཡོད་རེད།   ཨ་མ་མ། ང་དེ་རིང་གྲ་སྒྲིག་མེད་པ་ཆགས་འདུག   <i class="b">ཅོག་ཙེ</i>འི་<i class="p">འོག་</i>ལ་<i class="b">ས་གདན་</i>གཅིག་ཡོད་རེད།
+
+On the table there is one flower vase. There is one flower in the vase. But another flower outside the base. Also there are dirty plates all over the table. Oh my God! Today I have been very disorganized! Under the table there is a carpet. 
+
+---
+སྒེའུ་ཁོང་གི་འོག་ལ་སྦྱོང་གི་ཆེད་དུ་གཅིག་ཡོད་རེད།  དེའི་སྒང་ལ་གློག་སྒྲོན་དང་དེབ་གཅིག་ཡོད་རེད།   སྦྱོང་གི་ཆེད་དུ་ཅོག་རྩེ་འཁྲིས་ལ་རྐུབ་ཀྱག་གཅིག་ཡོད་རེད།   ཅོག་ཙེ་དེ་ལ་ཐེང་སྒམ་གཅིག་ཡོད་རེད།   ཐེང་སྒམ་དེ་སྒོ་ཕྱེ་འདུག   
+
 Below the window there is a desk.
 The desk has a lamp and a book on top.
 Under the desk there is a chair.
