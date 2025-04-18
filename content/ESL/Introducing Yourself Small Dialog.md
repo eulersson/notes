@@ -24,5 +24,5 @@ tags:
  You are \_\_\_. [^3]
 
 [^1]: Whisper the action or feeling to the acting student, otherwise take him out of classroom and act it there, and have it come back and act.
-[^2]: From [[English Class 3#3. Feelings (40 min)]]
+[^2]: From [[English Class 003#3. Feelings (40 min)]]
 [^3]:  From Anki deck: talk, sweep, stand on \_\_\_, sit on \_\_\_, read, put on \_\_\_, point at \_\_\_, play, look at \_\_\_, jump, hold \_\_\_, get \_\_\_, fly, draw a \_\_\_, brush \_\_\_, chase \_\_\_.

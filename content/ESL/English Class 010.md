@@ -6,7 +6,7 @@ tags:
 ---
 
 [[English Beginner Classes]]
-<< [[English Class 9]] | [[English Class 11]] >>
+<< [[English Class 009]] | [[English Class 011]] >>
 
 ## Learning Goals
 - Prepositions
@@ -24,6 +24,8 @@ Show 16 drawings one by one. Those drawings have countable items placed at certa
 Two ways to do this exercise:
 1. Teacher asks student "How many pens are on the table?"
 2. Teacher prompts student to describe the image by making him produce the sentence! The student has to say "There are three pens on the table". And if they say "and there are..." then even greater!
+
+---
 
 ## 2. Crafting a Dice
 With the student's let's craft a dice they will use for the rest of their classes.
@@ -55,4 +57,4 @@ Tomorrow you will give 2 points to each person that completes it by heart.
 Actions and prepositions. 20 questions. If more than 13, then 2 points.
 
 [[English Beginner Classes]]
-<< [[English Class 9]] | [[English Class 11]] >>
+<< [[English Class 009]] | [[English Class 011]] >>

@@ -6,7 +6,7 @@ tags:
 ---
 
 [[English Beginner Classes]]
-<< ø | [[English Class 2]] >>
+<< ø | [[English Class 002]] >>
 
 ## Learning Goals
 - Alphabet A-Z
@@ -94,4 +94,4 @@ Sentences to learn:
 > They must reply properly: ❌ ~~3~~  ✅ **There are 3 circles**.
 
 [[English Beginner Classes]]
-<< ø | [[English Class 2]] >>
+<< ø | [[English Class 002]] >>

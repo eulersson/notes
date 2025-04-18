@@ -73,16 +73,16 @@ If many kids have to play at computer it's long, therefore I like the idea of sp
 ---
 
 # Classes
-- [[English Class 1]]
-- [[English Class 2]]
-- [[English Class 3]]
-- [[English Class 4]]
-- [[English Class 5]]
-- [[English Class 6]]
-- [[English Class 7]]
-- [[English Class 8]]
-- [[English Class 9]]
-- [[English Class 10]]
+- [[English Class 001]]
+- [[English Class 002]]
+- [[English Class 003]]
+- [[English Class 004]]
+- [[English Class 005]]
+- [[English Class 006]]
+- [[English Class 007]]
+- [[English Class 008]]
+- [[English Class 009]]
+- [[English Class 010]]
 
 ---
 

@@ -6,7 +6,7 @@ tags:
 ---
 
 [[English Beginner Classes]]
-<< [[English Class 1]] | [[English Class 3]] >>
+<< [[English Class 001]] | [[English Class 003]] >>
 
 ## Learning Goals
 - Transforming capital and small letters.
@@ -85,4 +85,4 @@ At the end: Two volunteers, one has to formulate sentence "How many rhinos are t
 Now work on the ==translation== of the words collected from the video into their native language (ideally would be nice to draw the concept, but we can't afford so much time). Tell them you will ask them with images tomorrow, so they need to study. Ask volunteers to draw on the whiteboard (4 and 4). They get ==point==.
 
 [[English Beginner Classes]]
-<< [[English Class 1]] | [[English Class 3]] >>
+<< [[English Class 001]] | [[English Class 003]] >>

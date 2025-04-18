@@ -6,7 +6,7 @@ tags:
 ---
 
 [[English Beginner Classes]]
-<< [[English Class 3]] | [[English Class 5]] >>
+<< [[English Class 003]] | [[English Class 005]] >>
 
 This class I want to relax a bit from doing interactive activities and try to see how we can follow the book more and how to do teaching with a text book that has such loose exercises. If the exercises are done swiftly, play some Magic English.
 
@@ -76,4 +76,4 @@ Getting the imperative (play) and continuous form (playing), practicing dictatio
 *[[Headway English Activity Book 1|Activity Book]] page 8*
 
 [[English Beginner Classes]]
-<< [[English Class 3]] | [[English Class 5]] >>
+<< [[English Class 003]] | [[English Class 005]] >>

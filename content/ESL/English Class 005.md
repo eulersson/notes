@@ -6,7 +6,7 @@ tags:
 ---
 
 [[English Beginner Classes]]
-<< [[English Class 4]] | [[English Class 6]] >>
+<< [[English Class 004]] | [[English Class 006]] >>
 
 ##  Learning Goals
 - Body parts.
@@ -69,4 +69,4 @@ With this students will practice translating navigation instructions to speech a
 - Number of steps can be drawing.
 
 [[English Beginner Classes]]
-<< [[English Class 4]] | [[English Class 6]] >>
+<< [[English Class 004]] | [[English Class 006]] >>

@@ -31,4 +31,4 @@ This document reflects my personal observations when conducting the [[English Be
 
 😔 Don't assume they can draw shapes you consider simple as in the [[Prepositions of Place Sheet for Students]] easily... That's why I ended up making the printed handout.
 
-😔 Activities such as [[English Class 8#Activity Placing Items Around (30 min)]] that involves racing for completing objectives can get chaotic! Careful!
+😔 Activities such as [[English Class 008#Activity Placing Items Around (30 min)]] that involves racing for completing objectives can get chaotic! Careful!

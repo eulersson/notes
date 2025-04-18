@@ -6,7 +6,7 @@ tags:
 ---
 
 [[English Beginner Classes]]
-<< [[English Class 2]] | [[English Class 4]] >>
+<< [[English Class 002]] | [[English Class 004]] >>
 
 ## Learning Goals
 - Refresh: Animals (using Anki flashcards)
@@ -20,7 +20,7 @@ tags:
 
 ---
 ## 1. Refresh: Learnt Words (20 min)
-Using Anki have images of all the vocabulary that has been added to the deck, e.g.  [[English Class 2#^f40775]], have students come to the computer and type them in (maybe 4) and get ==point==. Others must write to their notebook too.
+Using Anki have images of all the vocabulary that has been added to the deck, e.g.  [[English Class 002#^f40775]], have students come to the computer and type them in (maybe 4) and get ==point==. Others must write to their notebook too.
 
 ---
 ## 2. Refresh: Lion King Live Action (20 min)
@@ -70,4 +70,4 @@ Memo game on the whiteboard covering the emojis and the emotion names.
 Students get ==1 point== for this and ==1 extra== if they did acting.
 
 [[English Beginner Classes]]
-<< [[English Class 2]] | [[English Class 4]] >>
+<< [[English Class 002]] | [[English Class 004]] >>

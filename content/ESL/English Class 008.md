@@ -6,7 +6,7 @@ tags:
 ---
 
 [[English Beginner Classes]]
-<< [[English Class 7]] | [[English Class 9]] >>
+<< [[English Class 007]] | [[English Class 009]] >>
 
 ## Learning Goals
 - Prepositions
@@ -93,4 +93,4 @@ Asking questions:
 - Work from [[Headway English Grammar and Composition 1|Grammar and Composition]] or [[Headway English Activity Book 1|Activity Book]]
 
 [[English Beginner Classes]]
-<< [[English Class 7]] | [[English Class 9]] >>
+<< [[English Class 007]] | [[English Class 009]] >>

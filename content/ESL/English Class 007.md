@@ -6,7 +6,7 @@ tags:
 ---
 
 [[English Beginner Classes]]
-<< [[English Class 6]] | [[English Class 8]] >>
+<< [[English Class 006]] | [[English Class 008]] >>
 
 ## Learning Goals
 - Body parts
@@ -72,16 +72,16 @@ Elements to play with:
 ## 3. Review Prepositions (20 min)
 
 ### Activity: Videos (10 min)
-Rewatch (or watch for the first time if you run out of time in [[English Class 6]]), prompting the student's answer.
+Rewatch (or watch for the first time if you run out of time in [[English Class 006]]), prompting the student's answer.
 
 ![](https://www.youtube.com/watch?v=iyjny2WAKcg)
 
 
 
 ### Activity: Prepositions Computer Game (20 minutes)
-Play in teams (one team out of the classroom) as done recently, check [[English Class 6#Activity Interactive Review (10 min)|how we conducted the game]].  Each team 2 students. The highest scoring team wins. Track time to resolve tie results.
+Play in teams (one team out of the classroom) as done recently, check [[English Class 006#Activity Interactive Review (10 min)|how we conducted the game]].  Each team 2 students. The highest scoring team wins. Track time to resolve tie results.
 
 [Games to Learn English | Prepositions Game](https://www.gamestolearnenglish.com/prepositions-game/)
 
 [[English Beginner Classes]]
-<< [[English Class 6]] | [[English Class 8]] >>
+<< [[English Class 006]] | [[English Class 008]] >>

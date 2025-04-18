@@ -6,7 +6,7 @@ tags:
 ---
 
 [[English Beginner Classes]]
-<< [[English Class 10]] | [[English Class 12]] >>
+<< [[English Class 010]] | [[English Class 012]] >>
 
 ## Learning Goals
 - Introducing Themselves
@@ -49,4 +49,4 @@ Write on the board and have them copy:
 ![[How Are You.excalidraw.png]]
 
 [[English Beginner Classes]]
-<< [[English Class 10]] | [[English Class 12]] >>
+<< [[English Class 010]] | [[English Class 012]] >>
