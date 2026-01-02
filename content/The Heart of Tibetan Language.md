@@ -27,9 +27,17 @@ This is the book we are using for the online course at SINI and below you will f
 	- [[Tibetan Although]]
 	- [[Tibetan "na yang" With Question Words]]
 	- [[Tibetan Table "na", "na yang", "tsang"]]
-- Lesson 14
+- Lesson 15
 	- [[Tibetan Auxiliaries of Probability]]
 	- [[Tibetan Table Auxiliaries of Probability]]
 	- [[Tibetan Exile Vocabulary]]
-- Lesson 15
+- Lesson 16
 	- [[Tibetan Reported Speech]]
+- Lesson 17
+	- [[Tibetan Adjectives, Comparatives, Superlatives]]
+- Lesson 18
+	- [[Tibetan Nominalizers]]
+- Lesson 19
+	- [[Tibetan Relative Clauses]]
+- Lesson 20
+	- Tibetan Intensifiers

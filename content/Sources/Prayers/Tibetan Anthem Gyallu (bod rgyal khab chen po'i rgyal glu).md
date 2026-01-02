@@ -18,3 +18,20 @@ tags:
 བོད་ལྗོངས་བསྟན་འགྲོའི་དགེ་མཚན་ཉི་འོད་ཀྱིས།  
 བཀྲ་ཤིས་འོད་སྣང་འབུམ་དུ་འཕྲོ་བའི་གཟིས།  
 ནག་ཕྱོགས་མུན་པའི་གཡུལ་ལས་རྒྱལ་གྱུར་ཅིག།
+
+The source of temporal and spiritual wealth of joy and boundless benefits.
+
+The Wish-fulfilling Jewel of the Buddha's Teaching, blazes forth radiant light.
+
+The all-protecting Patron of the Doctrine and of all sentient beings  
+By his actions stretches forth his influence like an ocean  
+By his eternal [Vajra](https://en.wikipedia.org/wiki/Vajra "Vajra")-nature  
+His compassion and loving care extend to beings everywhere  
+May the celestially appointed Government of [Gawa Gyaden](https://en.wikipedia.org/wiki/Ganden_Phodrang "Ganden Phodrang") achieve the heights of glory  
+And increase its fourfold influence and prosperity  
+May a golden age of joy and happiness spread once more through these regions of Tibet  
+And may its temporal and spiritual splendour shine again  
+May the Buddha's Teaching spread in all the ten directions and lead all beings in the universe to glorious peace  
+May the spiritual Sun of the Tibetan faith and People  
+Emitting countless rays of auspicious light  
+Victoriously dispel the strife of darkness

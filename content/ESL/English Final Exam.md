@@ -20,6 +20,7 @@ Students should write the answers as follows on their notebook.
 ---
 
 Complete the following prepositions:
+next to, among, in front, far from, under, below, on, between, over, in, behind, close to
 ![[Prepositions of Place Exam.jpg]]
 
 ---

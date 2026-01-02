@@ -8,15 +8,25 @@ tags:
 
 ## Direct Reported Speech
 
-> Speaker + AP + {person addressed} + ལ་ + {quote} + ཟེ + to say, to hear (e.g. གསུང་སོང།)
-> ཨ་མས་  ཕྲུ་གུ་ཚོ་  ལ་  ང་ལམ་སང་ཡོང་གི་ཡིན་  ཟེ་  གསུང་སོང་།
-> Mother + AP  kids  to  "I'll come immediately"  she said.
+> <i class="g">Speaker</i> + <i class="p">AP</i> + {person addressed} + <i class="p">ལ་</i> + {quote} + <i class="b">ཟེ</i> + <i class="g">to say, to hear</i> (e.g. གསུང་སོང།)
+
+<i class="g">ཨ་མ</i><i class="p">ས་</i>  ཕྲུ་གུ་ཚོ་  <i class="p">ལ་</i>  <i class="y">ང་ལམ་སང་ཡོང་གི་ཡིན་</i>  <i class="b">ཟེ་</i>  <i class="g">གསུང་སོང་</i>།
+Mother + AP  kids  to  "I'll come immediately"  she said.
 
 
 > [!NOTE] ཟེ་
 > ཞེས། ཅེས། ཤེས། in literary
 
-## Me
+## Reporting Verbs
+Instead of saying *said*, or *told*, we can use any verb that expresses communication, really:
+- *replied* ལེན་བརྒྱབ་སོང་།
+- *asked* དྲིས་སོང་།
+- ...
+
+## Humilific "Told Me"
+གསུང་ is the honorific for ལབ་ and the humilific is ཞུས་
+
+## To Me
 
 If it's oneself the recipient of the information then both are correct:
 - ང་ལ་
@@ -24,9 +34,9 @@ If it's oneself the recipient of the information then both are correct:
 
 ## Imperatives
 
-རྒན་ལགས་ཀྱི་སློབ་ཕྲུག་ཚོ་ལ་དུས་ཚོད་ཏག་ཏག་ ཕེབས་རོགས་གནང་ ཟེ་གསུང་སོང།
+<i class="g">རྒན་</i>ལགས་<i class="p">ཀྱི་</i>སློབ་ཕྲུག་ཚོ་<i class="p">ལ་</i> <i class="y">དུས་ཚོད་ཏག་ཏག་ཕེབས་རོགས་གནང་</i> <i class="b">ཟེ་</i><i class="g">གསུང་སོང</i>།
 
-Or using **must**: ་་་ཕེབས་དགོས་རེད་ཟེ་གསུང་སོང།
+Or using **must**: ་་་ཕེབས་དགོས་རེད་ ཟེ་གསུང་སོང།
 
 ## Indirect Reported Speech
 
@@ -65,16 +75,19 @@ If you are reporting your own action, you can use *humilific* ཞུ་བ། in
 <i class="p">ང་ </i>རྒན་ལགས་ལ་ ཁྱེད་རང་སང་ཉིན་འཛིན་གྲྭ་ལ་ཕེབས་ཐུབ་ཀྱི་མ་རེད་ ཟེ་<i class="y">ཞུ་</i><i class="p">གི་ཡིན།</i>
 
 
-> [!NOTE] No ཞེ་ས། for yourself
-> Swap the verbs if you would produce a sentence where you'd be addressed in honorific.
+### Reporting Honorific
+When oneself is involved, it's good to wrap the verbs if you would produce a sentence where you'd be addressed in honorific.
 
 ཁྱེད་རང་གྱི་<i class="y">གསལ་སྨན་</i>དེ་ཚོ་ཏག་པོ་<i class="y">མཆོད་</i>ན་སྙུང་གཞི་དྲྭངས་ཀྱི་རེད།
 ཨེམ་ཆི་ལགས་ ངས་<i class="y">སྨན་</i>དེ་ཚོ་ཡག་པོ་<i class="y">བཟས་</i>ན་<i class="y">ན་ཚ་དྲག་</i>གི་རེད་ཟེ་གསུང་བྱུང་།
 
+Similarly on the other end, when reporting what a highly respected person said about him or herself we use Honorific when describing what he or she said. It's therefore a tricky and strange because it looks like they used honorific for themselves:
 
+རིན་པོ་ཆེས་ལམ་སང་ཚུར་<i class="y">ཕེབས་</i>ཀྱི་<i class="b">ཡིན་</i>ཟེ་གསུང་སོང་།
 
 ## I heard ...
 
 If you don't use བྱུང་ nor ང་ལ་ then the sentence **was not directed to you** but instead you **just heard** it.
 
 ཁོང་ཨེམ་ཆི་ཡག་པོ་རེད<i class="y">་ཟ</i>།
+
