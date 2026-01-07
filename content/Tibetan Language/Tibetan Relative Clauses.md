@@ -150,7 +150,7 @@ Works in all tenses.
 | <i class="p">Direct Object</i> ཡག་ (if future)        | ངས་ཞི་མི་ལ་སྤྲད་<i class="y">ཡག་</i>གི་འོ་མ་དེ་གོང་ཆེན་པོ་མི་འདུག།<br>*The milk, <i class="y">which</i> I will give to the cat, is not expensive.*  |
 | <i class="b">Indirect Object</i> ས་                   | ངས་ཨོ་མ་སྤྲད་<i class="y">ས</i>འི་ཞི་མིའི་མིང་འཟོམས་སྐྱིད་རེད།<br>*I gave milk to the cat <i class="y">whose</i> name is Dzomkyi.*                  |
 | <i class="b">Indirect Object</i> (with emphasis) མཁན་ | འཛོམས་སྐྱིད་ཟེར་<i class="y">མཁན་</i>གྱི་ཞི་མི་ལ་འོ་མ་སྤྲད་པ་ཡིན།<br>*I gave milk tot he cat <i class="y">who</i> is called Dzomkyi.*               |
-##  Direct Object (Taking Process) བཞིན་པ་
+	##  Direct Object (Taking Process) བཞིན་པ་
 
 Past: པ་, Present (continuous): བཞིན་, Future: ཡག་
 
