@@ -40,4 +40,4 @@ This is the book we are using for the online course at SINI and below you will f
 - Lesson 19
 	- [[Tibetan Relative Clauses]]
 - Lesson 20
-	- Tibetan Intensifiers
+	- [[Tibetan Intensifiers]]
