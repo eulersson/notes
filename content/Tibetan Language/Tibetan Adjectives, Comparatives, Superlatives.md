@@ -6,6 +6,23 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer]]
 
+- [[#Comparative|Comparative]]
+	- [[#Comparative#Implicit Comparisons|Implicit Comparisons]]
+	- [[#Comparative#Ommitting Verb འདུག|Ommitting Verb འདུག]]
+	- [[#Comparative#Adjective or Verb?|Adjective or Verb?]]
+	- [[#Comparative#Negative Comparisons|Negative Comparisons]]
+	- [[#Comparative#Intensifiers|Intensifiers]]
+- [[#Superlative|Superlative]]
+	- [[#Superlative#Superlative Syllable ཤོས།|Superlative Syllable ཤོས།]]
+	- [[#Superlative#Source Particle ནས། "Among..."|Source Particle ནས། "Among..."]]
+	- [[#Superlative#The Use of རེད།|The Use of རེད།]]
+	- [[#Superlative#The (Occasional) Use of འདུག|The (Occasional) Use of འདུག]]
+	- [[#Superlative#Negation|Negation]]
+	- [[#Superlative#Implicit Superlative|Implicit Superlative]]
+- [[#Equality Comparisons|Equality Comparisons]]
+	- [[#Equality Comparisons#ནང་བཞིན། - The Equality Term|ནང་བཞིན། - The Equality Term]]
+
+
 Before using comparatives and superlatives we need to identify **the root**. For **two syllable adjectives** (most of them) it's done by chopping the ending syllable:
 
 | Full Adjective (Regular) | Translation     | Root (Adjective minus last syllable) |

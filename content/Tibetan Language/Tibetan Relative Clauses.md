@@ -6,6 +6,22 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer]]
 
+- [[#Who མཁན་ པ་|Who མཁན་ པ་]]
+	- [[#Who མཁན་ པ་#Present མཁན་|Present མཁན་]]
+	- [[#Who མཁན་ པ་#Past པ་ and མཁན་|Past པ་ and མཁན་]]
+- [[#Demonstrative|Demonstrative]]
+- [[#Nominalizer པ་|Nominalizer པ་]]
+	- [[#Nominalizer པ་#1. Agent of a ཐ་མི་དད་པ་ verb, in the past: པ་ means "who"|1. Agent of a ཐ་མི་དད་པ་ verb, in the past: པ་ means "who"]]
+	- [[#Nominalizer པ་#2. Direct object of the verb, in the past: པ་ means "which" or "that"|2. Direct object of the verb, in the past: པ་ means "which" or "that"]]
+	- [[#Nominalizer པ་#3. To Nominalize a Whole Phrase or Sentence|3. To Nominalize a Whole Phrase or Sentence]]
+- [[#"Which" / "That" With ཡག་|"Which" / "That" With ཡག་]]
+	- [[#"Which" / "That" With ཡག་#Relative Clause or Not?|Relative Clause or Not?]]
+	- [[#"Which" / "That" With ཡག་#Emphasis|Emphasis]]
+- [[#Exile Dialect|Exile Dialect]]
+- [[#"Where" / "To Whome" With ས་|"Where" / "To Whome" With ས་]]
+- [[#Subject, Direct, Indirect|Subject, Direct, Indirect]]
+
+
 Connecting two sentences with *which*, *what*, *who*, *whom*, *where*, *that*.
 
 > ངས་<i class="y">དེབ་</i>ཅིག་<i class="p">ཉོས་</i>པ་ཡིན། + དེ་སྙན་པོ་འདུག = ངས་<i class="p">ཉོས་</i><i class="g">པའི་</i><i class="y">དེབ་</i>དེ་སྙན་པོ་འདུག
@@ -30,7 +46,7 @@ We use **nominalizers** to connect those sentences:
 
 Sometimes the མཁན་ can be used with non-beings: ཤར་ཀྱག་བོད་ལ་འགྲོ་མཁན་གྱི་སྤྱི་སྤྱོད་རླངས་འཁོར་འདུག་གས། *Are there any direct buses to Tibet?* (lit. *Are there buses which go directly to Tibet?*)
 
-### Past པ་ ་མཁན་
+### Past པ་ and མཁན་
 
 The **verb** stays in the **present** form before the མཁན།
 

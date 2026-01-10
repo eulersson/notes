@@ -6,6 +6,17 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer]]
 
+- [[#Direct Reported Speech|Direct Reported Speech]]
+- [[#Reporting Verbs|Reporting Verbs]]
+- [[#Humilific "Told Me"|Humilific "Told Me"]]
+- [[#To Me|To Me]]
+- [[#Imperatives|Imperatives]]
+- [[#Indirect Reported Speech|Indirect Reported Speech]]
+- [[#Skipping Pronoun|Skipping Pronoun]]
+- [[#Honorific|Honorific]]
+	- [[#Honorific#Reporting Honorific|Reporting Honorific]]
+- [[#I heard ...|I heard ...]]
+
 ## Direct Reported Speech
 
 > <i class="g">Speaker</i> + <i class="p">AP</i> + {person addressed} + <i class="p">ལ་</i> + {quote} + <i class="b">ཟེ</i> + <i class="g">to say, to hear</i> (e.g. གསུང་སོང།)
