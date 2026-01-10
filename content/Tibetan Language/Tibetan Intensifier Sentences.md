@@ -10,7 +10,7 @@ This lama is not very famous. (ཞེ་དྲགས་);བླ་མ་འད�
 I'm not very scared of dogs, just a bit. (ཞེ་དྲགས་);ང་ཁྱི་ལ་ཞེ་དྲགས་ཞེད་ཀྱི་མི་འདུག ཏོག་ཙམ་ཞེད་ཀྱི་འདུག
 He has an outstandingly impressive house. (ཞེ་པོ་གཅིག་);ཁོང་ལ་ཁང་པ་རྫོག་པོ་ཞེ་པོ་གཅིག་ཡདོ་རེད།
 It is of the utmost importance to be kind-hearted.་(ཧ་ཅང་(གིས་));སེམས་པ་བཟང་པོ་བྱེད་ཡག་འདི་ཧ་ཅང་(གིས་)གལ་ཆེན་པོ་རེད།
-There are very few Muslims in Tibet.་(ཧ་ཅང་(གིས་));བོད་ལ་ཁ་ཆེ་ཧ་ཅང་(གིས་)ཉུང་ཉུང་ཡོད་རེད།
+There are very few Muslims in Tibet. (ཧ་ཅང་(གིས་));བོད་ལ་ཁ་ཆེ་ཧ་ཅང་(གིས་)ཉུང་ཉུང་ཡོད་རེད།
 This is an extremely sad situation. (ཧ་ཅང་(གིས་));གནས་ཚུལ་འདི་ཧ་ཅང་(གིས་)སྐྱོ་པོ་ཞིག་རེད།
 This pecha is incredibly precious. (ཧ་ལས་ཡག་);དཔེ་ཆ་འདི་ཧང་སང་ཡག་རྩ་ཆེན་པོ་ཅིག་རེད།
 Yesteday's party was sooooo much fun! (ཧ་ལས་ཡག་);ཁེ་ས་ཐུགས་སྤྲོ་དེ་ཧ་ལས་ཡག་སྐྱིད་པོ་བྱུང་སོང་།
