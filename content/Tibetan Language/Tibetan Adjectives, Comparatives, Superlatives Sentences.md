@@ -5,7 +5,7 @@ publish: true
 ---
 
 Nyima is taller than Lobsang.;ཉི་མ་བློ་བཟང་ལས་གཟུགས་པོ་ཡིང་བ་ཡོད་རེད། བློ་བཟང་ལས་ཉི་མ་གཟུགས་པོ་རིང་བ་ཡོད་རེད།
-Most dogs are stronger than cats.;ཀྱི་མང་ཆེ་བ་ཞི་མི་ལས་ཤུགས་ཆེ་བ་ཡོད་རེད།
+Most dogs are stronger than cats.;ཁྱི་མང་ཆེ་བ་ཞི་མི་ལས་ཤུགས་ཆེ་བ་ཡོད་རེད།
 My friend knows Tibetan better than I do.;ང་ལས་ངའི་རོགས་པས་བོད་སྐད་ཡག་ག་ཤེས་ཀྱི་ཡོད་རེད།
 Noodle soup is tastier than momos.;མགོ་ཐུག་ལས་འཐེན་ཐུག་ཞིམ་པ་འདུག
 It is better to take the medicine immediately.;སྨན་ལམ་སང་བཟས་ན་ཡག་ག་འདུག
