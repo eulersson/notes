@@ -23,6 +23,7 @@ This document collects observations, questions, and small write-ups (sometimes i
 > I color code things usually as: <i class="g">correct</i>, <i class="r">incorrect</i>, <i class="p">verify</i>, <i class="b">attention</i>
 
 # Index
+- [[2026-01|January 2026]]
 - [[2025-11|November 2025]]
 - [[2025-08|August 2025]]
 - [[2025-07|July 2025]]
