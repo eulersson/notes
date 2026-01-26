@@ -8,7 +8,7 @@ Sometimes "I could X" means "I managed", or "I had the chance to X" instead of "
 
  "I could see all kinds of birds", if you translate "can" as "to be able", viz. “I was able to see all kind of verbs” using ཐུབ་པ་ might not be the best since it’s more about physical ability.
 
-Instead, ་་་འགྲོ་ཡག་བྱུང་སོང་། "I managed to \[verb\]"(I managed to go ...) is more suitable.
+Instead, ་་་འགྲོ་ཡག་རག་བྱུང་སོང་། "I managed to \[verb\]"(I managed to go ...) is more suitable.
 
 Or also ་་་ཡག་རག་བྱུང་། “I got the chance to \[verb\].”
 
@@ -17,7 +17,7 @@ Or also ་་་ཡག་རག་བྱུང་། “I got the chance to \[v
 <i class="g">བྱ་འདྲ་མི་འདྲ་ལྟ་བྱུང་སོང།</i>
 
 > [!NOTE] Shortcut
-> ་་་འགྲོ་ཡག་རག་བྱུང་། could be considered a shortcut of ་་་འགྲོ་ཡག་གི་གོ་<i class="b">སྐབས་རག་</i>སོང། (<i class="b">གོ་སྐབས། </i>= chance).
+> ་་་འགྲོ་ཡག་རག་བྱུང་། could be considered a shortcut of ་་་འགྲོ་ཡག་གི་<i class="b">གོ་སྐབས་རག་</i>སོང། (<i class="b">གོ་སྐབས། </i>= chance).
 
 > [!NOTE] Even Shorter!
 > [[Franziska Oertle]] and [[Alexandra Sukhanova]] were discussing that འགྲོ་བྱུང་། could be a further (gramatically incorrect) compression used in spoken colloquial of ་་་འགྲོ་ཡག་རག་བྱུང་། but it sounds gramatically off.
