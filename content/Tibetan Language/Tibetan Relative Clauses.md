@@ -38,7 +38,7 @@ We use **nominalizers** to connect those sentences:
 | མོག་མོག་                    | བཟོ་ | མཁན་        | གྱི་*       | མ་བྱན། |     |
 | momo                        | make | nominalizer | c.p.*       | cook   |     |
 **The cook who makes / made the momos.**
-<small>\* sometimes is dropped</small>
+<small>* sometimes is dropped</small>
 
 
 > [!NOTE] Agent
