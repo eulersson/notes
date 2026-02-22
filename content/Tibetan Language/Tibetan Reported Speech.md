@@ -10,7 +10,7 @@ tags:
 - [[#Reporting Verbs|Reporting Verbs]]
 - [[#Humilific "Told Me"|Humilific "Told Me"]]
 - [[#To Me|To Me]]
-- [[#Imperatives|Imperatives]]
+- [[#Imperatives|Imperatives]] ^2f8130
 - [[#Indirect Reported Speech|Indirect Reported Speech]]
 - [[#Skipping Pronoun|Skipping Pronoun]]
 - [[#Honorific|Honorific]]
@@ -43,6 +43,8 @@ If it's oneself the recipient of the information then both are correct:
 - བྱུང་
 
 ## Imperatives
+
+When reporting imperatives, it's always **direct reported** speech.
 
 <i class="g">རྒན་</i>ལགས་<i class="p">ཀྱི་</i>སློབ་ཕྲུག་ཚོ་<i class="p">ལ་</i> <i class="y">དུས་ཚོད་ཏག་ཏག་ཕེབས་རོགས་གནང་</i> <i class="b">ཟེ་</i><i class="g">གསུང་སོང</i>།
 
@@ -93,8 +95,46 @@ Similarly on the other end, when reporting what a highly respected person said a
 
 རིན་པོ་ཆེས་ལམ་སང་ཚུར་<i class="y">ཕེབས་</i>ཀྱི་<i class="b">ཡིན་</i>ཟེ་གསུང་སོང་།
 
-## I heard ...
+## ཟ་
+
+### ཟེ་ལབ་ཀྱི་འདུག
+
+Same as ཟེ་ལབ
+
+ཤྭ་ཁྲ་སྐེ་རིང་ལགས་ཀྱིས་ཁོང་གསར་འགོད་པ་རེད་ཟེ་<i class="y">ཀྱི་འདུག</i>
+ཤྭ་ཁྲ་སྐེ་རིང་ལགས་ཀྱིས་ཁོང་གསར་འགོད་པ་རེད་<i class="y">ཟ།</i>
+
+### I Heard, It Is Said That ...
 
 If you don't use བྱུང་ nor ང་ལ་ then the sentence **was not directed to you** but instead you **just heard** it.
 
-ཁོང་ཨེམ་ཆི་ཡག་པོ་རེད<i class="y">་ཟ</i>།
+ཁོང་ཨེམ་ཆི་ཡག་པོ་རེད<i class="y">་ཟ</i>། *They say he is a good doctor.*
+
+## Reporting Long Sentences
+
+If you want to have the ་་་ཟེ་ལབ་སོང་། at the end you could say:
+
+ཁོང་གིས་<i class="y">འདི་འདྲས་གསུངས་སོང་</i>། + *sentence*.
+ཁོང་གིས་<i class="y">ག་རེ་གསུངས་སོང་ཟེར་</i>ན། + *sentence*.
+
+## Reporting Reports
+
+Getting recursive can get confusing.
+
+Tashi-la says that I have said that <i class="y">I will go to the Tibetan store</i>.
+
+<i class="b">བཀྲ་ཤིས་ལགས་ཀྱི་</i> <i class="p">ཁོང་</i>གིས་ (referring to me) <i class="y">ངས་བོད་པའི་ཚོང་ཁང་ལ་འགྲོ་གི་ཡིན་</i><i class="p">ཟེ་ལབ་པ་ཡིན་</i> <i class="b">ཟེ་གསུང་གི་འདུག</i> 
+
+The <i class="p">ཁོང་</i> could be ambiguous, since it might refer to somebody else that is not necessarily me.
+
+A better way would be to leverage [[#Reporting Long Sentences]]:
+
+<i class="b">བཀྲ་ཤིས་ལགས་ཀྱི་</i> <i class="g">ག་རེ་གསུང་གི་འདུག་ཟེར་ན་</i>  <i class="y">ངས་བོད་པའི་ཚོང་ཁང་ལ་འགྲོ་གི་ཡིན་</i><i class="p">ཟེ་ལབ་པ་ཡིན་</i> <i class="b">ཟེ་གསུང་གི་འདུག</i> 
+
+## Future Reports
+
+*Tomorrow if I go to the shop I will tell the shop owner this tsampa is good.*
+སང་ཉིན་ཚོང་ཁང་ལ་འགྲོ་ན་ ངས་ཚོང་དཔོན་ལགས་ལ་ ཁོང་གི་རྩམ་པ་འདི་ཞིམ་པོ་འདུག་ཟེ་ལབ་ཀྱི་ཡིན།
+
+*In one month you will probably tell me you have learned this lesson well*
+ཟླ་བ་གཅིག་གི་རྗེས་ལ་ ཁྱེད་རང་གིས་ ང་ལ་ ང་སློབ་ཚན་འདི་ཡག་པོ་སྦྱངས་འདུག་ ཟེ་གསུངས་ཡག་ཡིན་ས་རེད།
