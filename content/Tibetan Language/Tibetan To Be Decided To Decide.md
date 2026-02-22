@@ -2,7 +2,6 @@
 publish: true
 tags:
 - tibetan
-- diary
 ---
 
 In Tibetan there's two verbs that I often mix up, *to be decided* གཏན་འཁེལ་བ་ and *to decide* ཐག་ཆོད་བྱེད་པ་.
