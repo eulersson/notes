@@ -74,6 +74,7 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Tibetan(),
       Plugin.HardLineBreaks(),
+      Plugin.Lightbox(),
     ],
     filters: [Plugin.ExplicitPublish()],
     emitters: [
