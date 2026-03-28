@@ -7,7 +7,7 @@ tags:
 ![[Tibetan Colloquial Disclaimer]]
 
 ## Only
-Usually it has the meaning of "<i class="b">only</i>" as explained in [[Tibetan "Only"]].
+Usually it has the meaning of "<i class="b">only</i>" as explained in [[Tibetan “Only”]].
 
 ### Among
 You can use a selector such as "among these animals, only the parrot is green", and we use <i class="y">ནང་ནས་</i> for that.

@@ -16,8 +16,8 @@ This is the book we are using for the online course at SINI and below you will f
 	- [[Tibetan Modal Verbs]]
 	- [[Tibetan Table Modal Verb Conjugations]]
 - Lesson 13
-	- [[Tibetan "Only"]]
-	- [[Tibetan "ma gtogs"]]
+	- [[Tibetan “Only”]]
+	- [[Tibetan མ་གཏོགས།]]
 	- [[Tibetan Conditional]]
 	- [[Tibetan Table Conditionals]]
 	- [[Tibetan Reflection on Narrator's Perspective]]

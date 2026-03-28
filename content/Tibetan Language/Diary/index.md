@@ -19,6 +19,7 @@ This document collects observations, questions, and small write-ups (sometimes i
 > - [ ] **Speaking + Writing**: Self Record Explaining Day + Transcript Analysis
 > - [ ] **Questions**: Transfer #to-questions-doc marked questions to [Tibetan Language Questions Google Shared Doc](https://docs.google.com/document/d/1wGcCFSY7tffI8tl-jIMJHfIju-8MMrIcRoOmYtEOwR0) so everyone benefits.
 
+
 > [!INFO] Color Coding
 > I color code things usually as: <i class="g">correct</i>, <i class="r">incorrect</i>, <i class="p">verify</i>, <i class="b">attention</i>
 

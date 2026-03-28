@@ -22,4 +22,4 @@ tags:
 > [!WARNING] Confusion
 > When saying "There is only one chair in the room" it can generate confusion: is the room empty with only one chair, or there are many things but chairs only one? Let's see below.
 
-![[Tibetan "ma gtogs"]]
+![[Tibetan མ་གཏོགས།]]
