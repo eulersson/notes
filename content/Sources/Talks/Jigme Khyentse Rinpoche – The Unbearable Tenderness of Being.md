@@ -7,7 +7,7 @@ tags:
 
 ![[Talk Notes Disclaimer]]
 
-Before coming to the talk I was confused by seeing “unbearable” and “tenderness” together in the title. As [[Jigme Khyentse Rinpoche|Rinpoche]]  went on talking it beautifully cleared the *oxymoron*.
+Before coming to the talk I was confused by seeing “unbearable” and “tenderness” together in the title. As [[Jigme Khyentse Rinpoche|Rinpoche]]  went on talking it beautifully cleared the confusion around the*oxymoron*.
 
 ---
 
@@ -24,7 +24,7 @@ The purpose of the bandage makes sense. But not the way in which we overuse it. 
 
 > “Unbearable” is determined by how do I relate this “tenderness” with the environment.
 
-Anatomically  (on tissues) tenderness is seen as positive — not stiffness.
+Anatomically (on body tissues) tenderness is seen as positive — not stiffness.
 
 Covering up tenderness with layers is akin to **anaesthetic**. And problems with anaesthesia is that we develop tolerance for it and every time will need more. Many people use work — their jobs — as an anaesthetic. ==Meditation isn't positive when only used as an anaesthetic==; meditation must not be an escape from daily situations. Meditate with no attachment. “While meditating this \[discomfort\] will go away” yields bad results.
 
