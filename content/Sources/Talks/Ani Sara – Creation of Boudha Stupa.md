@@ -3,7 +3,7 @@ publish: true
 links:
 - "[[Buddhism]]"
 - "[[Nepal]]"
-- "[[Ani Sara - Creation of Swayambhu Stupa]]"
+- "[[Ani Sara – Creation of Swayambhu Stupa]]"
 ---
 
 Recording from [[Ani Sara]] at [[Kopan Monastery]]'s November course 2024.
