@@ -2,6 +2,7 @@
 publish: true
 tags:
 - tibetan
+- tibetan-language
 ---
 
 ![[Tibetan Colloquial Disclaimer]]
@@ -16,7 +17,7 @@ You can use a selector such as "among these animals, only the parrot is green", 
 
 
 > [!QUESTION]
-> At class we believed སེམས་ཅན་འདི་ཚོའི་ནང་ནས་ནེ་ཙོ་མ་གཏོགས་ལྗང་ཁུ་་་ ends with ཡོད་མ་རེད། but we were asking whether མ་རེད། would be allowed, since we are speaking about essential qualities. ཡོད་མ་རེད། as Gen Alexandra ལགས། said might make sense since we are describing a situation, not the quality of one object directly. She said it's better to check with #tutor
+> At class we believed སེམས་ཅན་འདི་ཚོའི་ནང་ནས་ནེ་ཙོ་མ་གཏོགས་ལྗང་ཁུ་་་ ends with ཡོད་མ་རེད། but we were asking whether མ་རེད། would be allowed, since we are speaking about essential qualities. ཡོད་མ་རེད། as Gen Alexandra ལགས། said might make sense since we are describing a situation, not the quality of one object directly. She said it's better to check with #needs-teacher
 
 ## Apart From / Except For
 Also མ་གཏོགས། sometimes is <i class="b">not negated</i>, and might mean "<i class="b">apart from</i>":

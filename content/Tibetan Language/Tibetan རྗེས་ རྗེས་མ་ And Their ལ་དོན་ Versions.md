@@ -2,6 +2,7 @@
 publish: true
 tags:
 - tibetan
+- tibetan-language
 ---
 
 Many a times this question keeps popping to my mind:

@@ -1,4 +1,6 @@
 ---
+tags:
+- tibetan-language
 publish: true
 ---
 

@@ -2,6 +2,7 @@
 publish: true
 tags:
 - tibetan
+- tibetan-language
 ---
 
 ![[Tibetan Colloquial Disclaimer]]

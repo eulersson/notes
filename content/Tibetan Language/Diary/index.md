@@ -4,25 +4,17 @@ publish: true
 tags:
 - tibetan
 - diary
+- tibetan-language
 ---
 
 This document collects observations, questions, and small write-ups (sometimes in Tibetan) about the journey of learning Tibetan. It's quite personal, so the diary will be about my daily life and don't expect it to be exciting considering the beginner stage I am still at 😆. It's more for people that have similar level to see my struggles or realizations.
 
 > [!INFO] Language Questions
-> As Tibetan language questions arise arise I write them on this shared (with other class mates and course staff) [Google Doc](https://docs.google.com/document/d/1wGcCFSY7tffI8tl-jIMJHfIju-8MMrIcRoOmYtEOwR0/edit?usp=sharing) and you are welcome do contribute by adding more or answering them. If you see a 🤔 in this document it also expresses doubt and needs to be checked with #tutor.
+> As Tibetan language questions arise arise I write them on this shared (with other class mates and course staff) [Google Doc](https://docs.google.com/document/d/1wGcCFSY7tffI8tl-jIMJHfIju-8MMrIcRoOmYtEOwR0/edit?usp=sharing) and you are welcome do contribute by adding more or answering them. If you see a 🤔 in this document it also expresses doubt and needs to be checked with #needs-teacher.
 
->[!TODO] Tasks
-> Some tasks or ideas to go to if I don't have anything specific:
-> - [ ] **Vocabulary**: Anki flashcard decks.
-> - [ ] **Listening**: Dialogs from the book, or [Esukhia](https://esukhia.online/) audio children stories, or [[ManjuTib's A2 - Practice Tibetan Speaking|YouTube A0/A1-level tracks like this ones]].
-> - [ ] **Reading**: Anything, even if I don't understand. དཔེ་ཆ་, children book, or སྦྱོར་ཀློག (spelling).
-> - [ ] **Speaking + Writing**: Self Record Explaining Day + Transcript Analysis
-> - [ ] **Questions**: Transfer #to-questions-doc marked questions to [Tibetan Language Questions Google Shared Doc](https://docs.google.com/document/d/1wGcCFSY7tffI8tl-jIMJHfIju-8MMrIcRoOmYtEOwR0) so everyone benefits.
+I am following [[Franziska Oertle]]'s [[The Heart of Tibetan Language]] material, which I found to be the best for Colloquial Tibetan. Check the [official website](https://www.heartoftibetanlanguage.com/) for the books and online courses offered.
 
-
-> [!INFO] Color Coding
-> I color code things usually as: <i class="g">correct</i>, <i class="r">incorrect</i>, <i class="p">verify</i>, <i class="b">attention</i>
-
+Find the structured notes from the book in [[The Heart of Tibetan Language]] knowing those are personal notes that might confuse you unless you have read the book first with the clear examples and natural flow of explanation. Those are distilled notes for me and my friends learning along with that course.
 # Index
 - [[2026-03|March 2026]]
 - [[2026-02|February 2026]]

@@ -6,17 +6,35 @@ publish: true
  བསམ་པའི་ཙལ།
 > My Garden (tsal) of Thoughts (sampa) | Ramon's Notes and Reflections".
 
-At the moment this is quite empty. Use the left sidebar (three horizontal line) or start from the #tibetan tag (or see my [[Tibetan Language/Diary/index]] documenting my language learnings and challenges). As time goes on hopefully you will see ideas or texts I want to share with the world:
-- Reflections
-- Notes about teaching
-- Technical write-ups
-- Workflows and productivity hacks
-- Psychology
-- Buddhism and Tibetan language
-- Travel guides and local information
-- Sources of inspiration
-- Drawings or creativity
 
-All those from a personal stand-point... I don't want to repeat what Wikipedia says or what that other book says, unless I find value to summarise it!
+With so much AI I feel the need to start writing unassisted, compiling notes to form a [personal knowledge management system](https://en.wikipedia.org/wiki/Personal_knowledge_management). After reading about the [slip-box method](https://zettelkasten.de/overview/) I started writing down some notes — following the method in a very loose and lax way. Some of those notes I select them and publish them so I can easily send links to friends and family.
 
-At the moment I am crafting some classes for Grade 1 monks at a monastery, which you can check in [[Reflection on Teaching English as Second Language]].
+Among those notes they can be:
+
+- Notes taken at talks and conferences
+- Class notes (e.g. Tibetan language and learner mistakes made along the path)
+- Dharma talks and concepts
+- Psychology-related topics
+- Reflections on those notes or other material
+- Projects, teaching material, ideas that worked
+- Workflows or productivity tricks
+- Local information of places or people
+- Creativity: drawings, calligraphy, etc.
+
+> [!INFO] Links
+> Referencing a note from within a note produces a link. Those can be viewed at the bottom of the note in form of a list *Backlinks* or in the little *Graph view* at the bottom.
+
+How to navigate:
+
+- Use the *Explorer* left sidebar 
+- Use the search bar and start typing a word
+- By using the node graph
+- By clicking tags
+
+> [!TIP] Where to start?
+> At the moment I am putting most of my effort on [[Tibetan Language/Diary/index|Tibetan Language Diary]], #tibetan-language and [[English Beginner Classes]] (ESL resources and games for children).
+
+Other tags: #tibetan #tibetan-language #esl #prayer
+
+> [!WARNING] Disclaimer
+> These pages are notes selected from my **personal notebook**. This means rigorous writing is not to be expected at all; let alone academic-level prose. Sources are usually provided, check those.

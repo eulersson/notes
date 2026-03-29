@@ -2,6 +2,7 @@
 publish: true
 tags:
 - tibetan
+- tibetan-language
 ---
 
 ![[Tibetan Colloquial Disclaimer]]
@@ -171,7 +172,7 @@ Works in all tenses.
 Past: པ་, Present (continuous): བཞིན་, Future: ཡག་
 
 > I am \[in the process of\] reading a book.
-> ང་དེབ་ཅིག་ལྟ་<i class="y">བཞིན་པ་ཡིན</i>། ( #help I find this confusing as in [Section 2.2. Other present tense auxiliaries](https://tibetanlanguage.school/learn/standard-tibetan/unit-8/) it says ང་ལས་ཀ་བྱེད་བཞིན་ཡོད། I’m working, instead of ལས་ཀ་བྱེད་བཞིན་པ་ཡིན།)
+> ང་དེབ་ཅིག་ལྟ་<i class="y">བཞིན་པ་ཡིན</i>། ( #needs-teacher   I find this confusing as in [Section 2.2. Other present tense auxiliaries](https://tibetanlanguage.school/learn/standard-tibetan/unit-8/) it says ང་ལས་ཀ་བྱེད་བཞིན་ཡོད། I’m working, instead of ལས་ཀ་བྱེད་བཞིན་པ་ཡིན།)
 
 | pronoun | verb | བཞིན་པ་ | འི་  | noun     | rest of sentence         |
 | ------- | ---- | ------- | ---- | -------- | ------------------------ |

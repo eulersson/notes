@@ -3,6 +3,7 @@ publish: true
 tags:
 - tibetan
 - table
+- tibetan-language
 ---
 
 ![[Tibetan Colloquial Disclaimer]]
@@ -22,7 +23,7 @@ tags:
 > [!CAUTION] Strange Cases
 > I tried to plot that table but some cases sound very strange and probably not very useful to learn, e.g. "If he had needed to climb a mountain, I would have had helped him.", how many times would we have such a conditional at our level?
 > 
-> Also those are not checked with #tutor so use at your own risk!
+> Also those are not checked with #needs-teacher so use at your own risk!
 
 |                    | ཐུབ་པ་                                  | ཤེས་པ་                                 |
 | ------------------ | --------------------------------------- | -------------------------------------- |
