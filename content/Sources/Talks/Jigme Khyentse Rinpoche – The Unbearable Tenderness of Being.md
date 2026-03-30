@@ -5,7 +5,7 @@ tags:
 ---
 *Notes on [[Jigme Khyentse Rinpoche]]'s talk on Hotel Me, Barcelona, on March 27th 2026.*
 
-![[Jigme Khyentse Rinpoche – Tenderness – Poster.png|500]]
+![[Jigme Khyentse Rinpoche – Tenderness – Poster.png]]
 
 ![[Talk Notes Disclaimer]]
 
