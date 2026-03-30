@@ -5,7 +5,7 @@ tags:
 ---
 *Notes on [[Jigme Khyentse Rinpoche]]'s talk on Hotel Me, Barcelona, on March 27th 2026.*
 
-![[Jigme Khyentse Rinpoche – Tenderness – Poster.png]]
+![[Jigme Khyentse Rinpoche – Tenderness – Poster.png | 500]]
 
 ![[Talk Notes Disclaimer]]
 
@@ -14,7 +14,6 @@ Before coming to the talk I was confused by seeing “unbearable” and “tende
 ---
 
 **unbearable** — We first start to analyze “What is unbearable”: aging is unbearable, death is unbearable, and so forth... “Something I shouldn't have” is unbearable. But to **what degree** or **how much** of  “I shouldn't have” we **don't even know**, as in when a doctor asks us “From 0 to 10 how painful is it?”.
-
 
 How we react to “unbearable” changes over time. And it's conditioned by layers of delusion added on top: anger, fear, feeling of vulnerability and so forth. It's less “unbearable” once we start removing the number of layers.
 
