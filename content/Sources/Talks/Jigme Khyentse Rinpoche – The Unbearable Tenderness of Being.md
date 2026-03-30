@@ -5,6 +5,8 @@ tags:
 ---
 *Notes on [[Jigme Khyentse Rinpoche]]'s talk on Hotel Me, Barcelona, on March 27th 2026.*
 
+![[Jigme Khyentse Rinpoche – Tenderness – Poster.png|500]]
+
 ![[Talk Notes Disclaimer]]
 
 Before coming to the talk I was confused by seeing “unbearable” and “tenderness” together in the title. As [[Jigme Khyentse Rinpoche|Rinpoche]]  went on talking it beautifully cleared the confusion around the*oxymoron*.
