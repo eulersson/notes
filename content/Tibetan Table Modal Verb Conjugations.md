@@ -11,7 +11,7 @@ tags:
 
 > Subject (བྱེད་སྒྲ་ / no བྱེད་སྒྲ་) + Volitional verb past + ན་འགྲིག་གི་རེད་པས།
 
-> [!WARN] Past
+> [!WARNING] Past
 > The verb, when followed by ན་, must be in the **past tense**.
 
 # ཐུབ་པ་

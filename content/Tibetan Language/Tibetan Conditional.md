@@ -89,7 +89,7 @@ This is immutable to བདག གཞན, it's པ་ཡོད། regardless.
 
 བསོད་ནམས་ལ་དངུལ་ཡོད་པ་ཡིན་ན་ཁོང་གིས་གནམ་གྲུའི་ནང་ལ་ཕེབས་<i class="b">པ་ཡོད།</i> "If Sonam had money, she would have taken a plane (H)"
 
-> [!WARN] ས་རེད།
+> [!WARNING] ས་རེད།
 > The contraction of auxiliary of probability ས་རེད། (contracts ་་་ཡག་ཡིན་ས་རེད།) when used as the result of an impossible conditional, it means "would", so it would be like པ་ཡོད།
 
 ## Conditional Tables
