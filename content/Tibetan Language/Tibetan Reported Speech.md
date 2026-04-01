@@ -28,6 +28,12 @@ Mother + AP  kids  to  "I'll come immediately"  she said.
 > [!NOTE] ཟེ་
 > ཞེས། ཅེས། ཤེས། in literary
 
+
+> [!INFO]
+> The ཟེ་ doesn't pronounce really the *e* when spoken, but since in Tibetan there's no way to write a consonant that doesn't sound with a vowel, it's as close as we can get.
+
+^1ba3de
+
 ## Reporting Verbs
 Instead of saying *said*, or *told*, we can use any verb that expresses communication, really:
 - *replied* ལེན་བརྒྱབ་སོང་།
