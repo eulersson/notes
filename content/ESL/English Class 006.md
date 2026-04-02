@@ -24,7 +24,7 @@ Now we get more strict: if player gets more than 50% (roughly, make it clear bef
 
 Also since I have 3 whiteboards available I will get three more students to do the test ==simultaneously==. It's important that they see the image but they don't see what the others are typing. As teacher, when the computer student reveals the result, I will mark the others with a ✅. The rest of students type on their notebooks.
 
-> [!WARNING] No Points
+> [!WARN] No Points
 > If nobody gets points then the player that scored the most points gets one, despite not having reached the threshold.
 
 | Set        | Way         | Points         |
