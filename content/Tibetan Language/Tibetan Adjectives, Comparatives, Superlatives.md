@@ -32,7 +32,9 @@ Before using comparatives and superlatives we need to identify **the root**. For
 | ལས་སླ་པོ།                | easy            | ལས་སླ།                               |
 | དཀའ་ལས་ཁག་པོ།            | difficult, hard | དཀའ་ལས་ཁག                            |
 
-Some exceptions happen, such as ཐ་རེ་ཐོ་རེ། (*messy*). But these words don't actually take comparative and superlative endings. The special case to have in mind because it's very used:
+
+> [!WARNING] 
+> Some exceptions happen, such as ཐ་རེ་ཐོ་རེ། (*messy*). But these words don't actually take comparative and superlative endings. The special case to have in mind because it's very used is with ཆེན་པོ།
 
 | Full Adjective (Regular) | Translation | Root (Adjective minus last syllable) |
 | ------------------------ | ----------- | ------------------------------------ |
@@ -57,11 +59,11 @@ Use ལས། (འབྱུང་ཁུངས།) for **comparatives** and ན�
 
 ### Implicit Comparisons
 
-No need for ལས། when it's implicit that this is better. Simply have the adjective with **comparative** mode:
+No need for ལས། when it's implicit that this is *better* (in the case of the adjective *good*). Simply have the adjective with **comparative** mode:
 
 > སྨན་ལམ་སང་བཟས་ན་<i class="y">ཡག་</i><i class="p">ག་</i>འདུག *It is better to take the medicine immediately.*
 
-### Ommitting Verb འདུག
+### Omitting Verb འདུག
 
 Occasionally འདུག is omitted in a comparative sentence.
 
@@ -72,7 +74,6 @@ Occasionally འདུག is omitted in a comparative sentence.
 > This does not happen in negation! For that མི་འདུག is required.
 > 
 > > དབྱིན་སྐད་ལས་བོད་སྐད་<i class="y">ལས་སླ་</i><i class="p">བ་</i>མི་འདུག *Tibetan is not easier than English.*
-
 
 ### Adjective or Verb?
 
@@ -102,7 +103,9 @@ To be more expressive "is way more X than Y" we can use:
 The agentive particles many times disappear when speaking.
 
 > རྒྱ་གར་ལས་ངའི་ལུང་པ་ཞེ་དྲགས་(ཀྱིས་)ཆུང་བ་ཡོད་རེད། *My country is much smaller than India.*
+
 ## Superlative
+
 It's simpler than the comparative, just use ཤོས།
 
 ### Superlative Syllable ཤོས།
