@@ -104,7 +104,7 @@ Usually if we want to say *less cold* we simply use *warmer*, but the former can
 ### Intensifiers
 
 To be more expressive "is way more X than Y" we can use:
-- རྦད་དེ། (lit. *completely*) (the **most popular**)
+- རྦད་དེ། (lit. *completely*) (the **most popular**) (pronounced *bed*)
 - ཞེ་དྲགས་(ཀྱིས)།
 - ཧ་ཅང་(གིས)།
 - ལྡབ་གཞིས་(ཀྱིས)། (lit. *the double of*)
@@ -174,10 +174,11 @@ It follows the object of comparison.
 
 > ཁྱེད་རང་གི་ཨ་མ་ལགས་ངའི་ཨ་མ་ལགས་<i class="y">ནང་བཞིན་</i>ཁ་ལག་ཞིམ་པོ་བཟོ་གི་འདུག་གས། *Does your mother prepare food that's as tasty as my mother's? (H)*
 
-In most cases ནང་བཞིན། could be replaced by འདྲ་པོ།
+In most cases ནང་བཞིན། could be replaced by འདྲ་པོ། but **only** when the meaning conveyed is **like X**, and not **as Y as X**:
 
 > ངས་ཁོང་འདྲ་པོ་རི་མོ་སྙིང་རྗེ་པོ་འབྲི་ཤེས་ཀྱི་མེད། *I can't make drawings like he (can).*
 
+You would not say ཁྱེད་རང་གི་ཨ་མ་ལགས་<i class="r">འདྲ་པོ་</i>ཁ་ལག་ཞིམ་པོ་བཟོ་གི་འདུག་གས།
 
 ## Implicit Comparisons
 
