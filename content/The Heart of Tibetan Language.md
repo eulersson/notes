@@ -49,7 +49,7 @@ This is the book we are using for the online course at SINI and below you will f
 	- [[Tibetan རང་ and སེ་]]
 	- [[Tibetan ཙམ་ "A bit more X", "Merely"]]
 	- [[Tibetan Reducers ཁྱོན་ནས། རྩ་བ་(ཉིད་)ནས། གཏན་ནས།]]
-	- [[Tibetan Exclamations ཡག་ག་ལ།]]
+	- [[Tibetan Exclamation Expressions]]
 	- [[Tibetan As ... As ... གང་ཡག་ཡག]]
 	- [[Tibetan Intensifier Sentences]]
 
