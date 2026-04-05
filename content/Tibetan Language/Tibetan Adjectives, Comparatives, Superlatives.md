@@ -7,23 +7,6 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer]]
 
-- [[#Comparative|Comparative]]
-	- [[#Comparative#Implicit Comparisons|Implicit Comparisons]]
-	- [[#Comparative#Ommitting Verb འདུག|Ommitting Verb འདུག]]
-	- [[#Comparative#Adjective or Verb?|Adjective or Verb?]]
-	- [[#Comparative#Negative Comparisons|Negative Comparisons]]
-	- [[#Comparative#Intensifiers|Intensifiers]]
-- [[#Superlative|Superlative]]
-	- [[#Superlative#Superlative Syllable ཤོས།|Superlative Syllable ཤོས།]]
-	- [[#Superlative#Source Particle ནས། "Among..."|Source Particle ནས། "Among..."]]
-	- [[#Superlative#The Use of རེད།|The Use of རེད།]]
-	- [[#Superlative#The (Occasional) Use of འདུག|The (Occasional) Use of འདུག]]
-	- [[#Superlative#Negation|Negation]]
-	- [[#Superlative#Implicit Superlative|Implicit Superlative]]
-- [[#Equality Comparisons|Equality Comparisons]]
-	- [[#Equality Comparisons#ནང་བཞིན། - The Equality Term|ནང་བཞིན། - The Equality Term]]
-
-
 Before using comparatives and superlatives we need to identify **the root**. For **two syllable adjectives** (most of them) it's done by chopping the ending syllable:
 
 | Full Adjective (Regular) | Translation     | Root (Adjective minus last syllable) |
@@ -56,7 +39,6 @@ Use ལས། (འབྱུང་ཁུངས།) for **comparatives** and ན�
 
 > [!Note] Trick
 > Might be helpful to see ལས། as *compared with*
-
 
 ### Omitting Verb འདུག
 
@@ -101,10 +83,17 @@ Usually if we want to say *less cold* we simply use *warmer*, but the former can
 
 > ཁེ་ས་ལས་མོག་མོག་འདི་ཚོ་<i class="b">མ་</i><i class="y">ཞིམ་</i><i class="p">པ་</i>འདུག *These momos are less tasty than yesterday's*
 
+> [!WARNING] Uncommon
+> Not very common in དབུས་གཙང་སྐད།, using it with ཞིམ་, སྐྱིད་ སྙན་ is common but otherwise use other formulas:
+> སློབ་ཚན་འདི་སློབ་ཚན་བཅུ་དྲུག་པ་ལས་རྦད་དེ་་་
+>    - ❌ དཀའ་ལས་མི་ཁག་ག་འདུག
+>    - ✅ དཀའ་ལས་ཁག་པོ་མི་འདུག
+>    - ✅ ལས་སླ་བ་འདུག
+
 ### Intensifiers
 
 To be more expressive "is way more X than Y" we can use:
-- རྦད་དེ། (lit. *completely*) (the **most popular**) (pronounced *bed*)
+- རྦད་དེ། (lit. *completely*) (the **most popular**) (pronounced *be༷d*)
 - ཞེ་དྲགས་(ཀྱིས)།
 - ཧ་ཅང་(གིས)།
 - ལྡབ་གཞིས་(ཀྱིས)། (lit. *the double of*)
@@ -113,6 +102,9 @@ To be more expressive "is way more X than Y" we can use:
 The agentive particles many times disappear when speaking.
 
 > རྒྱ་གར་ལས་ངའི་ལུང་པ་ཞེ་དྲགས་(ཀྱིས་)ཆུང་བ་ཡོད་རེད། *My country is much smaller than India.*
+
+> [!NOTE] Pronunciation
+> <i class="y">རྦད་དེ་</i>ཞིམ་པོ་འདུག sounds like *bed shimpo du'*
 
 ## Superlative
 
@@ -163,6 +155,13 @@ When the object to compare against is implied, it can be dropped.
 Changing the order of the words can change what is **implied**.
 
 > རོགས་པ་མཉམ་དུ་<i class="y">ཐུགས་སྤྲོ་ལ་</i>འགྲོ་ན་སྐྱིད་ཤོས་རེད། *It's most fun to go to the party with friends. (Implied: as opposed to going to the museum or some other place.)*
+
+## Irregular Adjectives
+
+Some adjectives like: ཐ་རེ་ཐོ་རེ། = scattered; ཛ་རེ་ཛོ་རེ། = messy;  གཙང་ཧྲིལ་ཧྲིལ། = clean, neat and shiny; ཚ་སོབ་སོབ། = warm and cozy;  ཚ་སོབ་སོབ། = quiet (in a nice and good way).
+
+གྲོང་གསེབ་འདིའི་ཁང་པ་ཐ་རེ་ཐོ་རེ་འདུག “The houses in this village are scattered”
+ངའི་གྲོང་གསེབ་<i class="y">ད་དུང་འདི་ལས་ཀྱང་</i>ཐ་རེ་ཐོ་རེ་ཡོད། “In my village they are even more scattered”
 
 ## Equality Comparisons
 
