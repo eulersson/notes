@@ -3,6 +3,7 @@ publish: true
 tags:
 - tibetan
 - tibetan-language
+- calligraphy
 ---
 
 See [[Tibetan Script]] for an overview on the #tibetan scripts.
