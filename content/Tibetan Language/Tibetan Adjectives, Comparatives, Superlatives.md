@@ -96,7 +96,7 @@ To be more expressive "is way more X than Y" we can use:
 - རྦད་དེ། (lit. *completely*) (the **most popular**) (pronounced *be༷d*)
 - ཞེ་དྲགས་(ཀྱིས)།
 - ཧ་ཅང་(གིས)།
-- ལྡབ་གཞིས་(ཀྱིས)། (lit. *the double of*)
+- ལྡབ་གཉིས་(ཀྱིས)། (lit. *the double of*)
 - ཞེ་པོ་གཅིག་(གིས)།
 
 The agentive particles many times disappear when speaking.
