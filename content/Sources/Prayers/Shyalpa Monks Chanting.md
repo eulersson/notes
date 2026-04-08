@@ -1,6 +1,8 @@
 ---
 publish: true
 tags:
+- tibetan
+- prayer
 - chanting
 ---
 

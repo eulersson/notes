@@ -3,6 +3,7 @@ publish: true
 tags:
 - tibetan
 - prayer
+- chanting
 ---
 ## སྐྱབས་འགྲོ
 སངས་རྒྱས་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་རྣམས་ལ། །
