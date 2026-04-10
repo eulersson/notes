@@ -4,7 +4,7 @@ publish: true
 tags:
 - tibetan
 - diary
-- "tibetan language"
+- tibetan-language
 ---
 
 This document collects observations, questions, and small write-ups (sometimes in Tibetan) about the journey of learning Tibetan. It's quite personal, so the diary will be about my daily life and don't expect it to be exciting considering the beginner stage I am still at 😆. It's more for people that have similar level to see my struggles or realizations.

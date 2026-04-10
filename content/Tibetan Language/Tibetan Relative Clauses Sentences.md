@@ -1,8 +1,8 @@
 ---
+publish: true
 tags:
 - tibetan
-- "tibetan language"
-publish: true
+- tibetan-language
 ---
 
 The girl who is singing a song...;གཞས་གཏོང་མཁན་གྱི་བུ་མོ་་་

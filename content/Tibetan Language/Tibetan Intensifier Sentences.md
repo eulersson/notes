@@ -1,8 +1,8 @@
 ---
+publish: true
 tags:
 - tibetan
-- "tibetan language"
-publish: true
+- tibetan-language
 ---
 
 This girl is very clever. (ཞེ་དྲགས་);བུ་མོ་འདི་རིག་པ་སྤྱང་པོ་ཞེ་དྲགས་འདུག

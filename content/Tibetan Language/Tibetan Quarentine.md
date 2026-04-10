@@ -1,7 +1,8 @@
 ---
-tags:
-- "tibetan language"
 publish: true
+tags:
+- tibetan
+- tibetan-language
 ---
 
 These sentences have been translated with the help of AI (Claude) by making explicit request to do it colloquial.

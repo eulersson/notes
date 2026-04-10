@@ -1,8 +1,8 @@
 ---
+publish: true
 tags:
 - tibetan
-- "tibetan language"
-publish: true
+- tibetan-language
 ---
 
 ཁྱོན་ནས། རྩ་བ་(ཉིད་)ནས། གཏན་ནས། (occasionally རྒྱུན་ནས།) used to express *not at all X*, *never X*, *not X in the slightest*.

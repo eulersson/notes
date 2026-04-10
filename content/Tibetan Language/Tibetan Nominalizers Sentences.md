@@ -1,8 +1,8 @@
 ---
+publish: true
 tags:
 - tibetan
-- "tibetan language"
-publish: true
+- tibetan-language
 ---
 
 It must be more pleasant to go for a walk than to work.;འཁྱམ་འཁྱམ་ལ་འགྲོ་ཡག་དེ་ལས་ཀ་བྱེད་ཡག་ལས་སྐྱིད་པ་ཡོད་ས་རེད།

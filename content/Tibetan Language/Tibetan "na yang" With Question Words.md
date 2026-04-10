@@ -2,6 +2,7 @@
 publish: true
 tags:
 - tibetan
+- tibetan-language
 ---
 
 When ན་ཡང་། appears with a འདྲི་ཚིག (question word) it no longer means "despite" or "even though"

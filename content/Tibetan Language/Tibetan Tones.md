@@ -2,7 +2,7 @@
 publish: true
 tags:
 - tibetan
-- "tibetan language"
+- tibetan-language
 ---
 I was investigating if the tone only exists on the first syllable as said in [[Manual of Standard Tibetan]]. I made monks record a sentence to check if I could appreciate this phenomena but I struggled to do it, because the sentence I gave might have been long.
 ## Experiment

@@ -3,7 +3,7 @@ publish: true
 tags:
 - tibetan
 - buddhism
-- "tibetan buddhism"
+- tibetan-buddhism
 ---
 
 Tibetan: འཇིགས་མེད་ཕུན་ཚོགས།

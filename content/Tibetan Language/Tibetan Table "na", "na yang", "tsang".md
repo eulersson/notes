@@ -2,7 +2,8 @@
 publish: true
 tags:
 - tibetan
-- table
+- tibetan-language
+- memo-table
 ---
 
 

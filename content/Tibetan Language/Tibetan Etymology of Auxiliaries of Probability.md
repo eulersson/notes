@@ -2,6 +2,7 @@
 publish: true
 tags:
 - tibetan
+- tibetan-language
 ---
 
 We are given the task to explore the etymology of the auxiliaries of probability in Tibetan ཡོད་ས་རེད། ཡིན་ས་རེད། ཡོད་པ་འདྲ། ཡོད་གི་རེད། 

@@ -1,7 +1,8 @@
 ---
-tags:
-- "tibetan language"
 publish: true
+tags:
+- tibetan
+- tibetan-language
 ---
 I was trying to see from a Tibetan speaker the difference in the pronunciation of:
 

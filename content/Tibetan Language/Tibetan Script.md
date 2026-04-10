@@ -1,7 +1,8 @@
 ---
-tags:
-- "tibetan language"
 publish: true
+tags:
+- tibetan
+- tibetan-language
 ---
 
 There are three popular #tibetan  script categories:

@@ -2,7 +2,7 @@
 publish: true
 tags:
 - tibetan
-- "tibetan language"
+- tibetan-language
 ---
 
 When expressing the medium in which you move there's various possibilities. Let's use the example of མེ་འཁོར་ (train):

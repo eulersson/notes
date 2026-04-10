@@ -1,7 +1,8 @@
 ---
-tags:
-- "tibetan language"
 publish: true
+tags:
+- tibetan
+- tibetan-language
 ---
 
 One big **issue** with the language is how hard is to look up words if you don't know their spelling. **It would be amazing to have a phonetic reverse search dictionary**, that is **you type with phonetic transcription**, and then **it presents all the possible spellings**. Does this exist? Investigate! Otherwise it would be an amazing technical project to work on!

@@ -1,8 +1,8 @@
 ---
+publish: true
 tags:
 - tibetan
-- "tibetan language"
-publish: true
+- tibetan-language
 ---
 
 ![[Tibetan Colloquial Disclaimer]]

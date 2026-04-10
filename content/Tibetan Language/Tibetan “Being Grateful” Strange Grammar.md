@@ -2,7 +2,7 @@
 publish: true
 tags:
 - tibetan
-- "tibetan language"
+- tibetan-language
 ---
 
 It's funny when wanting to express you are grateful (བཀའ་དྲིན་) to someone you place the ལ་དོན། to yourself!

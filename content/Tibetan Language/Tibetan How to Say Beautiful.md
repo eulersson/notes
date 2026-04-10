@@ -2,6 +2,7 @@
 publish: true
 tags:
 - tibetan
+- tibetan-language
 ---
 
 > When to use མཛེས་མོ། མཛེས་པོ། མཛེས་མ། རྫིག་པོ། ?

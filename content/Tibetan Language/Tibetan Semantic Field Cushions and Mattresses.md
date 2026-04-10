@@ -2,7 +2,7 @@
 publish: true
 tags:
 - tibetan
-- "tibetan language"
+- tibetan-language
 ---
 
 Generally, we say སྔས་མགོ། for pillow. སྔས་འབོལ། is also pillow but it's more of cushion type. 

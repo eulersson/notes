@@ -2,6 +2,7 @@
 publish: true
 tags:
 - tibetan
+- tibetan-language
 ---
 
 བྱེད་སྒྲ། used when expressing the kind of material something is made of, and used only with བཟོ་བ།—"This tent has been made with goat hair" གུར་འདི་ར་ཡི་སྤུ་ཡིས་བཟོས་པ་རེད། does not use མཉམ་དུ། for "with" but the བྱེད་སྒྲ།. Otherwise we can use འབྲལ་སྒྲ། for saying "woollen clothes" བལ་གྱི་དུག་སློག. བྱེད་སྒྲ། can inform about the **agent** or **instrument**. Another way to say the material is with ནས། "Made from cotton" སྤྲིན་བལ་ནས་བཟོས་པ་རེད།, but the བྱད་སྒྲ། could be more correct.

@@ -32,7 +32,7 @@ How to navigate:
 - By clicking tags
 
 > [!TIP] Where to start?
-> At the moment I am putting most of my effort on [[Tibetan Language/Diary/index|Tibetan Language Diary]], #tibetan-language and [[English Beginner Classes]] (ESL resources and games for children).
+> At the moment I am putting most of my effort on [[Tibetan Language/Diary/index|Tibetan Language Diary]], #tibetan-language  and [[English Beginner Classes]] (ESL resources and games for children).
 
 Other tags: #tibetan #tibetan-language #esl #prayer
 

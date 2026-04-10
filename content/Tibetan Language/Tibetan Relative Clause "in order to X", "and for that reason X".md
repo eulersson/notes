@@ -2,6 +2,7 @@
 publish: true
 tags:
 - tibetan
+- tibetan-language
 ---
 
 In [[Tibetan Relative Clauses]] it shows how to make relative clauses expressing *that* or *which* for <i class="p">direct objects</i> with <i class="y">པའི་</i> (པ་ + *connective particle* འབྲེལ་སྒྲ་), e.g. (the milk **that** I have to the cat).

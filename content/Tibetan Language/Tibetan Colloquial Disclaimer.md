@@ -1,5 +1,8 @@
 ---
 publish: true
+tags:
+- tibetan
+- tibetan-language
 ---
 
 > [!CAUTION] Disclaimer

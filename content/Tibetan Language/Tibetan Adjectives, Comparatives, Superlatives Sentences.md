@@ -1,8 +1,8 @@
 ---
+publish: true
 tags:
 - tibetan
-- "tibetan language"
-publish: true
+- tibetan-language
 ---
 
 Nyima is taller than Lobsang.;ཉི་མ་བློ་བཟང་ལས་གཟུགས་པོ་ཡིང་བ་ཡོད་རེད། བློ་བཟང་ལས་ཉི་མ་གཟུགས་པོ་རིང་བ་ཡོད་རེད།
