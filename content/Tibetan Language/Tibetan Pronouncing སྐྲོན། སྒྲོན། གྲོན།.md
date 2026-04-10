@@ -1,6 +1,6 @@
 ---
 tags:
-- tibetan-language
+- "tibetan language"
 publish: true
 ---
 I was trying to see from a Tibetan speaker the difference in the pronunciation of:

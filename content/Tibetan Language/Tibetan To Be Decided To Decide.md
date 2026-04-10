@@ -2,7 +2,7 @@
 publish: true
 tags:
 - tibetan
-- tibetan-language
+- "tibetan language"
 ---
 
 In Tibetan there's two verbs that I often mix up, as it usually happens one is used when we want to imply intention and the other one without, but also one, has an extra different grammar usage.

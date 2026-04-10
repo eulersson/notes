@@ -2,7 +2,7 @@
 publish: true
 tags:
 - tibetan
-- tibetan-language
+- "tibetan language"
 ---
 
 ![[Listening Confusion - rkun ma yi g.yas g.yon la.mp3]]

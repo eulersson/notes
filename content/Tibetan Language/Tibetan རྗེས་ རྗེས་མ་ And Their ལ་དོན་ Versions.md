@@ -2,7 +2,7 @@
 publish: true
 tags:
 - tibetan
-- tibetan-language
+- "tibetan language"
 ---
 
 Many a times this question keeps popping to my mind:

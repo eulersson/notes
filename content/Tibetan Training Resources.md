@@ -2,7 +2,7 @@
 publish: true
 tags:
 - "tibetan"
-- "tibetan-language"
+- "tibetan language"
 ---
 
 List of resources that might help you during your #tibetan-language learning journey:

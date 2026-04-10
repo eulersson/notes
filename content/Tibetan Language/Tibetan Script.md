@@ -1,6 +1,6 @@
 ---
 tags:
-- tibetan-language
+- "tibetan language"
 publish: true
 ---
 

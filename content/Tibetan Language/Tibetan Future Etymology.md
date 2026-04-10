@@ -2,7 +2,7 @@
 publish: true
 tags:
 - tibetan
-- tibetan-language
+- "tibetan language"
 ---
 
 [[Eloi Singla]] send me a WhatsApp with a very interesting observation about the future particle.

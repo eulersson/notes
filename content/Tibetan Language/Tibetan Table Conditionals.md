@@ -3,7 +3,7 @@ publish: true
 tags:
 - tibetan
 - table
-- tibetan-language
+- "tibetan language"
 ---
 
 ![[Tibetan Colloquial Disclaimer]]
