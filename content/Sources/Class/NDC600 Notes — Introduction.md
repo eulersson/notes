@@ -105,7 +105,7 @@ About single-pointed meditation:
 
 ## Buddha Knows Emptiness Without Teacher
 
-![[NDC600 — How Did Buddha Discover Wisdom With No Teacher?]]
+![[How Did Buddha Discover Wisdom With No Teacher?]]
 
 ## Teachings and Schools
 
