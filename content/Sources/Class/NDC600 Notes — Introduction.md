@@ -82,9 +82,11 @@ A lady was trying to provoke Geshe-la by announcing she abandoned Buddhism. Gesh
 
 > If you are sick go to the doctor, don't go to the Buddha!
 
-## Wisdoms Requirements
+##  Requirements for Wisdom
 
-From wisdom we need **sharpness** (*analytical meditation*) and **steadiness** (*single-pointed concentration meditation*)  for it to be fruitful. Namely *samatha* and *vipassana*. A doctor can be very wise, but if he is not focused, it's not effective!
+From wisdom we need **sharpness** (*analytical meditation*) and **steadiness** (*single-pointed concentration meditation*)  for it to be fruitful. Namely *samatha* and *vipassana*. A doctor can be very wise, but if he is not focused, it's not effective! Just like a *candle light*: **bright** (stronger light) and **stable** (no flickering).
+
+Therefore, the **two attitudes** needed to grow wisdom: **mindfulness** (དྲན་པ།) — remembering the object, staying present — and **introspection** (ཤེས་བཞིན།) — monitoring, checking if you wandered. **These two decides how grounded you are in what you do and your thinking.** Both can be trained on three levels: physical, verbal or mental.
 
 ## Single-Pointed Meditation
 
@@ -125,6 +127,8 @@ The four schools (their philosophy progressively getting subtler): ^faefc2
 - Chittamatra སེམས་ཙམ་ “Mind-only”
 - Madhyamaka “Middle Way” དབུ་མ་པ་
 
+### Three Turnings of the Wheel
+
 | Teaching                    | Place                        | Subject Matter                                                                                                                                                                     | Target Audience             |
 | --------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 | First Turning of the Wheel  | Sarnath, Varanasi            | 4 Noble Truths, and that they exist truly                                                                                                                                          | Vaibhashika and Sautrantika |
@@ -134,6 +138,10 @@ The four schools (their philosophy progressively getting subtler): ^faefc2
 ^8bf25e
 
 Chittamatra, intellectually, were  average, not as deep thinkers as the other schools, so they were confused about the bold statements from the first turning and second which feel contradictory.
+
+### Tipitaka
+
+3 baskets, Tib. ཆོས་སྡེ་གསུམ། To know the baskets, you need to know the content to understand the container.
 
 ## 3 Natures
 
