@@ -1,0 +1,37 @@
+---
+publish: true
+tags:
+- ndc
+- buddhist-teaching
+---
+
+In relation to discovering Buddha nature and achieving full potential we set some goals, which get affected by obscurations.
+
+| Goal                                                             | Obscuration             |
+| ---------------------------------------------------------------- | ----------------------- |
+| To attain fearlessness (*Nirvana*; partial awakening)            | Afflictive obscurations |
+| To expand happiness to infinity\* (*Buddhahood*; full awakening) | Cognitive obscurations  |
+<small>* Attaining the second one implies automatically having achieved the first — not the other way around.</small>
+
+> [!DANGER]
+> Don't impose the meaning you know on this course.
+
+### 3 Afflictive Obscurations
+
+| Afflictive obscuration          | Description                                           |
+| ------------------------------- | ----------------------------------------------------- |
+| Contaminated karmas             | Karma\* driven by afflictions                         |
+| Afflition                       | Mental factor the presence of which disturbs the mind |
+| Active seeds\*\* of the first 2 | Causes that produce the potential to develop them     |
+<small>* any action we involve in with body, speech or mind</small>
+<small>**2 kinds of seeds: one that's spoiled (inactive seed); one that's healthy (active seed).</small>
+
+The worst of the **afflictions** is **ignorance** — self-grasping ignorance, it stops you from having the vision of reality. Just like darkness don't allow to know the place where we are, by light we dispel it. **By light! Not by prayer!**
+
+Only by giving teaching **ignorance** can be removed and **light of wisdom** can activate.
+
+### Cognitive Obscurations
+
+They operate on a subtler level than the afflictive obscurations.
+
+The **afflictive** obscuration would be the solid garlic that someone is chewing which produces the bad mouth smell, and the **cognitive**  obscuration would be the after effect that would remain after that person removed it and brushed his/her mouth: a *subtle smell*  that still remains...

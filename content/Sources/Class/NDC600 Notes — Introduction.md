@@ -123,7 +123,7 @@ The four schools (their philosophy progressively getting subtler): ^faefc2
 - Vaibhashika བྱེ་བྲག་སྨྲ་བ་
 - Sautrantika མདོ་སྡེ་པ་
 - Chittamatra སེམས་ཙམ་ “Mind-only”
-- Madhyamaka “Middle Way”
+- Madhyamaka “Middle Way” དབུ་མ་པ་
 
 | Teaching                    | Place                        | Subject Matter                                                                                                                                                                     | Target Audience             |
 | --------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
@@ -175,8 +175,6 @@ Acharya Dharmakirti — from Nalanda — wrote a foundational text *Pramanavartt
 
 ### Metaphor: Pot Covering Light
 
-
-
 Those would be askin to being in a dark room with a source of light covered by a pot.
 
 By **piercing** a hole in the pot a ray shoots out and reveals us what surrounds us. By **cracking** it entirely would produce an omnidirectional flow, nothing stopping it or obsuring some if its paths.
@@ -197,8 +195,19 @@ Our mind is like the first case, pue Buddha nature remains, and the mental defil
 
 *Question: With the second example I get confused because it might be used to justify the nature of things such as Buddha nature can be altered?*
 
----
+## Goals and Obscurations
 
+![[Goals and Obscurations]]
 
+## Remedy Must Match Nature of Defilement
 
+There's no one-fixes-it-all solution.
+
+### Example: Dirty Handkerchief
+
+> A person has a beautiful handkerchief. It falls in the ground. Now it's stained. It affects the owner, now he is sad. But someone grabs it, washes it in water and looks like new, so the owner is happy again.
+> 
+> Another time the handkerchief falls again. It's stained again. The owner tries washing it without success. What happens?
+
+The answer to that example is clear: the second time it falls the stain might be different, in that case *grease*. So water can't fix it, it needs a special detergent.
 
