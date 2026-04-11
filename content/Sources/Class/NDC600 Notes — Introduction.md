@@ -162,3 +162,7 @@ Now we must match the two lists:
 | Impermanent Other than Ultimate Reality | Imputed Nature                |
 
 During the **first** Turning (four noble truths exists truly) he meant *Other-powered phenomena and thoroughly established nature exists truly* and in the **second** (nothing exists truly) *Imputed nature does not existing truly*
+
+## Teach on Request
+
+![[Buddhism Doesn't Have Missionaries]]
