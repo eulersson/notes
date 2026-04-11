@@ -15,6 +15,10 @@ _> Go, go, go utterly beyond, go, and establish enlightenment!_
 
 The yardstick for our success in our spiritual practice is: **as we age to become happier and happier**.
 
+## Dependant Origination Mantra
+
+![[The Essence of the Dependent Origination Mantra]]
+
 ## Tathagata
 
 **Tathagata** is a epithet used to refer to the Buddha. Alludes to the meaning: *Thus Gone*, as in he transcended the cycle of rebirth achieving Nirvana.
