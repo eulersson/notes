@@ -8,6 +8,8 @@ tags:
 
 *Extracted from The Blaze of Non-Dual Bodhicittas; sung by Venerable Geshe Dorji Damdul*
 
+Skt. pratītyasamutpāda hṛidaya mantra, Tib. rten ’brel snyingpo gsungs
+
 ![[Om Yeh Dharma - Ven GDD La.mp3]]
 
 OM YE DHARMĀ HETU PRABHAVĀ
