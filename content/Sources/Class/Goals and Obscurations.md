@@ -3,6 +3,7 @@ publish: true
 tags:
 - ndc
 - buddhist-teaching
+- buddhism
 ---
 
 In relation to discovering Buddha nature and achieving full potential we set some goals, which get affected by obscurations.
@@ -11,6 +12,9 @@ In relation to discovering Buddha nature and achieving full potential we set som
 | ---------------------------------------------------------------- | ----------------------- |
 | To attain fearlessness (*Nirvana*; partial awakening)            | Afflictive obscurations |
 | To expand happiness to infinity\* (*Buddhahood*; full awakening) | Cognitive obscurations  |
+
+^34535b
+
 <small>* Attaining the second one implies automatically having achieved the first — not the other way around.</small>
 
 > [!DANGER]
@@ -23,6 +27,9 @@ In relation to discovering Buddha nature and achieving full potential we set som
 | Contaminated karmas             | Karma\* driven by afflictions                         |
 | Afflition                       | Mental factor the presence of which disturbs the mind |
 | Active seeds\*\* of the first 2 | Causes that produce the potential to develop them     |
+
+^82ed0d
+
 <small>* any action we involve in with body, speech or mind</small>
 <small>**2 kinds of seeds: one that's spoiled (inactive seed); one that's healthy (active seed).</small>
 

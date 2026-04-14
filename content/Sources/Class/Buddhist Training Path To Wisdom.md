@@ -3,6 +3,7 @@ publish: true
 tags:
 - ndc
 - buddhist-teaching
+- buddhism
 ---
 
 For wisdom — to awaken our “inner treasure” — we need **sharpness** (*analytical meditation*) and **steadiness** (*single-pointed concentration meditation*)  for it to be fruitful.

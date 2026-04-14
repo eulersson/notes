@@ -3,6 +3,7 @@ publish: true
 tags:
 - ndc
 - buddhist-teaching
+- buddhism
 ---
 
 **How did Buddha discover wisdom without teacher?** — There's two answers: *historical* and *causal*.
