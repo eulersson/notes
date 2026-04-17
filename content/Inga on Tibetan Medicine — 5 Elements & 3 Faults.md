@@ -50,4 +50,29 @@ Apart from that we have 3 faults ཉེས་པ། (རླུང། མཁྲ�
 ### Existence
 
 We exist because there are three poisons, without them the *faults* can't arise, thus no vital energies would makes us alive; we cannot have body without *faults*. *(Nirvana is there! Without them!)*\*
-<small>* Question but you can achieve nirvana being alive?</small>
+<small>* Question but you can achieve nirvana being alive?</small> #question
+
+## 6 Seasons
+
+In Tibetan Medicine 6 seasons are considered, which are also connected to our body.
+
+| Season                                     | Element Manifests | Description                                                                                                                                            |
+| ------------------------------------------ | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| *Spring* དཔྱིད་ཀ་                          | བད་ཀན་            | Flu, mucus, allergies. Because phlegm, after being frozen in winter starts melting.                                                                    |
+| *After-spring* ཟོ་ཀ་ #missing-spelling     | རླུང་             | Hot and dry. Since there's not *water* element, *lung* is abundant, but not manifested.                                                                |
+| *Summer* དབྱར་ཀ་                           | རླུང་             | Heavy rains. Cold wind comes. *Lung* was accumulating in the previous season, building up. And the light coldness of the wet season makes it manifest. |
+| *Autumn* སྟོན་ཀ་                           | འཁྲིས་པ་          | During summer, since *lung* is very high (think of blowing an ember to rebuild a fire). Now since it's less wet, it gets warm. *Fire* manifests.       |
+| *Lower winter* དགུན་མེད་ #missing-spelling |                   | *Fire* is pacified.                                                                                                                                    |
+| *Upper winter* དགུན་ཏོད་ #missing-spelling |                   | *Water* freezes so it can't flow. Cold accumulates. བད་ཀན་ accumulates, but doesn't manifest because it's very cold, so no symptoms.<br>               |
+
+Interesting observation: many religions, ages ago, do **spring-time fasting** — probably because they were low on food stock after winter.  If having lots of phlegm (བད་ཀན་) in your system, if you fast you can balance them, preventing the diseases. 
+
+## Ayurveda
+
+When Tibetan medicine consolidated, in Lhasa, around 12th century, there was a big medical conference — *First Council on Tibetan Medicine*\*[^1] —, inviting scholars from all around the world: Persia, China, Mongolia, Greece. In that conference they exchanged a lot of knowledge.
+
+From then onwards Tibetan medicine implemented many elements from *ayurveda* — for example the *faults* and *elements* —and other systems. It's influence — despite coming from many sources — is mostly from the Indian systems (others: Mongolian, Chinese, Islamic, ...). Tibetan is 60% similar to *ayurveda*.
+
+> People who claim it's not related to *ayurveda* how would then explain that in the texts some of the plant names are from India and not Tibet?
+
+[^1]: Second council happened in 2012!
