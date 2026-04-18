@@ -228,7 +228,13 @@ The answer to that example is clear: the second time it falls the stain might be
 
 ![[Buddhism 4 Seals]]
 
----
+## Examination of Self and Phenomena
 
-`CONT. 2:06:00 https://www.youtube.com/live/nsAWei9NYdU `
-`THEN https://youtube.com/live/JhelJdb3TKU`
+We need to know what is the mechanism by which the miseries arise. *By praying alone you won't get a job.* 
+
+> **Nirvana** being *free* from pain; 
+> **Samsara** lack of *freedom*. 
+
+Everybody wants freedom despite being religious or not.
+
+![[Nagarjuna Examination of Self and Phenomena — Verse 5]]

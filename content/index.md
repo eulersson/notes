@@ -32,9 +32,9 @@ How to navigate:
 - By clicking tags
 
 > [!TIP] Where to start?
-> At the moment I am putting most of my effort on [[Tibetan Language/Diary/index|Tibetan Language Diary]], #tibetan-language  and [[English Beginner Classes]] (ESL resources and games for children).
+> At the moment I am putting most of my effort on [[Tibetan Language/Diary/index|Tibetan Language Diary]], #tibetan-language, [[NDC600 Notes|Nalanda Diploma Course Notes]] and [[English Beginner Classes]] (ESL resources and games for children).
 
-Other tags: #tibetan #tibetan-language #esl #prayer
+Other tags: #tibetan #tibetan-language #esl #prayer #calligraphy #buddhist-teaching #ndc #nepal #travel #thought 
 
 > [!WARNING] Disclaimer
 > These pages are notes selected from my **personal notebook**. This means rigorous writing is not to be expected at all; let alone academic-level prose. Sources are usually provided, check those.
