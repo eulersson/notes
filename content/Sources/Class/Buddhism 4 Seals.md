@@ -32,7 +32,7 @@ Thing which is constituted of either:
 > [!WARNING]
 > **Material** parts imply **implicitely temporal** parts too. But temporal parts can be temporal on their own with no material associated.
 
-## Imperamence
+## Impermanence
 
 Two kinds:
 
