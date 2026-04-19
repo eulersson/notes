@@ -6,6 +6,11 @@ tags:
 - buddhism
 ---
 
+> ལས་དང་ཉོན་མོངས་ཟད་པས་ཐར།  
+> ལས་དང་ཉོན་མོངས་རྣམ་རྟོག་ལས།  
+> དེ་དག་སྤྲོས་ལས་སྤྲོས་པ་ནི།  
+> སྟོང་པ་ཉིད་ཀྱིས་འགག་པར་འགྱུར།
+
 > Ceasing of karmas and afflictions is liberation.
 > Karmas and afflictions arise from conceptual thoughts.
 > These arise from elaboration (of grasping at true existence).
@@ -27,11 +32,11 @@ What is the *immediate cause* of *conceptual thought*?
 
 We need to know how these 5 are cause-related so miseries I go through cease. We need to know how these 5 come into being.
 
-1. Samsara
+1. Samsara འཁོར་བ།
 2. Contaminated karmas
-3. Afflictions
-4. Inappropriate attention
-5. Self-grasping ignorance
+3. Afflictions ཉོན་མོངས།
+4. Inappropriate attention ཚུན་མིན་ཡིད་བྱེད།
+5. Self-grasping ignorance གཏི་མུག་བདེན་འཛིན་མ་རིག་པ།
 
 ## Dream Example
 
