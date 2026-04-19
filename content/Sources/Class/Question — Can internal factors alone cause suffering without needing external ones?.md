@@ -4,6 +4,7 @@ tags:
   - ndc
   - buddhist-teaching
   - buddhism
+  - question
 ---
 
 At class venerable Geshe-la used the "clap" metaphor to illustrate how parts are needed for the sound of the [human hand] clap to arise: a right hand and a left hand. They would represent: internal factors and external factors.

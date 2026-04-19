@@ -4,6 +4,7 @@ tags:
 - ndc
 - buddhist-teaching
 - buddhism
+- question
 ---
 
 I have a question about the example of the flower arising on the mind (subtle imperamence).
