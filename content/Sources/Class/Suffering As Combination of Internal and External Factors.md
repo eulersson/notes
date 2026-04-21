@@ -30,4 +30,4 @@ To be wise is to be skilful at selecting whether we should select **internal** o
 
 ![[4 Invesions (Ignorances)]]
 
-[[Question — Can internal factors alone cause suffering without needing external ones?]]
+[[NDC Question — Can internal factors alone cause suffering without needing external ones?]]

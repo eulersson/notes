@@ -29,7 +29,7 @@ Anatomically (on body tissues) tenderness is seen as positive — not stiffness.
 
 Covering up tenderness with layers is akin to **anaesthetic**. And problems with anaesthesia is that we develop tolerance for it and every time will need more. Many people use work — their jobs — as an anaesthetic. ==Meditation isn't positive when only used as an anaesthetic==; meditation must not be an escape from daily situations. Meditate with no attachment. “While meditating this \[discomfort\] will go away” yields bad results.
 
-In Buddhism the [[Buddhism 4 Seals|4 seals]] are used to identify when some argument or philosophy is buddhist or not. The first of these seals is that if ==something depends on another thing it must be impermanent== — *anicca* “All compound things are impermanent”. Going against this seal produces unbearableness, because we **want to control** things, and impermanence shakes that off. The way to relate to it is by exposing; “to be” is that way to expose without wanting to protect at all cost.
+In Buddhism the [[NDC605 4 Seals of Buddhism|4 seals]] are used to identify when some argument or philosophy is buddhist or not. The first of these seals is that if ==something depends on another thing it must be impermanent== — *anicca* “All compound things are impermanent”. Going against this seal produces unbearableness, because we **want to control** things, and impermanence shakes that off. The way to relate to it is by exposing; “to be” is that way to expose without wanting to protect at all cost.
 
 ---
 
