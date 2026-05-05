@@ -7,15 +7,21 @@ tags:
 - buddhism
 ---
 
-impermanence, suffering, non-self, nirvana is peaceful
+*impermanence, suffering, non-self, nirvana is peaceful*
 
 These four lines seal what a buddhist tradition is. Just like a stamp of approval that validates the way of getting out of suffering. Always thinking he would not dictate them but encourage them to run them under trial.
 
-1.  **Impermanence** (_anicca_\* Skt. अनित्य Tib. དེ་རིང་མེད།): All compounded (composite) things are transient (impermanent).
-2. **Suffering** (_dukkha_ Skt. दुःख Tib. སྡུག་བསྔལ།): All conditioned phenomena (contaminated things) are unsatisfactory (of suffering nature).
-3. **Non-self** (_anatta_ Skt. अनात्मन् Tib. རང་དབང་མེད།): Nothing possesses an independent, permanent self (Everything is of the nature of emptiness and selflessness).
-4. **Nirvana is peaceful** (transcending sorrow is absolute peace) (*nibbanam santam* Skt. निर्वाणं शान्तम् Tib. མཐོང་བ་བདེ་བ།).
-<small>* cursive is Pali language</small>
+1. **Impermanence**: All composite things are impermanent.
+2. **Suffering**: All contaminated things (conditioned by afflictions) of suffering nature.
+3. **Non-self**: Nothing possesses an independent, permanent self; everything is of the nature of emptiness and selflessness.
+4. **Nirvana is peaceful**: transcending sorrow is absolute peace.
+
+| Seal                | Pali              | Sanskrit         | Tibetan       |
+| ------------------- | ----------------- | ---------------- | ------------- |
+| Impermanence        | *anicca*          | अनित्य           | དེ་རིང་མེད།   |
+| Suffering           | *dukkha*          | दुःख             | སྡུག་བསྔལ།    |
+| Non-self            | *anatta*          | अनात्मन्         | རང་དབང་མེད།   |
+| Nirvana is peaceful | *nibbanam santam* | निर्वाणं शान्तम् | མཐོང་བ་བདེ་བ། |
 
 Help dispel the [[4 Invesions (Ignorances)]].
 
@@ -26,14 +32,16 @@ The bases of this teaching are in the [[The Essence of the Dependent Origination
 ## Composite Phenomena
 
 Thing which is constituted of either:
-- **directional or material parts**: made of electrons, protons, neutrons... they occuppy space, have orientation (direction)
-- **temporal parts**: parts in time. *Today I'm very happy*. Today = 1 day = 24 temporal parts (hours) = 60 temporal parts (minutes).
+- **Directional or material parts**: made of electrons, protons, neutrons... they occupy space, have orientation (direction)
+- **Temporal parts**: parts in time. *Today I'm very happy*. Today = 1 day = 24 temporal parts (hours) = 60 temporal parts (minutes).
 
 
 > [!WARNING]
 > **Material** parts imply **implicitely temporal** parts too. But temporal parts can be temporal on their own with no material associated, e.g. **our mind** (can't be located, but it is subject to time).
 
 ## Impermanence
+
+Buddha said meditation on emptiness is the greatest, like the footprint of an elephant. *Why?* — Because it brings a sense of **urgency**.
 
 Two kinds:
 
@@ -61,3 +69,7 @@ Changing at every instant. Requires a deeper meditative process to understand it
 *Example:* the growth of a tree. Only noticeable if you leave and come back after some time. The growing is continuous, but apparently unnoticeable. You can keep dividing every minute, second: it's growing. Millisecond: it's growing. Any time partition, *ad infinitum*.
 
 ![[NDC Question — Subtle impermanence arises and passes?#^1751d7]]
+
+## 3 Types of Suffering
+
+![[3 Types of Suffering]]

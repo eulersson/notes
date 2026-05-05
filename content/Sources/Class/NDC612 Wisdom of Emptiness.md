@@ -31,4 +31,4 @@ Now we must match the two lists:
 | Non-Existent                            | Imputed Nature                |
 | Impermanent Other than Ultimate Reality | Imputed Nature                |
 
-During the **first** Turning (four noble truths exists truly) he meant *Other-powered phenomena and thoroughly established nature exists truly* and in the **second** (nothing exists truly) *Imputed nature does not existing truly*
+During the **first** Turning ([[4 Noble Truths]] exists truly) he meant *Other-powered phenomena and thoroughly established nature exists truly* and in the **second** (nothing exists truly) *Imputed nature does not existing truly*

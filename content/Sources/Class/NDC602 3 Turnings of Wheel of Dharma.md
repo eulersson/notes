@@ -26,13 +26,13 @@ The four schools (their philosophy progressively getting subtler): ^faefc2
 
 | Teaching                    | Place                        | Subject Matter                                                                                                                                                                     | Target Audience             |
 | --------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| First Turning of the Wheel  | Sarnath, Varanasi            | 4 Noble Truths, and that they exist truly                                                                                                                                          | Vaibhashika and Sautrantika |
+| First Turning of the Wheel  | Sarnath, Varanasi            | [[4 Noble Truths]], and that they exist truly                                                                                                                                   | Vaibhashika and Sautrantika |
 | Second Turning of the Wheel | Gridhrakūta (Volture's Peak) | Emptiness of true existence or emptiness of self-characteristics                                                                                                                   | Madhyamaka                  |
 | Third Turning of the Wheel  | Vaishali                     | Buddha interpreted own teachings: Clarify apparent contradiction about the truly existence \[of suffering\] in 1st turning and emptiness of the 2nd, so not to fall in *nihilism*. | Chittamatra                 |
 
 ^8bf25e
 
 > [!INFO]
-> Another categorization of the teachings of the Buddha: [[NDC601 Three Baskets and Three Higher Trainings#^6c9a33|Tipitaka]].
+> Another categorization of the teachings of the Buddha: [[NDC601 3 Baskets and 3 Higher Trainings#^6c9a33|Tipitaka]].
 
 Chittamatra, intellectually, were  average, not as deep thinkers as the other schools, so they were confused about the bold statements from the first turning and second which feel contradictory.

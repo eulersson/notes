@@ -5,6 +5,7 @@ tags:
 - buddhist-teaching
 - buddhism
 ---
+*Basics. Purpose of Meditation. The Practice of Shamatha Meditation and the Nine Stages.*
 
 ## Single-Pointed Meditation
 

@@ -40,6 +40,8 @@ In Mahayana attaining total fearlessness does not bring you ultimate happiness a
 ^82ed0d
 
 <small>* any action we involve in with body, speech or mind</small>
+
+
 <small>**2 kinds of seeds: one that's spoiled (inactive seed); one that's healthy (active seed).</small>
 
 The worst of the **afflictions** is **ignorance** — self-grasping ignorance, it stops you from having the vision of reality. Just like darkness don't allow to know the place where we are, by light we dispel it. **By light! Not by prayer!**

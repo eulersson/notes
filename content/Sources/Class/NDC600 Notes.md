@@ -6,30 +6,28 @@ tags:
 - buddhism
 ---
 
-| Code                                                                                                                                | Topic                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| [[NDC601 Life of Shakyamuni Buddha\|NDC601]]                                                                                        | The Life Story of Shakyamuni Buddha, Three Baskets and Three Higher Trainings                                   |
-| [[NDC602 Three Turnings of Wheel of Dharma\|NDC602]]                                                                                | Three Turnings of the Wheel of Dharma                                                                           |
-| NDC603                                                                                                                              | The Four Noble Truths                                                                                           |
-| NDC604                                                                                                                              | Wheel of Life — Twelve Links of Dependent Origination                                                           |
-| [[NDC605 4 Seals of Buddhism\|NDC605]]                                                                                              | The Four Seals of The Buddha’s Teachings                                                                        |
-| [[NDC606 Buddhist Psychology\|NDC606]]                                                                                              | Buddhist Psychology                                                                                             |
-| NDC607                                                                                                                              | Bodhicitta — Two Methods for Cultivation and Four Immeasurables                                                 |
-| NDC608                                                                                                                              | The Practice of Six/Ten Perfections                                                                             |
-| NDC609                                                                                                                              | Five Aggregates, Twelve Sources, Eighteen Elements                                                              |
-| NDC610                                                                                                                              | Five/Fifteen Paths to Enlightenment                                                                             |
-| [[NDC611 Tenet Systems]]                                                                                                            | Tenet Systems                                                                                                   |
-| [[NDC612 Wisdom of Emptiness\|NDC612]]                                                                                              | Wisdom of Emptiness                                                                                             |
-| NDC613                                                                                                                              | The Graded Path to Enlightenment (Lamrim)                                                                       |
-| NDC614                                                                                                                              | Introduction to Buddhist Logic                                                                                  |
-| NDC615                                                                                                                              | Hermeneutics (Interpretative and Definite Meanings of Buddha’s Teachings)                                       |
-| [[NDC616 Features of Meditation — Basics. Purpose of Meditation. The Practice of Shamatha Meditation and the Nine Stages.\|NDC616]] | Features of Meditation — Basics. Purpose of Meditation. The Practice of Shamatha Meditation and the Nine Stages |
-| [[NDC617 Buddha Nature\|NDC617]]                                                                                                    | Buddha Nature                                                                                                   |
-| NDC618                                                                                                                              | Thirty Seven Harmonious Paths to Enlightenment                                                                  |
-| NDC619                                                                                                                              | Four Fruits and Eight Sangha Members                                                                            |
-| NDC620                                                                                                                              | Overview of Four Tibetan Buddhist Schools                                                                       |
-| NDC621                                                                                                                              | Overview of Mahayana and Theravada Buddhism                                                                     |
-| NDC622                                                                                                                              | Presentation of Kayas of Buddha                                                                                 |
+- [[NDC601 Life of Shakyamuni Buddha]]
+- [[NDC602 3 Turnings of Wheel of Dharma]]
+- [[NDC 603 The Four Noble Truths]] 
+- NDC 604 — Wheel of Life and Twelve Links of Dependent Origination
+- [[NDC605 4 Seals of Buddhism]]
+- [[NDC606 Buddhist Psychology]]
+- NDC 607 — Bodhicitta — Two Methods for Cultivation and Four Immeasurables
+- NDC 608 — The Practice of Six/Ten Perfections
+- NDC 609 — Five Aggregates, Twelve Sources, Eighteen Elements
+- NDC 610 — Five/Fifteen Paths to Enlightenment
+- [[NDC611 Tenet Systems]]
+- [[NDC612 Wisdom of Emptiness]]
+- NDC 613 — The Graded Path to Enlightenment (Lamrim)
+- NDC 614 — Introduction to Buddhist Logic
+- NDC 615 — Hermeneutics (Interpretative and Definite Meanings of Buddha’s Teachings)
+- [[NDC616 Features of Meditation]]
+- [[NDC617 Buddha Nature]]
+- NDC 618 — Thirty Seven Harmonious Paths to Enlightenment
+- NDC 619 — Four Fruits and Eight Sangha Members
+- NDC 620 — Overview of Four Tibetan Buddhist Schools
+- NDC 621 — Overview of Mahayana and Theravada Buddhism
+- NDC 622 — Presentation of Kayas of Buddha
 
 ---
 
@@ -41,12 +39,6 @@ _> Go, go, go utterly beyond, go, and establish enlightenment!_
 “From from tears to fearlessness!”, or “Become happier and happier”.
 
 The yardstick for our success in our spiritual practice is: **as we age to become happier and happier**.
-
-## Dependant Origination Mantra
-
-At the beginning of each class we recite this mantra.
-
-[[The Essence of the Dependent Origination Mantra]]
 
 ## Purpose of Life
 
@@ -76,4 +68,3 @@ A lady was trying to provoke Geshe-la by announcing she abandoned Buddhism. Gesh
 ## Teach on Request
 
 ![[Buddhism Doesn't Have Missionaries]]
-

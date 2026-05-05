@@ -18,6 +18,21 @@ tags:
 
 ## Extracting 5 Elements
 
+We need to know how these 5 are cause-related, so miseries I go through cease. We need to know how these 5 come into being.
+
+| #   | Element                                       | Tibetan                        |
+| --- | --------------------------------------------- | ------------------------------ |
+| 1   | Suffering in Samsara                          | འཁོར་བའི་སྡུག་བསྔལ་            |
+| 2   | Contaminated karmas                           | ཟག་བཅམ་ཀྱི་ལས་                 |
+| 3   | Afflictions                                   | ཉོན་མོངས་                      |
+| 4   | Inappropriate attention (conceptual thoughts) | ཚུན་མིན་ཡིད་བྱེད་ཀྱི་རྣམ་རྟོག་ |
+| 5   | Self-grasping ignorance                       | བདག་འཛིན་འཛིན་མ་རིག་པ་         |
+
+
+> [!INFO]
+> Remove the root (contaminated *karmas*), and the rest fall apart.
+
+
 **Nirvana** being *free* from pain; **Samsara** lack of *freedom*. Opposite of samsara is nirvana.
 
 *Karma* (contaminated ones) is why we are in *samsara*. 
@@ -29,14 +44,6 @@ What is the *immediate cause* of *karmas* and *afflictions*?
 
 What is the *immediate cause* of *conceptual thought*?
 - *Elaboration* of *self-grasping ignorance*
-
-We need to know how these 5 are cause-related so miseries I go through cease. We need to know how these 5 come into being.
-
-1. Samsara འཁོར་བ།
-2. Contaminated karmas
-3. Afflictions ཉོན་མོངས།
-4. Inappropriate attention ཚུན་མིན་ཡིད་བྱེད།
-5. Self-grasping ignorance གཏི་མུག་བདེན་འཛིན་མ་རིག་པ།
 
 ## Dream Example
 
@@ -51,7 +58,7 @@ We need to know how these 5 are cause-related so miseries I go through cease. We
 | ------------------------------------------------------------------ | --------------------------------------- |
 | Being in \[dream\] prison                                          | Samsara                                 |
 | Fight                                                              | Contaminated karma                      |
-| Attachment to mobile                                               | Affliction                              |
+| Attachment to mobile (+ its characteristics)                       | Affliction                              |
 | Aversion to competitor                                             | Affliction                              |
 | Exaggeration of the qualities of the mobile                        | Inappropriate attention                 |
 | Seeing the dream phone as a real phone, misconceiving it's reality | Misconceiving the reality of the object |
@@ -73,3 +80,15 @@ When you misconceive...
 	- Exaggerating positively
 
 [^1]: Hence why the Buddha is referred as the fully awoken one.
+
+## Object & Characteristics
+
+> [!INFO]
+> Be aware of the object and its characteristics are different.
+> 
+> Exaggeration (or exaggerated disinterest) might happen on the object and/or its characteristics.
+
+| Aspect              | Level  | Example                                |
+| ------------------- | ------ | -------------------------------------- |
+| Object              | Subtle | *This is a piece of cake* (is)         |
+| Characteristics<br> | Gross  | *This cake is soooo delicious* (taste) |
