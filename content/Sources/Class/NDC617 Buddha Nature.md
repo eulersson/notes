@@ -8,9 +8,9 @@ tags:
 
 Buddha nature is hidden below the layers of mental afflictions. It's a subtractive process to discover it, we don't have to add anything to be able to create it.
 
-## Dharmakirti
+## Ācārya Dharmakīrti
 
-Acharya Dharmakirti — from Nalanda — wrote a foundational text *Pramanavarttika* _(Commentary on Valid Cognition)_.
+Acharya Dharmakirti — from Nalanda — wrote a foundational text *Pramāṇavārttika* _(Commentary on Valid Cognition)_, a very strong logical argument on reincarnation.
 
 > The true nature of the mind is clear light; The mental stains are not true nature, removable, not forever.
 

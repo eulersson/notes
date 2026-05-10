@@ -13,7 +13,7 @@ The Zangdok Palri Insitute (ZPI) is one of the central projects in Patrul Rinpoc
 
 First, it was an educational body in Tibet giving education to orphaned children and sometimes to lay people. Growing stronger it developed a branch in Europe offering education on buddhist philosophy to Western students. As a physical ornament of spiritual and intellectual development a temple was build in Tibet.
 
-![[Zangdok Palri Institute.png]]
-![[Zangdok Palri Institute Red.png]]
+![[Zangdok Palri Institute.jpeg]]
+![[Zangdok Palri Institute Red.jpeg]]
 ![[Zangdok Palri Institute Lung Ta.png]]
 ![[Zangdok Palri Institute Mountain.png]]
