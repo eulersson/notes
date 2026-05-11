@@ -106,9 +106,9 @@ Similarly on the other end, when reporting what a highly respected person said a
 
 ### ཟེ་ལབ་ཀྱི་འདུག
 
-Same as ཟེ་ལབ
+Same as ཟེ་ལབ་ཀྱི་འདུག 
 
-ཤྭ་ཁྲ་སྐེ་རིང་ལགས་ཀྱིས་ཁོང་གསར་འགོད་པ་རེད་ཟེ་<i class="y">ཀྱི་འདུག</i>
+ཤྭ་ཁྲ་སྐེ་རིང་ལགས་ཀྱིས་ཁོང་གསར་འགོད་པ་རེད་ཟེ་<i class="y">ལབ་ཀྱི་འདུག</i>
 ཤྭ་ཁྲ་སྐེ་རིང་ལགས་ཀྱིས་ཁོང་གསར་འགོད་པ་རེད་<i class="y">ཟ།</i>
 
 ### I Heard, It Is Said That ...
