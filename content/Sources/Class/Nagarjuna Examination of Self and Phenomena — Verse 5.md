@@ -11,9 +11,9 @@ tags:
 > དེ་དག་སྤྲོས་ལས་སྤྲོས་པ་ནི།  
 > སྟོང་པ་ཉིད་ཀྱིས་འགག་པར་འགྱུར།
 
-> Ceasing of karmas and afflictions is liberation.
-> Karmas and afflictions arise from conceptual thoughts.
-> These arise from elaboration (of grasping at true existence).
+> Ceasing of (contaminated) karmas and afflictions is liberation.
+> Karmas and afflictions arise from conceptual thoughts (conceptualization of inappropiate attention).
+> These arise from elaboration (of self-grasping ignorence).
 > Elaboration ceases by (or into) emptiness.
 
 ## Extracting 5 Elements
@@ -44,6 +44,12 @@ What is the *immediate cause* of *karmas* and *afflictions*?
 
 What is the *immediate cause* of *conceptual thought*?
 - *Elaboration* of *self-grasping ignorance*
+
+## Afflictions
+
+Afflictions is listed as a separate element, that is because it refers to **gross afflictions**.
+
+But **inappropiate attention** and **elaboration of self-grasping ignorance** are also considered **afflictions** (subtler). ^32dbda
 
 ## Dream Example
 
