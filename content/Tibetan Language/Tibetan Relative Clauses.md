@@ -3,25 +3,11 @@ publish: true
 tags:
 - tibetan
 - tibetan-language
+links:
+- "[[Tibetan Relative Clauses]]"
 ---
 
 ![[Tibetan Colloquial Disclaimer]]
-
-- [[#Who མཁན་ པ་|Who མཁན་ པ་]]
-	- [[#Who མཁན་ པ་#Present མཁན་|Present མཁན་]]
-	- [[#Who མཁན་ པ་#Past པ་ and མཁན་|Past པ་ and མཁན་]]
-- [[#Demonstrative|Demonstrative]]
-- [[#Nominalizer པ་|Nominalizer པ་]]
-	- [[#Nominalizer པ་#1. Agent of a ཐ་མི་དད་པ་ verb, in the past: པ་ means "who"|1. Agent of a ཐ་མི་དད་པ་ verb, in the past: པ་ means "who"]]
-	- [[#Nominalizer པ་#2. Direct object of the verb, in the past: པ་ means "which" or "that"|2. Direct object of the verb, in the past: པ་ means "which" or "that"]]
-	- [[#Nominalizer པ་#3. To Nominalize a Whole Phrase or Sentence|3. To Nominalize a Whole Phrase or Sentence]]
-- [[#"Which" / "That" With ཡག་|"Which" / "That" With ཡག་]]
-	- [[#"Which" / "That" With ཡག་#Relative Clause or Not?|Relative Clause or Not?]]
-	- [[#"Which" / "That" With ཡག་#Emphasis|Emphasis]]
-- [[#Exile Dialect|Exile Dialect]]
-- [[#"Where" / "To Whome" With ས་|"Where" / "To Whome" With ས་]]
-- [[#Subject, Direct, Indirect|Subject, Direct, Indirect]]
-
 
 Connecting two sentences with *which*, *what*, *who*, *whom*, *where*, *that*.
 
@@ -145,7 +131,7 @@ To say "past tense" and "future tense" applies only to English, though. The nomi
 
 Instead of པ་ and ཡག་ we might  hear རྒྱོག་ which is very colloquial: ཁྱེད་རང་གིས་ཁེ་ས་ཉོས་རྒྱོག་ཆུ་ཚོད་དེ་སྐྱོན་ཤོར་སོང་། *The watch which you bought yesterday broke*.
 
-##  "Where" / "To Whome" With ས་
+##  "Where" / "To Whom" With ས་
 
 ས་ specifies the **indirect object** (it's what's usually marked with ལ་).
 
@@ -167,7 +153,8 @@ Works in all tenses.
 | <i class="p">Direct Object</i> ཡག་ (if future)        | ངས་ཞི་མི་ལ་སྤྲད་<i class="y">ཡག་</i>གི་འོ་མ་དེ་གོང་ཆེན་པོ་མི་འདུག།<br>*The milk, <i class="y">which</i> I will give to the cat, is not expensive.*  |
 | <i class="b">Indirect Object</i> ས་                   | ངས་ཨོ་མ་སྤྲད་<i class="y">ས</i>འི་ཞི་མིའི་མིང་འཟོམས་སྐྱིད་རེད།<br>*I gave milk to the cat <i class="y">whose</i> name is Dzomkyi.*                  |
 | <i class="b">Indirect Object</i> (with emphasis) མཁན་ | འཛོམས་སྐྱིད་ཟེར་<i class="y">མཁན་</i>གྱི་ཞི་མི་ལ་འོ་མ་སྤྲད་པ་ཡིན།<br>*I gave milk tot he cat <i class="y">who</i> is called Dzomkyi.*               |
-	##  Direct Object (Taking Process) བཞིན་པ་
+
+##  Direct Object (Taking Process) བཞིན་པ་
 
 Past: པ་, Present (continuous): བཞིན་, Future: ཡག་
 
