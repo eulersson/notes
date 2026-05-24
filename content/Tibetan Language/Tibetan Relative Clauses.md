@@ -3,8 +3,6 @@ publish: true
 tags:
 - tibetan
 - tibetan-language
-links:
-- "[[Tibetan Relative Clauses]]"
 ---
 
 ![[Tibetan Colloquial Disclaimer]]
