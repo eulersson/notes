@@ -125,6 +125,10 @@ To say "past tense" and "future tense" applies only to English, though. The nomi
 ང་ལ་<i class="y">དུག་སློག་</i><i class="b">འཁྲུ་</i>ཡག་མང་པོ་ཡོད།
 - I have a lot of clothes to wash, **not iron nor buy**.
 
+
+> [!INFO] Tibetan preference
+> The first  is more natural to be expressed, with the འབྲེལ་སྒྲ། 
+
 ## Exile Dialect
 
 Instead of པ་ and ཡག་ we might  hear རྒྱོག་ which is very colloquial: ཁྱེད་རང་གིས་ཁེ་ས་ཉོས་རྒྱོག་ཆུ་ཚོད་དེ་སྐྱོན་ཤོར་སོང་། *The watch which you bought yesterday broke*.
