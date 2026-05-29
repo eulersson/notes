@@ -7,6 +7,8 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer]]
 
+There's a [[Tibetan Relative Clauses Summary Table]].
+
 Connecting two sentences with *which*, *what*, *who*, *whom*, *where*, *that*.
 
 > ངས་<i class="y">དེབ་</i>ཅིག་<i class="p">ཉོས་</i>པ་ཡིན། + དེ་སྙན་པོ་འདུག = ངས་<i class="p">ཉོས་</i><i class="g">པའི་</i><i class="y">དེབ་</i>དེ་སྙན་པོ་འདུག
