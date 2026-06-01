@@ -16,6 +16,7 @@ I am following [[Franziska Oertle]]'s [[The Heart of Tibetan Language]] material
 
 Find the structured notes from the book in [[The Heart of Tibetan Language]] knowing those are personal notes that might confuse you unless you have read the book first with the clear examples and natural flow of explanation. Those are distilled notes for me and my friends learning along with that course.
 # Index
+- [[2026-06|June 2026]]
 - [[2026-05|May 2026]]
 - [[2026-04|April 2026]]
 - [[2026-03|March 2026]]

@@ -5,9 +5,7 @@ tags:
 - prayer
 ---
 
-![](https://www.youtube.com/watch?v=RTHmJoE2QJ4)
-
-![](https://www.youtube.com/watch?v=hMED-AGewAY)
+![[Offering Chant (Unplugged).mp3]]
 
 སྟོང་གསུམ་རབ་འབྱམས་འཇིག་རྟེན་ཐམས་ཅད་དུ ། །
 གཟུགས་སུ་སྣང་བ་ཐམས་ཅད་ཀུན ། །
