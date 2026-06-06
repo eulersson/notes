@@ -32,14 +32,13 @@ The ལ་དོན་ cases (2nd, 4th and 7th) are correct.
 
 ### Looking or Looking At?
 
-In the case of ལྟ་ — to look, to look at —, or ཉན་ — to listen, to listen to — depending on how you use the verb the object will take a ལ་དོན་ or not. 
+In the case of ལྟ་ — to read, to look at —, or ཉན་ — to listen to — depending on how you use the verb the object will take a ལ་དོན་ or not. 
 
-When saying *The book I was looking is expensive*, you are not *looking at* the book really — you are not putting the attention on the fact of moving your head and attention towards that object—, you are simply viewing it — No ལ་དོན། 
+When saying *The book I was reading is expensive* —we can use ལྟ་; similarly to watching a movie ལྟད་མོ་ལྟ་བ་—, you are not *looking at* the book really — you are not putting the attention on the fact of moving your eyes and attention towards that (indirect) object—, you are simply viewing it — No ལ་དོན། 
 
-*Looking at* on the other hand is more direct — Object marked by ལ་དོན།
+*Looking at* on the other hand is more direct — Indirect objecy marked by ལ་དོན།
 
 | Case                                 | Example                               |
 | ------------------------------------ | ------------------------------------- |
 | Takes ལ་དོན་ (to look at)            | ངས་ལྟ་སའི་བྱ་དེ་མགྱོག་པོར་འཕུར་སོང་ད། |
 | Does not take ལ་དོན་ (to look, view) | ངས་ལྟ་བཞིན་པའི་དེབ་དེ་གོང་ཆེན་པོ་འདུག |
-
