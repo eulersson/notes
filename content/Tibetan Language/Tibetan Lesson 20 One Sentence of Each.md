@@ -15,7 +15,7 @@ tags:
 	- *This girl is very clever.*
 - ཞེ་པོ་གཅིག
 	- དོན་དག་འདི་གལ་ཆེན་པོ་<i class="y">ཞེ་པོ་གཅིག་</i>རེད།
-	- *The meaning of this is extremely important*
+	- *The meaning of this is extremely important.*
 - ཧ་ཅང་(གིས)།
 	- བོད་ལ་ཁ་ཆེ་<i class="y">ཧ་ཅང་(གིས་)</i>ཉུང་ཉུང་ཡོད་རེད།
 	- *There are very few muslims in Tibet.*
@@ -34,12 +34,12 @@ tags:
 - ཐག་ཆོད།
 	- ཁྱེད་རང་གིས་བཟོས་པའི་འཐེན་ཐུག་འདི་<i class="b">ཞིམ་</i><i class="y">ཐག་ཆོད་</i>འདུག
 	- *The noodle soup which you made is extremely tasty!*
-- རྐྱང་
+- རྐྱང་ (adj)
 	- ཁྱེད་རང་ཁོང་ལ་ཡིན་ཆེས་བྱེད་རོགས་གནང་། སེམས་པ་<i class="b">དཀར་པོ་དཀར་</i><i class="y">རྐྱང་</i>རེད།
 	- *Please trust him! He has a completely pure (lit. white) heart.*
 - རྐྱང་ (verb)
 	- གོ་སྐབས་རག་ན་བོད་ལ་འགྲོ་<i class="y">རྐྱང་</i>བྱེད་ཀྱི་ཡིན།
-	- *If I get a change, I will <i class="y">just</i> go to Tibet
+	- *If I get a change, I will <i class="y">just</i> go to Tibet*
 - ཡོས་
 	- ཨ་མ་མ། གཞས་འདི་<i class="y">ཡོས་</i>སྙན་པོ་འདུག
 	- *Oh my gosh, this song is so nice!*
@@ -56,14 +56,14 @@ tags:
 	- *About 100 people.*
 - ཙམ (a bit more X)
 	- མོ་ཊ་མགྱོགས་<i class="y">ཙམ་</i>གཏོང་རོགས་གནང་།
-	- *Please drive the car <i class="y">a bit</i> faster! (H)
+	- *Please drive the car a bit faster! (H)
 - ཙམ་ (by merely)
-	- མོ་ཊ་མགྱོགས་<i class="y">ཙམ་</i>གཏོང་རོགས་གནང་།
-	- *Please drive the car <i class="y">a bit</i> faster! (H)
+	- བློ་བསང་གིས་སྒྲོལ་མ་ལགས་ཐེངས་མ་གཅིག་མཐོང་<i class="b">བ་</i><i class="y">ཙམ་གྱིས་</i>རྦད་དེ་སེམས་པ་ཤོར་སོང་།
+	- *By only seeing Dolma-la once, Lobsang fell completely in love with her.*
 
 - སེ་
 	- ཁྱེད་རང་གིས་ཉོས་པའི་དུག་སློག་དེ་ཚོ་<i class="b">སྙིང་རྗེ་པོ་</i><i class="y">སེ་</i>མི་འདུག
-	- *The clothes you bought are not particularly beautiful.* (adjective)
+	- *The clothes you bought are not particularly beautiful.*
 - རང་
 	- ཁོང་བོད་པ་<i class="y">རང་</i>རེད།
 	- *He is <i class="y">very</i> Tibetan
