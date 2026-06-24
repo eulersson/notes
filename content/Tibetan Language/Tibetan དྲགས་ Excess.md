@@ -8,7 +8,9 @@ tags:
 ![[Tibetan Colloquial Disclaimer]]
 
 དྲགས་ expresses **excess**, and not so much **intensity**.
+
 Added after the root.  
+
 Gets conjugated in the three times.
 
 མི་མང་པོ་སླེབས་ན་བསྡད་ས་ཉིང་<i class="y">དྲགས་</i><i class="b">ཀྱི་རེད།</i> *If a lot of people come, there won't be <i class="y">enough</i> seats.* (future)

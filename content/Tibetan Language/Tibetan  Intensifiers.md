@@ -5,21 +5,9 @@ tags:
 - tibetan-language
 ---
 
-![[Tibetan Colloquial Disclaimer]]
-
-- [[#དཔེ།|དཔེ།]]
-- [[#ཞེ་དྲགས།|ཞེ་དྲགས།]]
-- [[#ཞེ་པོ་གཅིག|ཞེ་པོ་གཅིག]]
-- [[#ཧ་ཅང་(གིས)།|ཧ་ཅང་(གིས)།]]
-- [[#ཧ་སང་ཡག ཧ་ལས་ཡག|ཧ་སང་ཡག ཧ་ལས་ཡག]]
-- [[#དཔེ་མི་སྲིད་པའི།|དཔེ་མི་སྲིད་པའི།]]
-- [[#སའི།|སའི།]]
-- [[#ཐག་ཆོད།|ཐག་ཆོད།]]
-- [[#རྐྱང་།|རྐྱང་།]]
-	- [[#རྐྱང་།#In Verbs and Nouns|In Verbs and Nouns]]
-- [[#ཡོས།|ཡོས།]]
-
 དཔེ།   ཞེ་དྲགས།   ཞེ་པོ་གཅིག   ཧ་ཅང་(གིས།)   ཧང་སང་ཡག   དཔེ་མི་སྲིད་པའི་   སའི། ཐག་ཆོད།   རྐྱང་།
+
+![[Tibetan Colloquial Disclaimer]]
 
 ## དཔེ།
 **Precedes** an **adjective** (རྒྱན་ཚིག), but occasionally **follows** it.
@@ -39,6 +27,7 @@ Usually **follows** an **adjective**, but **occasionally** follows a **verb**.
 ## ཞེ་པོ་གཅིག
 
 Also **follows** adjective.
+
 Common in Lhasa and Central province.
 
 དོན་དག་འདི་གལ་ཆེན་པོ་<i class="y">ཞེ་པོ་གཅིག་</i>རེད། *The meaning of this is extremely important*
@@ -46,7 +35,9 @@ Common in Lhasa and Central province.
 ## ཧ་ཅང་(གིས)།
 
 **Precedes** adjective.
+
 Sometimes takes བྱེད་སྒྲ།.
+
 Originates in literary Tibetan but also common in spoken.
 
 སེམས་པ་བཟང་པོ་བྱེད་ཡག་འདི་<i class="y">ཧ་ཅང་(གིས་)</i>གལ་ཆེན་པོ་རེད། *It is of the most importance to be kind-hearted.*
@@ -55,13 +46,14 @@ Originates in literary Tibetan but also common in spoken.
 ## ཧ་སང་ཡག ཧ་ལས་ཡག
 
 To say *amazingly X* or *incredibly Y*.
+
 They are verbs (verbs of feeling བྱེད་མེད་ལས་ཚིག)
 
 > [!INFO] Halesi
 > ཧ་ལས་ཡག is the place in Nepal where Padmasambhava is said to have achieved immortality, **Halesi** (Nepali: **Maratika**).
 
-དཔེ་ཆ་འདི་ཧང་སང་ཡག་རྩ་ཆེན་པོ་ཅིག་རེད། *This pecha is incredibly precious.*
-ཁེ་ས་ཐུགས་སྤྲོ་དེ་ཧ་ལས་ཡག་སྐྱིད་པོ་བྱུང་སོང་། *Yesterday's party was sooooooo much fun!*
+དཔེ་ཆ་འདི་<i class="y">ཧང་སང་ཡག་</i>རྩ་ཆེན་པོ་ཅིག་རེད། *This pecha is incredibly precious.*
+ཁེ་ས་ཐུགས་སྤྲོ་དེ་<i class="y">ཧ་ལས་ཡག་</i>སྐྱིད་པོ་བྱུང་སོང་། *Yesterday's party was sooooooo much fun!*
 
 ## དཔེ་མི་སྲིད་པའི།
 
@@ -69,11 +61,14 @@ The **strongest** among all intensifiers.
 
 Something impossible to illustrate by example, mucher than much!
 
-ཨ་མ་མ།་ཁེ་ས་ཡི་སློབ་ཚན་དེ་དཔེ་མི་སྲིད་པོའི་ཁག་པོ་འདུག་ག ང་རྦད་དེ་མགོ་འཐོམ་སོང་། *Jesuschrist! Yesterday's lesson was such a headache! I got utterly confused!*
+ཨ་མ་མ།་ཁེ་ས་ཡི་སློབ་ཚན་དེ་<i class="y">དཔེ་མི་སྲིད་པོའི་</i>ཁག་པོ་འདུག་ག ང་<i class="y">རྦད་དེ་</i>མགོ་འཐོམ་སོང་། *Jesuschrist! Yesterday's lesson was such a headache! I got utterly confused!*
 
 ## སའི།
 
-Often translated as **quite**.
+Often translated as **quite**. 
+
+Contextually could also mean **a little bit more**, or **pretty X**.
+
 Find the root of the adjective, remove the rest and add སའི།
 
 ཟ་ཁང་འདི་ལ་ཁ་ལག་<i class="b">ཞིམ་</i><i class="y">སའི་</i>འདུག *The food at this restaurant is quite nice.*
@@ -81,15 +76,24 @@ Find the root of the adjective, remove the rest and add སའི།
 ## ཐག་ཆོད།
 
 Comes from ཐག་ཆོད་བྱེད་པ། *to decide* so it means **decidedly**, **definitely**.
+
 Added after the root.  
-Only usable with limited number of adjectives.
+
+> [!WARNING]
+> Only usable with limited number of adjectives.
+>
+> ཞིམ་པོ། ཐག་རིང་པོ། ཚ་པོ། ཐག་ཉེ་པོ། རྙིང་པ་། ཁག་པོ། བཟང་པོ། སྙན་པོ། ཆེན་པོ། ཆུང་ཆུང་། མང་པོ། སྐྱོད་པོ། རྫིག་པོ། མངར་པོ། ཐུང་ཐུང་། ལས་སླ་པོ། གུ་ཡངས་པོ། སྐྱོ་པོ།
 
 ཁྱེད་རང་གིས་བཟོས་པའི་འཐེན་ཐུག་འདི་<i class="b">ཞིམ་</i><i class="y">ཐག་ཆོད་</i>འདུག *The noodle soup which you made is extremely tasty!*
 
 ## རྐྱང་།
 
 **Completely**, **perfectly**, but translation variable and subject to change with the adjective.
-Used with colors and certain adjectives.
+
+> [!WARNING]
+> Used with colours and certain 2-syllable — because we repeat the last one — adjectives.
+>
+> དམར་པོ། བདེ་པོ། རྙིང་པ། གཅིག་པ། ཐང་པོ། གསལ་པོ། གྲང་མོ། གསར་པ། སོས་པ། སྔོན་པོ།
 
 ཁྱེད་རང་ཁོང་ལ་ཡིན་ཆེས་བྱེད་རོགས་གནང་། སེམས་པ་<i class="b">དཀར་པོ་དཀར་</i><i class="y">རྐྱང་</i>རེད། *Please trust him! He has a completely pure (lit. white) heart.*
 
@@ -107,5 +111,5 @@ Also it can convey *without hesitation* or *just*:
 
 Spelling unknown, very colloquial and spoken only. Means *so*. Used by youngsters in exile (Nepal, India).
 
-ཨ་མ་མ། གཞས་འདི་ཡོས་སྙན་པོ་འདུག *Oh my gosh, this song is so nice!*
+ཨ་མ་མ། གཞས་འདི་<i class="y">ཡོས་</i>སྙན་པོ་འདུག *Oh my gosh, this song is so nice!*
 
