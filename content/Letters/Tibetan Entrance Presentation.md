@@ -2,6 +2,8 @@
 publish: true
 tags:
 - tibetan
+- tibetan-language
+- homework
 links:
 - "[[Letters]]"
 ---

@@ -3,7 +3,10 @@ publish: true
 tags:
 - tibetan
 - tibetan-language
+- homework
 ---
+
+![](https://www.youtube.com/watch?v=UIZkDmJyStg)
 
 ## Mountain
 A: Hello Ramon, how’s how are you, long time no see.
