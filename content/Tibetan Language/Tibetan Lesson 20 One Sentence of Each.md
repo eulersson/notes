@@ -3,37 +3,33 @@ publish: true
 tags:
 - tibetan
 - tibetan-language
+- summary
 ---
 
-## Intensifiers
-
--  དཔེ།
-	- ལུང་པ་འདི་<i class="y">དཔེ་</i>སྐྱོ་པོ་རེད།
-	- *This country is very poor.*
-- ཞེ་དྲགས།
-	- བུ་མོ་འདི་རིག་པ་སྤྱང་པོ་<i class="y">ཞེ་དྲགས་</i>འདུག
-	- *This girl is very clever.*
-- ཞེ་པོ་གཅིག
-	- དོན་དག་འདི་གལ་ཆེན་པོ་<i class="y">ཞེ་པོ་གཅིག་</i>རེད།
-	- *The meaning of this is extremely important.*
-- ཧ་ཅང་(གིས)།
-	- བོད་ལ་ཁ་ཆེ་<i class="y">ཧ་ཅང་(གིས་)</i>ཉུང་ཉུང་ཡོད་རེད།
-	- *There are very few muslims in Tibet.*
-- ཧང་སང་ཡག་
-	- དཔེ་ཆ་འདི་<i class="y">ཧང་སང་ཡག་</i>རྩ་ཆེན་པོ་ཅིག་རེད།
-	- *This pecha is incredibly precious.*
 - དཔེ་མི་སྲིད་པོའི་
 	- ཨ་མ་མ།་ཁེ་ས་ཡི་སློབ་ཚན་དེ་<i class="y">དཔེ་མི་སྲིད་པོའི་</i>ཁག་པོ་འདུག་ག
 	- *Jesuschrist! Yesterday's lesson was such a headache!*
+- ཧ་ཅང་(གིས)།
+	- བོད་ལ་ཁ་ཆེ་<i class="y">ཧ་ཅང་(གིས་)</i>ཉུང་ཉུང་ཡོད་རེད།
+	- *There are very few muslims in Tibet.*
+-  ཧ་ལས་ཡག།
+	- ཁེ་ས་ཐུགས་སྤྲོ་དེ་<i class="y">ཧ་ལས་ཡག་</i>སྐྱིད་པོ་བྱུང་སོང་།
+	- *Yesteday's party was sooooo much fun!*
+- ཧང་སང་ཡག་
+	- དཔེ་ཆ་འདི་<i class="y">ཧང་སང་ཡག་</i>རྩ་ཆེན་པོ་ཅིག་རེད།
+	- *This pecha is incredibly precious.*
+- ཞེ་དྲགས།
+	- བུ་མོ་འདི་རིག་པ་སྤྱང་པོ་<i class="y">ཞེ་དྲགས་</i>འདུག
+	- *This girl is very clever.*
+-  དཔེ།
+	- ལུང་པ་འདི་<i class="y">དཔེ་</i>སྐྱོ་པོ་རེད།
+	- *This country is very poor.*
+- ཞེ་པོ་གཅིག
+	- དོན་དག་འདི་གལ་ཆེན་པོ་<i class="y">ཞེ་པོ་གཅིག་</i>རེད།
+	- *The meaning of this is extremely important.*
 - རྦད་དེ་
 	- ང་<i class="y">རྦད་དེ་</i>མགོ་འཐོམ་སོང་།
 	- *I got utterly confused!*
-- སའི་
-	- ཟ་ཁང་འདི་ལ་ཁ་ལག་<i class="b">ཞིམ་</i><i class="y">སའི་</i>འདུག
-	- *The food at this restaurant is quite nice.*
-- ཐག་ཆོད།
-	- ཁྱེད་རང་གིས་བཟོས་པའི་འཐེན་ཐུག་འདི་<i class="b">ཞིམ་</i><i class="y">ཐག་ཆོད་</i>འདུག
-	- *The noodle soup which you made is extremely tasty!*
 - རྐྱང་ (adj)
 	- ཁྱེད་རང་ཁོང་ལ་ཡིན་ཆེས་བྱེད་རོགས་གནང་། སེམས་པ་<i class="b">དཀར་པོ་དཀར་</i><i class="y">རྐྱང་</i>རེད།
 	- *Please trust him! He has a completely pure (lit. white) heart.*
@@ -43,13 +39,12 @@ tags:
 - ཡོས་
 	- ཨ་མ་མ། གཞས་འདི་<i class="y">ཡོས་</i>སྙན་པོ་འདུག
 	- *Oh my gosh, this song is so nice!*
-
-- ལ།
-	- ཨ་མ་མ། གུང་སེང་དེ་ཚོ་<i class="g">སྐྱོད་</i><i class="b">པ་</i><i class="p">ལ།</i>
-	- *Wow, how nice the holidays are!*
-- གང་འདྲས་
-	- ཅ་ལག་འདྲི་<i class="y">གང་འདྲས་</i>གོང་ཆེ་པོ་འདུག
-	- *Wow, how expensive this thing is!*
+- ཐག་ཆོད།
+	- ཁྱེད་རང་གིས་བཟོས་པའི་འཐེན་ཐུག་འདི་<i class="b">ཞིམ་</i><i class="y">ཐག་ཆོད་</i>འདུག
+	- *The noodle soup which you made is extremely tasty!*
+- སའི་
+	- ཟ་ཁང་འདི་ལ་ཁ་ལག་<i class="b">ཞིམ་</i><i class="y">སའི་</i>འདུག
+	- *The food at this restaurant is quite nice.*
 
 - ཙམ (about)
 	- མི་བརྒྱ་<i class="y">ཙམ</i>། 
@@ -60,6 +55,9 @@ tags:
 - ཙམ་ (by merely)
 	- བློ་བསང་གིས་སྒྲོལ་མ་ལགས་ཐེངས་མ་གཅིག་མཐོང་<i class="b">བ་</i><i class="y">ཙམ་གྱིས་</i>རྦད་དེ་སེམས་པ་ཤོར་སོང་།
 	- *By only seeing Dolma-la once, Lobsang fell completely in love with her.*
+- ཨོ་ཙམ་
+	- བདེ་པོ་<i class="y">ཨོ་ཙམ་</i>ཡིན།
+	- *I am not too bad.*
 
 - སེ་
 	- ཁྱེད་རང་གིས་ཉོས་པའི་དུག་སློག་དེ་ཚོ་<i class="b">སྙིང་རྗེ་པོ་</i><i class="y">སེ་</i>མི་འདུག
@@ -68,14 +66,40 @@ tags:
 	- ཁོང་བོད་པ་<i class="y">རང་</i>རེད།
 	- *He is <i class="y">very</i> Tibetan
 
+- དྲགས་
+	- ཅ་ལག་འདི་གོང་ཆེ་<i class="y">དྲགས་</i><i class="b">(ཀྱི་)འདུག</i>; 
+	- *This thing is too expensive.*
+- དྲགས་
+	- ངས་ཁ་ལག་<i class="y">མང་དྲགས་ཡག་</i>བཟས་པ་ཡིན། or ང་ཁ་ལག་ཟ་ཡག་<i class="y">མང་དྲགས</i>་སོང་།
+	- *I ate too much*.
+- ཁྱོན་ནས་ (adj)
+	- ཁོང་ཇུས་གཏོགས་ཚ་པོ་<i class="y">ཁྱོན་ནས་</i>ཡོད་མ་རེད།
+	- *He never looks into things that aren't his/her affairs.*
+- ཁྱོན་ནས་ (noun)
+	- ཁོང་ཨ་རག་<i class="y">ཁྱོན་ནས་</i>འཐུང་གི་ཡོད་མ་རེད།
+	- *He never drinks alcohol.*
+- གཏན་ནས་
+	- ཁོང་ཧམ་པ་ཚ་པོ་<i class="y">གཏན་ནས་</i>ཡོད་མ་རེད།
+	- *He isn't really pushy.*
+- རྩ་བ་ཉིད་ནས་
+	- ཁོང་རྒྱལ་ཆེན་པོ་<i class="y">རྩ་བ་ཉིད་ནས་</i>ཡོད་མ་རེད།
+	- *He is not proud at all.*
+
+- ལ།
+	- ཨ་མ་མ། གུང་སེང་དེ་ཚོ་<i class="g">སྐྱོད་</i><i class="b">པ་</i><i class="p">ལ།</i>
+	- *Wow, how nice the holidays are!*
+- གང་འདྲས་
+	- ཅ་ལག་འདྲི་<i class="y">གང་འདྲས་</i>གོང་ཆེ་པོ་འདུག
+	- *Wow, how expensive this thing is!*
+
 - ལོད་
 	- མདང་གསུང་ཆོས་ལ་མི་མང་<i class="y">ལོད་</i>འདུག མི་མང་ཐག་ཆོད་འདུག
 	- *How many people were at the teaching yesterday? 
 
-- དྲགས་
-	- ཅ་ལག་འདི་གོང་ཆེ་<i class="y">དྲགས་</i><i class="b">(ཀྱི་)འདུག</i>; 
-	- *This thing is too expensive.*
-
-- དྲགས་
-	- ངས་ཁ་ལག་<i class="y">མང་དྲགས་ཡག་</i>བཟས་པ་ཡིན། or ང་ཁ་ལག་ཟ་ཡག་མང་<i class="y">དྲགས</i>་སོང་། 
-	- *I ate too much*.
+- as ... as
+	- ངས་སློབ་སྦྱོང་<i class="y">གང་ཡག་ཡག་</i>བྱེད་ཀྱི་ཡོད།
+	- *I study as well as I can.*
+	- ཁོང་གིས་ང་ཚོ་ལ་རོགས་པ་<i class="y">གང་ཐུབ་ཐུབ་</i>བྱེད་ཀྱི་འདུག 
+	- *He helps us as much as he can.*
+	- ངས་སློང་མཁན་ལ་དངུལ་<i class="y">གང་ཡོད་ཡོད་</i>སྤྲད་པ་ཡིན། 
+	- *I gave the beggar as much as I had.*
