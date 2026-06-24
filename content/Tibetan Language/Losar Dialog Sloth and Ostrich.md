@@ -4,7 +4,10 @@ tags:
 - tibetan
 - tibetan-language
 - dialog
+- homework
 ---
+
+![](https://www.youtube.com/watch?v=8ldn7kli2Es)
 
 | Letter | Actor        |
 | ------ | ------------ |
