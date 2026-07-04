@@ -53,8 +53,8 @@ This is the book we are using for the online course at SINI and below you will f
 	- [[Tibetan Exclamation Expressions]]
 	- [[Tibetan As ... As ... གང་ཡག་ཡག]]
 	- [[Tibetan Intensifier Sentences]]
-	- [[Tibetan Lesson 20 One Sentence of Each]]
-	- [[Tibetan Intensifier Reducers Scale]]
+	- [[Tibetan Intensifiers One Sentence of Each]]
+	- [[Tibetan Intensifier Reducers Ranking]]
 
 > [!NOTE] Sentences
 > I collected sentences in this [Anki deck](https://ankiweb.net/shared/info/306915111) if you want to practice them.

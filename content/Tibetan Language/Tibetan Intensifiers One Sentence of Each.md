@@ -16,7 +16,7 @@ tags:
 	- ཁེ་ས་ཐུགས་སྤྲོ་དེ་<i class="y">ཧ་ལས་ཡག་</i>སྐྱིད་པོ་བྱུང་སོང་།
 	- *Yesteday's party was sooooo much fun!*
 - ཧང་སང་ཡག་
-	- དཔེ་ཆ་འདི་<i class="y">ཧང་སང་ཡག་</i>རྩ་ཆེན་པོ་ཅིག་རེད།
+		- དཔེ་ཆ་འདི་<i class="y">ཧང་སང་ཡག་</i>རྩ་ཆེན་པོ་ཅིག་རེད།
 	- *This pecha is incredibly precious.*
 - ཞེ་དྲགས།
 	- བུ་མོ་འདི་རིག་པ་སྤྱང་པོ་<i class="y">ཞེ་དྲགས་</i>འདུག
@@ -36,12 +36,12 @@ tags:
 - རྐྱང་ (verb)
 	- གོ་སྐབས་རག་ན་བོད་ལ་འགྲོ་<i class="y">རྐྱང་</i>བྱེད་ཀྱི་ཡིན།
 	- *If I get a change, I will <i class="y">just</i> go to Tibet*
-- ཡོས་
-	- ཨ་མ་མ། གཞས་འདི་<i class="y">ཡོས་</i>སྙན་པོ་འདུག
+- ཡ་ཡོས་ ^60006c
+	- ཨ་མ་མ། གཞས་འདི་<i class="y">ཡ་ཡོས་</i>སྙན་པོ་འདུག
 	- *Oh my gosh, this song is so nice!*
 - ཐག་ཆོད།
 	- ཁྱེད་རང་གིས་བཟོས་པའི་འཐེན་ཐུག་འདི་<i class="b">ཞིམ་</i><i class="y">ཐག་ཆོད་</i>འདུག
-	- *The noodle soup which you made is extremely tasty!*
+	- *The noodle soup which you made is tasty enough!*
 - སའི་
 	- ཟ་ཁང་འདི་ལ་ཁ་ལག་<i class="b">ཞིམ་</i><i class="y">སའི་</i>འདུག
 	- *The food at this restaurant is quite nice.*
@@ -64,7 +64,7 @@ tags:
 	- *The clothes you bought are not particularly beautiful.*
 - རང་
 	- ཁོང་བོད་པ་<i class="y">རང་</i>རེད།
-	- *He is <i class="y">very</i> Tibetan
+	- *He is <i class="y">really</i> Tibetan
 
 - དྲགས་
 	- ཅ་ལག་འདི་གོང་ཆེ་<i class="y">དྲགས་</i><i class="b">(ཀྱི་)འདུག</i>; 
