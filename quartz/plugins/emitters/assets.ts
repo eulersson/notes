@@ -11,10 +11,20 @@ const filesToCopy = async (argv: Argv, cfg: QuartzConfig) => {
   return await glob("**", argv.directory, ["**/*.md", ...cfg.configuration.ignorePatterns])
 }
 
+// slugifyFilePath strips ".html" (it treats it like a page slug), which would emit
+// an extensionless file. Cloudflare then serves it as application/octet-stream and
+// browsers download it instead of rendering. Re-append ".html" so it's served as
+// text/html; the clean URL (e.g. /foo) still resolves because Cloudflare Pages maps
+// foo.html -> /foo automatically.
+const assetOutputName = (fp: FilePath): FilePath => {
+  const name = slugifyFilePath(fp)
+  return (fp.toLowerCase().endsWith(".html") ? `${name}.html` : name) as FilePath
+}
+
 const copyFile = async (argv: Argv, fp: FilePath) => {
   const src = joinSegments(argv.directory, fp) as FilePath
 
-  const name = slugifyFilePath(fp)
+  const name = assetOutputName(fp)
   const dest = joinSegments(argv.output, name) as FilePath
 
   // ensure dir exists
@@ -42,7 +52,7 @@ export const Assets: QuartzEmitterPlugin = () => {
         if (changeEvent.type === "add" || changeEvent.type === "change") {
           yield copyFile(ctx.argv, changeEvent.path)
         } else if (changeEvent.type === "delete") {
-          const name = slugifyFilePath(changeEvent.path)
+          const name = assetOutputName(changeEvent.path)
           const dest = joinSegments(ctx.argv.output, name) as FilePath
           await fs.promises.unlink(dest)
         }
