@@ -73,7 +73,7 @@ body[data-screen="over"]  #over{display:flex}
   box-shadow:0 14px 30px -16px var(--shadow)}
 .namebox h3{font-size:14px; color:var(--muted); font-weight:800; margin-bottom:12px; text-transform:uppercase; letter-spacing:1.2px}
 .namerow{display:flex; gap:8px; margin-bottom:10px}
-.namerow input{flex:1; font:inherit; font-weight:700; padding:12px 15px; border-radius:14px; border:2px solid var(--line);
+.namerow input{flex:1; min-width:0; font:inherit; font-weight:700; padding:12px 15px; border-radius:14px; border:2px solid var(--line);
   background:#fffdf9; color:var(--ink)}
 .namerow input::placeholder{color:#c4b6a0}
 .namerow input:focus{outline:3px solid var(--c-thub); outline-offset:1px; border-color:var(--c-thub)}
@@ -283,12 +283,12 @@ button{ -webkit-tap-highlight-color:transparent; touch-action:manipulation }
 .jbtn.no:active{ box-shadow:0 1px 0 #c94a41 }
 
 /* ---------------- PRAYER-FLAG BUNTING (signature) ---------------- */
-.bunting{position:fixed; top:0; left:0; right:0; height:34px; z-index:30; pointer-events:none;
+.bunting{position:fixed; top:0; left:0; right:0; height:40px; z-index:30; pointer-events:none;
   display:flex; justify-content:center; align-items:flex-start; overflow:hidden}
-.bunting::before{content:""; position:absolute; top:6px; left:-2%; right:-2%; height:3px; border-radius:3px;
+/* string sits ON TOP of the flags (z-index) so each flag's top edge + corners tuck behind it */
+.bunting::before{content:""; position:absolute; top:5px; left:-2%; right:-2%; height:4px; border-radius:3px; z-index:2;
   background:#d8c19a; box-shadow:0 1px 0 rgba(120,92,40,.15)}
-.bunting i{width:24px; height:28px; margin:0 3px; display:block;
-  clip-path:polygon(0 0, 100% 0, 50% 100%);
+.bunting i{width:26px; height:30px; margin:6px 3px 0; display:block; position:relative; z-index:1;
   filter:drop-shadow(0 2px 1px rgba(120,92,40,.22));
   transform-origin:top center; animation:flutter 3.2s ease-in-out infinite}
 .bunting i:nth-child(5n+1){background:var(--flag-blue);   animation-delay:0s}
@@ -307,7 +307,7 @@ button{ -webkit-tap-highlight-color:transparent; touch-action:manipulation }
 @media (max-width:1000px){
   body{ overflow:auto }
   .screen{ overflow-y:auto; -webkit-overflow-scrolling:touch; justify-content:flex-start; padding:44px 14px calc(16px + env(safe-area-inset-bottom)) }
-  #setup{ gap:16px }
+  #setup{ gap:16px; padding-top:68px }   /* extra breathing room above the འཁོར་ལོ་ title below 1000px */
   #game{ gap:12px; padding-top:calc(42px + env(safe-area-inset-top)) }
   .topbar, .stage, .reveal{ flex-shrink:0 }
   .topbar{ gap:8px }
@@ -325,9 +325,12 @@ button{ -webkit-tap-highlight-color:transparent; touch-action:manipulation }
 
 /* Phone: shrink the wheel + type, tighten spacing so all 4 slots still fit the row. */
 @media (max-width:620px){
-  .bunting{ height:24px } .bunting i{ width:17px; height:20px; margin:0 2px }
+  .bunting{ height:32px } .bunting i{ width:20px; height:24px; margin:6px 2px 0 }
+  /* narrow screens: stack the Add button under the name input, with a little breathing room below */
+  .namerow{ flex-direction:column; margin-bottom:16px }
+  #addBtn{ width:100% }
   .screen{ padding:34px 8px calc(14px + env(safe-area-inset-bottom)) }
-  #game{ padding-top:calc(30px + env(safe-area-inset-top)) }
+  #game{ padding-top:calc(36px + env(safe-area-inset-top)) }
   .topbar{ flex-wrap:nowrap; gap:6px }
   .stage{ padding:14px }
   .wheelwrap{ width:150px; height:150px }
