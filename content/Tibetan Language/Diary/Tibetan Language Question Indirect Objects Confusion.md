@@ -42,3 +42,5 @@ When saying *The book I was reading is expensive* —we can use ལྟ་; simil
 | ------------------------------------ | ------------------------------------- |
 | Takes ལ་དོན་ (to look at)            | ངས་ལྟ་སའི་བྱ་དེ་མགྱོག་པོར་འཕུར་སོང་ད། |
 | Does not take ལ་དོན་ (to look, view) | ངས་ལྟ་བཞིན་པའི་དེབ་དེ་གོང་ཆེན་པོ་འདུག |
+
+Related: [[Tibetan Agentive Particle on Uncontrolled Perception]]
