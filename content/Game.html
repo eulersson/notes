@@ -641,14 +641,16 @@ function evidFacesFor(combo){
 /* =====================================================================
  *  AUDIO  (Web Audio, synthesized, minimal)
  * ===================================================================== */
-let AC=null, MG=null, muted=false, _auUnlocked=false;
-function audio(){ if(!AC){ try{ AC=new (window.AudioContext||window.webkitAudioContext)(); }catch(e){} }
-  if(AC&&!MG){ MG=AC.createGain(); MG.gain.setValueAtTime(muted?0:1,AC.currentTime); MG.connect(AC.destination); } // master gain: everything routes through here so mute can kill in-flight sound
-  if(AC&&AC.state==='suspended') AC.resume();
+let AC=null, muted=false, _auUnlocked=false;
+const liveOsc=new Set();   // oscillators currently scheduled/playing, so mute can stop them mid-note
+function audio(){ if(!AC){ try{ AC=new (window.AudioContext||window.webkitAudioContext)(); }catch(e){} } if(AC&&AC.state==='suspended') AC.resume();
   if(AC&&!_auUnlocked){ try{ const s=AC.createBufferSource(); s.buffer=AC.createBuffer(1,1,AC.sampleRate); s.connect(AC.destination); s.start(0); _auUnlocked=true; }catch(e){} } // (iOS) unlock Web Audio
   return AC; }
-// Called on mute-toggle: silence (or restore) anything already scheduled/playing this instant.
-function applyMute(){ if(MG&&AC){ MG.gain.cancelScheduledValues(AC.currentTime); MG.gain.setValueAtTime(muted?0:1,AC.currentTime); } if(muted) stopTension(); }
+// register an oscillator so mute can silence it; auto-forget when it ends
+function track(o){ liveOsc.add(o); o.addEventListener('ended',()=>liveOsc.delete(o)); return o; }
+// Called on mute-toggle: stop anything already scheduled/playing this instant. (Signal path stays
+// oscillator→destination — the iOS-proven graph — so this never affects whether sound plays.)
+function applyMute(){ if(muted){ stopTension(); liveOsc.forEach(o=>{ try{ o.stop(); }catch(e){} }); liveOsc.clear(); } }
 function toggleMute(){ muted=!muted; applyMute(); syncMuteBtn(); }
 function syncMuteBtn(){ const b=$('btnMute'); if(!b) return; b.classList.toggle('muted',muted); b.setAttribute('aria-pressed',muted?'true':'false');
   b.querySelector('.ic').textContent=muted?'🔇':'🔊'; b.querySelector('.tl').textContent=muted?'Muted':'Sound'; b.setAttribute('aria-label',muted?'Unmute sound':'Mute sound'); }
@@ -657,7 +659,7 @@ function beep(freq,when,dur,type,peak){ const ac=audio(); if(!ac||muted) return;
   const o=ac.createOscillator(), g=ac.createGain();
   o.type=type||'sine'; o.frequency.setValueAtTime(freq,t);
   g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(peak||0.18,t+0.012); g.gain.exponentialRampToValueAtTime(0.0001,t+dur);
-  o.connect(g).connect(MG||ac.destination); o.start(t); o.stop(t+dur+0.03);
+  o.connect(g).connect(ac.destination); o.start(t); o.stop(t+dur+0.03); track(o);
 }
 let tensionNode=null;
 function stopTension(){ if(tensionNode){ try{ tensionNode.o.stop(); }catch(e){} try{ tensionNode.g.disconnect(); }catch(e){} tensionNode=null; } }
@@ -666,7 +668,7 @@ function sfxTension(durMs){ const ac=audio(); if(!ac||muted) return; stopTension
   const o=ac.createOscillator(), g=ac.createGain();
   o.type='sawtooth'; o.frequency.setValueAtTime(160,t); o.frequency.exponentialRampToValueAtTime(500,t+dur*0.9);
   g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(0.05,t+0.12); g.gain.setValueAtTime(0.05,t+Math.max(0.2,dur-0.15)); g.gain.exponentialRampToValueAtTime(0.0001,t+dur);
-  o.connect(g).connect(MG||ac.destination); o.start(t); o.stop(t+dur+0.05);
+  o.connect(g).connect(ac.destination); o.start(t); o.stop(t+dur+0.05);
   o.onended=()=>{ try{ g.disconnect(); }catch(e){} if(tensionNode&&tensionNode.o===o) tensionNode=null; };
   tensionNode={o,g};
 }
