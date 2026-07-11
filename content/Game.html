@@ -133,7 +133,7 @@ body[data-state="spinning"] .reveal{ display:none }
 /* verb tile (linked to modal) */
 .verbtile{flex:0 0 auto; width:122px; height:152px; border-radius:20px; background:var(--panel2); border:2.5px solid var(--line);
   display:flex; flex-direction:column; align-items:center; justify-content:center; gap:6px; opacity:.4; transition:.3s; position:relative; margin:0 22px;
-  box-shadow:0 5px 0 var(--line)}
+  text-align:center; box-shadow:0 5px 0 var(--line)}
 .verbtile.on{opacity:1; border-color:currentColor; box-shadow:0 5px 0 var(--line), 0 0 0 4px color-mix(in srgb,currentColor 26%,transparent); transform:translateY(-2px)}
 .verbtile .ve{font-size:42px}
 .verbtile .vt{font-size:23px; color:var(--ink)}
@@ -255,23 +255,15 @@ body[data-state="idle"] .numpad{display:flex}
 .pop{animation:pop .5s}
 @keyframes pop{0%{transform:scale(1)}40%{transform:scale(1.35)}100%{transform:scale(1)}}
 
-/* floating tool cluster — answers / sound / reset. Tap-driven on touch; keyboard shortcuts still work. */
-.corner{position:fixed; right:12px; bottom:calc(10px + env(safe-area-inset-bottom)); z-index:40;
-  display:flex; flex-direction:column; align-items:flex-end; gap:8px}
-#stateHint{font-size:12px; color:var(--muted); font-weight:700; text-align:right; max-width:210px; line-height:1.5}
-.toolrow{display:flex; gap:8px}
-.tool{display:inline-flex; align-items:center; gap:7px; min-height:38px; padding:6px 12px; border-radius:13px;
+/* single floating Answers button, lower-right (opens the answer key). Keyboard D still works too. */
+.answersfab{position:fixed; right:14px; bottom:calc(14px + env(safe-area-inset-bottom)); z-index:40;
+  display:inline-flex; align-items:center; gap:7px; padding:9px 15px; border-radius:14px;
   background:var(--panel); color:var(--muted); border:1.5px solid var(--line);
-  box-shadow:0 3px 0 var(--line), 0 8px 14px -10px var(--shadow);
-  font-weight:800; font-size:13px; transition:transform .08s, box-shadow .08s, color .12s, background .12s, border-color .12s}
-.tool:hover{color:var(--ink)}
-.tool:active{transform:translateY(3px); box-shadow:0 0 0 var(--line), 0 3px 8px -7px var(--shadow)}
-.tool .ic{font-size:16px; line-height:1}
-.tool .tl{white-space:nowrap}
-.tool .kbd{font-size:10px; padding:1px 6px}
-.tool:focus-visible{outline:3px solid var(--c-self); outline-offset:2px}
-/* Sound button doubles as the mute indicator */
-.tool.muted{background:#fdeceb; color:var(--c-neg); border-color:#f2b7b2; box-shadow:0 3px 0 #f2b7b2, 0 8px 14px -10px var(--shadow)}
+  box-shadow:0 3px 0 var(--line), 0 8px 16px -10px var(--shadow);
+  font-weight:800; font-size:14px; transition:transform .08s, box-shadow .08s, color .12s}
+.answersfab:hover{color:var(--ink)}
+.answersfab:active{transform:translateY(3px); box-shadow:0 0 0 var(--line), 0 3px 8px -7px var(--shadow)}
+.answersfab:focus-visible{outline:3px solid var(--c-self); outline-offset:2px}
 /* touch close button on the answer-key overlay */
 #proof .proofclose{position:fixed; top:calc(10px + env(safe-area-inset-top)); right:14px; z-index:81; width:44px; height:44px; padding:0;
   border-radius:50%; background:var(--panel); color:var(--gold-ink); border:1.5px solid var(--line);
@@ -349,7 +341,7 @@ button{ -webkit-tap-highlight-color:transparent; touch-action:manipulation }
   /* narrow screens: stack the Add button under the name input, with a little breathing room below */
   .namerow{ flex-direction:column; margin-bottom:16px }
   #addBtn{ width:100% }
-  .screen{ padding:34px 8px calc(78px + env(safe-area-inset-bottom)) }  /* extra bottom room so content clears the docked tool cluster */
+  .screen{ padding:34px 8px calc(14px + env(safe-area-inset-bottom)) }
   #game{ padding-top:calc(36px + env(safe-area-inset-top)) }
   .topbar{ flex-wrap:nowrap; gap:6px }
   .stage{ padding:14px }
@@ -365,15 +357,9 @@ button{ -webkit-tap-highlight-color:transparent; touch-action:manipulation }
   .prompt-en{ font-size:22px } .prompt-bo{ font-size:29px } .typed-line{ font-size:23px } .answerin{ font-size:23px; width:96% }
   .numbtn{ width:52px; height:52px; font-size:19px } .numpad{ gap:8px }
   .title{ font-size:28px } .title .bo{ font-size:38px }
-  /* tools docked as a slim bottom bar (never over the prayer-flag bunting up top); content clears it via .screen padding */
-  .corner{ left:0; right:0; bottom:0; top:auto; transform:none; flex-direction:row; justify-content:center; align-items:center; gap:20px;
-           padding:9px 12px calc(9px + env(safe-area-inset-bottom));
-           background:color-mix(in srgb, var(--bg1) 92%, transparent); backdrop-filter:blur(8px);
-           border-top:1.5px solid var(--line); box-shadow:0 -5px 16px -12px var(--shadow) }
-  #stateHint{ display:none }
-  .tool{ width:46px; height:46px; min-height:0; padding:0; justify-content:center; border-radius:50% }
-  .tool .tl, .tool .kbd{ display:none }
-  .tool .ic{ font-size:21px }
+  /* compact icon-only Answers button on phones */
+  .answersfab{ padding:0; width:46px; height:46px; justify-content:center; border-radius:50%; font-size:20px; right:12px; bottom:calc(12px + env(safe-area-inset-bottom)) }
+  .answersfab .tl{ display:none }
   .bigbtn{ width:100%; max-width:340px }
   .jbtn{ flex:1 1 auto; min-width:98px; max-width:190px; padding:14px 8px; font-size:16px }
 }
@@ -466,20 +452,9 @@ button{ -webkit-tap-highlight-color:transparent; touch-action:manipulation }
 
 <canvas id="confetti"></canvas>
 <div class="flash" id="flash"></div>
-<div class="corner" role="group" aria-label="Game controls">
-  <span id="stateHint"></span>
-  <div class="toolrow">
-    <button type="button" class="tool" onclick="toggleProof()" aria-label="Show answer key">
-      <span class="ic" aria-hidden="true">🔑</span><span class="tl">Answers</span><span class="kbd" aria-hidden="true">D</span>
-    </button>
-    <button type="button" id="btnMute" class="tool" onclick="toggleMute()" aria-label="Mute sound" aria-pressed="false">
-      <span class="ic" aria-hidden="true">🔊</span><span class="tl">Sound</span><span class="kbd" aria-hidden="true">M</span>
-    </button>
-    <button type="button" class="tool" onclick="resetToSetup()" aria-label="Reset game">
-      <span class="ic" aria-hidden="true">🔄</span><span class="tl">Reset</span><span class="kbd" aria-hidden="true">Esc</span>
-    </button>
-  </div>
-</div>
+<button type="button" class="answersfab" onclick="toggleProof()" aria-label="Show answer key">
+  <span aria-hidden="true">🔑</span><span class="tl">Answers</span>
+</button>
 
 <!-- ===================== PROOF OVERLAY ===================== -->
 <div id="proof">
@@ -642,24 +617,15 @@ function evidFacesFor(combo){
  *  AUDIO  (Web Audio, synthesized, minimal)
  * ===================================================================== */
 let AC=null, muted=false, _auUnlocked=false;
-const liveOsc=new Set();   // oscillators currently scheduled/playing, so mute can stop them mid-note
 function audio(){ if(!AC){ try{ AC=new (window.AudioContext||window.webkitAudioContext)(); }catch(e){} } if(AC&&AC.state==='suspended') AC.resume();
   if(AC&&!_auUnlocked){ try{ const s=AC.createBufferSource(); s.buffer=AC.createBuffer(1,1,AC.sampleRate); s.connect(AC.destination); s.start(0); _auUnlocked=true; }catch(e){} } // (iOS) unlock Web Audio
   return AC; }
-// register an oscillator so mute can silence it; auto-forget when it ends
-function track(o){ liveOsc.add(o); o.addEventListener('ended',()=>liveOsc.delete(o)); return o; }
-// Called on mute-toggle: stop anything already scheduled/playing this instant. (Signal path stays
-// oscillator→destination — the iOS-proven graph — so this never affects whether sound plays.)
-function applyMute(){ if(muted){ stopTension(); liveOsc.forEach(o=>{ try{ o.stop(); }catch(e){} }); liveOsc.clear(); } }
-function toggleMute(){ muted=!muted; applyMute(); syncMuteBtn(); }
-function syncMuteBtn(){ const b=$('btnMute'); if(!b) return; b.classList.toggle('muted',muted); b.setAttribute('aria-pressed',muted?'true':'false');
-  b.querySelector('.ic').textContent=muted?'🔇':'🔊'; b.querySelector('.tl').textContent=muted?'Muted':'Sound'; b.setAttribute('aria-label',muted?'Unmute sound':'Mute sound'); }
 // Minimal audio: one/two short oscillators per sound. No noise buffers, no filters — keeps node count tiny so the context never chokes.
 function beep(freq,when,dur,type,peak){ const ac=audio(); if(!ac||muted) return; const t=when||ac.currentTime;
   const o=ac.createOscillator(), g=ac.createGain();
   o.type=type||'sine'; o.frequency.setValueAtTime(freq,t);
   g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(peak||0.18,t+0.012); g.gain.exponentialRampToValueAtTime(0.0001,t+dur);
-  o.connect(g).connect(ac.destination); o.start(t); o.stop(t+dur+0.03); track(o);
+  o.connect(g).connect(ac.destination); o.start(t); o.stop(t+dur+0.03);
 }
 let tensionNode=null;
 function stopTension(){ if(tensionNode){ try{ tensionNode.o.stop(); }catch(e){} try{ tensionNode.g.disconnect(); }catch(e){} tensionNode=null; } }
@@ -1008,7 +974,7 @@ function updateHints(){
   const h={ setup:'Setup', pickfirst:'Press Space to choose who starts', pickspin:'Choosing…', idle:'Type a number to spin',
     spinning:'Spinning…', recipe:'Space = reveal English', english:'Enter = reveal Tibetan', tibetan:'Y = correct · N = wrong · A = extra turn',
     judged:'…', over:'R = play again' };
-  $('stateHint').textContent=h[state]||'';
+  const el=$('stateHint'); if(el) el.textContent=h[state]||'';   // stateHint UI removed; keep call safe
 }
 
 /* =====================================================================
@@ -1027,7 +993,7 @@ document.addEventListener('keydown',e=>{
   const typing = document.activeElement && (document.activeElement.id==='answerInput' || document.activeElement.id==='nameInput');
   // global letter-shortcuts — suppressed while typing into a text field
   if(!typing){
-    if(isKey(e,'m')){ toggleMute(); return; }
+    if(isKey(e,'m')){ muted=!muted; return; }   // keyboard mute (host convenience); no on-screen control
     if(isKey(e,'d')){ if(document.body.dataset.screen==='game'||state==='setup') { toggleProof(); e.preventDefault(); } return; }
   }
   if(k==='Escape'){ if(typing){ document.activeElement.blur(); return; } if($('proof').classList.contains('show')){ toggleProof(); return; } if(document.body.dataset.screen!=='setup'){ resetToSetup(); } return; }
