@@ -1,6 +1,6 @@
 import { QuartzTransformerPlugin } from "../types"
 import { visit } from "unist-util-visit"
-import { Root } from "hast"
+import { Root, Element } from "hast"
 
 interface Options {
   /** Show image counter (e.g. "3 / 7") in the overlay */
@@ -131,6 +131,11 @@ article img {
   cursor: zoom-in;
 }
 
+/* images wrapped in a link should look like links, not lightbox triggers */
+article a img {
+  cursor: pointer;
+}
+
 @media (max-width: 600px) {
   .lightbox-btn { width: 15vw; }
   .lightbox-btn svg { width: 20px; height: 20px; }
@@ -171,7 +176,9 @@ document.addEventListener("nav", () => {
   function collectImages() {
     const article = document.querySelector("article");
     if (!article) return [];
-    return Array.from(article.querySelectorAll("img"));
+    // Images wrapped in a link (e.g. [![alt](img)](url)) are meant to navigate,
+    // not open the lightbox — exclude them so their anchor behaves normally.
+    return Array.from(article.querySelectorAll("img")).filter((img) => !img.closest("a"));
   }
 
   function show(index) {
@@ -290,10 +297,15 @@ export const Lightbox: QuartzTransformerPlugin<Partial<Options>> = (userOpts) =>
       return [
         () => {
           return (tree: Root) => {
-            // Add a data attribute to each image so they're identifiable
+            // Add a data attribute to each image so they're identifiable.
+            // Skip images wrapped in a link — those navigate and are not lightbox targets.
             let imgIndex = 0
-            visit(tree, "element", (node) => {
-              if (node.tagName === "img" && node.properties) {
+            visit(tree, "element", (node, _index, parent) => {
+              if (
+                node.tagName === "img" &&
+                node.properties &&
+                (parent as Element | undefined)?.tagName !== "a"
+              ) {
                 node.properties["data-lightbox"] = imgIndex++
               }
             })
