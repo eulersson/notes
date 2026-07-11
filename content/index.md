@@ -20,6 +20,7 @@ Among those notes they can be:
 - Workflows or productivity tricks
 - Local information of places or people
 - Creativity: drawings, calligraphy, etc.
+- Games
 
 > [!INFO] Links
 > Referencing a note from within a note produces a link. Those can be viewed at the bottom of the note in form of a list *Backlinks* or in the little *Graph view* at the bottom.
@@ -34,7 +35,7 @@ How to navigate:
 > [!TIP] Where to start?
 > At the moment I am putting most of my effort on [[Tibetan Language/Diary/index|Tibetan Language Diary]], #tibetan-language, [[NDC600 Notes|Nalanda Diploma Course Notes]] and [[English Beginner Classes]] (ESL resources and games for children).
 
-Other tags: #tibetan #tibetan-language #esl #prayer #calligraphy #buddhist-teaching #ndc #nepal #travel #thought 
+Other tags: #tibetan #tibetan-language #esl #prayer #calligraphy #buddhist-teaching #ndc #nepal #travel #thought #games
 
 > [!WARNING] Disclaimer
 > These pages are notes selected from my **personal notebook**. This means rigorous writing is not to be expected at all; let alone academic-level prose. Sources are usually provided, check those.
