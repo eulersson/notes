@@ -65,7 +65,8 @@ function sluggify(s: string): string {
         .replace(/\?/g, "")
         .replace(/#/g, "")
         .replace(/[–—]/g, "-")
-        .replace(/[""\u201C\u201D]/g, ""),
+        // strip straight and curly single/double quotes
+        .replace(/['"\u2018\u2019\u201C\u201D]/g, ""),
     )
     .join("/") // always use / as sep
     .replace(/\/$/, "")
@@ -86,7 +87,10 @@ export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
     slug = slug.replace(/_index$/, "index")
   }
 
-  return (slug + ext) as FullSlug
+  // lowercase all URLs (e.g. /Sources/Prayers/Foo -> /sources/prayers/foo).
+  // Both page/asset slugs and the internal links pointing to them are resolved
+  // through this function, so lowercasing here keeps them consistent.
+  return (slug + ext).toLowerCase() as FullSlug
 }
 
 export function simplifySlug(fp: FullSlug): SimpleSlug {
