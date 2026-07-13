@@ -1,0 +1,4 @@
+# Cloudflare Pages redirects (copied to public/_redirects on build)
+# format: <from> <to> <status>
+/Game  /tibetan-grammar-wheel  301
+/game  /tibetan-grammar-wheel  301
