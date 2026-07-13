@@ -616,15 +616,35 @@ function evidFacesFor(combo){
 /* =====================================================================
  *  AUDIO  (Web Audio, synthesized, minimal)
  * ===================================================================== */
-let AC=null, muted=false, _auUnlocked=false;
+let AC=null, muted=false, _auUnlocked=false, _silentEl=null;
+// (iOS) Make Web Audio play through the SPEAKER even when the phone's physical
+// silent/mute switch is ON. Without this, synthesized sound on iPhone/iPad is
+// audible ONLY through headphones — the mute switch silences the speaker.
+function iosSpeaker(){
+  try{ if(navigator.audioSession){ navigator.audioSession.type='playback'; return; } }catch(e){} // iOS 16.5+ : official Audio Session API
+  try{ // older iOS fallback: a looping silent <audio> forces the "media playback" session, which routes Web Audio to the speaker
+    if(_silentEl) return;
+    _silentEl=document.createElement('audio');
+    _silentEl.setAttribute('playsinline',''); _silentEl.loop=true;
+    _silentEl.src='data:audio/wav;base64,UklGRkQDAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YSADAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgA==';
+    _silentEl.play().catch(()=>{});
+  }catch(e){}
+}
 function audio(){ if(!AC){ try{ AC=new (window.AudioContext||window.webkitAudioContext)(); }catch(e){} } if(AC&&AC.state==='suspended') AC.resume();
-  if(AC&&!_auUnlocked){ try{ const s=AC.createBufferSource(); s.buffer=AC.createBuffer(1,1,AC.sampleRate); s.connect(AC.destination); s.start(0); _auUnlocked=true; }catch(e){} } // (iOS) unlock Web Audio
+  if(AC&&!_auUnlocked){ try{ const s=AC.createBufferSource(); s.buffer=AC.createBuffer(1,1,AC.sampleRate); s.connect(AC.destination); s.start(0); _auUnlocked=true; }catch(e){} iosSpeaker(); } // (iOS) unlock Web Audio + route to speaker
   return AC; }
 // Minimal audio: one/two short oscillators per sound. No noise buffers, no filters — keeps node count tiny so the context never chokes.
 function beep(freq,when,dur,type,peak){ const ac=audio(); if(!ac||muted) return; const t=when||ac.currentTime;
   const o=ac.createOscillator(), g=ac.createGain();
   o.type=type||'sine'; o.frequency.setValueAtTime(freq,t);
   g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(peak||0.18,t+0.012); g.gain.exponentialRampToValueAtTime(0.0001,t+dur);
+  o.connect(g).connect(ac.destination); o.start(t); o.stop(t+dur+0.03);
+}
+// Like beep, but sweeps pitch f0->f1 over the note — used for the confetti-cannon "whoosh". Still one short oscillator, so iOS-safe.
+function swoop(f0,f1,when,dur,type,peak){ const ac=audio(); if(!ac||muted) return; const t=when||ac.currentTime;
+  const o=ac.createOscillator(), g=ac.createGain();
+  o.type=type||'sawtooth'; o.frequency.setValueAtTime(f0,t); o.frequency.exponentialRampToValueAtTime(Math.max(1,f1),t+dur);
+  g.gain.setValueAtTime(0.0001,t); g.gain.exponentialRampToValueAtTime(peak||0.14,t+0.02); g.gain.exponentialRampToValueAtTime(0.0001,t+dur);
   o.connect(g).connect(ac.destination); o.start(t); o.stop(t+dur+0.03);
 }
 // Buildup drone removed: it was a long automated oscillator (the FIRST real sound of a session)
@@ -635,7 +655,19 @@ function sfxClunk(){ beep(150,0,0.09,'triangle',0.26); }
 function sfxTick(urgent){ beep(urgent?1150:850,0,0.035,'square',0.09); }
 function sfxSpinTicks(durMs){ const ac=audio(); if(!ac||muted) return; const t0=ac.currentTime, dur=durMs/1000; // decelerating roulette clicks (no buildup drone)
   let tt=0, dt=0.05; while(tt < dur-0.04){ beep(880, t0+tt, 0.03, 'square', 0.07); dt=Math.min(0.28, dt*1.10); tt+=dt; } }
-function sfxWin(){ const ac=audio(); if(!ac||muted) return; const t=ac.currentTime; [523,659,784,1047].forEach((f,i)=>beep(f,t+i*0.13,0.2,'triangle',0.2)); }
+// Epic celebration, synced to confettiBurst's two waves (0ms cannons, ~360ms centre fan).
+function sfxWin(){ const ac=audio(); if(!ac||muted) return; const t=ac.currentTime;
+  // --- Wave 1 (0ms): the launch — cannon whoosh + low boom, then a rising fanfare run that BUILDS ---
+  swoop(200,1300,t,0.20,'sawtooth',0.12);                                   // cannon whoosh up
+  beep(65,t,0.16,'sine',0.30);                                              // sub boom / body
+  [523,659,784,988].forEach((f,i)=>beep(f,t+0.06+i*0.085,0.18,'triangle',0.18)); // rising run C-E-G-B, climbs toward wave 2
+  // --- Wave 2 (~360ms): the payoff — big pop lands on a full major chord, then a sparkle cascade ---
+  const t2=t+0.36;
+  swoop(300,1600,t2,0.18,'sawtooth',0.11);                                  // second, higher pop
+  beep(80,t2,0.16,'sine',0.26);                                             // second boom
+  [523,659,784,1047,1319].forEach(f=>beep(f,t2,0.60,'triangle',0.09));      // C-major chord stab w/ sparkle on top
+  [1568,1760,1319,1047,1568].forEach((f,i)=>beep(f,t2+0.14+i*0.07,0.18,'sine',0.08)); // twinkle cascade as confetti falls
+}
 function sfxDing(){ const ac=audio(); if(!ac||muted) return; const t=ac.currentTime; beep(700,t,0.12,'triangle',0.18); beep(1050,t+0.1,0.2,'triangle',0.18); }
 function sfxBuzz(){ const ac=audio(); if(!ac||muted) return; const t=ac.currentTime; beep(150,t,0.18,'sawtooth',0.2); beep(110,t+0.16,0.24,'sawtooth',0.2); }
 
@@ -898,7 +930,7 @@ function drawFirst(){
     const elapsed=performance.now()-startT, idx=i%players.length;
     names.forEach((n,k)=>n.classList.toggle('lit',k===idx));
     if(elapsed>=durMs && idx===winner){   // time's up and landed on the winner → lock in
-      names[idx].classList.add('pop'); current=winner; stopTension(); sfxDing(); confettiBurst(); flashWin();
+      names[idx].classList.add('pop'); current=winner; stopTension(); sfxWin(); confettiBurst(); flashWin();
       setTimeout(()=>{ $('pickfirst').classList.add('hidden'); renderScores(); setState('idle');
         $('revealMsg').innerHTML='<b>'+esc(players[current].name)+'</b> goes first — pick a number to spin the wheels:'; }, 1000);
       return;
