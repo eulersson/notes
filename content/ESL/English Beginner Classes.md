@@ -5,34 +5,45 @@ tags:
 - teaching
 ---
 ## Resources
+
 ### Books
+
 - [[ESL Games]]
 - [[Basic ESL Curriculums]]
 - (Nepal) [[Headway English Grammar and Composition 1]]
 - (Nepal) [[Headway English Activity Book 1]]
 
 ### Audio-Visual
+
 - [Magic English](https://www.youtube.com/playlist?list=PLL4rJkInfUHUL44tyu1bu7YxwWRukTExx) when we finish and there's still 10 minutes left, or to do a full day of Magic English and exercises.
 
 ### Material
+
 - Computer and projector.
 - White board and marker.
 - Sticky tape and cardboard.
 - Material from [[#Selection Methods and Reward System]]
 
 ### Activities
+
 In [this article](https://www.profedeele.es/blog/actividades-presentacion-primer-dia-clase/) there are many activities (in Spanish) that can be used to get a more engaging class, specially when starting out!
 
 Furthermore [[ESL Games]] has a very nice list of activities in English too.
 
+I prepared also [[ESL Game — Word Wars|Word Wards]] to stimulate grammatical constructions for mixed-age groups.
+
 ### Other
+
 - [[English Preposition Drawings for Practice]]
 
 ### Digital Resources
+
 #### Computer Games
+
 - [Games to Learn English](https://www.gamestolearnenglish.com/)
 
 #### Anki
+
 > [!SUCCESS] Custom Anki Deck
 > Drill in or memorize these lesson's vocabulary with this set:
 > - [Anki Deck: rmn English Beginner Type-In Pictures](https://ankiweb.net/shared/info/1831769758)  
@@ -98,6 +109,9 @@ If many kids have to play at computer it's long, therefore I like the idea of sp
 
 # Exam
 - [[ESL/English Final Exam]]
+
+# Game
+- [[ESL Game — Word Wars]]
 
 ---
 
