@@ -6,7 +6,7 @@ tags:
 - game
 ---
 
-_Standalone ESL activity · mixed ages 8–14 · ~25 students · ~50–65 min · fully re-runnable_
+_Standalone ESL activity · mixed ages 8–14 · ~25 students · **two 45-min classes** (or one ~70-min block) · fully re-runnable_
 
 ## The idea in one line
 
@@ -16,7 +16,7 @@ Teams race to grab words, stick them on the whiteboard under the right **word ty
 
 - **Mixed ages by design:** mixed-age teams so the older kids scaffold the younger ones, plus tiered word difficulty so everyone has words at their level.
 - **25 kids stay busy:** relay teams of 5–6 keep the lines short and _every_ student moving — no one watching from a chair.
-- **Grammar _and_ fun:** Round 1 teaches **classification**; Round 2 sneaks in **sentence structure / word order** through silly sentences. You get both without a worksheet in sight.
+- **Grammar _and_ fun:** Rounds 1–2 teach **classification**; Round 3 sneaks in **sentence structure / word order** through silly sentences. You get both without a worksheet in sight.
 - **Re-runnable for scattered classes:** swap the word list or change the mechanic (colour paddles / dice / fortune teller / balloons / thread) and the same core game feels brand new.
 
 ## The colour code (your secret weapon)
@@ -36,17 +36,18 @@ Kid-friendly cues to repeat out loud: _Noun → you can point at it or name it. 
 
 - **Whiteboard markers in all four type colours — blue, red, green, black.** These four run through everything (board, cards, cardboard), so the coding does the teaching for you.
 - **Coloured cardboard in blue, red, green, black** — one set of four sheets per team (≈5 sets for 25 kids) for the Colour Paddles game; a couple of spare sheets also make perfect column headers on the board.
-- Pre-cut **word cards** (use a day's bank below) and a few **⭐ stickers** to mark the "hard" ones.
-- **Crayons or coloured pencils — one distinct colour per team**, kept clear of the four type-colours (so purple, orange, brown, pink… never blue/red/green/black). Each team's cards get a small mark in its colour, so you can tell them apart on one shared board.
+- Pre-cut **word cards** — print [ESL Game — Word Wars — Printable Cards](<ESL Game — Word Wars — Printable Cards.html>) (one ready-to-cut set per day: ⭐ printed on the hard ones, 🌀 on the type-shifters, and a **team letter A–E** bottom-left so dealing is automatic — no stickers needed) or hand-write a day's bank below with a few **⭐ stickers** for the hard ones.
+- **Crayons or coloured pencils — one distinct colour per team**, kept clear of the four type-colours (so purple, orange, brown, pink… never blue/red/green/black). Each team's cards get a small mark in its colour, so you can tell them apart on one shared board — and the same crayon colours a paper square per team for the scoreboard (prep step 5).
 - **Pokémon cards** as the reward — commons for joining in, better cards for round wins and the finale.
-- A **foam die** _or_ a folded paper/origami die for Roll & Race.
+- A **foam die** _or_ a folded paper/origami die for Roll & Race — plus a small paper die faced **1·2·3·1·2·3** for the finale's power tax (or read a normal die as 4→1 · 5→2 · 6→3), and one faced **A–F** if you fancy the 🎁 letter-roll in Beat the Die.
 
 ## Prep (10–15 min before class)
 
-1. Cut **40–60 word cards** on plain white paper (so kids must think — the word-_type_ clue stays only on the board headers; the crayon marks in step 4 only say which team). Use a day's bank below; put a ⭐ on the harder ones.
+1. Cut the word cards — **print the ready-made sheets** ([ESL Game — Word Wars — Printable Cards](<ESL Game — Word Wars — Printable Cards.html>): ⭐, 🌀 and a **team letter A–E** already on every card — sort by letter and the stacks come out even, with a fair type mix and an equal share of ⭐s) or hand-write a day's bank on plain white paper with a ⭐ on the harder ones. Either way the face shows the word only — the word-_type_ clue stays on the board headers, and the crayon marks in step 4 only say which team. **Count them: 10–12 cards per team — two relay runs per kid — so 40–60 total for 4–5 teams** (each day's bank is ~44–45 words, i.e. one bank ≈ one class).
 2. Stick a sticky ball on each card, **or** keep a bowl of sticky balls beside the board.
-3. On the whiteboard, draw **3–4 columns, each headed in its own colour** — **blue NOUN · red VERB · green ADJECTIVE · (black ADVERB)** — or stick a matching cardboard square above each column. _(All teams share this one board in Round 1 — you tell them apart by the crayon marks on their cards. Prefer separate boards? See the alternative in Round 1.)_
-4. Split the cards into a roughly equal stack per team, and mark each stack in that team's crayon colour — a small **stripe or dot in one corner** (on the front, so it shows on the board). Give each team its stack in a bowl. Also set out each team's **blue/red/green/black cardboard set** for the Colour Paddles round.
+3. On the whiteboard, draw **3–4 columns, each headed in its own colour** — **blue NOUN · red VERB · green ADJECTIVE · (black ADVERB)** — or stick a matching cardboard square above each column. _(All teams share this one board in the relay (Round 2) — you tell them apart by the crayon marks on their cards. Prefer separate boards? Use a second wall with sticky balls — see classroom management.)_
+4. Split the cards into a stack of **10–12 per team** — two relay runs per kid, which is what keeps Round 2 inside its slot. Printed cards **pre-deal themselves: group them by the bottom-left team letter** (running 4 teams? keep stack E undealt — it becomes the Balloon Wars word source and the DOUBLE OR NOTHING reserve, see the finale prep) — and once each team owns its letter, the printed letter doubles as a second whose-card-is-whose check at the board. Mark each stack in that team's crayon colour — a small **stripe or dot in one corner** (bottom-right on the printed cards; on the front, so it shows on the board). Give each team its stack in a bowl. Also set out each team's **blue/red/green/black cardboard set** for the Colour Paddles round, and **paper and a pencil per team** for Frankenstein Sentences.
+5. **Build the scoreboard:** colour a palm-sized paper square in each team's crayon colour (or let each team colour its own when teams form — 30 seconds of instant team identity) and stick the squares in a row along one edge of the whiteboard with a sticky ball, keeping each team's running score next to its square **in whiteboard marker**. The paper labels stay up all class while the numbers wipe clean in a second — handy when points change hands constantly (challenge & steal, Balloon Wars' STEAL and SWAP). If board space is tight, stick the row on the wall beside the board and keep the score column on the nearest strip of whiteboard. Bonus: the row doubles as a **legend for the crayon marks**, so one glance says whose card is whose during the relay.
 
 ---
 
@@ -59,12 +60,24 @@ Each stage rehearses the skill the next one needs — **meet the types → spot 
 |Stage|How you score|
 |---|---|
 |**Hook · TPR** _(warm-up)_|a Pokémon card for joining in — breaks the ice|
+|**Word check** _(meanings)_|a Pokémon card per good explanation|
 |**R1 · Colour Paddles** _(recognise)_|+1 per correct colour|
 |**R2 · Sticky Sort Relay** _(sort)_|+2 per correct card · ⭐ hard +3 · challenge & steal +2 (−1 if wrong)|
-|**R3 · Frankenstein Sentences** _(build)_|+3 per correct sentence · +2 funniest|
-|**Finale · Balloon Wars**|words 2–5 pts · Steal / Swap / Wager / Shield powers|
+|**R3 · Frankenstein Sentences** _(build)_|+2 per 3-colour sentence · +3 with an adverb (4 colours) · +2 funniest|
+|**Finale · Balloon Wars**|words 2–5 pts · Steal / Swap / Wager / Shield powers, each costing a −1…−3 die roll|
 
-### 1 · Hook — "What can a CAT do?" (5–8 min)
+### Splitting it over two 45-minute classes
+
+**The honest arithmetic:** the stages below add up to ~55–65 minutes of actual activity, and with 25 kids, settling, instructions and transitions eat another 10–15. In **45-minute periods this is a two-class game** — and it splits at a natural seam:
+
+- **Class 1 — meet & sort (45 min):** settle (3) → Hook with spelling & TPR (11–13) → Word check (4–5) → teams form + scoreboard squares + paddles handed out (5) → Colour Paddles (8–10) → Sticky Sort Relay, racing + basic scoring only (10–12). **Hold back challenge & steal — that's your Class 2 opener.** If the clock squeezes anything, shrink the paddle round — it degrades gracefully; the relay doesn't.
+- **Class 2 — build & battle (45 min):** settle + rebuild the board (5–7, see below) → challenge & steal as the warm-up review (5–6) → Frankenstein Sentences (15–18) → Balloon Wars (12–15) → tally + Pokémon cards (3).
+
+**Keeping the board alive between classes:** if the room is yours, just leave the columns up. If not, photograph the board, then clip each team's cards together (the letter corner makes this trivial) — Class 2 then opens with each team **re-sticking its own cards from memory**, which is free spaced-repetition review, and the photo settles any _"it was in the verb column!"_ dispute.
+
+**Got one long block instead?** ~70 minutes runs it all in one go. Anything shorter: drop the relay (Round 1 already covers recognition) rather than squeezing every stage into a sprint.
+
+### 1 · Hook — "What can a CAT do?" (10–12 min incl. TPR)
 
 Write **CAT** big in the centre of the board — capitals, and in **blue**, since the seed is itself a **noun**.
 
@@ -74,11 +87,19 @@ Write **CAT** big in the centre of the board — capitals, and in **blue**, sinc
 
 You're building a quick **word-web**: the seed in the centre, and the words it throws off fanning out around it — verbs in **red** on one side, adjectives in **green** on the other, so the two groups stay visually separate. In two minutes the three categories are _born from one word_, in three colours, with their bodies already moving.
 
+**Make them spell it before you write it.** Every few words, pause with your marker up — _"Lovely — how do we spell 'scratch'?"_ — and let the kid who shouted it (or the whole class) call out the letters while you write. It folds spelling practice into the same two minutes at zero cost, since you were writing the word anyway — and a clean spell earns a **Pokémon card** on the spot, a moment to shine for the accurate-but-quiet kids that shouting never gives them.
+
 **It flips to verb-seeds, too.** Start from a verb instead and branch the other way: seed **RUN** and ask _"Who runs?"_ → _a footballer, a cheetah, a kid_ (nouns), then _"How do they run?"_ → _quickly, clumsily, fast_ (adverbs). Noun-seeds naturally throw off verbs and adjectives; verb-seeds throw off nouns and adverbs — so alternating the two lets you surface **all four** types from the hook. Ready seeds with answers are in the **Hook Seed Bank** near the bottom.
 
 **Quick TPR warm-up (2–3 min):** give each word type its own _active_ physical response and let the _contrast_ do the teaching: **verb → act it out** (verbs are _doing_ words), **noun → fold your arms** like a statue on its plinth (a noun is a _thing_), **adjective → strike a pose or face** that shows it — but only adjectives that _can_ be shown (a face for _happy_, a shape for _huge_); abstract ones like _expensive_ or _ancient_ have no pose, so keep them out of this round. Give the noun a _deliberate_ gesture like folded arms rather than just standing still — otherwise a kid who's unsure simply freezes and looks exactly like one who got it right. If a noun you call out happens to be a real object in the room (_door! clock! teacher!_) they can point at it instead — but folded arms works for every noun, even the ones you can't point at like _courage_ or _Monday_. Fire them off fast: _jump! … elephant! … happy! … swim! … gigantic! … sneeze! …_ This tunes their ears to the categories and burns off the wiggles before the game. _(Ready word lists for each response — plus two read-them-off sequences — are in the TPR warm-up bank near the bottom.)_
 
-🎉 **Reward joining in, not just being right.** Early on, a **Pokémon card** (a common one) for anyone who throws themselves into the actions — _especially_ the shy ones — breaks the ice and makes the silliness feel safe. It sharpens the read, too: once the shy kids are moving, whoever's _still_ frozen is genuinely unsure and worth a quiet hand. (No teams yet, so these go to individual kids — a nice thing to start collecting before the competition even begins.)
+🎉 **Reward joining in, not just being right.** Early on, a **Pokémon card** (a common one) for anyone who throws themselves into the actions — _especially_ the shy ones — breaks the ice and makes the silliness feel safe. Together with the spelling cards above, effort and accuracy each get their own path to a card. It sharpens the read, too: once the shy kids are moving, whoever's _still_ frozen is genuinely unsure and worth a quiet hand. (No teams yet, so these go to individual kids — a nice thing to start collecting before the competition even begins.)
+
+### 1½ · Word check — "Who knows this one?" (4–5 min)
+
+Still before teams form: hold up the day's **⭐ cards** one by one (add the 🌀 ones if you like) and ask, _"Who can explain this word?"_ A meaning, a sentence, an act-out — anything that shows understanding counts, and a good explanation earns a **Pokémon card** (still individual — the last chance to collect before team play begins). Nobody knows it? Teach it yourself in ten seconds — act it out, drop it into a silly sentence — and move on: ~15 ⭐ words at ten seconds each is three minutes of content — call it four to five with hands in the air.
+
+The point: kids **can't classify a word they don't understand.** De-fanging the ⭐ words before they reach a bowl means the relay tests _grammar_, not vocabulary luck — and you find out in advance exactly which words will need a nudge at the board.
 
 ### 2 · Round 1 — Colour Paddles (recognise) (8–10 min)
 
@@ -87,7 +108,7 @@ Put the class into **4–5 mixed-age teams of 5–6** — these stay together fo
 - You call out a word; teams get ~3 seconds to confer, then on **"Show me!"** each team raises the **one** colour that matches its type. Every team holding the right colour scores **+1**.
 - Start easy, then speed into a **lightning round** with no conferring.
 - **Flip it — production, not just recognition:** _you_ hold up a **colour** and teams race to **shout a word of that type**; first correct team scores **+1**. Alternating the two directions (word → colour, then colour → word) is the jump from _spotting_ a type to _making_ one, and it keeps them sharp.
-- Rotate who holds the sheets each round so it isn't one confident kid answering for the whole team. _(Full engagement options and variants are in the mechanics section below.)_
+- Rotate who holds the sheets each round so it isn't one confident kid answering for the whole team — and in the **lightning round**, have each team **stand in a queue at the front**: the kid at the head steps forward to an answer spot, answers alone, hands the sheets to the next in line and joins the back. The queue makes the rotation run itself — everyone sees whose turn is next, nobody gets skipped — and the step forward, clear of the line, keeps the answer genuinely theirs. _(Full engagement options and variants are in the mechanics section below.)_
 
 Now their eyes are warm and the colours are locked in — turn them loose on the relay.
 
@@ -96,49 +117,55 @@ Now their eyes are warm and the colours are locked in — turn them loose on the
 Same teams, now on their feet — everyone sorts onto **one shared board** with the four colour columns, and you tell whose card is whose because **each team's cards carry its own crayon mark** — a small corner stripe in the team's colour (purple, orange, brown, pink…, _never_ the four type-colours).
 
 - **All teams race at the same time.** On **"GO!"** each team's first runner grabs one of _their_ crayon-marked cards from its bowl, decides its type, sticks it in the right column on the shared board, and tags the next player.
-- Keep **one runner per team at the board at a time** so the swarm doesn't pile up. Keep going until a team empties its bowl or time's up.
+- Keep **one runner per team at the board at a time** so the swarm doesn't pile up. **The card count is the clock:** 10–12 cards per bowl at ~25 seconds a run means the racing phase burns itself out in **5–6 minutes**, leaving the rest of the slot for scoring and challenge & steal. If a bowl still isn't empty at the 6-minute mark, call time and score what's on the board.
 - **Scoring:** read the crayon marks to see whose is whose — **+2** for every correctly placed card, per team. Then any _other_ team can **challenge & steal**: call out a card they think is misplaced and fix it — **+2** if they're right, but **−1** if they're wrong (the card was fine all along, or their fix is off). The small risk keeps challenges honest instead of a free-for-all, and it doubles as a second learning pass with everyone watching.
 
 > 💡 The ⭐ "hard" words are worth **+3** — bait to tempt your 12–14s into the trickier vocabulary while the youngest happily take the easy ones.
 
 🪧 **Short on time?** Since Colour Paddles (Round 1) already covered recognition, the relay is the round you can safely trim or drop without losing the core learning.
 
-### 4 · Round 3 — Frankenstein Sentences (build) (12–15 min)
+### 4 · Round 3 — Frankenstein Sentences (build) (15–18 min)
 
-Each team's board is now full of sorted words — now they must **build a sentence using at least one word from each column** (1 noun + 1 verb + 1 adjective, plus an adverb if you used that column).
+The shared board is now full of every team's sorted words — now they must **build sentences of at least three colours** (1 noun + 1 verb + 1 adjective; the adverb is a paid upgrade — see the scoring). **Set the target at four sentences per team.** Give them **7–8 minutes** to build, keeping the rest of the slot for reading aloud and voting: with 4–5 teams that's 16–20 sentences, so keep the reading brisk — teams read their own back to back while you score on the fly on the scoreboard.
 
-- They can come up and physically pull cards into their team's space, or write the sentence on paper / a mini-whiteboard.
+- **Sentences are written** — on paper or a mini-whiteboard — and the board stays untouched: it's a **menu everyone copies from**, not a pool to strip. This is what makes four sentences per team possible at all — pulled cards would need 16–20 adjectives and a day's bank only has 10, but a copied word never runs out.
+- **One rule for range:** within a team's four sentences, no board word may be used twice — fresh noun, verb and adjective every time.
+- **Know whose sentences are whose the same way you know everything else — by team crayon colour:** each team stripes a corner of its paper in its crayon before handing it in (or heads its mini-whiteboard with its colour).
 - **The catch:** the sillier _and_ grammatically correct, the better — _"The fluffy elephant dances quickly!"_
-- Read them aloud: **+3** for each grammatically correct sentence, plus **+2** for the class-voted funniest.
+- Read them aloud and **price them by how much of the colour code they use**: **+2** for a grammatically correct **three-colour sentence** (noun + verb + adjective), **+3** for a **four-colour** one that works in an adverb too — longer and harder, so it's worth more. (No adverb column with the youngest? Then it's a flat +2 per correct sentence.) Then vote the funniest: each team confers and casts **one vote — never for its own sentence** — so the laugh has to be earned from rivals, not from cheering for yourselves. Funniest takes **+2** (a tie splits it).
 
-This is where the grammar clicks: a sentence needs a _doer_ (noun) and an _action_ (verb), and the adjectives/adverbs add flavour. The colour pattern on the board gives them a visual template for _how a sentence is built_ — and the silliness removes the fear of getting it "wrong."
+This is where the grammar clicks: a sentence needs a _doer_ (noun) and an _action_ (verb), and the adjectives/adverbs add flavour. The colour pattern on the board gives them a visual template for _how a sentence is built_ — and the silliness removes the fear of getting it "wrong." The 2-vs-3 pricing also does your differentiation for you: the youngest bank steady points on three colours while the teens chase the black-card upgrade.
 
-### 5 · Finale — Balloon Wars (the comeback round) (8–10 min)
+### 5 · Finale — Balloon Wars (the comeback round) (12–15 min)
 
 The climax — and it's rigged so the standings can still flip. Trailing teams pick first and get the tools to knock the leaders down, so nobody's out of it and nobody can coast.
 
-**Prep:** inflate ~15–20 balloons (3–4 per team, plus spares) and fold a slip inside each:
+**The room:** no rearranging — teams stay seated where they are in the **grid of desks**, each team's cluster with its colour paddles. The balloons are **corralled at the front** — a big bag, or loose against the wall so they don't drift — and the scoreboard stays in sight, because the turn order is read straight off it. **Whose turn it is travels as a card:** a paper sign with **TURN** in big letters sits on the acting team's desk, so the whole grid knows who's up without anyone asking. On a team's turn, **one picker** (a different kid each cycle — with 3–4 balloons per team of 5–6, nobody should pop twice) walks up, picks a balloon, pops it — stomp or sit — and the slip is read aloud. For a word slip it's **the whole team back at its desks** that huddles and raises one paddle, never the picker alone. Once the points are on the scoreboard, the picker **delivers the TURN card to the next team** — read the scoreboard bottom-up: whoever's currently last — so the reverse-standings order runs itself, no adjudicating needed. One kid popping at the front, one team huddling, and a card that says whose moment it is: the chaos stays contained to a single spot in the room.
+
+**Prep** (in the before-class block): inflate ~15–20 balloons (3–4 per team, plus spares) and fold a hand-written word slip inside each. **Source the slip words from cards that never reached the board:** with 4 teams that's the undealt stack E; with 5 teams take a *different* day's bank. Never use words that got sorted in the relay — they spend the finale on the whiteboard in plain sight, answer included. (On re-runs, an earlier day's bank makes perfect revision.) From the same source, write **3–4 ⭐-grade words on spare slips — the DOUBLE OR NOTHING reserve pile**, kept in your pocket, not in a balloon. Have the **1·2·3 die** ready for the power tax — a paper die faced 1·2·3·1·2·3, or read a normal die as 4→1 · 5→2 · 6→3 — and make the **TURN card**: a sheet of paper with TURN in big letters that marks the acting team's desk. In class, budget **2 minutes to demo the powers before the first pop** — each pop then takes ~40 seconds, so 15 balloons is a ~10-minute round.
 
 - **Most are word slips** — a word plus its value: easy word **2 pts**, medium **3**, ⭐ hard **4–5**.
 - **A handful are power slips** — hide these in balloons you can tell apart (a different colour, or draw a big ⭐ on them) so a power balloon is visibly worth grabbing:
     - **STEAL 3** — take 3 points from any one team.
     - **SWAP** — trade your _whole_ score with any one team's (the nuclear option — save it for a runaway leader).
-    - **DOUBLE OR NOTHING** — you get a ⭐ hard word; classify it right to score **double** its value, wrong and you **lose** that many.
+    - **DOUBLE OR NOTHING** — you draw a ⭐ hard word from the **reserve pile** (set aside in prep) and its value is announced: 4 or 5. Your team answers by paddle as usual — right → score **double** (+8 or +10); wrong → the word's face value comes **off your score** (−4 or −5, not double).
     - **SHIELD** — keep it; it cancels the next STEAL or SWAP aimed at you.
 
-**Turn order = the comeback engine:** teams go in **reverse standings order — whoever is last picks first.** (Re-check the order each round so whoever's trailing keeps first pick, or set it once at the start for less bookkeeping.) Cycle through all the teams until the balloons run out or time's up.
+**The power tax — why word balloons stay tempting:** popping a power balloon **costs a die roll**: roll the 1·2·3 die and take that many points **straight off your score** before the power is used (SHIELD included — insurance isn't free). Word balloons are pure profit; power balloons are weapons with a price tag. That kills the obvious strategy of strip-mining every visible ⭐ balloon — a team that only chases powers bleeds 1–3 points a turn while everyone else banks word points — so the word-vs-power choice stays a real gamble to the last pop.
+
+**Turn order = the comeback engine:** teams go in **reverse standings order — the scoreboard read bottom-up, so whoever is last picks first.** Say the scores stand at Orange 24 · Pink 20 · Purple 17 · Brown 13 · Yellow 11: Yellow picks first, and with every power balloon still on the table it can simply take the SWAP and trade its 11 for Orange's 24 — while Orange, picking last, gets the leftovers. First pick + visible powers is the whole rig: being behind buys you the best weapon, so nobody tunes out and the leader can't coast. Between cycles, re-read the scoreboard bottom-up for the new order (Yellow may well be *first* now), so first pick always belongs to whoever is currently last — or set the order once at the start for less bookkeeping. Cycle until the balloons run out or time's up.
 
 **On your turn:**
 
 1. Pick a balloon and pop it.
 2. **Word slip →** read the word aloud and your team **raises the colour paddle** for its type (the same sheets from Round 1). Right = score the points shown; wrong = nothing (and if you like, the next team can steal the answer for half).
-3. **Power slip →** use it now — this is your shot to **attack the leader** (STEAL or SWAP) — or hold a SHIELD for defence.
+3. **Power slip →** first pay the **power tax** — roll the die, knock 1–3 off your score. Then use it now — this is your shot to **attack the leader** (STEAL or SWAP) — or hold a SHIELD for defence.
 
 **Why it works:** the leader can be dragged back by steals and a swap; a last-place team that picks first and lands a SWAP can leapfrog to the front; and because the turn order and the powers keep the board wide open, every kid is still shouting on the very last pop.
 
-**Dials:** fewer powers → calmer and more knowledge-based; more powers → bigger swings and more chaos — match your group. If one team is _miles_ ahead, quietly add a second SWAP to guarantee a shake-up. **Quieter version:** skip the popping — put the same slips in a bag and have teams _draw_ instead.
+**Dials:** fewer powers → calmer and more knowledge-based; more powers → bigger swings and more chaos — match your group. The power tax is a dial too: wave it off for a wilder game, or double the roll to make powers a rare, pricey treat. If one team is _miles_ ahead, quietly add a second SWAP to guarantee a shake-up. **Quieter version:** skip the popping — put the same slips in a bag and have teams _draw_ instead.
 
-### 6 · Wrap-up (2 min)
+### 6 · Wrap-up (3 min)
 
 Point at the columns: _"Naming words are…? Action words are…? Describing words are…?"_ Tally the scores, hand out the Pokémon cards, done.
 
@@ -160,7 +187,7 @@ Pick any seed and the answers are already in front of you — no scrambling for 
 - **WIZARD** — _does:_ casts spells, vanishes, brews potions, chants, floats, enchants, conjures, mutters, transforms, summons, waves a wand, teleports · _is:_ old, wise, magical, mysterious, powerful, bearded, robed, ancient, secretive, clever, eccentric, wrinkled
 - **MONKEY** — _does:_ climbs, swings, screeches, jumps, throws, chatters, grabs, scampers, steals, hangs, leaps, munches · _is:_ cheeky, hairy, quick, wild, playful, funny, mischievous, agile, curious, noisy, clever, nimble
 - **STORM** — _does:_ rains, thunders, blows, floods, strikes, howls, rages, lashes, batters, drenches, roars, whirls · _is:_ wild, dark, loud, scary, powerful, freezing, violent, fierce, destructive, gloomy, windy, relentless
-- **SNAKE** — _does:_ slithers, hisses, bites, coils, hunts, strikes, slides, sheds its skin, swallows, glides, rattles, lurks · _is:_ long, scaly, sneaky, venomous, cold, slippery, silent, dangerous, flexible, patient, deadly, smooth
+- **DINOSAUR** — _does:_ stomps, roars, chomps, hunts, charges, hatches, chases, bites, lumbers, munches, thunders past, sleeps · _is:_ enormous, ancient, scaly, fierce, gigantic, heavy, spiky, terrifying, mighty, slow, hungry, prehistoric
 - **TEACHER** — _does:_ explains, writes, marks, smiles, teaches, corrects, helps, listens, encourages, questions, plans, praises · _is:_ patient, clever, busy, kind, strict, helpful, organised, cheerful, knowledgeable, encouraging, tired, friendly
 
 ### Verb seeds → ask _"who/what DOES this?"_ (nouns) and _"HOW?"_ (adverbs); describing the doer gives adjectives
@@ -208,7 +235,10 @@ Alternate the three types so they can't guess what's coming:
 - **Teams:** always mix ages — older kids naturally coach younger ones, which reinforces it for _both_.
 - **Word tiers:** easy (_dog, run, big_) for the 8s; ⭐ hard (_courage, whisper, enormous, gently_) worth more, for the 14s.
 - **Youngest only:** run just `NOUN | VERB | ADJECTIVE`. Add the adverb column once the group is comfortable.
-- **Oldest / advanced moment:** slip in a few words that change type depending on the sentence — _run, play, light, water, fast._ Pause and discuss: _"Is 'run' a verb or a noun? It depends — I run / a good run!"_ This is a genuinely sophisticated idea your teens will enjoy catching.
+- **Oldest / advanced moment:** slip in a few words that change type depending on the sentence — _run, play, light, water, fast._ Pause and discuss: _"Is 'run' a verb or a noun? It depends — I run / a good run!"_ This is a genuinely sophisticated idea your teens will enjoy catching. **A bigger pool of shifters** for the 🌀 slots on future runs, grouped by the shift they make:
+    - _noun ↔ verb:_ book (_read a book / book a table!_) · star · fire · dance · dream · smile · fish · plant · hand (_hand it over_) · head (_head home_) · point · race · paint · park · text · hammer
+    - _adjective ↔ verb:_ clean (_a clean room / clean your room_) · dry · cool · open · clear · slow · empty · warm
+    - _adjective ↔ adverb (the no-'-ly' adverbs):_ fast · hard · high · late · early · deep · low · straight (_a hard test / works hard_)
 
 ## Keep it fresh — swap-in mechanics (for your scattered classes)
 
@@ -226,7 +256,7 @@ Doubles as **Round 1 (the "recognise" warm-up) in the flow above**, and it's the
 
 **Keep everyone in — not just the loudest one per team:**
 
-- **Rotate the sheet-holder** every few words so each member gets a turn deciding.
+- **Rotate the sheet-holder** every few words so each member gets a turn deciding. For a genuine no-help check, line each team up in a **queue at the front**: the head of the queue steps forward to an answer spot, answers alone, then peels off to the back as the next one steps up. The queue does the management for you — rotation is automatic, visible, and nobody gets skipped or answers twice — and the gap between the answer spot and the line keeps whispered help out, so you see exactly who's solid and who's guessing. (Best in lightning mode, where there's no conferring anyway; in confer mode the huddle *is* the point, so keep the holder with the team.)
 - Or require the **whole team to have a hand on the sheet** they raise — no raise without agreement.
 - Want maximum accountability? Give **every student their own mini set of four** and they raise individually — you'll instantly spot who's unsure.
 
@@ -234,16 +264,45 @@ Doubles as **Round 1 (the "recognise" warm-up) in the flow above**, and it's the
 
 ### 🎲 Roll & Race — the die (whole class, high energy)
 
-Make a die from a printed/drawn **cube net** (a cross of 6 squares — fold and tape) or just stick labels on a foam die. The six faces: 🔵 NOUN · 🔴 VERB · 🟢 ADJECTIVE · ⚫ ADVERB · ⭐ ANY TWO TYPES · 🎁 FREE POINT.
+Make a die from a printed/drawn **cube net** (a cross of 6 squares — fold and tape) or just stick labels on a foam die.
 
-**How everyone stays in** — don't pass one die around a circle:
+**The six faces** — a colour face simply means _produce a word of that type_:
 
-- _Beat the Die (simplest):_ you roll one big die at the front; **everyone** has ~8 seconds to write a word of that type on paper / a mini-whiteboard; reveal together; every correct word scores. No elimination — all 25 write _every_ round.
-- _Team Roll Relay:_ each team gets its own die; first player rolls, shouts a word of that type, tags the next — first team to land 10 correct words wins. Several dice rolling at once means no waiting.
+|Face|What you do|Worth|
+|---|---|---|
+|🔵 NOUN · 🔴 VERB · 🟢 ADJ · ⚫ ADV|say or write one word of that type|+1|
+|⭐ ANY TWO TYPES|**two** words of two _different_ types, your choice — _"tiger + jump!"_|+2 (relay: counts as two of the ten)|
+|🎁 FREE POINT|nothing — bank it and roll on (deliberate luck: keeps trailing players hopeful)|+1 (relay: counts as one of the ten)|
+
+**Two 🎁 dials:** prefer zero freebies → relabel it **SPELL IT**, the point only lands if you also spell your last word. Playing Beat the Die → make it **theatre**: a second paper die faced **A–F** decides which team the gift lands on — the teams already wear those letters (_"please be C!"_) — and an unowned letter (F always, E on a 4-team day) gifts **whoever's currently last**.
+
+**Two ways to run it — both keep all 25 in** (never pass one die around a circle):
+
+**Mode 1 · Beat the Die** — calm, simplest, cheat-proof:
+
+1. You roll one big die at the front.
+2. **Everyone** has ~8 seconds to write a word of that type (paper / mini-whiteboard).
+3. Reveal together — every correct word scores. No elimination: all 25 write _every_ round.
+
+**Mode 2 · Team Roll Relay** — loud by design; accept that before picking it:
+
+1. Each team gets **one die + one answer sheet, travelling together**.
+2. Roll → **write your own line** (face rolled, then your word) → pass both on.
+3. First team to a **checked 10** wins: they bring the sheet, you read it aloud, wrong lines get crossed off (wrong type, repeat, not a real word) — under 10 means back to rolling.
+
+**Mode 2 anti-cheat — you audit the paper, never the noise:**
+
+- **Ten lines, ten handwritings** → proof ten kids really played (one whiz feeding the team shows up instantly).
+- **Face column all ⭐s** → invented rolls; call it.
+- **Max two 🎁 lines per list** — a third means roll again (honest luck averages under two per ten).
+- **The die speaks once** — answer the face you rolled; a re-roll voids the line.
+- **Caught faking a line** → crossed off **and −1**, same price as a wrong challenge in the relay.
+
+**Mode 2 sanity rules:** dice stay on desks · indoor volume or the line is void · your STOP clap ends it · keep stakes small (a warm-up win, not big scoreboard points). Want full control? That's exactly Mode 1: one die, your hand, everyone writing in silence.
 
 ### 🔮 Fortune Teller (cootie catcher) — in pairs, all playing at once
 
-A calmer, craft-y day. About **12 pairs operate their own catcher simultaneously**, so engagement stays at 100% even though the room is quieter. Building it is half the fun.
+A calmer, craft-y day. About **12 pairs operate their own catcher simultaneously**, so engagement stays at 100% even though the room is quieter. Building it is half the fun. **Pair kids of similar age and level** — the one place in this game you _don't_ mix ages: the roles swap every turn, so each kid ends up judging the other, and an 8-year-old can't check a teen's sentence. A matched pair plays _and judges_ at its own shared level — which is fair here precisely because no pair is racing another (see below). Each pair also gets a **small stack of word cards — a couple of each type, ⭐s included** (one day's bank stretches to ~4 cards a pair, so pull in a second day's bank; on a re-run that's free revision): challenges 6 and 7 lean on them, and the printed ⭐ settles what counts as "hard."
 
 **Fold it** (give each pair a square of paper):
 
@@ -259,18 +318,26 @@ A calmer, craft-y day. About **12 pairs operate their own catcher simultaneously
 - On the **4 outer flaps**: the four word types (or your four colours).
 - On the **8 inner triangles**: the numbers 1–8.
 - **Lift each inner flap** and write a challenge underneath (list below).
+- **Then trade catchers with the pair beside you.** The builders know exactly what's under every number they just wrote; the neighbours don't — the swap is what keeps the number picks a genuine gamble instead of a menu (and it's a free comprehension check of another pair's handwriting).
 
 **Play it** (one partner operates, one answers, then swap):
 
-1. Answerer picks an outer flap, e.g. **VERB**. Operator spells _V-E-R-B_, opening/closing the catcher on each letter.
+1. Answerer picks an outer flap, e.g. **VERB** — **never the same type twice in a row**, so nobody camps on easy nouns all game. Operator spells _V-E-R-B_, opening/closing the catcher on each letter.
 2. Answerer picks one of the numbers now showing; operator counts that many open-and-closes.
 3. Answerer picks a final number; operator **lifts that flap** and reads the challenge — answerer does it _for the word type they first chose_.
 
 **8 challenges to hide under the flaps** (each works with any type the player picked):
 
-1. Name 3 in 5 seconds · 2. Use one in a sentence · 3. Act one out — partner guesses · 4. Point to one in this room · 5. Say one nobody else would think of · 6. Say two as fast as you can · 7. Spell one out loud · 8. Make your partner say one.
+1. **Name 3** of your type in 10 seconds — partner counts the seconds down out loud.
+2. **Use one in a full sentence** — partner checks it makes sense.
+3. **Act one out** — partner guesses the word. For an adverb, act a verb _that way_ (walk… slowly!) — and the guesser must name the _how_-word, not the verb.
+4. **Say one that fits this classroom** — a thing in here, something you can do in here, how this room is, or how we do things in here (we speak _quietly_…).
+5. **Say one starting with the first letter of your name** — your partner's, or any classmate's, name counts too.
+6. **Say two — one easy, one ⭐-hard:** the easy one from your head, the ⭐ fished from the card stack (finding a ⭐ of your type _is_ the challenge).
+7. **Spell one out loud:** partner draws a card of your type and reads it out — spell it, then check it letter by letter against the card.
+8. **Build a silly sentence** using **two** of your type.
 
-**Keep it sharp:** pairs race _"how many challenges can we clear in 4 minutes?"_, scoring a point each, and **rotate partners** halfway. You circulate, settle disputes, and lob a surprise challenge at any pair.
+**Keep it sharp:** pairs race _"how many challenges can we clear in 4 minutes?"_ — a noun or verb clear scores **+1**, an adjective or adverb clear **+2** (the hard types have to pay better, or nobody ever visits them), and **no word may be repeated inside the 4 minutes** — the operator keeps count. **Rotate partners** halfway, keeping the older-younger mix. You circulate, settle disputes, and lob a surprise challenge at any pair.
 
 ### 🧵 The Grammar Web — the ball of yarn (your idea, refined)
 
@@ -297,7 +364,9 @@ _(Quieter alternative with the same thread — a "washing line": peg word cards 
 
 ## Three ready-to-use word banks (one per day)
 
-Print and cut a different set each day. Each is balanced across the types, lightly themed, and — importantly — chosen so the four columns **combine into real sentences** for Round 3; a few examples follow each set. Fresh words each day, nothing repeats. ⭐ = "hard" cards (worth bonus points — bait for your 12–14s).
+Print and cut a different set each day. Each is balanced across the types, lightly themed, and — importantly — chosen so the four columns **combine into real sentences** for Round 3; a few examples follow each set. Fresh words each day, nothing repeats. ⭐ = "hard" cards (worth bonus points — bait for your 12–14s). ⚠️ **These banks are mirrored in [ESL Game — Word Wars — Printable Cards](<ESL Game — Word Wars — Printable Cards.html>)** — if you add, drop, or re-star a word here, make the same change there (including its team letter) so the printed cards never drift from the plan.
+
+Each bank runs **~44–45 words — one class's worth**: with 4 teams that's 11 cards per stack, with 5 it's 9 — right around the 10–12 per team the relay's timing is built on. (Running 5 teams and want a full dozen each? Top the stacks up with a few spares from another day's bank.) The 10 adjectives and 7 adverbs also stretch to four sentences per team in Round 3, because sentences are *written*, not pulled — every team copies from the same menu, so nothing runs out. The printable's **team letters (A–E)** already deal each bank into five balanced stacks (9·9·9·9·9 on Day 1, 9·9·9·8·9 on Days 2–3 — D gets 8) — even counts, a fair type mix, and exactly **three ⭐ words per team**.
 
 ### 📅 Day 1 — Everyday World
 
@@ -330,6 +399,7 @@ Print and cut a different set each day. Each is balanced across the types, light
 
 - Teams of **5–6** so lines stay short and everyone's moving.
 - One clear **GO / STOP** signal — a clap rhythm or a whistle beats shouting over them.
-- Appoint a **scorekeeper** (a student job) at the side of the board.
+- Keep the scores yourself on the paper-label scoreboard from prep step 5 — the crayon squares never move, and the marker numbers wipe and update in a second, so it costs you nothing mid-game.
 - **One runner at the board at a time** to avoid pile-ups — or use a second wall with sticky balls if you have the space.
 - Do the **review / steal** phase _seated_ to bring the energy down before the next round.
+

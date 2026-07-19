@@ -6,7 +6,6 @@ publish: true
  བསམ་པའི་ཙལ།
 > My Garden (tsal) of Thoughts (sampa) | Ramon's Notes and Reflections".
 
-
 With so much AI I feel the need to start writing unassisted, compiling notes to form a [personal knowledge management system](https://en.wikipedia.org/wiki/Personal_knowledge_management). After reading about the [slip-box method](https://zettelkasten.de/overview/) I started writing down some notes — following the method in a very loose and lax way. Some of those notes I select them and publish them so I can easily send links to friends and family.
 
 Among those notes they can be:
