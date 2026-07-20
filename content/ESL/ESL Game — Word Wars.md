@@ -322,7 +322,7 @@ A calmer, craft-y day. About **12 pairs operate their own catcher simultaneously
 
 **Play it** (one partner operates, one answers, then swap):
 
-1. Answerer picks an outer flap, e.g. **VERB** — **never the same type twice in a row**, so nobody camps on easy nouns all game. Operator spells _V-E-R-B_, opening/closing the catcher on each letter.
+1. Answerer picks an outer flap, e.g. **VERB** — and the operator **tears a tiny notch in that quarter's edge**. **Three notches locks the quarter** for the rest of the game: pick another type. The tears do the policing for you — nobody can camp on easy nouns, and the catcher itself remembers what the pair has done. Operator spells _V-E-R-B_, opening/closing the catcher on each letter.
 2. Answerer picks one of the numbers now showing; operator counts that many open-and-closes.
 3. Answerer picks a final number; operator **lifts that flap** and reads the challenge — answerer does it _for the word type they first chose_.
 
@@ -337,7 +337,7 @@ A calmer, craft-y day. About **12 pairs operate their own catcher simultaneously
 7. **Spell one out loud:** partner draws a card of your type and reads it out — spell it, then check it letter by letter against the card.
 8. **Build a silly sentence** using **two** of your type.
 
-**Keep it sharp:** pairs race _"how many challenges can we clear in 4 minutes?"_ — a noun or verb clear scores **+1**, an adjective or adverb clear **+2** (the hard types have to pay better, or nobody ever visits them), and **no word may be repeated inside the 4 minutes** — the operator keeps count. **Rotate partners** halfway, keeping the older-younger mix. You circulate, settle disputes, and lob a surprise challenge at any pair.
+**Say it out loud before you start: there's no winner.** No pair races another and no scores are compared at the end — a matched pair of 8-year-olds clearing easy challenges at their own pace has had exactly as good a round as a teen pair burning through hard ones. The goal is physical instead: **retire your catcher** — three notches on all four quarters (≈12 challenges, which at a relaxed pace fills the slot almost exactly). No points to track: the torn edges _are_ the scorekeeping — and a said word can't be said again, which the operator can police from memory now that each type only gets three visits. **Rotate partners** halfway — swap between two neighbouring pairs of similar level, so the match holds; the new pair simply keeps retiring the half-torn catcher. Before the first round, **demo all 8 challenges from the front** — two minutes, like the Balloon Wars powers demo — so the youngest are recognising a routine, not decoding flap-text. You circulate, settle disputes, and lob a surprise challenge at any pair.
 
 ### 🧵 The Grammar Web — the ball of yarn (your idea, refined)
 
