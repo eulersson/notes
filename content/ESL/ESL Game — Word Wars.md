@@ -64,7 +64,7 @@ Each stage rehearses the skill the next one needs — **meet the types → spot 
 |**R1 · Colour Paddles** _(recognise)_|+1 per correct colour|
 |**R2 · Sticky Sort Relay** _(sort)_|+2 per correct card · ⭐ hard +3 · challenge & steal +2 (−1 if wrong)|
 |**R3 · Frankenstein Sentences** _(build)_|+2 per 3-colour sentence · +3 with an adverb (4 colours) · +2 funniest|
-|**Finale · Balloon Wars**|words 2–5 pts · Steal / Swap / Wager / Shield powers, each costing a −1…−3 die roll|
+|**Finale · Balloon Wars**|plain word 2 pts · ⭐ word 3 pts · Steal / Swap / Wager / Shield powers, each costing a −1…−3 die roll|
 
 ### Splitting it over two 45-minute classes
 
@@ -144,11 +144,11 @@ The climax — and it's rigged so the standings can still flip. Trailing teams p
 
 **Prep** (in the before-class block): inflate ~15–20 balloons (3–4 per team, plus spares) and fold a hand-written word slip inside each. **Source the slip words from cards that never reached the board:** with 4 teams that's the undealt stack E; with 5 teams take a *different* day's bank. Never use words that got sorted in the relay — they spend the finale on the whiteboard in plain sight, answer included. (On re-runs, an earlier day's bank makes perfect revision.) From the same source, write **3–4 ⭐-grade words on spare slips — the DOUBLE OR NOTHING reserve pile**, kept in your pocket, not in a balloon. Have the **1·2·3 die** ready for the power tax — a paper die faced 1·2·3·1·2·3, or read a normal die as 4→1 · 5→2 · 6→3 — and make the **TURN card**: a sheet of paper with TURN in big letters that marks the acting team's desk. In class, budget **2 minutes to demo the powers before the first pop** — each pop then takes ~40 seconds, so 15 balloons is a ~10-minute round.
 
-- **Most are word slips** — a word plus its value: easy word **2 pts**, medium **3**, ⭐ hard **4–5**.
+- **Most are word slips** — and **the ⭐ does the scoring**: a **plain word is 2 pts**, a **⭐ hard word is 3 pts**. Nothing else to write — the star (or its absence) *is* the value, so you never have to decide between 2, 3 and 4 mid-prep.
 - **A handful are power slips** — hide these in balloons you can tell apart (a different colour, or draw a big ⭐ on them) so a power balloon is visibly worth grabbing:
     - **STEAL 3** — take 3 points from any one team.
     - **SWAP** — trade your _whole_ score with any one team's (the nuclear option — save it for a runaway leader).
-    - **DOUBLE OR NOTHING** — you draw a ⭐ hard word from the **reserve pile** (set aside in prep) and its value is announced: 4 or 5. Your team answers by paddle as usual — right → score **double** (+8 or +10); wrong → the word's face value comes **off your score** (−4 or −5, not double).
+    - **DOUBLE OR NOTHING** — you draw a ⭐ hard word from the **reserve pile** (set aside in prep). A ⭐ word is worth 3, so your team answers by paddle as usual — right → score **double (+6)**; wrong → the word's face value comes **off your score (−3, not double)**.
     - **SHIELD** — keep it; it cancels the next STEAL or SWAP aimed at you.
 
 **The power tax — why word balloons stay tempting:** popping a power balloon **costs a die roll**: roll the 1·2·3 die and take that many points **straight off your score** before the power is used (SHIELD included — insurance isn't free). Word balloons are pure profit; power balloons are weapons with a price tag. That kills the obvious strategy of strip-mining every visible ⭐ balloon — a team that only chases powers bleeds 1–3 points a turn while everyone else banks word points — so the word-vs-power choice stays a real gamble to the last pop.

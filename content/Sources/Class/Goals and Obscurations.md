@@ -34,7 +34,7 @@ In Mahayana attaining total fearlessness does not bring you ultimate happiness a
 | Afflictive obscuration          | Description                                           |
 | ------------------------------- | ----------------------------------------------------- |
 | Contaminated karmas             | Karma\* driven by afflictions                         |
-| Afflition                       | Mental factor the presence of which disturbs the mind |
+| Affliction                      | Mental factor the presence of which disturbs the mind |
 | Active seeds\*\* of the first 2 | Causes that produce the potential to develop them     |
 
 ^82ed0d
