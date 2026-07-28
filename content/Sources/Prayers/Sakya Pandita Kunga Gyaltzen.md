@@ -10,11 +10,13 @@ tags:
 བསམ་ཡས་ཕྲིན་ལས་མཛད་པའི་སྟོབས་མངའ་བ། །
 འཇམ་མགོན་བླ་མའི་ཞབས་ལ་གོས་ཕྱགས་འཚལ། །
 
+![[Kunga Gyaltzen Prayer.mp3]]
+
 shéja tamché zikpé chen yangpa
 dro kün gelek drubpé tukjé chen
 samyé trinlé dzepé tob ngawa
 jamgön lamé zhab la gö chak tsal
 
-*The prayer is sung using this melody:*
+*Other prayers sung inside the temple during the celebration, with same melody:*
 ![[Sakya Pandita Kunga Gyaltzen Prayer.mp3]]
 
