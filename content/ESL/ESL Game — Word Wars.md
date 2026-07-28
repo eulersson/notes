@@ -47,13 +47,13 @@ Kid-friendly cues to repeat out loud: _Noun → you can point at it or name it. 
 2. Stick a sticky ball on each card, **or** keep a bowl of sticky balls beside the board.
 3. On the whiteboard, draw **3–4 columns, each headed in its own colour** — **blue NOUN · red VERB · green ADJECTIVE · (black ADVERB)** — or stick a matching cardboard square above each column. _(All teams share this one board in the relay (Round 2) — you tell them apart by the crayon marks on their cards. Prefer separate boards? Use a second wall with sticky balls — see classroom management.)_
 4. Split the cards into a stack of **10–12 per team** — two relay runs per kid, which is what keeps Round 2 inside its slot. Printed cards **pre-deal themselves: group them by the bottom-left team letter** (running 4 teams? keep stack E undealt — it becomes the Balloon Wars word source and the DOUBLE OR NOTHING reserve, see the finale prep) — and once each team owns its letter, the printed letter doubles as a second whose-card-is-whose check at the board. Mark each stack in that team's crayon colour — a small **stripe or dot in one corner** (bottom-right on the printed cards; on the front, so it shows on the board). Give each team its stack in a bowl. Also set out each team's **blue/red/green/black cardboard set** for the Colour Paddles round, and **paper and a pencil per team** for Frankenstein Sentences.
-5. **Build the scoreboard:** colour a palm-sized paper square in each team's crayon colour (or let each team colour its own when teams form — 30 seconds of instant team identity) and stick the squares in a row along one edge of the whiteboard with a sticky ball, keeping each team's running score next to its square **in whiteboard marker**. The paper labels stay up all class while the numbers wipe clean in a second — handy when points change hands constantly (challenge & steal, Balloon Wars' STEAL and SWAP). If board space is tight, stick the row on the wall beside the board and keep the score column on the nearest strip of whiteboard. Bonus: the row doubles as a **legend for the crayon marks**, so one glance says whose card is whose during the relay.
+5. **Build the scoreboard:** colour a palm-sized paper square in each team's crayon colour (or let each team colour its own when teams form — 30 seconds of instant team identity) and stick the squares in a row along one edge of the whiteboard with a sticky ball, keeping each team's running score next to its square **in whiteboard marker**. The paper labels stay up all class while the numbers wipe clean in a second — handy when points update constantly (corrections, Balloon Wars' STEAL and SWAP). If board space is tight, stick the row on the wall beside the board and keep the score column on the nearest strip of whiteboard. Bonus: the row doubles as a **legend for the crayon marks**, so one glance says whose card is whose during the relay.
 
 ---
 
 ## The flow
 
-Each stage rehearses the skill the next one needs — **meet the types → spot them → sort them → use them** — and the energy climbs with it: seated recognition, then a running relay, then focused sentence-building.
+Each stage rehearses the skill the next one needs — **meet the types → spot them → sort them → use them** — and the energy climbs with it: seated recognition, then a turn-by-turn sort up at the board, then focused sentence-building.
 
 **Points at a glance** — harder thinking earns more, and the finale (Balloon Wars) is rigged to shake up the leaderboard, so no lead is ever safe:
 
@@ -62,16 +62,16 @@ Each stage rehearses the skill the next one needs — **meet the types → spot 
 |**Hook · TPR** _(warm-up)_|a Pokémon card for joining in — breaks the ice|
 |**Word check** _(meanings)_|a Pokémon card per good explanation|
 |**R1 · Colour Paddles** _(recognise)_|+1 per correct colour|
-|**R2 · Sticky Sort Relay** _(sort)_|+2 per correct card · ⭐ hard +3 · challenge & steal +2 (−1 if wrong)|
-|**R3 · Frankenstein Sentences** _(build)_|+2 per 3-colour sentence · +3 with an adverb (4 colours) · +2 funniest|
-|**Finale · Balloon Wars**|plain word 2 pts · ⭐ word 3 pts · Steal / Swap / Wager / Shield powers, each costing a −1…−3 die roll|
+|**R2 · Sticky Sort Relay** _(sort)_|+1 per correct card · ⭐ hard +2 · correction +1 (with a sentence)|
+|**R3 · Frankenstein Sentences** _(build)_|+1 per 3-colour sentence · +2 with an adverb (4 colours) · +1 funniest|
+|**Finale · Balloon Wars**|plain word 1 pt · ⭐ word 2 pts · Steal / Swap / Wager / Shield powers, each costing a −1…−3 die roll|
 
 ### Splitting it over two 45-minute classes
 
 **The honest arithmetic:** the stages below add up to ~55–65 minutes of actual activity, and with 25 kids, settling, instructions and transitions eat another 10–15. In **45-minute periods this is a two-class game** — and it splits at a natural seam:
 
-- **Class 1 — meet & sort (45 min):** settle (3) → Hook with spelling & TPR (11–13) → Word check (4–5) → teams form + scoreboard squares + paddles handed out (5) → Colour Paddles (8–10) → Sticky Sort Relay, racing + basic scoring only (10–12). **Hold back challenge & steal — that's your Class 2 opener.** If the clock squeezes anything, shrink the paddle round — it degrades gracefully; the relay doesn't.
-- **Class 2 — build & battle (45 min):** settle + rebuild the board (5–7, see below) → challenge & steal as the warm-up review (5–6) → Frankenstein Sentences (15–18) → Balloon Wars (12–15) → tally + Pokémon cards (3).
+- **Class 1 — meet & sort (45 min):** settle (3) → Hook with spelling & TPR (11–13) → Word check (4–5) → teams form + scoreboard squares + paddles handed out (5) → Colour Paddles (8–10) → Sticky Sort Relay, the sorting turns + basic scoring only (10–12). **Hold back the corrections round — that's your Class 2 opener.** If the clock squeezes anything, shrink the paddle round — it degrades gracefully; the relay doesn't.
+- **Class 2 — build & battle (45 min):** settle + rebuild the board (5–7, see below) → corrections round as the warm-up review (5–6) → Frankenstein Sentences (15–18) → Balloon Wars (12–15) → tally + Pokémon cards (3).
 
 **Keeping the board alive between classes:** if the room is yours, just leave the columns up. If not, photograph the board, then clip each team's cards together (the letter corner makes this trivial) — Class 2 then opens with each team **re-sticking its own cards from memory**, which is free spaced-repetition review, and the photo settles any _"it was in the verb column!"_ dispute.
 
@@ -110,17 +110,19 @@ Put the class into **4–5 mixed-age teams of 5–6** — these stay together fo
 - **Flip it — production, not just recognition:** _you_ hold up a **colour** and teams race to **shout a word of that type**; first correct team scores **+1**. Alternating the two directions (word → colour, then colour → word) is the jump from _spotting_ a type to _making_ one, and it keeps them sharp.
 - Rotate who holds the sheets each round so it isn't one confident kid answering for the whole team — and in the **lightning round**, have each team **stand in a queue at the front**: the kid at the head steps forward to an answer spot, answers alone, hands the sheets to the next in line and joins the back. The queue makes the rotation run itself — everyone sees whose turn is next, nobody gets skipped — and the step forward, clear of the line, keeps the answer genuinely theirs. _(Full engagement options and variants are in the mechanics section below.)_
 
-Now their eyes are warm and the colours are locked in — turn them loose on the relay.
+Now their eyes are warm and the colours are locked in — now it's their turn at the board.
 
 ### 3 · Round 2 — Sticky Sort Relay (sort) (12–15 min)
 
 Same teams, now on their feet — everyone sorts onto **one shared board** with the four colour columns, and you tell whose card is whose because **each team's cards carry its own crayon mark** — a small corner stripe in the team's colour (purple, orange, brown, pink…, _never_ the four type-colours).
 
-- **All teams race at the same time.** On **"GO!"** each team's first runner grabs one of _their_ crayon-marked cards from its bowl, decides its type, sticks it in the right column on the shared board, and tags the next player.
-- Keep **one runner per team at the board at a time** so the swarm doesn't pile up. **The card count is the clock:** 10–12 cards per bowl at ~25 seconds a run means the racing phase burns itself out in **5–6 minutes**, leaving the rest of the slot for scoring and challenge & steal. If a bowl still isn't empty at the 6-minute mark, call time and score what's on the board.
-- **Scoring:** read the crayon marks to see whose is whose — **+2** for every correctly placed card, per team. Then any _other_ team can **challenge & steal**: call out a card they think is misplaced and fix it — **+2** if they're right, but **−1** if they're wrong (the card was fine all along, or their fix is off). The small risk keeps challenges honest instead of a free-for-all, and it doubles as a second learning pass with everyone watching.
+- **One player up at a time — never the whole class at once.** Turn everyone loose together and teams spoil each other's work: shifting rival cards, or dragging their own already-circled notes back out of the circle to get counted twice. Instead, turns travel on a **TURN sign in each team's colour** (the same trick as the finale) — the team whose sign is up sends **one player**, who grabs one of _their_ crayon-marked cards from the bowl, decides its type, and sticks it in the right column. Then the sign passes on.
+- **The moment it's stuck, open the floor:** _"Does anyone want to correct it?"_ Anyone can propose a fix, and a good correction that comes **with a sentence** scores — help them build the sentence if they stall, because the sentence is the reward, not a trap.
+- **Mark as you go — the green circle is your control system.** The instant a card is settled (placed right, or corrected), draw a **green circle** around it and add the point to that team's counter. Without the circle, the cards stuck later blur into the ones you've already dealt with and you lose track of what's been scored. If a card is wrong and _nobody_ catches it, **you** move it to the right column and circle it yourself.
+- **Pace it in beats — don't run it as a race.** One player goes, then the next, then stop and let the correcting and marking catch up before the next pair. From the third turn on, have each player bring **two cards in one go** to speed things along — always pausing afterwards to mark and score.
+- **Scoring:** **+1** for every correctly placed card (⭐ hard **+2**), read off the crayon marks, plus **+1** for each good correction that lands with a sentence.
 
-> 💡 The ⭐ "hard" words are worth **+3** — bait to tempt your 12–14s into the trickier vocabulary while the youngest happily take the easy ones.
+> 💡 The ⭐ "hard" words are worth **+2** — bait to tempt your 12–14s into the trickier vocabulary while the youngest happily take the easy ones.
 
 🪧 **Short on time?** Since Colour Paddles (Round 1) already covered recognition, the relay is the round you can safely trim or drop without losing the core learning.
 
@@ -132,9 +134,9 @@ The shared board is now full of every team's sorted words — now they must **bu
 - **One rule for range:** within a team's four sentences, no board word may be used twice — fresh noun, verb and adjective every time.
 - **Know whose sentences are whose the same way you know everything else — by team crayon colour:** each team stripes a corner of its paper in its crayon before handing it in (or heads its mini-whiteboard with its colour).
 - **The catch:** the sillier _and_ grammatically correct, the better — _"The fluffy elephant dances quickly!"_
-- Read them aloud and **price them by how much of the colour code they use**: **+2** for a grammatically correct **three-colour sentence** (noun + verb + adjective), **+3** for a **four-colour** one that works in an adverb too — longer and harder, so it's worth more. (No adverb column with the youngest? Then it's a flat +2 per correct sentence.) Then vote the funniest: each team confers and casts **one vote — never for its own sentence** — so the laugh has to be earned from rivals, not from cheering for yourselves. Funniest takes **+2** (a tie splits it).
+- Read them aloud and **price them by how much of the colour code they use**: **+1** for a grammatically correct **three-colour sentence** (noun + verb + adjective), **+2** for a **four-colour** one that works in an adverb too — longer and harder, so it's worth more. (No adverb column with the youngest? Then it's a flat +1 per correct sentence.) Then vote the funniest: each team confers and casts **one vote — never for its own sentence** — so the laugh has to be earned from rivals, not from cheering for yourselves. Funniest takes **+1** (a tie splits it).
 
-This is where the grammar clicks: a sentence needs a _doer_ (noun) and an _action_ (verb), and the adjectives/adverbs add flavour. The colour pattern on the board gives them a visual template for _how a sentence is built_ — and the silliness removes the fear of getting it "wrong." The 2-vs-3 pricing also does your differentiation for you: the youngest bank steady points on three colours while the teens chase the black-card upgrade.
+This is where the grammar clicks: a sentence needs a _doer_ (noun) and an _action_ (verb), and the adjectives/adverbs add flavour. The colour pattern on the board gives them a visual template for _how a sentence is built_ — and the silliness removes the fear of getting it "wrong." The 1-vs-2 pricing also does your differentiation for you: the youngest bank steady points on three colours while the teens chase the black-card upgrade.
 
 ### 5 · Finale — Balloon Wars (the comeback round) (12–15 min)
 
@@ -144,11 +146,11 @@ The climax — and it's rigged so the standings can still flip. Trailing teams p
 
 **Prep** (in the before-class block): inflate ~15–20 balloons (3–4 per team, plus spares) and fold a hand-written word slip inside each. **Source the slip words from cards that never reached the board:** with 4 teams that's the undealt stack E; with 5 teams take a *different* day's bank. Never use words that got sorted in the relay — they spend the finale on the whiteboard in plain sight, answer included. (On re-runs, an earlier day's bank makes perfect revision.) From the same source, write **3–4 ⭐-grade words on spare slips — the DOUBLE OR NOTHING reserve pile**, kept in your pocket, not in a balloon. Have the **1·2·3 die** ready for the power tax — a paper die faced 1·2·3·1·2·3, or read a normal die as 4→1 · 5→2 · 6→3 — and make the **TURN card**: a sheet of paper with TURN in big letters that marks the acting team's desk. In class, budget **2 minutes to demo the powers before the first pop** — each pop then takes ~40 seconds, so 15 balloons is a ~10-minute round.
 
-- **Most are word slips** — and **the ⭐ does the scoring**: a **plain word is 2 pts**, a **⭐ hard word is 3 pts**. Nothing else to write — the star (or its absence) *is* the value, so you never have to decide between 2, 3 and 4 mid-prep.
+- **Most are word slips** — and **the ⭐ does the scoring**: a **plain word is 1 pt**, a **⭐ hard word is 2 pts**. Nothing else to write — the star (or its absence) *is* the value, so you never have to decide between 1, 2 and 3 mid-prep.
 - **A handful are power slips** — hide these in balloons you can tell apart (a different colour, or draw a big ⭐ on them) so a power balloon is visibly worth grabbing:
     - **STEAL 3** — take 3 points from any one team.
     - **SWAP** — trade your _whole_ score with any one team's (the nuclear option — save it for a runaway leader).
-    - **DOUBLE OR NOTHING** — you draw a ⭐ hard word from the **reserve pile** (set aside in prep). A ⭐ word is worth 3, so your team answers by paddle as usual — right → score **double (+6)**; wrong → the word's face value comes **off your score (−3, not double)**.
+    - **DOUBLE OR NOTHING** — you draw a ⭐ hard word from the **reserve pile** (set aside in prep). A ⭐ word is worth 2, so your team answers by paddle as usual — right → score **double (+4)**; wrong → the word's face value comes **off your score (−2, not double)**.
     - **SHIELD** — keep it; it cancels the next STEAL or SWAP aimed at you.
 
 **The power tax — why word balloons stay tempting:** popping a power balloon **costs a die roll**: roll the 1·2·3 die and take that many points **straight off your score** before the power is used (SHIELD included — insurance isn't free). Word balloons are pure profit; power balloons are weapons with a price tag. That kills the obvious strategy of strip-mining every visible ⭐ balloon — a team that only chases powers bleeds 1–3 points a turn while everyone else banks word points — so the word-vs-power choice stays a real gamble to the last pop.
@@ -400,6 +402,6 @@ Each bank runs **~44–45 words — one class's worth**: with 4 teams that's 11 
 - Teams of **5–6** so lines stay short and everyone's moving.
 - One clear **GO / STOP** signal — a clap rhythm or a whistle beats shouting over them.
 - Keep the scores yourself on the paper-label scoreboard from prep step 5 — the crayon squares never move, and the marker numbers wipe and update in a second, so it costs you nothing mid-game.
-- **One runner at the board at a time** to avoid pile-ups — or use a second wall with sticky balls if you have the space.
+- **In the sort (Round 2), one player up at a time — never the whole class at once** (the TURN sign shows whose turn it is). A free-for-all lets teams shift and re-mark each other's cards; pause between turns to correct and score. Two boards? A second wall with sticky balls lets two turn-queues run at once.
 - Do the **review / steal** phase _seated_ to bring the energy down before the next round.
 
