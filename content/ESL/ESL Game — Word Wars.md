@@ -8,6 +8,8 @@ tags:
 
 _Standalone ESL activity · mixed ages 8–14 · ~25 students · **two 45-min classes** (or one ~70-min block) · fully re-runnable_
 
+[Link to Printable Cards](<ESL Game — Word Wars — Printable Cards.html>)
+
 ## The idea in one line
 
 Teams race to grab words, stick them on the whiteboard under the right **word type**, then build the silliest grammatically-correct sentences they can — learning to spot nouns, verbs, adjectives (and adverbs) through movement, competition, and laughter.
@@ -60,17 +62,17 @@ Each stage rehearses the skill the next one needs — **meet the types → spot 
 |Stage|How you score|
 |---|---|
 |**Hook · TPR** _(warm-up)_|a Pokémon card for joining in — breaks the ice|
-|**Word check** _(meanings)_|a Pokémon card per good explanation|
 |**R1 · Colour Paddles** _(recognise)_|+1 per correct colour|
+|**Word check** _(meanings)_|+1 per good explanation|
 |**R2 · Sticky Sort Relay** _(sort)_|+1 per correct card · ⭐ hard +2 · correction +1 (with a sentence)|
 |**R3 · Frankenstein Sentences** _(build)_|+1 per 3-colour sentence · +2 with an adverb (4 colours) · +1 funniest|
-|**Finale · Balloon Wars**|plain word 1 pt · ⭐ word 2 pts · Steal / Swap / Wager / Shield powers, each costing a −1…−3 die roll|
+|**Finale · Balloon Wars**|plain word 1 pt · ⭐ word 2 pts · sentence +1 · Steal / Swap / Wager / Shield powers, each costing a −1…−3 die roll|
 
 ### Splitting it over two 45-minute classes
 
 **The honest arithmetic:** the stages below add up to ~55–65 minutes of actual activity, and with 25 kids, settling, instructions and transitions eat another 10–15. In **45-minute periods this is a two-class game** — and it splits at a natural seam:
 
-- **Class 1 — meet & sort (45 min):** settle (3) → Hook with spelling & TPR (11–13) → Word check (4–5) → teams form + scoreboard squares + paddles handed out (5) → Colour Paddles (8–10) → Sticky Sort Relay, the sorting turns + basic scoring only (10–12). **Hold back the corrections round — that's your Class 2 opener.** If the clock squeezes anything, shrink the paddle round — it degrades gracefully; the relay doesn't.
+- **Class 1 — meet & sort (45 min):** settle (3) → Hook with spelling & TPR (11–13) → teams form + scoreboard squares + paddles handed out (5) → Colour Paddles (8–10) → hand out card stacks + Word check (4–5) → Sticky Sort Relay, the sorting turns + basic scoring only (10–12). **Hold back the corrections round — that's your Class 2 opener.** If the clock squeezes anything, shrink the paddle round — it degrades gracefully; the relay doesn't.
 - **Class 2 — build & battle (45 min):** settle + rebuild the board (5–7, see below) → corrections round as the warm-up review (5–6) → Frankenstein Sentences (15–18) → Balloon Wars (12–15) → tally + Pokémon cards (3).
 
 **Keeping the board alive between classes:** if the room is yours, just leave the columns up. If not, photograph the board, then clip each team's cards together (the letter corner makes this trivial) — Class 2 then opens with each team **re-sticking its own cards from memory**, which is free spaced-repetition review, and the photo settles any _"it was in the verb column!"_ dispute.
@@ -95,12 +97,6 @@ You're building a quick **word-web**: the seed in the centre, and the words it t
 
 🎉 **Reward joining in, not just being right.** Early on, a **Pokémon card** (a common one) for anyone who throws themselves into the actions — _especially_ the shy ones — breaks the ice and makes the silliness feel safe. Together with the spelling cards above, effort and accuracy each get their own path to a card. It sharpens the read, too: once the shy kids are moving, whoever's _still_ frozen is genuinely unsure and worth a quiet hand. (No teams yet, so these go to individual kids — a nice thing to start collecting before the competition even begins.)
 
-### 1½ · Word check — "Who knows this one?" (4–5 min)
-
-Still before teams form: hold up the day's **⭐ cards** one by one (add the 🌀 ones if you like) and ask, _"Who can explain this word?"_ A meaning, a sentence, an act-out — anything that shows understanding counts, and a good explanation earns a **Pokémon card** (still individual — the last chance to collect before team play begins). Nobody knows it? Teach it yourself in ten seconds — act it out, drop it into a silly sentence — and move on: ~15 ⭐ words at ten seconds each is three minutes of content — call it four to five with hands in the air.
-
-The point: kids **can't classify a word they don't understand.** De-fanging the ⭐ words before they reach a bowl means the relay tests _grammar_, not vocabulary luck — and you find out in advance exactly which words will need a nudge at the board.
-
 ### 2 · Round 1 — Colour Paddles (recognise) (8–10 min)
 
 Put the class into **4–5 mixed-age teams of 5–6** — these stay together for the whole class — and give each team its four cardboard sheets (blue, red, green, black). This is the recognition warm-up, and it drills the colour↔category link they'll lean on at the board in a moment.
@@ -110,7 +106,13 @@ Put the class into **4–5 mixed-age teams of 5–6** — these stay together fo
 - **Flip it — production, not just recognition:** _you_ hold up a **colour** and teams race to **shout a word of that type**; first correct team scores **+1**. Alternating the two directions (word → colour, then colour → word) is the jump from _spotting_ a type to _making_ one, and it keeps them sharp.
 - Rotate who holds the sheets each round so it isn't one confident kid answering for the whole team — and in the **lightning round**, have each team **stand in a queue at the front**: the kid at the head steps forward to an answer spot, answers alone, hands the sheets to the next in line and joins the back. The queue makes the rotation run itself — everyone sees whose turn is next, nobody gets skipped — and the step forward, clear of the line, keeps the answer genuinely theirs. _(Full engagement options and variants are in the mechanics section below.)_
 
-Now their eyes are warm and the colours are locked in — now it's their turn at the board.
+Now their eyes are warm and the colours are locked in. **Hand each team its stack of word cards** — the very ones they'll sort in a minute — and take a beat to be sure they actually _understand_ them first.
+
+### 2½ · Word check — "Which ones don't you get?" (4–5 min)
+
+Now every team has its cards, **ask them to pull out any word they don't understand** — let the kids flag their own unknowns instead of you guessing which are hard. Read each flagged word to the class and ask, _"Can anyone tell me what it means?"_ A meaning, a sentence, an act-out — anything that shows real understanding counts, and a good explanation scores that kid's team **+1**. Nobody knows it? Teach it yourself in ten seconds — act it out, drop it into a silly sentence — and move on.
+
+The point: kids **can't classify a word they don't understand.** Clearing the unknowns before they hit the board means the relay tests _grammar_, not vocabulary luck — and letting the kids surface them means you spend the time only on the words that genuinely need it.
 
 ### 3 · Round 2 — Sticky Sort Relay (sort) (12–15 min)
 
@@ -123,8 +125,6 @@ Same teams, now on their feet — everyone sorts onto **one shared board** with 
 - **Scoring:** **+1** for every correctly placed card (⭐ hard **+2**), read off the crayon marks, plus **+1** for each good correction that lands with a sentence.
 
 > 💡 The ⭐ "hard" words are worth **+2** — bait to tempt your 12–14s into the trickier vocabulary while the youngest happily take the easy ones.
-
-🪧 **Short on time?** Since Colour Paddles (Round 1) already covered recognition, the relay is the round you can safely trim or drop without losing the core learning.
 
 ### 4 · Round 3 — Frankenstein Sentences (build) (15–18 min)
 
@@ -142,11 +142,11 @@ This is where the grammar clicks: a sentence needs a _doer_ (noun) and an _actio
 
 The climax — and it's rigged so the standings can still flip. Trailing teams pick first and get the tools to knock the leaders down, so nobody's out of it and nobody can coast.
 
-**The room:** no rearranging — teams stay seated where they are in the **grid of desks**, each team's cluster with its colour paddles. The balloons are **corralled at the front** — a big bag, or loose against the wall so they don't drift — and the scoreboard stays in sight, because the turn order is read straight off it. **Whose turn it is travels as a card:** a paper sign with **TURN** in big letters sits on the acting team's desk, so the whole grid knows who's up without anyone asking. On a team's turn, **one picker** (a different kid each cycle — with 3–4 balloons per team of 5–6, nobody should pop twice) walks up, picks a balloon, pops it — stomp or sit — and the slip is read aloud. For a word slip it's **the whole team back at its desks** that huddles and raises one paddle, never the picker alone. Once the points are on the scoreboard, the picker **delivers the TURN card to the next team** — read the scoreboard bottom-up: whoever's currently last — so the reverse-standings order runs itself, no adjudicating needed. One kid popping at the front, one team huddling, and a card that says whose moment it is: the chaos stays contained to a single spot in the room.
+**The room:** no rearranging — teams stay seated where they are in the **grid of desks**, each team's cluster with its colour paddles. The balloons are **corralled at the front** — a big bag, or loose against the wall so they don't drift — and the scoreboard stays in sight, because the turn order is read straight off it. **Whose turn it is travels as a card:** a paper sign with **TURN** in big letters sits on the acting team's desk, so the whole grid knows who's up without anyone asking. On a team's turn, **one picker** (a different kid each cycle — with 3–4 balloons per team of 5–6, nobody should pop twice) walks up, picks a balloon, pops it — stomp or sit — and the slip is read aloud. For a word slip it's **the whole team back at its desks** that huddles, raises one paddle and builds the sentence together, never the picker alone. Once the points are on the scoreboard, the picker **delivers the TURN card to the next team** — read the scoreboard bottom-up: whoever's currently last — so the reverse-standings order runs itself, no adjudicating needed. One kid popping at the front, one team huddling, and a card that says whose moment it is: the chaos stays contained to a single spot in the room.
 
-**Prep** (in the before-class block): inflate ~15–20 balloons (3–4 per team, plus spares) and fold a hand-written word slip inside each. **Source the slip words from cards that never reached the board:** with 4 teams that's the undealt stack E; with 5 teams take a *different* day's bank. Never use words that got sorted in the relay — they spend the finale on the whiteboard in plain sight, answer included. (On re-runs, an earlier day's bank makes perfect revision.) From the same source, write **3–4 ⭐-grade words on spare slips — the DOUBLE OR NOTHING reserve pile**, kept in your pocket, not in a balloon. Have the **1·2·3 die** ready for the power tax — a paper die faced 1·2·3·1·2·3, or read a normal die as 4→1 · 5→2 · 6→3 — and make the **TURN card**: a sheet of paper with TURN in big letters that marks the acting team's desk. In class, budget **2 minutes to demo the powers before the first pop** — each pop then takes ~40 seconds, so 15 balloons is a ~10-minute round.
+**Prep** (in the before-class block): inflate ~15–20 balloons (3–4 per team, plus spares) and fold a hand-written word slip inside each. **Source the slip words from cards that never reached the board:** with 4 teams that's the undealt stack E; with 5 teams take a *different* day's bank. Never use words that got sorted in the relay — they spend the finale on the whiteboard in plain sight, answer included. (On re-runs, an earlier day's bank makes perfect revision.) From the same source, write **3–4 ⭐-grade words on spare slips — the DOUBLE OR NOTHING reserve pile**, kept in your pocket, not in a balloon. Have the **1·2·3 die** ready for the power tax — a paper die faced 1·2·3·1·2·3, or read a normal die as 4→1 · 5→2 · 6→3 — and make the **TURN card**: a sheet of paper with TURN in big letters that marks the acting team's desk. In class, budget **2 minutes to demo the powers before the first pop** — each pop then takes ~50 seconds with the sentence, so 15 balloons is a ~12-minute round.
 
-- **Most are word slips** — and **the ⭐ does the scoring**: a **plain word is 1 pt**, a **⭐ hard word is 2 pts**. Nothing else to write — the star (or its absence) *is* the value, so you never have to decide between 1, 2 and 3 mid-prep.
+- **Most are word slips** — and **the ⭐ does the scoring**: a **plain word is 1 pt**, a **⭐ hard word is 2 pts**, plus a **+1 bonus** for using the word in a correct sentence (see the turn steps). Nothing else to write — the star (or its absence) *is* the value, so you never have to decide between 1, 2 and 3 mid-prep.
 - **A handful are power slips** — hide these in balloons you can tell apart (a different colour, or draw a big ⭐ on them) so a power balloon is visibly worth grabbing:
     - **STEAL 3** — take 3 points from any one team.
     - **SWAP** — trade your _whole_ score with any one team's (the nuclear option — save it for a runaway leader).
@@ -160,7 +160,7 @@ The climax — and it's rigged so the standings can still flip. Trailing teams p
 **On your turn:**
 
 1. Pick a balloon and pop it.
-2. **Word slip →** read the word aloud and your team **raises the colour paddle** for its type (the same sheets from Round 1). Right = score the points shown; wrong = nothing (and if you like, the next team can steal the answer for half).
+2. **Word slip →** read the word aloud and your team **raises the colour paddle** for its type (the same sheets from Round 1) to bank the base points — plain **1**, ⭐ **2**. (Wrong colour scores nothing; if you like, the next team can steal it by showing the right one.) Then reach for the finish the whole game's been building towards: **use the word in a correct sentence for +1** — help them build it if they stall, exactly as in Round 2.
 3. **Power slip →** first pay the **power tax** — roll the die, knock 1–3 off your score. Then use it now — this is your shot to **attack the leader** (STEAL or SWAP) — or hold a SHIELD for defence.
 
 **Why it works:** the leader can be dragged back by steals and a swap; a last-place team that picks first and lands a SWAP can leapfrog to the front; and because the turn order and the powers keep the board wide open, every kid is still shouting on the very last pop.
@@ -231,6 +231,14 @@ Alternate the three types so they can't guess what's coming:
 
 - **A —** jump! · tiger! · happy! · stomp! · door! · angry! · swim! · dragon! · sleepy! · spin! · Monday! · huge!
 - **B —** sneeze! · elephant! · scared! · clap! · book! · tiny! · march! · snake! · grumpy! · yawn! · music! · strong!
+- **C —** hop! · window! · sad! · clap! · snake! · big! · march! · pencil! · excited! · wobble! · holiday! · cold!
+- **D —** clock! · shiver! · tall! · monkey! · cough! · proud! · table! · tiptoe! · huge! · dragon! · nod! · grumpy!
+- **E —** scared! · crawl! · ball! · weak! · yawn! · rabbit! · hot! · drink! · book! · silly! · stretch! · elephant!
+- **F —** laugh! · dream! · dizzy! · spin! · shoe! · fierce! · wink! · music! · shy! · stomp! · door! · surprised!
+- **G —** snake! · bow! · spooky! · clock! · swim! · brave! · shoe! · scratch! · nervous! · dragon! · hop! · heavy!
+- **H —** dance! · book! · strong! · wave! · rabbit! · confused! · climb! · table! · tiny! · sneeze! · music! · angry!
+- **I —** sleepy! · march! · elephant! · floppy! · fly! · door! · bored! · jump! · monkey! · stiff! · clap! · Monday!
+- **J —** cough! · holiday! · huge! · tiptoe! · pencil! · happy! · drink! · dinosaur! · weak! · wave! · ball! · excited!
 
 ## Differentiation cheatsheet
 
@@ -377,7 +385,7 @@ Each bank runs **~44–45 words — one class's worth**: with 4 teams that's 11 
 - **🟢 Adjectives:** warm · soft · dirty · empty · yellow · sleepy · ⭐ comfortable · ⭐ delicious · ⭐ ordinary · ⭐ shiny
 - **⚫ Adverbs:** slowly · neatly · loudly · gently · ⭐ carefully · ⭐ politely · ⭐ clumsily
 - **🌀 Bonus tricky cards** (each can be more than one type — _"it depends on the sentence!"_): brush · smell · ring · light
-- **✍️ Sentences it makes:** _The sleepy neighbour yawns slowly._ · _My yellow umbrella laughs loudly in the garden!_ · _The delicious sandwich wandered off carefully._
+- **✍️ Sentences it makes:** _The sleepy neighbour yawns slowly._ · _My yellow umbrella laughs loudly in the garden!_ · _The delicious sandwich wandered off carefully._ · _The shiny bicycle climbs the window clumsily!_ · _My sleepy neighbour cooks a warm memory politely._
 
 ### 📅 Day 2 — Adventure & Fantasy
 
@@ -386,7 +394,7 @@ Each bank runs **~44–45 words — one class's worth**: with 4 teams that's 11 
 - **🟢 Adjectives:** bold · magical · golden · mighty · enchanted · terrifying · ⭐ mysterious · ⭐ invisible · ⭐ legendary · ⭐ cursed
 - **⚫ Adverbs:** bravely · quietly · fiercely · magically · ⭐ secretly · ⭐ desperately · ⭐ cautiously
 - **🌀 Bonus tricky cards:** watch · spell · trick · charm
-- **✍️ Sentences it makes:** _The bold knight fights the troll fiercely._ · _A mysterious wizard sneaks past the cursed castle quietly._ · _The golden treasure trembled secretly!_
+- **✍️ Sentences it makes:** _The bold knight fights the troll fiercely._ · _A mysterious wizard sneaks past the cursed castle quietly._ · _The golden treasure trembled secretly!_ · _The invisible ghost guards the enchanted sword bravely._ · _A mighty troll explores the mysterious cave desperately!_
 
 ### 📅 Day 3 — Action, Sports & Nature
 
@@ -395,7 +403,7 @@ Each bank runs **~44–45 words — one class's worth**: with 4 teams that's 11 
 - **🟢 Adjectives:** speedy · wild · muddy · steep · slippery · powerful · ⭐ massive · ⭐ tropical · ⭐ exhausted · ⭐ dangerous
 - **⚫ Adverbs:** quickly · wildly · swiftly · smoothly · ⭐ recklessly · ⭐ powerfully · ⭐ violently
 - **🌀 Bonus tricky cards:** rock · jump · fly · spring
-- **✍️ Sentences it makes:** _The speedy tiger sprints through the jungle wildly._ · _A powerful champion dives into the river smoothly._ · _The muddy rocket tumbled down the volcano recklessly!_
+- **✍️ Sentences it makes:** _The speedy tiger sprints through the jungle wildly._ · _A powerful champion dives into the river smoothly._ · _The muddy rocket tumbled down the volcano recklessly!_ · _The massive volcano leaps over the beach violently!_ · _An exhausted tiger splashes in the tropical river swiftly._
 
 ## Classroom management (for 25)
 
