@@ -8,10 +8,10 @@ tags:
 
 In relation to discovering Buddha nature and achieving full potential we set some goals, which get affected by obscurations.
 
-| Goal                                                             | Obscuration             |
-| ---------------------------------------------------------------- | ----------------------- |
-| To attain fearlessness (*Nirvana*; partial awakening)            | Afflictive obscurations |
-| To expand happiness to infinity\* (*Buddhahood*; full awakening) | Cognitive obscurations  |
+| Goal                                                        | Obscuration             |
+| ----------------------------------------------------------- | ----------------------- |
+| To attain fearlessness (*Nirvana*; partial awakening)       | Afflictive obscurations |
+| To expand ease to infinity\* (*Buddhahood*; full awakening) | Cognitive obscurations  |
 
 ^34535b
 
