@@ -75,7 +75,9 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Tibetan(),
       Plugin.HardLineBreaks(),
+      Plugin.ImageCaptions(),
       Plugin.Lightbox(),
+      Plugin.VideoEmbed(),
     ],
     filters: [Plugin.ExplicitPublish()],
     emitters: [
@@ -89,6 +91,7 @@ const config: QuartzConfig = {
         enableRSS: true,
       }),
       Plugin.Assets(),
+      Plugin.VideoPosters(),
       Plugin.Static(),
       Plugin.Favicon(),
       Plugin.NotFoundPage(),

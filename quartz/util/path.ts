@@ -149,6 +149,10 @@ export function normalizeHastElement(rawEl: HastElement, curBase: FullSlug, newB
   const el = clone(rawEl) // clone so we dont modify the original page
   _rebaseHastElement(el, "src", curBase, newBase)
   _rebaseHastElement(el, "href", curBase, newBase)
+  // <video poster> is a URL too. A transcluded video whose poster wasn't rebased points
+  // at a 404, which on iOS leaves an empty box — Safari won't preload a frame to fall
+  // back on.
+  _rebaseHastElement(el, "poster", curBase, newBase)
   if (el.children) {
     el.children = el.children.map((child) =>
       normalizeHastElement(child as HastElement, curBase, newBase),

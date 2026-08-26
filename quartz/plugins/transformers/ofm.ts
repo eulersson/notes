@@ -26,6 +26,7 @@ import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
 import { toHast } from "mdast-util-to-hast"
 import { toHtml } from "hast-util-to-html"
 import { capitalize } from "../../util/lang"
+import { escapeHTML } from "../../util/escape"
 import { PluggableList } from "unified"
 
 export interface Options {
@@ -148,6 +149,13 @@ const wikilinkImageEmbedRegex = new RegExp(
   /^(?<alt>(?!^\d*x?\d*$).*?)?(\|?\s*?(?<width>\d+)(x(?<height>\d+))?)?$/,
 )
 
+// Videos and audio are emitted as raw HTML, so their alias rides along as an
+// attribute for the ImageCaptions transformer to turn into a <figcaption>.
+const mediaCaptionAttr = (alias: string | undefined) => {
+  const caption = wikilinkImageEmbedRegex.exec(alias ?? "")?.groups?.alt?.trim()
+  return caption ? ` data-caption="${escapeHTML(caption)}"` : ""
+}
+
 export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
 
@@ -249,14 +257,14 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                   } else if ([".mp4", ".webm", ".ogv", ".mov", ".mkv"].includes(ext)) {
                     return {
                       type: "html",
-                      value: `<video src="${url}" controls></video>`,
+                      value: `<video src="${url}"${mediaCaptionAttr(alias)} controls></video>`,
                     }
                   } else if (
                     [".mp3", ".webm", ".wav", ".m4a", ".ogg", ".3gp", ".flac"].includes(ext)
                   ) {
                     return {
                       type: "html",
-                      value: `<audio src="${url}" controls></audio>`,
+                      value: `<audio src="${url}"${mediaCaptionAttr(alias)} controls></audio>`,
                     }
                   } else if ([".pdf"].includes(ext)) {
                     return {
