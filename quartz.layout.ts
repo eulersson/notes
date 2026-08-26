@@ -39,6 +39,14 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.RecentNotes({
+      title: "Recent",
+      limit: 5,
+      showTags: false,
+      // the home page re-dates itself on every publish, so it would sit at
+      // the top permanently
+      filter: (f) => f.slug !== "index",
+    }),
   ],
   right: [
     Component.Graph(),
@@ -63,6 +71,14 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer(),
+    Component.RecentNotes({
+      title: "Recent",
+      limit: 5,
+      showTags: false,
+      // the home page re-dates itself on every publish, so it would sit at
+      // the top permanently
+      filter: (f) => f.slug !== "index",
+    }),
   ],
   right: [],
 }

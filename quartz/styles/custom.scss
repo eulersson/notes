@@ -1,4 +1,5 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 @use "./tibetan.scss";
 
 // put your custom CSS here!
@@ -54,4 +55,118 @@ img[alt="center40"] {
   width: 40%;
   display: block;
   margin: auto;
+}
+
+// Rendered by the RecentNotesBlock transformer from a ```recent-notes fence.
+// Deliberately not `.recent-notes` — that class belongs to the built-in
+// RecentNotes sidebar component.
+.recent-notes-block {
+  & > .recent-notes-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  & .recent-notes-item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.25rem 0;
+  }
+
+  & .recent-notes-date {
+    color: var(--gray);
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+
+  & .recent-notes-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  & .recent-notes-empty {
+    color: var(--gray);
+    font-style: italic;
+  }
+}
+
+// RecentNotes in the left rail.
+//
+// On mobile the grid collapses to a single column and .sidebar.left becomes a
+// sticky top bar above the article, so an always-visible Recent would push the
+// content down on every page. Instead it rides with the Explorer hamburger.
+//
+// The drawer is .explorer-content: an absolutely positioned, full-screen
+// slide-in panel at z-index 100. Recent is a DOM sibling of .explorer, so it
+// cannot flow inside that panel — it is docked to the bottom of the same
+// overlay instead, and the panel gets matching bottom padding so the file tree
+// scrolls clear of it rather than underneath.
+//
+// The show/hide mirrors .explorer-content's own mechanism exactly: the panel is
+// always laid out (position: fixed, so it costs nothing when closed) and is
+// slid in with transform + visibility on the same 200ms ease. Toggling
+// `display` instead cannot be transitioned, which made Recent pop into place
+// while the file tree was still sliding.
+//
+// `mobile-no-scroll` is set on <html> by toggleExplorer exactly while the
+// drawer is open and cleared again on every nav. Unlike `.explorer.collapsed`
+// it is never absent before the explorer script has run, so Recent cannot flash
+// on first paint.
+$recentDrawerHeight: 42dvh;
+
+@media all and ($mobile) {
+  .sidebar.left > .recent-notes {
+    box-sizing: border-box;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100vw;
+    max-height: $recentDrawerHeight;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    z-index: 101; // above .explorer-content
+    padding: 0.25rem 1.5rem 1rem 1.5rem;
+    background-color: var(--light);
+    border-top: 1px solid var(--lightgray);
+
+    transform: translateX(-100vw);
+    visibility: hidden;
+    transition:
+      transform 200ms ease,
+      visibility 200ms ease;
+
+    & > h3 {
+      margin: 0.5rem 0 0 0;
+    }
+
+    & > ul.recent-ul {
+      margin-top: 0.5rem;
+
+      & > li {
+        margin: 0.5rem 0;
+
+        & .section > .meta {
+          margin: 0;
+        }
+      }
+    }
+  }
+
+  html.mobile-no-scroll {
+    .sidebar.left > .recent-notes {
+      transform: translateX(0);
+      visibility: visible;
+    }
+
+    // keep the file tree from scrolling underneath the docked Recent panel
+    .explorer-content {
+      padding-bottom: $recentDrawerHeight;
+    }
+  }
 }
