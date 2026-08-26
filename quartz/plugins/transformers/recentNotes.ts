@@ -93,7 +93,7 @@ export const RecentNotesBlock: QuartzTransformerPlugin<Partial<Options>> = (user
                 data: {
                   hName: "div",
                   hProperties: {
-                    className: ["recent-notes"],
+                    className: ["recent-notes-block"],
                     "data-recent-notes": "",
                     "data-limit": String(block.limit),
                     "data-show-date": String(block.showDate),
