@@ -78,6 +78,7 @@ const config: QuartzConfig = {
       Plugin.ImageCaptions(),
       Plugin.Lightbox(),
       Plugin.VideoEmbed(),
+      Plugin.RecentNotesBlock(),
     ],
     filters: [Plugin.ExplicitPublish()],
     emitters: [
