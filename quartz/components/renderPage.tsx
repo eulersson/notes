@@ -6,6 +6,7 @@ import { JSResourceToScriptElement, StaticResources } from "../util/resources"
 import { FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
 import { clone } from "../util/clone"
 import { visit } from "unist-util-visit"
+import { renderRecentNotes } from "./renderRecentNotes"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
@@ -224,6 +225,7 @@ export function renderPage(
   const root = clone(componentData.tree) as Root
   const visited = new Set<FullSlug>([slug])
   renderTranscludes(root, cfg, slug, componentData, visited)
+  renderRecentNotes(root, cfg, slug, componentData)
 
   // set componentData.tree to the edited html that has transclusions rendered
   componentData.tree = root

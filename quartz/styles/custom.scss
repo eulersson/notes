@@ -55,3 +55,40 @@ img[alt="center40"] {
   display: block;
   margin: auto;
 }
+
+// Rendered by the RecentNotesBlock transformer from a ```recent-notes fence.
+.recent-notes {
+  & > .recent-notes-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  & .recent-notes-item {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.5rem;
+    padding: 0.25rem 0;
+  }
+
+  & .recent-notes-date {
+    color: var(--gray);
+    font-size: 0.8rem;
+    white-space: nowrap;
+  }
+
+  & .recent-notes-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  & .recent-notes-empty {
+    color: var(--gray);
+    font-style: italic;
+  }
+}
