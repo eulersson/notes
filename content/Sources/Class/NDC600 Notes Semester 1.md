@@ -46,9 +46,11 @@ A lady was trying to provoke Geshe-la by announcing she abandoned Buddhism. Gesh
 
 ---
 
-## Wheel of Life
-
 Video: `May 10th 2026`
+
+---
+
+## Wheel of Life
 
 ### Origins
 
@@ -60,14 +62,6 @@ Video: `May 10th 2026`
 
 ![[Tibet House Nalanda Course Glossary#^55207e]]
 
-### 3 Aspects of the Path
+## 3 Aspects of the Path
 
-The three principal aspects of the path are: **renunciation**, **bodhicitta** and **wisdom of emptiness**, they are connected as follows:
-
-- 2 goals
-- potential that they have
-- potential is obscured by 2 defilements
-- to remove them we need 2 motivations (renunciation, bodhicitta)
-- to materialize those aspirations we require the liberating path
-- the liberating path is the wisdom of emptiness
-
+![[3 Aspects of the Path]]

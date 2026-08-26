@@ -17,7 +17,7 @@ HETUṂ TEṢĀṂ TATHĀGATO HYAVADAT
 TEṢĀṂ CHA YO NIRODHA
 EVAṂ VĀDĪ MAHĀ ŚRAMAṆA YE SVĀHĀ
 
-All phenomena arise from causes,
+All phenomena (impermanent) arise from causes,
 The causes are taught by the Tathāgata,
 Whatever is the cessation of these (causes),
 Is taught thus by the Great Seer.

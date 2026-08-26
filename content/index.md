@@ -11,8 +11,9 @@ With so much AI I feel the need to start writing unassisted, compiling notes to 
 Among those notes they can be:
 
 - Notes taken at talks and conferences
+- Journaling, diaries, travels
 - Class notes (e.g. Tibetan language and learner mistakes made along the path)
-- Dharma talks and concepts
+- Dharma concepts and translations
 - Psychology-related topics
 - Reflections on those notes or other material
 - Projects, teaching material, ideas that worked
@@ -34,7 +35,7 @@ How to navigate:
 > [!TIP] Where to start?
 > At the moment I am putting most of my effort on [[Tibetan Language/Diary/index|Tibetan Language Diary]], #tibetan-language, [[NDC600 Notes|Nalanda Diploma Course Notes]] and [[English Beginner Classes]] (ESL resources and games for children).
 
-Other tags: #tibetan #tibetan-language #esl #prayer #calligraphy #buddhist-teaching #ndc #nepal #travel #thought #game
+Other tags: #tibetan #tibetan-language #esl #prayer #calligraphy #buddhist-teaching #ndc #travel #thought #game
 
 > [!WARNING] Disclaimer
-> These pages are notes selected from my **personal notebook**. This means rigorous writing is not to be expected at all; let alone academic-level prose. Sources are usually provided, check those.
+> These pages are notes selected from my **personal notebook**. This means rigorous writing is not to be expected at all.

@@ -98,3 +98,8 @@ When you misconceive...
 | ------------------- | ------ | -------------------------------------- |
 | Object              | Subtle | *This is a piece of cake* (is)         |
 | Characteristics<br> | Gross  | *This cake is soooo delicious* (taste) |
+## Collapsing into Afflictions
+
+In `10th May 2026 01:47:00` he finishes explaining that from [[#Extracting 5 Elements]] that **inappropiate attention** and **self-grasping ignorance** could be collapsed as part of the **afflictions** (yet as *subtle* afflictions, not *gross*) just as said in [[#^32dbda]].
+
+And also 

@@ -1,6 +1,7 @@
 ---
 publish: true
 tags:
+- travel
 - nepal
 ---
 

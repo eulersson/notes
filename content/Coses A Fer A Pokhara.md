@@ -53,7 +53,7 @@ Et recomano els restaurants que estàn al costat, si vols menjar com els Nepalí
 
 - *(vermell en el mapa)* Ama Chodzom (està on hi ha el rentat de cotxes més avall del carrer, a 2 minuts), allà prova-hi els **momos de búfalo**. Nota: **s'han traslladat**
 - *(rosa en el mapa)* Pema House (carrer avall, 1 minut), la millor **thukpa** que he provat en me vida, i val 200 o 300 rúpies.
-- Creuant la carretera hi ha un restaurant que es diu Takhali, que té les parets de color blau, allà el [[Nepali Thakali Parts|Thakali]] està boníssim.
+- Creuant la carretera hi ha un restaurant que es diu Takhali, que té les parets de color blau, allà el [[Nepali Thali Parts|Thakali]] està boníssim.
 - Al camp de refugiats, per això és on trobaràs el millor *shabaley*, empanades Tibetanes.
 
 ![[Coses Pokhara Pema Ts'al Restaurants.jpg]]
