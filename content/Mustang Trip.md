@@ -7,7 +7,7 @@ tags:
 
 ![[Mustang Biking.jpeg|Me and Khenpo-la biking around Lo (Mustang)]]
 
-From August 19th to August 25th 2026 I visited Upper and Lower Mustang with [[Khenpo Ngawang Tashi]].
+From August 19th to August  25th 2026 I visited Upper and Lower Mustang with [[Khenpo Ngawang Tashi]].
 
 ## Altitude
 
