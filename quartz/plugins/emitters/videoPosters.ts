@@ -33,15 +33,19 @@ const defaultOptions: Options = {
   cacheDir: "posters",
 }
 
-let ffmpegBin: string | null | undefined = undefined
+let ffmpegBins: string[] | undefined = undefined
 
-/** Locate an ffmpeg we can call, preferring a bundled static build over PATH. */
-async function findFfmpeg(): Promise<string | null> {
-  if (ffmpegBin !== undefined) return ffmpegBin
+/**
+ * Every ffmpeg we can run, best first. The bundled builds are several years old, so
+ * keep PATH in the list as a fallback: a codec the bundled one can't decode may still
+ * work with whatever the machine has installed.
+ */
+async function findFfmpeg(): Promise<string[]> {
+  if (ffmpegBins !== undefined) return ffmpegBins
 
   const candidates: string[] = []
   // Optional dependencies, so the specifiers stay non-literal and aren't bundled.
-  // Install one of these to get posters generated on a CI host that has no ffmpeg:
+  // Either one gets posters generated on a CI host that has no ffmpeg:
   // `@ffmpeg-installer/ffmpeg` ships the binary as a platform-matched npm package
   // (same trick sharp uses), `ffmpeg-static` downloads it from GitHub on install.
   for (const specifier of ["@ffmpeg-installer/ffmpeg", "ffmpeg-static"]) {
@@ -56,18 +60,17 @@ async function findFfmpeg(): Promise<string | null> {
   }
   candidates.push("ffmpeg")
 
+  ffmpegBins = []
   for (const candidate of candidates) {
     try {
       await execFileAsync(candidate, ["-version"])
-      ffmpegBin = candidate
-      return ffmpegBin
+      ffmpegBins.push(candidate)
     } catch {
       continue
     }
   }
 
-  ffmpegBin = null
-  return ffmpegBin
+  return ffmpegBins
 }
 
 /** Decode a single frame to PNG on stdout. ffmpeg applies any rotation matrix for us. */
@@ -101,19 +104,23 @@ async function generatePoster(
   destPoster: string,
   opts: Options,
 ): Promise<boolean> {
-  const ffmpeg = await findFfmpeg()
-  if (!ffmpeg) return false
+  const ffmpegs = await findFfmpeg()
+  if (ffmpegs.length === 0) return false
 
+  // Seek a second in so clips that fade up from black still get a usable still,
+  // falling back to the very first frame for anything shorter than that.
   let frame: Buffer | undefined
-  for (const seek of [opts.seekSeconds, 0]) {
-    try {
-      const out = await grabFrame(ffmpeg, srcVideo, seek)
-      if (out.length > 0) {
-        frame = out
-        break
+  outer: for (const ffmpeg of ffmpegs) {
+    for (const seek of [opts.seekSeconds, 0]) {
+      try {
+        const out = await grabFrame(ffmpeg, srcVideo, seek)
+        if (out.length > 0) {
+          frame = out
+          break outer
+        }
+      } catch {
+        continue
       }
-    } catch {
-      continue
     }
   }
   if (!frame) return false
@@ -153,11 +160,11 @@ export const VideoPosters: QuartzEmitterPlugin<Partial<Options>> = (userOpts) =>
         fs.promises.stat(srcVideo),
         fs.promises.stat(cached),
       ])
-      if (video.mtimeMs > poster.mtimeMs && (await findFfmpeg())) usable = false
+      if (video.mtimeMs > poster.mtimeMs && (await findFfmpeg()).length > 0) usable = false
     }
 
     if (!usable && !(await generatePoster(srcVideo, cached, opts))) {
-      if (!(await findFfmpeg()) && !warnedNoFfmpeg) {
+      if ((await findFfmpeg()).length === 0 && !warnedNoFfmpeg) {
         warnedNoFfmpeg = true
         console.warn(
           `\nVideoPosters: ffmpeg not found, so videos without a cached poster in \`${opts.cacheDir}/\` render without one.`,
