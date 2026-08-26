@@ -27,13 +27,19 @@ Among those notes they can be:
 
 How to navigate:
 
-- Use the *Explorer* left sidebar 
+- Use the *Explorer* or *Recent* left sidebar 
 - Use the search bar and start typing a word
 - By using the node graph
 - By clicking tags
 
 > [!TIP] Where to start?
 > At the moment I am putting most of my effort on [[Mustang Trip]], [[Tibetan Language/Diary/index|Tibetan Language Diary]], #tibetan-language, [[NDC600 Notes|Nalanda Diploma Course Notes]] and [[English Beginner Classes]] (ESL resources and games for children).
+
+## Recently updated
+
+```recent-notes
+limit: 10
+```
 
 Other tags: #tibetan #tibetan-language #esl #prayer #calligraphy #buddhist-teaching #travel #game
 

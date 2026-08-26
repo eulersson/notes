@@ -1,7 +1,6 @@
 ---
 publish: true
 tags:
-- travel
 - mustang
 ---
 
