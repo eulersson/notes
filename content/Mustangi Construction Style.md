@@ -4,7 +4,7 @@ tags:
 - mustang
 ---
 
-There's a homogenous style in what concers construction in Mustangi towns.
+There's a homogenous style in what concerns construction in Mustangi towns.
 
 ![[Walking Around Lo Manthang.jpg|Walking Around Lo manthang]]
 
