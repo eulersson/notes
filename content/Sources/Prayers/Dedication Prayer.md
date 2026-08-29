@@ -5,7 +5,6 @@ tags:
 - prayer
 ---
 
-
 ## བསྔོ་བ་སྨོན་ལམ།
 
 https://youtube.com/shorts/Iipx0ADpxiE?si=bKezoSO8iCzSSQqy

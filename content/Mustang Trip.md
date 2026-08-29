@@ -87,27 +87,9 @@ The atmosphere you feel when entering old shrine rooms like those is special, th
 
 ![[Ghiling Monastery]]
 
-## Muktinath
+## Muktinath Temple
 
-Area with various temples workshipped both by buddhists and hindus.
-
-![[IMG_6493.jpeg]]
-
-The hindus see it as the abode of Vishnu. And for buddhists it's seen as a land where daikinis and [[Guru Rinpoche]] practised.
-
-The element of water purification is present: there are 108 water taps arranged in a semicircle as well as two ponds. Devotees run under the extremely cold 108 waters and then dio into those ponds — one for Lakshmi (wealth, prosperity) and one for Saraswati (wisdom). After “having washed impurities” or “sins” they cloth and proceed into the temple.
-
-![[IMG_6452.jpeg|I was not so brave to run underneath]]
-
-In the  main shrine a Buddha naga
-
-water
-
-guru rinpoche monastery
-
-drolma mebar temple
-
-Buddha garden
+![[Muktinath Temple]]
 
 ## Mustang Mountain Shapes
 
