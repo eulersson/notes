@@ -2,6 +2,7 @@
 publish: true
 tags:
 - mustang
+- travel
 ---
 
 ![[Mustang Biking.jpeg|Me and Khenpo-la biking around Lo (Mustang)]]
