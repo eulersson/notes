@@ -4,7 +4,7 @@ tags:
 - mustang
 ---
 
-Small monastery thst currently has 7 monks, of which most of them are studying in India.
+Small monastery that currently has 7 monks, of which most of them are studying in India.
 
 ![[Ghiling Monastery Khenpo Ngawang Tashi.jpg|Khenpo Ngawang Tashi and the Ghiling Monastery]]
 
