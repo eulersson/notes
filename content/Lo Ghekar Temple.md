@@ -16,14 +16,17 @@ He set off journey to mustang, stayed in places such as [[Chhungzhi Rangjung Cav
 
 Finally found the evil spirit and killed her. He spread the remains:
 
-| Part       | Where                                        |
-| ---------- | -------------------------------------------- |
-| Heart      | Underneath the [[Lo Ghekar Temple]]          |
-| Blood      | Splattered over the mountains near ??? #todo |
-| Intestines | Underground, protected with many stonewalls. |
+| Part       | Where                                                           |
+| ---------- | --------------------------------------------------------------- |
+| Heart      | Underneath the [[Lo Ghekar Temple]]                             |
+| Blood      | Splattered over the mountains near the Ghami village.           |
+| Intestines | Underground, protected with many stonewalls near Ghami village. |
+
+![[Ghami Mani Stone Wall.jpeg|The mani stone wall protecting the intestines and the blood splatters on the red mountains behind]]
+
 Landmarks such as the ones below also are explained through that story, in this case it is said that those rock formations are the vomit of the spirit.
 
-#todo find photo
+![[Chhungzhi Vomit Formation.jpeg|Rock formation showing the vomit of the evil spirit]]
 
 ## Inside
 

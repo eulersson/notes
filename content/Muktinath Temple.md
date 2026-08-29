@@ -27,7 +27,7 @@ No access was allowed in the statue room, you could only see it from a window. B
 Nearby there was also a Buddhist temple to [[Guru Rinpoche]] with a very old Padmasambhava statue and a park with a big stone Buddha Shakyamuni statue.
 
 ![[Muktinath Guru Rinpoche Temple.jpeg]]
-![[Muktinath Temple Buddha Statue.png]]
+![[Muktinath Temple Buddha Statue.jpeg]]
 
 Outside of the temple complex there's a big [[Guru Rinpoche]] statue with nice views very suitable for practice.
 

@@ -27,7 +27,7 @@ In [[Nyiphug Namdrol Norbuling Monastery]] I received a book that had an article
 
 
 > [!NOTE]
-> #todo include photo of page in the book Karma from [[Nyiphug Namdrol Norbuling Monastery]] that shows how pigments are extracted.
+> todo include photo of page in the book Karma from [[Nyiphug Namdrol Norbuling Monastery]] that shows how pigments are extracted.
 
 
 Here's a recording I took from the motorbike where you can see the natural colours of the mountain.

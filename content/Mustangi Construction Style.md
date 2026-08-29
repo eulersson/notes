@@ -16,9 +16,7 @@ Homes have an **smokeless metal stoves** (*chulho* in Nepali) in the middle of t
 
 ![[Mustang Smokeless Metal Stove.mp4]]
 
-Another iconic aspect of Mustangi homes: wood is piles on the rooftops. They serve as burn stock and insulation. 
+Another iconic aspect of Mustangi homes: wood is piled on the rooftops. They serve as burning stock and insulation.
 
-#todo photo showing the wood
-
-
+![[Mustang Rooftop Wood Stock.jpeg]]
 
