@@ -4,7 +4,7 @@ aliases:
 - Kunrig Mantra
 ---
 
-> In Tibetan mostly referred as ཀུན་རིག
+> In Tibetan mostly referred as *kunrig* (Tib. ཀུན་རིག) 
 
 ![[Vairocana Mantra Pema Tsal.mp3]]
 ![[Kunrig Vairocana Mantra Music.mp3]]
@@ -19,7 +19,9 @@ OṂ NAMO BHAGAVATE / SARVA DURGATI PARIŚHODHANA RĀJĀYA / TATHĀGATĀYA / ARH
 
 **Liberating the Deceased**. It is one of the most widely performed rituals during funeral rites and death transitions. Reciting the mantra for the deceased purifies their karmic seeds, relieves bardo confusion, and helps direct their consciousness toward a favorable human rebirth or a Pure Land.
 
-When the [[26th August Tibet-Nepal Floods]] happened [[Pema Tsal]] Monks started accumulating `?` number of this mantra recitations every day.
+When the [[26th August Tibet-Nepal Floods]] happened [[Pema Tsal]] Monks started accumulating large number of recitations of this mantra. 
+
+> #todo #verify what this number is and add here.
 
 ## Videos
 
