@@ -6,7 +6,8 @@ aliases:
 
 > In Tibetan mostly referred as ཀུན་རིག
 
-![[Kunrig Vairocana Mantra.mp3]]
+![[Vairocana Mantra Pema Tsal.mp3]]
+![[Kunrig Vairocana Mantra Music.mp3]]
 
 ॐ नमो भगवते सर्व दुर्गतिपरिशोधन राजाय तथागताय अर्हते सम्यक्संबुद्धाय तद्यथा ॐ शोधने शोधने सर्व पापं विशोधने शुद्धे विशुद्धे सर्व कर्म आवरण विशुद्धे स्वाहा।
 
