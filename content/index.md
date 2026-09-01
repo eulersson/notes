@@ -41,6 +41,8 @@ How to navigate:
 limit: 10
 ```
 
+See [[100 Recent Notes]]
+
 Other tags: #tibetan #tibetan-language #esl #prayer #calligraphy #buddhist-teaching #travel #game
 
 > [!WARNING] Disclaimer

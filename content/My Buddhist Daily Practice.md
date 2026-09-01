@@ -13,41 +13,33 @@ tags:
 > 
 > You can follow the links of the excerpts to find out the full explanation, and translation of the prayer. 
 
-## ༄༅། །སྐྱབས་འགྲོ།།
+## Going for Refuge
 
-![[Taking Refuge (Kyabdro)#^f89519]]
+![[Taking Refuge (Kyabdro)#༄༅། །སྐྱབས་འགྲོ།།]]
 
-## ༄༅། །ཚད་མེད་བཞི།།
+## Four Immeasurables
 
-![[4 Immeasurables Prayer#^612407]]
+![[4 Immeasurables Prayer#༄༅། །ཚད་མེད་བཞི།།]]
 
-## ༄༅། །གསོལ་འདེབས་རྒྱ་གར་པཎ་ཆེན་མ་བཞུགས།
+## Brief Offering to Ekajati
 
-![[Prayer to Padmasambhava#^87432c]]
+![[Brief Offering Prayer to Ekajati#༄༅། །ཨེ་ཀ་ཛ་ཊཱིའི་གསོལ་བསྡུས།]]
 
-## ༄༅། །ཨེ་ཀ་ཛ་ཊཱིའི་གསོལ་བསྡུས།
+## Prayer to Guru Rinpoche
 
-![[Brief Offering Prayer to Ekajati#^ebc0d4]]
+![[Prayer to Guru Rinpoche#༄༅། །གསོལ་འདེབས་རྒྱ་གར་པཎ་ཆེན་མ་བཞུགས།]]
 
-## ༄༅། །འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ།།
+## Prayer to Manjushree
 
-![[Gang Lo Ma (Prayer to Manjushri)#^d22e86]]
-![[Gang Lo Ma (Prayer to Manjushri)#^0f016a]]
-![[Gang Lo Ma (Prayer to Manjushri)#^e39ee7]]
-![[Gang Lo Ma (Prayer to Manjushri)#^d3c875]]
-![[Gang Lo Ma (Prayer to Manjushri)#^7ddf84]]
+![[Prayer to Manjushri#༄༅། །འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ།།]]
 
-## ༄༅། །རླུང་རོ་དགུ་ཕྲུགས།།
-
-[[9 Breaths Meditation]]:
+## 9 Breaths Meditation
 
 ![[9 Breaths Meditation#Steps]]
 
-![[9 Breaths Meditation#^e97272]]
-![[9 Breaths Meditation#^3bd55b]]
-![[9 Breaths Meditation#^e9c136]]
+![[9 Breaths Meditation#Visualization]]
 
-## Dzogchen Meditations for Purification
+## Dzogchen Purification Practice
 
 With this meditations we purify: body, speech and mind.
 
@@ -55,24 +47,23 @@ Review the [[Advice on Dzogchen Meditation]] if needed. They are common across a
 
 ### Body: Burning Vajra Yoga
 
-![[Vajra Position#^744c12]]
+![[Vajra Position#Vajra Pose]]
 
 ### Speech: Om Ah Hung Breath
 
 ![[Om Ah Hung Breath Meditation]]
 
-
 ### Mind: A Meditation
 
 ![["A" Meditation]]
 
-## ༄༅། །བསྔོ་བ་སྨོན་ལམ།
+## Dedicating the Merits
 
-![[Dedication Prayer#^df9428]]
+![[Dedication Prayer#༄༅། །བསྔོ་བ་སྨོན་ལམ།]]
 
-![[Dedication Prayer#^794f3f]]
+## Optional
 
-## Extra: 20min Theravada Practice
+### 20min Theravada Practice
 
 If the day allows it I like to practice the mind-body sensing meditations the *bhikkhu* was teaching to the *lamas* in [[Pema Tsal]] because they are universal enough and won't interfere. They build a strong base. Otherwise I don't believe they would teach them in a *sakya* monastery.
 
