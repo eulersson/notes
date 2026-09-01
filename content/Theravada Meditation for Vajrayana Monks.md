@@ -11,7 +11,7 @@ I was very happy to see how a Theravada *bikkhu* was teaching meditation (theory
 
 The *bikkhu*, founder of the [Center for Right View Meditations](https://www.crvmhimalayas.org/) , developed training and programs to implement meditation daily into the life of students (monastic and non-monastic).
 
-He structured a 20 minutes daily practice for them composed of:
+## 20 Minutes Daily Practice
 
 - *5min* **Mind-Body Coordination** exercises taken from martial arts like *Tai Chi* (see video below for the full exercise). 7 full-stretched poses interpolated by a connecting pose — half bent knees and pelvis retroversion. Breathing in an out must be coordinated with the movements and the exhalation involves bringing your lips together so to produce a wind-like sound.
 - *5min* **Ear Consciousness Awareness Meditation** to focus on the sounds around us. Without judging. Only open monitoring meditation.
@@ -19,6 +19,8 @@ He structured a 20 minutes daily practice for them composed of:
 - *5min* of  **Anapanasati**, observing the breath: how the air goes in an out the nostrils and the touch of the breath upon the upper lip. Checking the sensations: perspiration, cold/heat of the air, tingling, etc...
 
 ![[Theravada Teaching Vajrayana Mind Body Coordination.mp4]]
+
+## Presentation
 
 I was impressed at how well presented the class was, with all types of meditations and their purposes. 
 

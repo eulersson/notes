@@ -26,7 +26,7 @@ tags:
 - NDC 618 — Thirty Seven Harmonious Paths to Enlightenment
 - NDC 619 — Four Fruits and Eight Sangha Members
 - NDC 620 — Overview of Four Tibetan Buddhist Schools
-- NDC 621 — Overview of Mahayana and Theravada Buddhism
+- NDC 621 — Overview of [[3 Vehicles in Buddhism|Mahayana]] and Theravada Buddhism
 - NDC 622 — Presentation of Kayas of Buddha
 
 ---

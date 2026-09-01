@@ -20,7 +20,7 @@ In relation to discovering Buddha nature and achieving full potential we set som
 > [!DANGER]
 > Don't impose the meaning you know on this course.
 
-In Mahayana attaining total fearlessness does not bring you ultimate happiness and the following example has been used to illustrate this:
+In [[3 Vehicles in Buddhism|Mahayana]] attaining total fearlessness does not bring you ultimate happiness and the following example has been used to illustrate this:
 
 > Imagine a conference with the greatest physics PhD students, they are waiting for the speaker to conduct a masterclass. Two different profiles can execute that role:
 > 

@@ -45,3 +45,5 @@ Other tags: #tibetan #tibetan-language #esl #prayer #calligraphy #buddhist-teach
 
 > [!WARNING] Disclaimer
 > These pages are notes selected from my **personal notebook**. This means rigorous writing is not to be expected at all.
+
+Contact: [blanquer.ramon@gmail.com](mailto:blanquer.ramon@gmail.com)
