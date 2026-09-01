@@ -28,33 +28,10 @@ i.p {
   color: #d679d6;
 }
 
-img[alt="center"] {
+// Images are always centered — no alias needed.
+article img {
   display: block;
-  margin: auto;
-}
-
-img[alt="center70"] {
-  width: 70%;
-  display: block;
-  margin: auto;
-}
-
-img[alt="center60"] {
-  width: 60%;
-  display: block;
-  margin: auto;
-}
-
-img[alt="center50"] {
-  width: 50%;
-  display: block;
-  margin: auto;
-}
-
-img[alt="center40"] {
-  width: 40%;
-  display: block;
-  margin: auto;
+  margin: 1rem auto;
 }
 
 // Rendered by the RecentNotesBlock transformer from a ```recent-notes fence.
