@@ -96,6 +96,8 @@ article img {
 // it is never absent before the explorer script has run, so Recent cannot flash
 // on first paint.
 $recentDrawerHeight: 42dvh;
+// Height of the docked Recent when folded: title bar + the panel's own padding.
+$recentDrawerCollapsedHeight: 3.75rem;
 
 @media all and ($mobile) {
   .sidebar.left > .recent-notes {
@@ -148,6 +150,12 @@ $recentDrawerHeight: 42dvh;
     // keep the file tree from scrolling underneath the docked Recent panel
     .explorer-content {
       padding-bottom: $recentDrawerHeight;
+      transition: padding-bottom 200ms ease;
+    }
+
+    // folded, Recent is only its title bar, so give the tree the rest back
+    &:has(.recent-notes.collapsed) .explorer-content {
+      padding-bottom: $recentDrawerCollapsedHeight;
     }
   }
 }
