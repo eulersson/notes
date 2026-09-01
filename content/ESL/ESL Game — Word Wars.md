@@ -304,8 +304,6 @@ Alternate the three types so they can't guess what's coming:
 
 ## Keep it fresh — swap-in mechanics (for your scattered classes)
 
-Same core game, four different engines. Each is built so **all 25 are doing something at once**, never watching one kid at the board.
-
 ### 🎲 Roll & Race — the die (whole class, high energy)
 
 Make a die from a printed/drawn **cube net** (a cross of 6 squares — fold and tape) or just stick labels on a foam die.
@@ -343,72 +341,6 @@ Make a die from a printed/drawn **cube net** (a cross of 6 squares — fold and 
 - **Caught faking a line** → crossed off **and −1**, same price as a wrong challenge in the relay.
 
 **Mode 2 sanity rules:** dice stay on desks · indoor volume or the line is void · your STOP clap ends it · keep stakes small (a warm-up win, not big scoreboard points). Want full control? That's exactly Mode 1: one die, your hand, everyone writing in silence.
-
-### 🔮 Fortune Teller (cootie catcher) — in pairs, all playing at once
-
-> [!todo] **To be reviewed** — not yet field-tested like the main flow above.
-
-A calmer, craft-y day. About **12 pairs operate their own catcher simultaneously**, so engagement stays at 100% even though the room is quieter. Building it is half the fun. **Pair kids of similar age and level** — the one place in this game you _don't_ mix ages: the roles swap every turn, so each kid ends up judging the other, and an 8-year-old can't check a teen's sentence. A matched pair plays _and judges_ at its own shared level — which is fair here precisely because no pair is racing another (see below). Each pair also gets a **small stack of word cards — a couple of each type, ⭐s included** (one day's bank stretches to ~4 cards a pair, so pull in a second day's bank; on a re-run that's free revision): challenges 6 and 7 lean on them, and the printed ⭐ settles what counts as "hard."
-
-**Fold it** (give each pair a square of paper):
-
-1. If the paper isn't square, fold one corner across to make a triangle and trim off the leftover strip → now it's a square.
-2. Fold corner-to-corner both ways to make an **X** crease, then unfold.
-3. Fold all **four corners into the centre** → a smaller square.
-4. **Flip it over.** Fold all four corners into the centre **again** → smaller square still.
-5. Fold in half, unfold, fold in half the other way → loosen it up.
-6. Slide both **thumbs and index fingers under the four flaps**. Pinch and it opens two ways (front-to-back, then side-to-side).
-
-**Label it:**
-
-- On the **4 outer flaps**: the four word types (or your four colours).
-- On the **8 inner triangles**: the numbers 1–8.
-- **Lift each inner flap** and write a challenge underneath (list below).
-- **Then trade catchers with the pair beside you.** The builders know exactly what's under every number they just wrote; the neighbours don't — the swap is what keeps the number picks a genuine gamble instead of a menu (and it's a free comprehension check of another pair's handwriting).
-
-**Play it** (one partner operates, one answers, then swap):
-
-1. Answerer picks an outer flap, e.g. **VERB** — and the operator **tears a tiny notch in that quarter's edge**. **Three notches locks the quarter** for the rest of the game: pick another type. The tears do the policing for you — nobody can camp on easy nouns, and the catcher itself remembers what the pair has done. Operator spells _V-E-R-B_, opening/closing the catcher on each letter.
-2. Answerer picks one of the numbers now showing; operator counts that many open-and-closes.
-3. Answerer picks a final number; operator **lifts that flap** and reads the challenge — answerer does it _for the word type they first chose_.
-
-**8 challenges to hide under the flaps** (each works with any type the player picked):
-
-1. **Name 3** of your type in 10 seconds — partner counts the seconds down out loud.
-2. **Use one in a full sentence** — partner checks it makes sense.
-3. **Act one out** — partner guesses the word. For an adverb, act a verb _that way_ (walk… slowly!) — and the guesser must name the _how_-word, not the verb.
-4. **Say one that fits this classroom** — a thing in here, something you can do in here, how this room is, or how we do things in here (we speak _quietly_…).
-5. **Say one starting with the first letter of your name** — your partner's, or any classmate's, name counts too.
-6. **Say two — one easy, one ⭐-hard:** the easy one from your head, the ⭐ fished from the card stack (finding a ⭐ of your type _is_ the challenge).
-7. **Spell one out loud:** partner draws a card of your type and reads it out — spell it, then check it letter by letter against the card.
-8. **Build a silly sentence** using **two** of your type.
-
-**Say it out loud before you start: there's no winner.** No pair races another and no scores are compared at the end — a matched pair of 8-year-olds clearing easy challenges at their own pace has had exactly as good a round as a teen pair burning through hard ones. The goal is physical instead: **retire your catcher** — three notches on all four quarters (≈12 challenges, which at a relaxed pace fills the slot almost exactly). No points to track: the torn edges _are_ the scorekeeping — and a said word can't be said again, which the operator can police from memory now that each type only gets three visits. **Rotate partners** halfway — swap between two neighbouring pairs of similar level, so the match holds; the new pair simply keeps retiring the half-torn catcher. Before the first round, **demo all 8 challenges from the front** — two minutes, like the Balloon Wars powers demo — so the youngest are recognising a routine, not decoding flap-text. You circulate, settle disputes, and lob a surprise challenge at any pair.
-
-### 🧵 The Grammar Web — the ball of yarn (your idea, refined)
-
-> [!todo] **To be reviewed** — not yet field-tested like the main flow above.
-
-Your instinct is right — here's the version that keeps **every** student hooked, not just whoever's holding the ball.
-
-**Setup:** the whole class stands in a big circle. Every student holds **one word card** from the day's bank. You (or one starter student) hold the ball of yarn.
-
-**The rules that make it work — everyone speaks, no one is skipped:**
-
-- Whoever holds the ball **says their own word and its type out loud** (_"tiger — noun!"_), then **calls the next category** and passes the ball to a classmate whose word matches it. They keep hold of their strand, so a web grows across the circle.
-- **Until all 25 have held the ball once, you must pass to someone who hasn't gone yet** (and whose word fits the called type). This guarantees nobody is left out — and keeps all 25 scanning: _"I'm an adjective, pick me!"_
-- Because the category changes every pass, everyone is constantly checking their _own_ word and hunting for who matches. There's no idle moment.
-
-**Two ways to run it:**
-
-- _Version A — Category Call (start here):_ the holder simply calls a type (_"verb!"_) and passes to a verb. Pure, fast classification practice.
-- _Version B — Sentence Web (older kids, or once they've got it):_ the web has to trace a sentence. Put a pattern on the board — e.g. **NOUN → VERB → ADVERB** (_"The wizard vanished silently"_) — and narrate the sentence aloud as the ball travels. Each completed pattern scores a point; start a fresh thread (or a new colour) for the next sentence.
-
-**The rewind (recall + no tangles):** once the web is built, reverse it. The **last** person passes the ball back to whoever gave it to them — but only after saying their word and type again. Keep going until the ball winds all the way home. A second recall pass _and_ a tidy finish.
-
-**Management for 25 + yarn:** keep the web at chest height (never over heads); **walk or roll the ball** to each person rather than throwing it across the room — far calmer and tangle-free indoors; use thick, easy-to-grab yarn. If it still tangles, the rewind sorts it out.
-
-_(Quieter alternative with the same thread — a "washing line": peg word cards along a stretched thread in the right order to build one giant sentence the whole class reads.)_
 
 ## Three ready-to-use word banks (one per day)
 
