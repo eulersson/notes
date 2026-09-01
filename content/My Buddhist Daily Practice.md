@@ -14,6 +14,12 @@ tags:
 > 
 > You can follow the links of the excerpts to find out the full explanation, and translation of the prayer. 
 
+## Prostrations
+
+Prostrate 3 times while reciting this mantra:
+
+ ![[Prostration Mantra#Mantra]]
+ 
 ## Going for Refuge
 
 ![[Taking Refuge (Kyabdro)#༄༅། །སྐྱབས་འགྲོ།།]]
