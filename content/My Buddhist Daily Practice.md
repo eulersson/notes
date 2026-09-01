@@ -70,6 +70,16 @@ Review the [[Advice on Dzogchen Meditation]] if needed. They are common across a
 
 ![[Dedication Prayer#༄༅། །བསྔོ་བ་སྨོན་ལམ།]]
 
+## Pecha
+
+Recite *pecha* (liturgic text) I received. Best in early morning and late night to leverage memory and reading speed.
+
+They are composed of:
+
+- [The Excellent Path to Enlightenment by Jamyang Khyentse Wangpo](https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-wangpo/excellent-path) (short Longchen Nyingtik ngöndro — four thoughts, refuge and bodhicitta, Vajrasattva, maṇḍala offering, and guru yoga, all in a few pages.)
+	- #todo augment the comments on the *pecha* with the actual missing prayers the author assumes I already know
+- #todo identify the rest of pages.
+
 ## Optional
 
 ### 20min Theravada Practice
