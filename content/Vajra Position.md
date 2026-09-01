@@ -3,7 +3,7 @@ publish: true
 tags:
 - meditation
 - yoga
-- ritual
+- dzogchen
 ---
 
 Vajra Position - Adopting the Standing Position of the Blue Three-pointed Vajra Blazing With Fire

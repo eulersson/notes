@@ -4,6 +4,7 @@ links:
 - [[Khenpo Urgyen Tsering]]
 tags:
 - meditation
+- dzogchen
 ---
 
 ![[Om Ah Hung Syllables Color.png|200]]

@@ -2,11 +2,12 @@
 publish: true
 tags:
 - meditation
+- dzogchen
 ---
 
 It's important to check first  [[Advice on Dzogchen Meditation]].
 
-![[Pasted image 20260831105552.png]]
+![[A Meditation.png]]
 
 Sit and look straight at the ཨ.
 
