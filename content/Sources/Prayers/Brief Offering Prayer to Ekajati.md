@@ -24,6 +24,6 @@ We supplicate you! We offer to you! Carry out the entrusted activities!
 
 ![[skun tu bzang mo Prayer.m4a]]
 
-## Source
+## Sources
 
 [Brief Offering Prayer to Ekajaṭī](https://www.lotsawahouse.org/tibetan-masters/mipham/brief-offering-prayer-to-ekajati)

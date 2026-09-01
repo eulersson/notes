@@ -34,4 +34,7 @@ tags:
 
 ## Source
 
-#todo add pema tsal book
+This version of the prayer is taken from [[Pema Tsal]] (*sakya* monastic institute):
+
+![[Manjushree Prayer Pema Tsal 002.jpeg]]
+![[Manjushree Prayer Pema Tsal 001.jpeg]]

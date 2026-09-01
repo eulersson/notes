@@ -2,6 +2,7 @@
 publish: true
 tags:
 - meditation
+- ritual
 ---
 
 > [!WARN] Disclaimer
@@ -20,6 +21,14 @@ tags:
 ## Four Immeasurables
 
 ![[4 Immeasurables Prayer#༄༅། །ཚད་མེད་བཞི།།]]
+
+## Water Bowl Offering
+
+If at home: [[Water Bowl Offering]]
+
+## 100-Syllable Mantra of Vajrasattva
+
+![[100-Syllable Mantra of  Vajrasattva#༄༅། །རྡོ་རྗེ་སེམས་དཔའི་ཡིག་བརྒྱ།]]
 
 ## Brief Offering to Ekajati
 
