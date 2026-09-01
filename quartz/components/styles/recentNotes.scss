@@ -1,16 +1,93 @@
+@use "../../styles/variables.scss" as *;
+
 .recent-notes {
-  & > h3 {
-    margin: 0.5rem 0 0 0;
-    font-size: 1rem;
+  // Share the sidebar column the way the Explorer does: shrinkable, with the
+  // list itself scrolling, so a long Recent cannot squeeze the file tree out.
+  display: flex;
+  flex-direction: column;
+  overflow-y: hidden;
+  min-height: 1.2rem;
+  // Recent keeps its size and the Explorer (flex: 0 1 auto) takes the slack,
+  // so the two never fight over the rail.
+  flex: 0 0 auto;
+
+  // Past this the list scrolls inside itself instead of pushing the Explorer
+  // out of the column.
+  @media all and not ($mobile) {
+    max-height: 40vh;
   }
 
-  & > ul.recent-ul {
+  // The title doubles as a fold toggle, styled to match the desktop Explorer
+  // header so the two sidebar sections read as one system.
+  & > button.recent-notes-toggle {
+    background-color: transparent;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    padding: 0;
+    margin: 0.5rem 0 0 0;
+    color: var(--dark);
+    display: flex;
+    align-items: center;
+
+    & h2 {
+      font-size: 1rem;
+      display: inline-block;
+      margin: 0;
+    }
+
+    & .fold {
+      margin-left: 0.5rem;
+      transition: transform 0.3s ease;
+      opacity: 0.8;
+      pointer-events: all;
+
+      & > polyline {
+        pointer-events: none;
+      }
+    }
+  }
+
+  &.collapsed > button.recent-notes-toggle > .fold {
+    transform: rotateZ(-90deg);
+  }
+
+  // Collapse by animating the row track, so the list can keep its natural
+  // height without measuring it in JS.
+  & > .recent-notes-content {
+    display: grid;
+    grid-template-rows: 1fr;
+    margin-top: 0.5rem;
+    transition:
+      grid-template-rows 0.3s ease-in-out,
+      visibility 0.3s ease-in-out;
+
+    min-height: 0;
+
+    & > * {
+      overflow-y: auto;
+      overscroll-behavior: contain;
+      min-height: 0;
+    }
+  }
+
+  &.collapsed > .recent-notes-content {
+    grid-template-rows: 0fr;
+    visibility: collapse;
+  }
+
+  & ul.recent-ul {
     list-style: none;
-    margin-top: 1rem;
+    margin: 0.5rem 0 0 0;
     padding-left: 0;
 
     & > li {
       margin: 1rem 0;
+      // entry titles read as links, not headings: match the body link size
+      .section > .desc > h3 {
+        font-size: 1rem;
+      }
+
       .section > .desc > h3 > a {
         background-color: transparent;
       }
