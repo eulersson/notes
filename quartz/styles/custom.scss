@@ -118,11 +118,15 @@ $recentDrawerHeight: 42dvh;
       transform 200ms ease,
       visibility 200ms ease;
 
-    & > h3 {
+    & > button.recent-notes-toggle {
       margin: 0.5rem 0 0 0;
     }
 
-    & > ul.recent-ul {
+    & > .recent-notes-content {
+      margin-top: 0;
+    }
+
+    & ul.recent-ul {
       margin-top: 0.5rem;
 
       & > li {

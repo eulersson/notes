@@ -5,7 +5,7 @@ import BodyConstructor from "./Body"
 import { JSResourceToScriptElement, StaticResources } from "../util/resources"
 import { FullSlug, RelativeURL, joinSegments, normalizeHastElement } from "../util/path"
 import { clone } from "../util/clone"
-import { visit } from "unist-util-visit"
+import { visit, SKIP } from "unist-util-visit"
 import { renderRecentNotes } from "./renderRecentNotes"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
@@ -70,7 +70,10 @@ function renderTranscludes(
   cfg: GlobalConfiguration,
   slug: FullSlug,
   componentData: QuartzComponentProps,
-  visited: Set<FullSlug>,
+  // refs of the transcludes we are nested inside of, used to detect cycles.
+  // this is an ancestor chain, not a set of everything seen on the page: the
+  // same target may legitimately be transcluded many times side by side
+  ancestors: Set<string>,
 ) {
   // process transcludes in componentData
   visit(root, "element", (node, _index, _parent) => {
@@ -79,11 +82,13 @@ function renderTranscludes(
       if (classNames.includes("transclude")) {
         const inner = node.children[0] as Element
         const transcludeTarget = (inner.properties["data-slug"] ?? slug) as FullSlug
-        if (visited.has(transcludeTarget)) {
+        let blockRef = node.properties.dataBlock as string | undefined
+        const transcludeRef = `${transcludeTarget}${blockRef ?? ""}`
+        if (ancestors.has(transcludeRef)) {
           console.warn(
             styleText(
               "yellow",
-              `Warning: Skipping circular transclusion: ${slug} -> ${transcludeTarget}`,
+              `Warning: Skipping circular transclusion: ${slug} -> ${transcludeRef}`,
             ),
           )
           node.children = [
@@ -99,16 +104,14 @@ function renderTranscludes(
               ],
             },
           ]
-          return
+          return SKIP
         }
-        visited.add(transcludeTarget)
 
         const page = componentData.allFiles.find((f) => f.slug === transcludeTarget)
         if (!page) {
           return
         }
 
-        let blockRef = node.properties.dataBlock as string | undefined
         if (blockRef?.startsWith("#^")) {
           // block transclude
           blockRef = blockRef.slice("#^".length)
@@ -208,6 +211,18 @@ function renderTranscludes(
             },
           ]
         }
+
+        // resolve any transcludes nested in what we just pulled in, with this
+        // transclude added to the ancestor chain, then stop visit from walking
+        // into the new children a second time
+        renderTranscludes(
+          { type: "root", children: node.children },
+          cfg,
+          slug,
+          componentData,
+          new Set([...ancestors, transcludeRef]),
+        )
+        return SKIP
       }
     }
   })
@@ -223,8 +238,7 @@ export function renderPage(
   // make a deep copy of the tree so we don't remove the transclusion references
   // for the file cached in contentMap in build.ts
   const root = clone(componentData.tree) as Root
-  const visited = new Set<FullSlug>([slug])
-  renderTranscludes(root, cfg, slug, componentData, visited)
+  renderTranscludes(root, cfg, slug, componentData, new Set([slug]))
   renderRecentNotes(root, cfg, slug, componentData)
 
   // set componentData.tree to the edited html that has transclusions rendered

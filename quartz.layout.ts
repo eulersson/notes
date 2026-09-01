@@ -41,7 +41,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
     Component.RecentNotes({
       title: "Recent",
-      limit: 5,
+      limit: 10,
       showTags: false,
       // the home page re-dates itself on every publish, so it would sit at
       // the top permanently
@@ -73,7 +73,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer(),
     Component.RecentNotes({
       title: "Recent",
-      limit: 5,
+      limit: 10,
       showTags: false,
       // the home page re-dates itself on every publish, so it would sit at
       // the top permanently
