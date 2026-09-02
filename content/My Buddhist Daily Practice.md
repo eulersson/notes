@@ -15,10 +15,6 @@ tags:
 > You can follow the links of the excerpts to find out the full explanation, and translation of the prayer. 
 
 ```toc
-# the exporter strips %%mask-section%%; keep the TOC in step
-title: **The sequence**
-style: nestedOrderedList
-exclude: /mask-section/
 ```
 
 ## Prostrations
@@ -78,10 +74,6 @@ Review the [[Advice on Dzogchen Meditation]] if needed. They are common across a
 ### Mind: A Meditation
 
 ![["A" Meditation]]
-
-## Hola
-
-Hola  com estas 
 
 ## Dedicating the Merits
 
