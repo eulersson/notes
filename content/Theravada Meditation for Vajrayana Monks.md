@@ -13,7 +13,7 @@ The *bikkhu*, founder of the [Center for Right View Meditations](https://www.crv
 
 ## 20 Minutes Daily Practice
 
-- *5min* **Mind-Body Coordination** exercises taken from martial arts like *Tai Chi* (see video below for the full exercise). 7 full-stretched poses interpolated by a connecting pose — half bent knees and pelvis retroversion. Breathing in an out must be coordinated with the movements and the exhalation involves bringing your lips together so to produce a wind-like sound.
+- *5min* **Mind-Body Coordination** exercises taken from martial arts like *Tai Chi* (see video below for the full exercise). 7 full-stretched poses interpolated by a connecting pose — half bent knees and pelvis retroversion. Breathing in an out must be coordinated with the movements and the exhalation involves bringing your lips together so to produce a wind-like sound. ^61f97b
 - *5min* **Ear Consciousness Awareness Meditation** to focus on the sounds around us. Without judging. Only open monitoring meditation.
 - *5min* of **Vipassana Body-Scan**, always equanimous, not liking or disliking the sensations, from top to bottom and bottom to top. If derailed into thoughts for long time important not to feel frustrated and simply bring back the mind to the meditation. Success is measured not only by how long you stay scanning the body (*sati* = awareness;  *samadhi* = sustained awareness), but how equanimous you are when derailing and coming back to the pose. Mental elasticity is what counts at the beginning: how easily you can come back without friction.
 - *5min* of  **Anapanasati**, observing the breath: how the air goes in an out the nostrils and the touch of the breath upon the upper lip. Checking the sensations: perspiration, cold/heat of the air, tingling, etc...
