@@ -25,9 +25,9 @@ This is good to do when starting the day.
 ## Visualization
 
 While doing the exhalation visualize the color:
-- Right nostril: white. Anger.
-- Left nostril: red. Attachment.
-- Both nostrils: black. Ignorance.
+- Right nostril: white. Anger
+- Left nostril: red. Attachment
+- Both nostrils: black. Ignorance
 
 ## Mudra and Instructions
 

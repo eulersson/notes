@@ -93,6 +93,8 @@ Review the [[Advice on Dzogchen Meditation]] if needed. They are common across a
 
 ![[Vajra Position#Vajra Pose]]
 
+![[Vajra Position#Audio]]
+
 ### Speech: Om Ah Hung Breath
 
 ![[Om Ah Hung Breath Meditation]]

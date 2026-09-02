@@ -8,14 +8,14 @@ tags:
 
 ## Mantra
 
-oṃ ārya lokeśvara saparivāra arghaṃ pratīccha svāhā  
-oṃ ārya lokeśvara saparivāra pādyaṃ pratīccha svāhā  
-oṃ ārya lokeśvara saparivāra puṣpe pratīccha svāhā  
-oṃ ārya lokeśvara saparivāra dhūpe pratīccha svāhā  
-oṃ ārya lokeśvara saparivāra āloke pratīccha svāhā  
-oṃ ārya lokeśvara saparivāra gandhe pratīccha svāhā  
-oṃ ārya lokeśvara saparivāra naivedye pratīccha svāhā  
-oṃ ārya lokeśvara saparivāra śabda pratīccha svāhā
+oṃ guru ārya lokeśvara saparivāra arghaṃ pratīccha svāhā  
+oṃ guru ārya lokeśvara saparivāra pādyaṃ pratīccha svāhā  
+oṃ guru ārya lokeśvara saparivāra puṣpe pratīccha svāhā  
+oṃ guru ārya lokeśvara saparivāra dhūpe pratīccha svāhā  
+oṃ guru ārya lokeśvara saparivāra āloke pratīccha svāhā  
+oṃ guru ārya lokeśvara saparivāra gandhe pratīccha svāhā  
+oṃ guru ārya lokeśvara saparivāra naivedye pratīccha svāhā  
+oṃ guru ārya lokeśvara saparivāra śabda pratīccha svāhā
 
 ## Video
 
