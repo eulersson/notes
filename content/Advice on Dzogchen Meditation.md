@@ -19,7 +19,7 @@ The spine must be straight pointing up, so the *lung* (air) can flow freely.
 
 The tongue tip touches the back of the teeth creating a slope for the saliva to slide back into the throat.
 
-In the general [[Shiné]] the hands are placed on top of the other and thumbs touch, but in [[Dzogpa Chenpo]] they are placed on our knees and it a way to express *"Oh, we have lived through all realms for many lifes, so I relax."*. ^06ce39
+In the general [[Shiné]] the hands are placed on top of the other and thumbs touch, but in [[Dzogpa Chenpo]] they are placed on our knees and it a way to express *"Oh, we have lived through all realms for many lifes, so I relax."*.
 
 Another aspect of this type of [[Shiné]] is that we look straight instead of looking down ([[Theravada|hinayana]] way). By looking forward we can visualize elements and also we can feel more awake. The meditations get clear and it's more difficult to fall under dullness. [[Dzogchen]]'s [[Shiné]] is more energetic and active in that sense, and clear.
 

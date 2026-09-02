@@ -8,7 +8,7 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer]]
 
-Three ways to say because: ^dfea44
+Three ways to say because:
 - ཁོང་བོད་<i class="y">ཇ་</i>མང་པོ་འཐུང་གི་རེད། <i class="b">གང་ཡིན་ཟེར་ན་</i>ཁོང་བོད་པ་རེད།
 - ཁོང་བོད་པ་<i class="p">རེད།</i> <i class="b">བྱས་ཙང་</i>ཁོང་བོད་<i class="y">ཇ་</i>མང་མོ་འཐུང་གི་ཡོད་རེད།
 - ཁོང་བོད་པ་<i class="p">ཡིན་</i><i class="b">ཙང་</i>བོད་<i class="y">ཇ་</i>མང་པོ་འཐུང་གི་ཡོད་རེད།

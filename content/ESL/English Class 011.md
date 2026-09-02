@@ -56,7 +56,7 @@ Do one or two round of [[English Class 008#Activity Placing Items Around (30 min
 [[Headway English Grammar and Composition 1#Page 52-53|Grammar and Composition, Page 52]]
 ![[Headway Grammar Composition Page 52-53.jpg]] ^bd1ebf
 
-[[Headway English Grammar and Composition 1#Page 54|Grammar and Composition, Page 54]] ^0e6296
+[[Headway English Grammar and Composition 1#Page 54|Grammar and Composition, Page 54]]
 
 ## 5. Crafting a Dice (15 min)
 With the student's let's craft a dice they will use for the rest of their classes.

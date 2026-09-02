@@ -36,7 +36,7 @@ tags:
 - རྐྱང་ (verb)
 	- གོ་སྐབས་རག་ན་བོད་ལ་འགྲོ་<i class="y">རྐྱང་</i>བྱེད་ཀྱི་ཡིན།
 	- *If I get a change, I will <i class="y">just</i> go to Tibet*
-- ཡ་ཡོས་ ^60006c
+- ཡ་ཡོས་
 	- ཨ་མ་མ། གཞས་འདི་<i class="y">ཡ་ཡོས་</i>སྙན་པོ་འདུག
 	- *Oh my gosh, this song is so nice!*
 - ཐག་ཆོད།

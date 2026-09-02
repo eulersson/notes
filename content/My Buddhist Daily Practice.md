@@ -19,7 +19,7 @@ tags:
 Prostrate 3 times while reciting this mantra:
 
  ![[Prostration Mantra#Mantra]]
- 
+
 ## Going for Refuge
 
 ![[Taking Refuge (Kyabdro)#༄༅། །སྐྱབས་འགྲོ།།]]

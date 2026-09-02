@@ -14,7 +14,7 @@ tags:
 | S      | Mr Sloth     |
 | O      | Miss Ostrich |
 
-O: མགྱོགས་པོ་མགྱོགས་པོ་བྱེད་ཨ། ད་ལོ་གསར་སླེབས་འགྲོའོ་འདུག ^56ce1e
+O: མགྱོགས་པོ་མགྱོགས་པོ་བྱེད་ཨ། ད་ལོ་གསར་སླེབས་འགྲོའོ་འདུག
 
 O: Hurry up! Hurry up! Losar is about to come!
 
@@ -22,7 +22,7 @@ S: སྐུ་ཆི། ང་ལ་ འགོ་ནས་ (lit. once again) �
 
 S: Pleease. Give me 10ish more minutes. Pleeeeease let me sleep just a little  moooree.
 
-O: ལས་ཀ་བྱེད་ཡག་ཧ་ཅང་མང་པོ་འདུག ང་གཅིག་པུ་ལས་ཀ་ཚང་མ་བྱེད་ན ་ང་བྱེད་ཐུབ་ཀྱི་མ་རེད། ཁྱེད་རང་ཉལ་འཁྲི་སྟེང་ལ་ཉལ་བསྡད་པ་དེ་ ངའི་ལས་ཀ་ཚར་ཡག་ལ་ ཕན་ཐོག་གི་མ་རེད། ^c04b3c
+O: ལས་ཀ་བྱེད་ཡག་ཧ་ཅང་མང་པོ་འདུག ང་གཅིག་པུ་ལས་ཀ་ཚང་མ་བྱེད་ན ་ང་བྱེད་ཐུབ་ཀྱི་མ་རེད། ཁྱེད་རང་ཉལ་འཁྲི་སྟེང་ལ་ཉལ་བསྡད་པ་དེ་ ངའི་ལས་ཀ་ཚར་ཡག་ལ་ ཕན་ཐོག་གི་མ་རེད།
 
 O: So much is to be done! If I do all work alone I won't be able to. You staying in bed won't help me finish my work!
 
@@ -34,7 +34,7 @@ S: འོ་ཙིཙིཙིཙི། ཡིན་ན་ཡཡཡང་། �
 
 S: Ayyyy, buuuuuut...  what tiiiiime is it?
 
-O: ཞོས་གས་ཆུ་ཚོད་བཞི་དང་ཕྱེད་ཀ་རེད། ^2d9858
+O: ཞོས་གས་ཆུ་ཚོད་བཞི་དང་ཕྱེད་ཀ་རེད།
 
 O: 4:30 AM
 
@@ -42,7 +42,7 @@ S: ཨ་མ་མ། དངོས་ནས་རེད་པས། ག་ར
 
 S: Oh my God! Reallyyy? Is it? I wonder why are you such person that wants to wake up this early!
 
-O: *(like a mantra)* རྟེན་འབྲེལ། རྟེན་འབྲེལ། རྟེན་འབྲེལ། རྟེན་འབྲེལ། ^29e173
+O: *(like a mantra)* རྟེན་འབྲེལ། རྟེན་འབྲེལ། རྟེན་འབྲེལ། རྟེན་འབྲེལ།
 
 O: Auspicious, auspicious, auspicious, ...
 
@@ -50,7 +50,7 @@ S: གཙང་མ་བཟོ་དུས་ཁྱེད་རང་གིས�
 
 S: The noise which you will make when cleaning will annoy our neighbours! How come can doing it like this be auspicious! 
 
-O: དྷཱི་དྷཱི་དྷཱི་དྷཱི་དྷཱི་དྷཱི་དྷཱི་་་་་ ^cf7a59
+O: དྷཱི་དྷཱི་དྷཱི་དྷཱི་དྷཱི་དྷཱི་དྷཱི་་་་་
 
 O: dhi dhi dhi dhi dhi dhi dhi...
 
@@ -58,7 +58,7 @@ S: ད་ལྟ་ཁྱེད་རང་ག་རེ་བྱེད་བས�
 
 S: What are you doing now?
 
-O:  གྲྭ་པ་ཆུང་ཆུང་ཚོས་ཡར་ལངས་ནས་སྐྱོར་དགོས་པའི་སྔགས་འདི་རེད། སྔགས་འདི་སྐྱོར་མཁན་ཚོའི་རིག་པ་སྤྱང་ང་ཆག་གི་རེད་ཟ། ^dafe36
+O:  གྲྭ་པ་ཆུང་ཆུང་ཚོས་ཡར་ལངས་ནས་སྐྱོར་དགོས་པའི་སྔགས་འདི་རེད། སྔགས་འདི་སྐྱོར་མཁན་ཚོའི་རིག་པ་སྤྱང་ང་ཆག་གི་རེད་ཟ།
 
 O: This is the mantra that was sung by small monks after waking up. It's said that those who recite it, their intelligence will become sharper. 
 
@@ -66,7 +66,7 @@ S: ད་མང་དྲགས་སོང་།  སི་པན་སྐད�
 
 S: Too much! In Spanish we have an saying *No por mucho madrugar amanece más temprano* which in Tibetan translates to "The fact that you wake up early won't make sun raise earlier.
 
-O: ཡ་ཡ། འདི་བདེན་པ་རེད། ཡིན་ནའི་ང་ཡང་སི་པན་གི་ཚིག་གྲུབ་འདི་འདྲས་གཅིག་ཤེས་ཀྱིད་ཡོད། ཚིག་གྲུབ་འདི་འདྲས་ག་རེ་རེད་ཟེར་ན། *A quien madruga Dios le ayuda* བོད་སྐད་ཐོག་ལ་། ༼སྔ་པོར་ཡར་ལངས་མཁན་ལ་དཀོན་མཆོག་གིས་རོགས་རམ་གནང་གི་རེད།༽ ཁྱེད་རང་ག་གི་ལ་དགའ་བ་ཡོད། ^1b8104
+O: ཡ་ཡ། འདི་བདེན་པ་རེད། ཡིན་ནའི་ང་ཡང་སི་པན་གི་ཚིག་གྲུབ་འདི་འདྲས་གཅིག་ཤེས་ཀྱིད་ཡོད། ཚིག་གྲུབ་འདི་འདྲས་ག་རེ་རེད་ཟེར་ན། *A quien madruga Dios le ayuda* བོད་སྐད་ཐོག་ལ་། ༼སྔ་པོར་ཡར་ལངས་མཁན་ལ་དཀོན་མཆོག་གིས་རོགས་རམ་གནང་གི་རེད།༽ ཁྱེད་རང་ག་གི་ལ་དགའ་བ་ཡོད།
 
 O: Yeah, yeah... But I also know one Spanish sentence like this: *A quien madruga dios le ayuda*. Which means “Who wakes up early receives help from God”. So which one do you prefer?
 
@@ -94,14 +94,14 @@ S: ཡག་ག་ལ། དུག་སློག་ག་རེ་གྱོ�
  
 S: Great! With what clothes must I come wearing?
 
-O: བསམ་ཚུལ་ཡག་པོ་འདུག དུག་སློག་གྱོན་སྟངས་དེ་གལ་ཆེན་པོ་རེད། ལོ་གསར་པ་ལ་གྱོན་ཆས་གསར་པ་ཡང་གྱོན་ཡག་དེ་ཡག་ཤོས་རེད། ང་གཉིས་ཕྱུ་པ་གཅིག་འཚེམ་གར་འགྲོ། ^085341
+O: བསམ་ཚུལ་ཡག་པོ་འདུག དུག་སློག་གྱོན་སྟངས་དེ་གལ་ཆེན་པོ་རེད། ལོ་གསར་པ་ལ་གྱོན་ཆས་གསར་པ་ཡང་གྱོན་ཡག་དེ་ཡག་ཤོས་རེད། ང་གཉིས་ཕྱུ་པ་གཅིག་འཚེམ་གར་འགྲོ།
 
 O: Good idea. The way you wear is important. During new year wearing — also — new clothes is the best. Let's go get you a chupa made!
 
 S: ཕྱུ་པའི་ཕུ་དུང་དེ་ཚོ་ངའི་ལག་པ་ནང་བཞིན་དཔེཔེཔེཔེཔེཔེ་རིརིརིརིརིང་པོ་འདུག་ག ཧ་ཧ་ཧ།
-S: Like the sleeves of a chupa, my arms are veeeeery long ha ha ha ^06dfdc
+S: Like the sleeves of a chupa, my arms are veeeeery long ha ha ha
 
-O: ལགས།  ཕྱུ་པ་འདི་ཁྱེད་རང་གི་གཟུག་པོ་ལ་གཏག་གཏག་ཡོད་ཙང་རྒྱུར་བ་གཏང་དགོས་མི་འདུག  ^d02706
+O: ལགས།  ཕྱུ་པ་འདི་ཁྱེད་རང་གི་གཟུག་པོ་ལ་གཏག་གཏག་ཡོད་ཙང་རྒྱུར་བ་གཏང་དགོས་མི་འདུག
 
 O: Oh yes! Since that chupa already fits your body naturally, it won't need changes to be done!
 
