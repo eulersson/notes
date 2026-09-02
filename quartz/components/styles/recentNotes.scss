@@ -29,6 +29,8 @@
     color: var(--dark);
     display: flex;
     align-items: center;
+    // same iOS double-tap-to-zoom trap as the explorer toggles
+    touch-action: manipulation;
 
     & h2 {
       font-size: 1rem;
