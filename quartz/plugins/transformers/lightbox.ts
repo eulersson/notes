@@ -24,6 +24,7 @@ const lightboxStyle = `
   visibility: hidden;
   transition: opacity 0.2s ease, visibility 0.2s ease;
   cursor: zoom-out;
+  touch-action: manipulation;
 }
 
 .lightbox-overlay.active {
@@ -40,6 +41,7 @@ const lightboxStyle = `
   transition: opacity 0.15s ease;
   user-select: none;
   -webkit-user-select: none;
+  touch-action: manipulation;
 }
 
 .lightbox-overlay img.lightbox-loading {
@@ -61,6 +63,7 @@ const lightboxStyle = `
   transition: color 0.15s ease;
   user-select: none;
   -webkit-user-select: none;
+  touch-action: manipulation;
 }
 
 .lightbox-btn svg {
@@ -91,6 +94,7 @@ const lightboxStyle = `
   padding: 8px;
   z-index: 1;
   transition: color 0.15s ease;
+  touch-action: manipulation;
 }
 
 .lightbox-close svg {
@@ -129,6 +133,7 @@ const lightboxStyle = `
 /* make content images look clickable */
 article img {
   cursor: zoom-in;
+  touch-action: manipulation;
 }
 
 /* images wrapped in a link should look like links, not lightbox triggers */
