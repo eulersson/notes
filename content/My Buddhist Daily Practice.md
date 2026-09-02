@@ -79,6 +79,10 @@ Review the [[Advice on Dzogchen Meditation]] if needed. They are common across a
 
 ![["A" Meditation]]
 
+## Hola
+
+Hola  com estas 
+
 ## Dedicating the Merits
 
 ![[Dedication Prayer#༄༅། །བསྔོ་བ་སྨོན་ལམ།]]
