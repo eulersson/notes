@@ -45,6 +45,4 @@ And make a perfect dedication of these merits.
 
 ## Audio
 
-https://youtube.com/shorts/Iipx0ADpxiE?si=bKezoSO8iCzSSQqy
-
 ![[Dedication Prayer.mp3]]

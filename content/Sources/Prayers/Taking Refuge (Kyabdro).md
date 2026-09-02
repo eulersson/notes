@@ -18,10 +18,3 @@ In the Buddha, the Dharma and the Supreme Assembly
 I take refuge until I attain enlightenment.
 Through the merit of practising generosity and so on,
 May I attain buddhahood for the benefit of all beings.
-
-## Transliteration
-
-sangye chö dang tsok kyi chok nam la
-changchub bardu dak ni kyab su chi
-dak gi jin sok gyipé sönam kyi
-dro la pen chir sangye drubpar shok

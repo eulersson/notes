@@ -70,7 +70,7 @@ Visualisation:
 
 ## Clearing
 
-From right to left, wiping with clean cloth, and turn them upside down (optionally stacking them on the left). While emptying pronouncing OM BENZA SATTO HUM (Vajrasattva's short mantra) or the long version [[100-Syllable Mantra of  Vajrasattva]].
+From right to left, wiping with clean cloth, and turn them upside down (optionally stacking them on the left). While emptying pronouncing OM BENZA SATTO HUM (Vajrasattva's short mantra) or the long version [[100-Syllable Mantra of Vajrasattva]].
 
 Recite [[Dedication Prayer]].
 

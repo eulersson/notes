@@ -32,6 +32,10 @@ tags:
 བཀའ་དང་བསྟན་བཅོས་གཞུང་ལུགས་རྟོགས་པ་ཡི།
 བློ་གྲོས་སྤོབས་པའི་སྣང་བ་སྩལ་དུ་གསོལ།
 
+## Audio
+
+![[Prayer to Manjushree.mp3]]
+
 ## Source
 
 This version of the prayer is taken from [[Pema Tsal]] (*sakya* monastic institute):

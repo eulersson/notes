@@ -36,21 +36,49 @@ Prostrate 3 times while reciting this mantra:
 
 If at home: [[Water Bowl Offering]]
 
+## Offering Mudras
+
+![[Offering Mudras#Mantra]]
+
+![[Offering Mudras#Video]]
+
 ## 100-Syllable Mantra of Vajrasattva
 
-![[100-Syllable Mantra of  Vajrasattva#༄༅། །རྡོ་རྗེ་སེམས་དཔའི་ཡིག་བརྒྱ།]]
+![[100-Syllable Mantra of Vajrasattva#༄༅། །རྡོ་རྗེ་སེམས་དཔའི་ཡིག་བརྒྱ།]]
+
+![[100-Syllable Mantra of Vajrasattva#Audio]]
 
 ## Brief Offering to Ekajati
 
 ![[Brief Offering Prayer to Ekajati#༄༅། །ཨེ་ཀ་ཛ་ཊཱིའི་གསོལ་བསྡུས།]]
 
+![[Brief Offering Prayer to Ekajati#Audio]]
+
 ## Prayer to Guru Rinpoche
 
 ![[Prayer to Guru Rinpoche#༄༅། །གསོལ་འདེབས་རྒྱ་གར་པཎ་ཆེན་མ་བཞུགས།]]
 
+## The Essence of the Dependent Origination Mantra
+
+![[The Essence of the Dependent Origination Mantra#Mantra]]
+
+![[The Essence of the Dependent Origination Mantra#Audio]]
+
+## Seven-Line Prayer
+
+![[Seven Line Prayer#༄༅། །གུ་རུ་རིན་པོ་ཆེའི་ཚིག་བདུན་གསོལ་འདེབས་བཞུགས་སོ། །]]
+
 ## Prayer to Manjushree
 
 ![[Prayer to Manjushri#༄༅། །འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ།།]]
+
+![[Prayer to Manjushri#Audio]]
+
+## Song of the Vajra
+
+![[Song of the Vajra#༄༅། །རྡོ་རྗེའི་གླུ། །]]
+
+![[Song of the Vajra#Audio]]
 
 ## 9 Breaths Meditation
 
@@ -80,6 +108,8 @@ Review the [[Advice on Dzogchen Meditation]] if needed. They are common across a
 
 ![[Dedication Prayer#༄༅། །བསྔོ་བ་སྨོན་ལམ།]]
 
+![[Dedication Prayer#Audio]]
+
 ## Pecha
 
 Recite *pecha* (liturgic text) I received. Best in early morning and late night to leverage memory and reading speed.
@@ -95,5 +125,7 @@ They are composed of:
 ### 20min Theravada Practice
 
 If the day allows it I like to practice the mind-body sensing meditations the *bhikkhu* was teaching to the *lamas* in [[Pema Tsal]] because they are universal enough and won't interfere. They build a strong base. Otherwise I don't believe they would teach them in a *sakya* monastery.
+
+If the main practice is performed at morning time, then this is suitable for evening, or viceversa.
 
 ![[Theravada Meditation for Vajrayana Monks#20 Minutes Daily Practice]]
