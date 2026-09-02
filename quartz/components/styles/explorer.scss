@@ -103,6 +103,9 @@ button.desktop-explorer {
   color: var(--dark);
   display: flex;
   align-items: center;
+  // Suppress iOS double-tap-to-zoom: the toggle swaps the layout underneath the
+  // second tap, so the zoom lands with nothing left to double-tap back out of.
+  touch-action: manipulation;
 
   & h2 {
     font-size: 1rem;
@@ -190,6 +193,7 @@ button.desktop-explorer {
     display: flex;
     align-items: center;
     font-family: var(--headerFont);
+    touch-action: manipulation;
 
     & span {
       font-size: 0.95rem;
@@ -207,6 +211,7 @@ button.desktop-explorer {
   margin-right: 5px;
   color: var(--secondary);
   cursor: pointer;
+  touch-action: manipulation;
   transition: transform 0.3s ease;
   backface-visibility: visible;
   flex-shrink: 0;
@@ -226,7 +231,6 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       flex: 0 0 34px;
 
       & > .explorer-content {
-        transform: translateX(-100vw);
         visibility: hidden;
       }
     }
@@ -235,7 +239,6 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       flex: 0 0 34px;
 
       & > .explorer-content {
-        transform: translateX(0);
         visibility: visible;
       }
     }
@@ -250,10 +253,12 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       background-color: var(--light);
       max-width: 100vw;
       width: 100vw;
-      transform: translateX(-100vw);
-      transition:
-        transform 200ms ease,
-        visibility 200ms ease;
+      // No slide-in: the panel is laid out (so the file tree keeps its scroll
+      // position) but hidden, and appears in place. Recent is docked to the
+      // bottom of this same overlay as a separate fixed element, and on iOS a
+      // transformed fixed element composites on its own layer, so it visibly
+      // lagged behind this panel's transform. Showing both in place is the
+      // only way the two arrive together on every browser.
       overflow: hidden;
       padding: 4rem 0 2rem 0;
       height: 100dvh;

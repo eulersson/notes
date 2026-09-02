@@ -147,9 +147,12 @@ article img {
 //
 // The show/hide mirrors .explorer-content's own mechanism exactly: the panel is
 // always laid out (position: fixed, so it costs nothing when closed) and is
-// slid in with transform + visibility on the same 200ms ease. Toggling
-// `display` instead cannot be transitioned, which made Recent pop into place
-// while the file tree was still sliding.
+// revealed with `visibility` alone. Neither panel slides: a transformed
+// position: fixed element composites on its own layer on iOS, so Recent
+// visibly lagged the file tree's transform even though the two shared one
+// duration and easing. Appearing in place is the only way they arrive
+// together on every browser. Toggling `display` instead would drop the
+// panel's layout box, losing the list's scroll position.
 //
 // `mobile-no-scroll` is set on <html> by toggleExplorer exactly while the
 // drawer is open and cleared again on every nav. Unlike `.explorer.collapsed`
@@ -174,11 +177,7 @@ $recentDrawerCollapsedHeight: 3.75rem;
     background-color: var(--light);
     border-top: 1px solid var(--lightgray);
 
-    transform: translateX(-100vw);
     visibility: hidden;
-    transition:
-      transform 200ms ease,
-      visibility 200ms ease;
 
     & > button.recent-notes-toggle {
       margin: 0.5rem 0 0 0;
@@ -201,21 +200,22 @@ $recentDrawerCollapsedHeight: 3.75rem;
     }
   }
 
-  html.mobile-no-scroll {
-    .sidebar.left > .recent-notes {
-      transform: translateX(0);
-      visibility: visible;
-    }
+  html.mobile-no-scroll .sidebar.left > .recent-notes {
+    visibility: visible;
+  }
 
-    // keep the file tree from scrolling underneath the docked Recent panel
-    .explorer-content {
-      padding-bottom: $recentDrawerHeight;
-      transition: padding-bottom 200ms ease;
-    }
+  // Keep the file tree from scrolling underneath the docked Recent panel. This
+  // is not gated on the drawer being open: the reserved space has to already be
+  // there when the panel appears, or the tree would reflow as it opens — the
+  // one thing the drawer no longer does.
+  .explorer > .explorer-content {
+    padding-bottom: $recentDrawerHeight;
+    // only the Recent fold animates this, never the drawer opening
+    transition: padding-bottom 300ms ease-in-out;
+  }
 
-    // folded, Recent is only its title bar, so give the tree the rest back
-    &:has(.recent-notes.collapsed) .explorer-content {
-      padding-bottom: $recentDrawerCollapsedHeight;
-    }
+  // folded, Recent is only its title bar, so give the tree the rest back
+  html:has(.recent-notes.collapsed) .explorer > .explorer-content {
+    padding-bottom: $recentDrawerCollapsedHeight;
   }
 }
