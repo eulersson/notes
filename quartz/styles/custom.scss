@@ -73,6 +73,66 @@ article img {
   }
 }
 
+// Rendered by the TableOfContentsBlock transformer from a ```toc fence.
+// Deliberately not `.toc` — that class belongs to the built-in TableOfContents
+// sidebar component.
+//
+// Entries carry `.internal`, so they inherit wikilink styling from base.scss
+// and must not restyle it here.
+.toc-block {
+  margin: 1rem 0;
+
+  &.toc-block-hidden {
+    display: none;
+  }
+
+  & .toc-block-title > p {
+    margin: 0 0 0.4rem 0;
+  }
+
+  & ul,
+  & ol {
+    margin: 0;
+  }
+
+  // Bullets read as clutter beside the link pills. Ordered lists keep their
+  // numbers — those are the whole point of `style: nestedOrderedList`.
+  & ul {
+    list-style: none;
+  }
+
+  // The outermost list sits flush with the body text; an ordered one still
+  // needs room for its numbers. Nested levels then indent uniformly. These
+  // never collide: a top-level list is not a descendant of itself.
+  & > ul.toc-block-list {
+    padding-left: 0;
+  }
+
+  & > ol.toc-block-list {
+    padding-left: 1.4rem;
+  }
+
+  & .toc-block-list ul,
+  & .toc-block-list ol {
+    padding-left: 1.2rem;
+  }
+
+  & .toc-block-item {
+    padding: 0.15rem 0;
+  }
+
+  & .toc-block-inline {
+    line-height: 2;
+  }
+
+  & .toc-block-empty,
+  & .toc-block-error {
+    color: var(--gray);
+    font-style: italic;
+    margin: 0;
+  }
+}
+
 // RecentNotes in the left rail.
 //
 // On mobile the grid collapses to a single column and .sidebar.left becomes a

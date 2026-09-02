@@ -39,14 +39,15 @@ export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userO
               const toc: TocEntry[] = []
               let highestDepth: number = opts.maxDepth
               visit(tree, "heading", (node) => {
+                const text = toString(node)
+                // Slug every heading, even ones too deep to list: rehype-slug numbers
+                // duplicates across all of them when it stamps the real ids. Skipping
+                // any here shifts every later repeat — a `#### Diary` takes `#diary`,
+                // leaving the `### Diary` entries pointing one heading short.
+                const slug = slugAnchor.slug(text)
                 if (node.depth <= opts.maxDepth) {
-                  const text = toString(node)
                   highestDepth = Math.min(highestDepth, node.depth)
-                  toc.push({
-                    depth: node.depth,
-                    text,
-                    slug: slugAnchor.slug(text),
-                  })
+                  toc.push({ depth: node.depth, text, slug })
                 }
               })
 

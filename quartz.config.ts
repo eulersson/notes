@@ -79,6 +79,10 @@ const config: QuartzConfig = {
       Plugin.Lightbox(),
       Plugin.VideoEmbed(),
       Plugin.RecentNotesBlock(),
+      // Must stay after CrawlLinks: its html pass reads the ids that
+      // rehype-slug stamped on the headings, and keeps its own anchors
+      // out of the link rewriter (which would attach hover popovers).
+      Plugin.TableOfContentsBlock(),
     ],
     filters: [Plugin.ExplicitPublish()],
     emitters: [
