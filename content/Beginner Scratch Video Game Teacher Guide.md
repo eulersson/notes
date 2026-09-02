@@ -22,9 +22,9 @@ Drive the Scratch Cat with the arrow keys. Catch the **Friend**, which glides to
 
 Two **Bouncers** ricochet around the stage, indifferent to where you are. The **Chaser** is not indifferent: it walks straight at the cat, forever, at about 40% of your speed. Any hit costs one of three lives and sends the cat home.
 
-And the cat **starts small and grows** — 40% at the first point, 70% by the tenth — while the bouncers speed up alongside it.
+And the cat **starts small and grows** — 20% at the first point, 140% by the tenth — while the bouncers speed up alongside it.
 
-![[Cat & Company Cat growth 40 to 70.png|640]]
+![[Cat & Company Cat growth 20 to 140.png|640]]
 
 The game gets harder because you are winning, which is the fairest kind of hard.
 
@@ -32,9 +32,9 @@ The game gets harder because you are winning, which is the fairest kind of hard.
 
 | Sprite | Role | Behaviour | Numbers |
 |---|---|---|---|
-| **Cat** | You | Arrow keys, four directions, faces the way it walks. Grows with every point until it is an easy thing to hit. | 40% → 70% · 5 steps/frame |
+| **Cat** | You | Arrow keys, four directions, faces the way it walks. Grows with every point until it is an easy thing to hit. | 20% → 140% · 5 steps/frame |
 | **Friend** | The target | Glides somewhere random, rests, darts again. Blinks out for half a second when caught. | 75% · glide 1s, rest 1s |
-| **Bouncer ×2** | Indifferent danger | Ricochets off the walls on a fixed heading and never once looks at you. Speeds up as the score climbs. | 70% · Speed 3 → 4.5 |
+| **Bouncer ×2** | Indifferent danger | Ricochets off the walls on a fixed heading and never once looks at you. Speeds up as the score climbs. | 70% · Speed 1 → 9 |
 | **Chaser** | Attentive danger | Walks straight at the cat, forever. Always escapable, never ignorable — it is what stops standing still from working. | 70% · 2 steps/frame, fixed |
 
 > [!note] The Bouncer and the Chaser are the same sprite
@@ -88,7 +88,7 @@ Three sprites, already sized and positioned, with sounds attached and **no block
 
 | Sprite | Costume | Note |
 |---|---|---|
-| **Cat** | The standard two-costume Scratch Cat | Starts at 40% — deliberately tiny |
+| **Cat** | The standard two-costume Scratch Cat | Starts at 20% — deliberately tiny |
 | **Friend** | A cyan blob | Session 1's target |
 | **Enemy** | Two costumes: a spiky bouncer **and** a one-eyed stalker | Leave it alone until session 2 |
 
@@ -142,7 +142,7 @@ Build the setup and the **first arrow only** together on the projector, then tes
 
 Up and down have no `point in direction` on purpose — turning to face up would lay the cat on its side. Say it out loud; someone always asks.
 
-`set size to 40 %` makes a deliberately tiny cat, and someone will ask why. Tell them it grows later and leave it there — the answer lands much harder in session 2 when they build the growing themselves.
+`set size to 20 %` makes a deliberately tiny cat, and someone will ask why. Tell them it grows later and leave it there — the answer lands much harder in session 2 when they build the growing themselves.
 
 > [!bug] Watch for
 > - **The four `if`s nested inside each other** instead of stacked one under the next. The cat then only moves diagonally. Pull them apart on their screen.
@@ -288,7 +288,7 @@ A third script on the Cat — the referee. It watches the two numbers and nothin
 
 ### 24–30 · It Gets Harder Every Time You Score
 
-![[Cat & Company Cat growth 40 to 70.png|640]]
+![[Cat & Company Cat growth 20 to 140.png|640]]
 
 Right now point nine is exactly as hard as point one. Two changes fix that, and both hang off a **second broadcast** — the concept from ten minutes ago, used again for something completely different.
 
@@ -298,7 +298,7 @@ Make a third variable, **Speed**, For all sprites. Untick its box so it stays of
 
 ![[Cat & Company Friend broadcast point.png|304]]
 
-**On the Cat**, `set Speed to 3` joins the green-flag setup, plus a fourth script:
+**On the Cat**, `set Speed to 1` joins the green-flag setup, plus a fourth script:
 
 ![[Cat & Company Cat grow and speed up.png|424]]
 
@@ -317,8 +317,8 @@ Leave the Chaser on `2` — a hunter that accelerates stops being fair.
 Then save, and everyone leaves having picked **one** card off the [[#Upgrade Menu]] to finish at home. In thirty minutes there is no room to build an upgrade in class, so make choosing it the last thing that happens rather than pretending otherwise.
 
 > [!bug] Watch for
-> - **`change Speed by 0.15` typed as `15`.** One point and the bouncers become a blur. Genuinely funny, and a free lesson in decimal places.
-> - **Bouncers frozen on the spot.** `set Speed to 3` is missing from the cat's green-flag script, so Speed is still 0.
+> - **`change Speed by 0.8` typed as `8`.** One point and the bouncers become a blur. Genuinely funny, and a free lesson in decimal places.
+> - **Bouncers frozen on the spot.** `set Speed to 1` is missing from the cat's green-flag script, so Speed is still 0.
 > - **The Speed block dropped *on* the move block rather than *into* its oval.** It lands beside the script as a loose reporter and nothing changes.
 > - **`broadcast point` put on the Cat instead of the Friend.** The cat would have to shout at itself; nothing ever grows.
 
@@ -401,9 +401,9 @@ Organised by **symptom**, because that is what you have when a hand goes up. Wal
 
 **The Chaser is impossible to escape** — `move 3 steps` was never changed to `2`, or someone raised it.
 
-**The bouncers sit completely still** — `set Speed to 3` is missing from the Cat's green-flag script, so Speed is still 0.
+**The bouncers sit completely still** — `set Speed to 1` is missing from the Cat's green-flag script, so Speed is still 0.
 
-**The bouncers become a blur after one point** — `change Speed by 0.15` was typed as `15`.
+**The bouncers become a blur after one point** — `change Speed by 0.8` was typed as `8`.
 
 **Dragging the Speed variable did nothing** — it was dropped *on* the `move` block rather than *into* its white oval, so it landed beside the script as a loose reporter.
 
@@ -427,33 +427,33 @@ Every number was chosen, not guessed. "Change the number and play it again" is t
 | Dial | Where it lives | Default | Easier | Harder |
 |---|---|---|---|---|
 | Cat speed | Cat · `change x/y by` | `5` | `7` | `4` |
-| Cat start size | Cat · `set size to` | `40 %` | `30 %` | `55 %` |
-| Growth per point | Cat · `change size by` | `3` | `1` | `5` |
+| Cat start size | Cat · `set size to` | `20 %` | `15 %` | `30 %` |
+| Growth per point | Cat · `change size by` | `12` | `7` | `16` |
 | Lives | Cat · `set Lives to` | `3` | `5` | `1` |
 | Target score | Cat · referee, `Score > _` | `9` | `4` | `19` |
 | Friend travel time | Friend · `glide _ secs` | `1` | `2` | `0.6` |
 | Friend rest | Friend · `wait _ seconds` | `1` | `2` | `0.3` |
 | Hidden after a catch | Friend · `wait _ seconds` | `0.5` | `1` | `0.2` |
-| Bouncer start speed | Cat · `set Speed to` | `3` | `2` | `4` |
-| Speed gained per point | Cat · `change Speed by` | `0.15` | `0.05` | `0.3` |
+| Bouncer start speed | Cat · `set Speed to` | `1` | `0.5` | `2` |
+| Speed gained per point | Cat · `change Speed by` | `0.8` | `0.4` | `1.2` |
 | Chaser speed | Chaser · `move _ steps` | `2` | `1` | `3` |
 | Grace period after a hit | Enemies · `wait _ seconds` | `1` | `2` | `0.5` |
 
 **Cat 5, Chaser 2.** The Chaser moves at 40% of the cat. Something you cannot outrun is a countdown; something you can ignore is not a threat. Forty percent is both escapable and unforgettable. Anything at or above 5 breaks the game.
 
-**Cat 40% growing to 70%.** A difficulty curve you can *see*. The hitbox grows with the sprite, so gaps that used to fit stop fitting. Ten points × 3 = +30. If you shorten the game, raise the growth to keep the same swell — at a 5-point target, `change size by 6`.
+**Cat 20% growing to 140%.** A difficulty curve you can *see* — the cat finishes seven times as wide as it started, better than a quarter of the stage across. The hitbox grows with the sprite, so gaps that used to fit stop fitting. Ten points × 12 = +120. If you shorten the game, raise the growth to keep the same swell — at a 5-point target, `change size by 24`.
 
-**Bouncers 3 rising by 0.15.** Ten points takes them to 4.5 — quicker, still under the cat's 5. If the endgame is brutal, cut the *gain* to `0.05` before you cut the starting speed; the escalation is the interesting part.
+**Bouncers 1 rising by 0.8.** Nine times faster by the end: a crawl at the first point, a 9 at the tenth that is nearly double the cat's 5. They still travel in straight lines and never aim at you, which is what keeps a bouncer quicker than the cat survivable — the Chaser could never get away with this. The early game is deliberately quiet, so the ramp is the thing they feel. If the endgame is brutal, cut the *gain* to `0.4` before you cut the starting speed; the escalation is the interesting part.
 
 **Friend: glide 1 second, rest 1 second.** A full-stage glide is faster than the cat, so the Friend can genuinely get away — and then it sits still for a whole second, which is when you take it. That rhythm is the game. **This pair is the main difficulty dial**, and you should push the rest up before you slow the glide down: a slow Friend is boring, a resting Friend is catchable.
 
 **Grace period 1 second.** Without it, one collision lasts many frames and drains all three lives instantly. This is deliberately left as a bug for pupils to discover.
 
 > [!example] Gentle — for a class finding it frustrating
-> Lives `5` · target `Score > 4` · growth `6` · Friend rest `2` · Chaser `1` · Speed gain `0.05`
+> Lives `5` · target `Score > 4` · growth `24` · Friend rest `2` · Chaser `1` · Speed gain `0.4`
 
 > [!example] Nasty — for the pupil who finished ten minutes early
-> Lives `1` · target `Score > 19` · Friend rest `0.3` · Chaser `3` · Speed gain `0.3`
+> Lives `1` · target `Score > 19` · Friend rest `0.3` · Chaser `3` · Speed gain `1.2`
 > Then ask them to actually beat it. They will be back to retune it within a minute, which is the point.
 
 > [!warning] The one change never to allow
