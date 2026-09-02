@@ -6,9 +6,6 @@ tags:
 ---
 
 > [!WARN] Disclaimer
-> This is the part that I am allowed to share of what I incorporated into my daily practice — some parts are excluded. 
-> 
-> My wish is not to distort the secret teachings of the higher vehicles of Buddhism, but instead to give an view on how they might look like. My teacher [[Khenpo Urgyen Tsering]] said it's fine to share with like-minded people, since these prayers or meditations might inspire people and draw interest to them towards a practice path.
 > 
 > In [[3 Vehicles in Buddhism|vajrayana]] you always need the guidance of a teacher. This is mostly a mix of prayers plus [[Shiné]] practice, since I am not an experienced practitioner yet.
 > 
