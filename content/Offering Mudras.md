@@ -8,14 +8,14 @@ tags:
 
 ## Mantra
 
-OM ARYA LOKESVARA SAPARIVARA ARCHAM PRATICCHA SVAHA.  
-OM ARYA LOKESVARA SAPARIVARA PADYAM PRATICCHA SVAHA.  
-OM ARYA LOKESVARA SAPARIVARA PUSPE PRATICCHA SVAHA.  
-OM ARYA LOKESVARA SAPARIVARA DHUPE PRATICCHA SVAHA.  
-OM ARYA LOKESVARA SAPARIVARA ALOKE PRATICCHA SVAHA.  
-OM ARYA LOKESVARA SAPARIVARA GANDHE PRATICCHA SVAHA.  
-OM ARYA LOKESVARA SAPARIVARA NAVIDYE PRATICCHA SVAHA.  
-OM ARYA LIKESVARA SAPARIVARA SABDA PRATICCHA SVAHA.
+oṃ ārya lokeśvara saparivāra arghaṃ pratīccha svāhā  
+oṃ ārya lokeśvara saparivāra pādyaṃ pratīccha svāhā  
+oṃ ārya lokeśvara saparivāra puṣpe pratīccha svāhā  
+oṃ ārya lokeśvara saparivāra dhūpe pratīccha svāhā  
+oṃ ārya lokeśvara saparivāra āloke pratīccha svāhā  
+oṃ ārya lokeśvara saparivāra gandhe pratīccha svāhā  
+oṃ ārya lokeśvara saparivāra naivedye pratīccha svāhā  
+oṃ ārya lokeśvara saparivāra śabda pratīccha svāhā
 
 ## Video
 
