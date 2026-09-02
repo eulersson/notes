@@ -227,20 +227,21 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 
 .explorer {
   @media all and ($mobile) {
+    // Only the collapsed state sets `display`. Leaving the open state to the
+    // default is deliberate: `.hide-until-loaded ~ .explorer-content` above is
+    // less specific than `.explorer:not(.collapsed) > .explorer-content`, so
+    // spelling out `display: block` here would outrank the guard and flash the
+    // drawer open on first paint, before the script has collapsed it.
     &.collapsed {
       flex: 0 0 34px;
 
       & > .explorer-content {
-        visibility: hidden;
+        display: none;
       }
     }
 
     &:not(.collapsed) {
       flex: 0 0 34px;
-
-      & > .explorer-content {
-        visibility: visible;
-      }
     }
 
     .explorer-content {
@@ -253,17 +254,20 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       background-color: var(--light);
       max-width: 100vw;
       width: 100vw;
-      // No slide-in: the panel is laid out (so the file tree keeps its scroll
-      // position) but hidden, and appears in place. Recent is docked to the
-      // bottom of this same overlay as a separate fixed element, and on iOS a
-      // transformed fixed element composites on its own layer, so it visibly
-      // lagged behind this panel's transform. Showing both in place is the
-      // only way the two arrive together on every browser.
+      // No slide-in. Recent is docked to the bottom of this same overlay as a
+      // separate `position: fixed` element, and on iOS a transformed fixed
+      // element composites on its own layer, so it visibly lagged behind this
+      // panel's transform even on the same duration and easing. Appearing in
+      // place is the only way the two arrive together on every browser.
+      //
+      // Hiding is `display`, not `visibility`: `.folder-outer.open` sets
+      // `visibility: visible` and the file links set `pointer-events: all`, and
+      // both of those beat a hidden ancestor — an expanded folder would paint
+      // over the article and still take taps.
       overflow: hidden;
       padding: 4rem 0 2rem 0;
       height: 100dvh;
       max-height: 100dvh;
-      visibility: hidden;
     }
 
     .mobile-explorer {

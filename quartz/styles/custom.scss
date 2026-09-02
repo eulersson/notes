@@ -145,14 +145,14 @@ article img {
 // overlay instead, and the panel gets matching bottom padding so the file tree
 // scrolls clear of it rather than underneath.
 //
-// The show/hide mirrors .explorer-content's own mechanism exactly: the panel is
-// always laid out (position: fixed, so it costs nothing when closed) and is
-// revealed with `visibility` alone. Neither panel slides: a transformed
-// position: fixed element composites on its own layer on iOS, so Recent
-// visibly lagged the file tree's transform even though the two shared one
-// duration and easing. Appearing in place is the only way they arrive
-// together on every browser. Toggling `display` instead would drop the
-// panel's layout box, losing the list's scroll position.
+// The show/hide mirrors .explorer-content's own mechanism exactly: `display`,
+// flipped by one class, with nothing animated. Neither panel slides, because a
+// transformed position: fixed element composites on its own layer on iOS and
+// Recent visibly lagged the file tree even on the same duration and easing.
+//
+// It has to be `display` rather than `visibility`: .recent-notes-content
+// transitions `visibility` over 0.3s for the fold, so a merely hidden drawer
+// left the list painted over the article for that long on the way out.
 //
 // `mobile-no-scroll` is set on <html> by toggleExplorer exactly while the
 // drawer is open and cleared again on every nav. Unlike `.explorer.collapsed`
@@ -177,7 +177,7 @@ $recentDrawerCollapsedHeight: 3.75rem;
     background-color: var(--light);
     border-top: 1px solid var(--lightgray);
 
-    visibility: hidden;
+    display: none;
 
     & > button.recent-notes-toggle {
       margin: 0.5rem 0 0 0;
@@ -201,7 +201,8 @@ $recentDrawerCollapsedHeight: 3.75rem;
   }
 
   html.mobile-no-scroll .sidebar.left > .recent-notes {
-    visibility: visible;
+    // .recent-notes is a flex column; restore that, not `block`
+    display: flex;
   }
 
   // Keep the file tree from scrolling underneath the docked Recent panel. This
