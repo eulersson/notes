@@ -14,6 +14,7 @@ import rehypeRaw from "rehype-raw"
 import { SKIP, visit } from "unist-util-visit"
 import path from "path"
 import { splitAnchor } from "../../util/path"
+import { slug as slugAnchor } from "github-slugger"
 import { JSResource, CSSResource } from "../../util/resources"
 // @ts-ignore
 import calloutScript from "../../components/scripts/callout.inline"
@@ -126,6 +127,16 @@ export const wikilinkRegex = new RegExp(
 // (\|([^\n])+\|\n)+   -> matches the body rows
 export const tableRegex = new RegExp(/^\|([^\n])+\|\n(\|)( ?:?-{3,}:? ?\|)+\n(\|([^\n])+\|\n?)+/gm)
 
+// Mirrors what the source-level pre-transform does to an anchor via `splitAnchor`,
+// so wikilinks that skip that pass (the ones inside tables, whose `#` is escaped
+// before it runs) still end up pointing at a real heading id. Idempotent, so it is
+// safe to run on anchors the pre-transform already normalised.
+function normalizeAnchor(anchor: string): string {
+  if (anchor === "") return ""
+  const blockRef = anchor.startsWith("#^") ? "^" : ""
+  return `#${blockRef}${slugAnchor(anchor.replace(/^#+\^?/, ""))}`
+}
+
 // matches any wikilink, only used for escaping wikilinks inside tables
 export const tableWikilinkRegex = new RegExp(/(!?\[\[[^\]]*?\]\]|\[\^[^\]]*?\])/g)
 
@@ -231,8 +242,12 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
               (value: string, ...capture: string[]) => {
                 let [rawFp, rawHeader, rawAlias] = capture
                 const fp = rawFp?.trim() ?? ""
-                const anchor = rawHeader?.trim() ?? ""
-                const alias: string | undefined = rawAlias?.slice(1).trim()
+                const rawAnchor = rawHeader?.trim() ?? ""
+                const anchor = normalizeAnchor(rawAnchor)
+                // heading-only links (`[[#Heading]]`) have no filepath to fall back on,
+                // so display the heading itself, like the pre-transform's alias does
+                const alias: string | undefined =
+                  rawAlias?.slice(1).trim() ?? (rawAnchor === "" ? undefined : rawAnchor.replace(/^#+/, ""))
 
                 // embed cases
                 if (value.startsWith("!")) {
