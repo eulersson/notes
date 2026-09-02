@@ -14,9 +14,9 @@ tags:
 > 
 > You can follow the links of the excerpts to find out the full explanation, and translation of the prayer. 
 
+## Table of Content
 ```toc
 ```
-
 ## Prostrations
 
 Prostrate 3 times while reciting this mantra:
