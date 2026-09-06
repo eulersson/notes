@@ -65,3 +65,9 @@ Video: `May 10th 2026`
 ## 3 Aspects of the Path
 
 ![[3 Aspects of the Path]]
+
+---
+
+Video: `May 15th 2026`
+
+---

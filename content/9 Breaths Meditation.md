@@ -6,7 +6,6 @@ tags:
 
 > Tib. རླུང་རོ་དགུ་ཕྲུགས།
 
-
 > [!TIP]
 > It's important to first check out [[Advice on Dzogchen Meditation]]
 
@@ -25,14 +24,6 @@ This is good to do when starting the day.
 ## Visualization
 
 While doing the exhalation visualize the color:
-- Right nostril: white. Anger.
-- Left nostril: red. Attachment.
-- Both nostrils: black. Ignorance.
-
-## Mudra and Instructions
-
-![[9 Breaths Mudra 1.jpg]]
-
-![[9 Breaths Mudra 2.jpg]]
-
-![[9 Breath Meditation Instruction.mp4]]
+- Right nostril: white. Anger
+- Left nostril: red. Attachment
+- Both nostrils: black. Ignorance

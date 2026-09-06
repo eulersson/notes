@@ -13,11 +13,11 @@ tags:
 | objective clear light  | ཡུལ་གྱི་འོད་གསལ།    | 1st Turning of the Wheel of Dharma |
 | subjective clear light | ཡུལ་ཅན་གྱི་འོད་གསལ། | 2nd Turning of the Wheel of Dharma |
 
-![[12 Cycles of Teachings on the 4 Noble Truths]]
+![[12 Cycles or Repetitions of Teachings on the 4 Noble Truths]]
 
 ## Causes of Suffering
 
-Well explained in [[Nagarjuna Examination of Self and Phenomena — Verse 5#^32dbda]]:
+Well explained in [[Nagarjuna Examination of Self and Phenomena — Mūlamadhyamakakārikā Verse 5#^32dbda]]:
 
 1. Contaminated karmas
 2. Afflictions

@@ -15,6 +15,9 @@ Tib. སྡུག་བསྔལ་གསུམ་
 | Suffering of Suffering                  | སྡུག་བསྔལ་གྱི་སྡུག་བསྔལ་      |
 | Suffering of Change                     | འགྱུར་བའི་སྡུག་བསྔལ་          |
 | All-Pervasive Suffering of Conditioning | ཁྱབ་པ་འདུ་བྱེད་ཀྱི་སྡུག་བསྔལ་ |
+
+^7b2fed
+
  
 ## Suffering of Suffering
 

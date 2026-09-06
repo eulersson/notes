@@ -24,11 +24,11 @@ The four schools (their philosophy progressively getting subtler):
 
 ### Three Turnings of the Wheel
 
-| Teaching                    | Place                        | Subject Matter                                                                                                                                                                     | Target Audience             |
-| --------------------------- | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| First Turning of the Wheel  | Sarnath, Varanasi            | [[4 Noble Truths]], and that they exist truly                                                                                                                                   | Vaibhashika and Sautrantika |
-| Second Turning of the Wheel | Gridhrakūta (Volture's Peak) | Emptiness of true existence or emptiness of self-characteristics                                                                                                                   | Madhyamaka                  |
-| Third Turning of the Wheel  | Vaishali                     | Buddha interpreted own teachings: Clarify apparent contradiction about the truly existence \[of suffering\] in 1st turning and emptiness of the 2nd, so not to fall in *nihilism*. | Chittamatra                 |
+| Teaching                    | Place                        | Subject Matter                                                                                                                                                                         | Target Audience             |
+| --------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| First Turning of the Wheel  | Sarnath, Varanasi            | [[4 Noble Truths]], and that they exist truly                                                                                                                                          | Vaibhashika and Sautrantika |
+| Second Turning of the Wheel | Gridhrakūta (Volture's Peak) | Emptiness of true existence or emptiness of self-characteristics                                                                                                                       | Madhyamaka                  |
+| Third Turning of the Wheel  | Vaishali                     | Buddha interpreted his own teachings: Clarify apparent contradiction about the truly existence \[of suffering\] in 1st turning and emptiness of the 2nd, so not to fall in *nihilism*. | Chittamatra                 |
 
 
 

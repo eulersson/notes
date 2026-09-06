@@ -6,10 +6,14 @@ tags:
 - buddhism
 ---
 
-> ལས་དང་ཉོན་མོངས་ཟད་པས་ཐར།  
-> ལས་དང་ཉོན་མོངས་རྣམ་རྟོག་ལས།  
-> དེ་དག་སྤྲོས་ལས་སྤྲོས་པ་ནི།  
-> སྟོང་པ་ཉིད་ཀྱིས་འགག་པར་འགྱུར།
+## Mūlamadhyamakakārikā — Verse 5
+
+ལས་དང་ཉོན་མོངས་ཟད་པས་ཐར།  
+ལས་དང་ཉོན་མོངས་རྣམ་རྟོག་ལས།  
+དེ་དག་སྤྲོས་ལས་སྤྲོས་པ་ནི།  
+སྟོང་པ་ཉིད་ཀྱིས་འགག་པར་འགྱུར།
+
+## Translation
 
 > Ceasing of (contaminated) karmas and afflictions is liberation.
 > Karmas and afflictions arise from conceptual thoughts (conceptualization of inappropiate attention).
@@ -17,6 +21,8 @@ tags:
 > Elaboration ceases by (or into) emptiness.
 
 ## Extracting 5 Elements
+
+Arya Nagarjuna enumerates and explains the process of the coming into being of samsara in five points.
 
 We need to know how these 5 are cause-related, so miseries I go through cease. We need to know how these 5 come into being.
 
@@ -75,6 +81,8 @@ But **inappropiate attention** and **elaboration of self-grasping ignorance** ar
 
 In [[Goals and Obscurations]] we spoke about afflictions and contaminated karma, we should now understand *Inappropriate attention* and *Self-grasping ignorance*.
 
+The dream would correspond to [[3 Types of Suffering#^7b2fed|All-Pervasive Suffering of Conditioning]].
+
 ## Inappropriate Attention
 
 When we see something we can identify: **object** + **attributes / qualities**.
@@ -101,5 +109,3 @@ When you misconceive...
 ## Collapsing into Afflictions
 
 In `10th May 2026 01:47:00` he finishes explaining that from [[#Extracting 5 Elements]] that **inappropiate attention** and **self-grasping ignorance** could be collapsed as part of the **afflictions** (yet as *subtle* afflictions, not *gross*) just as said in [[#^32dbda]].
-
-And also 

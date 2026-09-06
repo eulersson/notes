@@ -61,6 +61,10 @@ If at home: [[Water Bowl Offering]]
 
 ![[The Essence of the Dependent Origination Mantra#Audio]]
 
+## Examination of Self and Phenomena
+
+![[Nagarjuna Examination of Self and Phenomena — Mūlamadhyamakakārikā Verse 5#Mūlamadhyamakakārikā — Verse 5]]
+
 ## Seven-Line Prayer
 
 ![[Seven Line Prayer#༄༅། །གུ་རུ་རིན་པོ་ཆེའི་ཚིག་བདུན་གསོལ་འདེབས་བཞུགས་སོ། །]]

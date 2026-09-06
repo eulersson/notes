@@ -17,5 +17,3 @@ The formless realm has **four** divisions, in ascending subtlety:
 | 4   | Sphere of Neither Perception nor Non-Perception (Peak of Existence) | Naivasaṃjñānāsaṃjñāyatana / Bhavāgra | སྲིད་རྩེ        | Subtlest possible cognition |
 
 The fourth — *Bhavāgra*, "peak of existence" (སྲིད་རྩེ་, *srid rtse*) — is the highest possible rebirth in saṃsāra.
-
-Source: `class_20_wheel-of-life-part-13-of-13.md` confirms four divisions; specific names are deferred to the Master's Course and supplied here from standard Abhidharma sources.

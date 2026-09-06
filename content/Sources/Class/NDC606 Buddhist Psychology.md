@@ -19,4 +19,4 @@ We need to know what is the mechanism by which the miseries arise. *By praying a
 
 Everybody wants freedom despite being religious or not.
 
-![[Nagarjuna Examination of Self and Phenomena — Verse 5]]
+![[Nagarjuna Examination of Self and Phenomena — Mūlamadhyamakakārikā Verse 5]]
