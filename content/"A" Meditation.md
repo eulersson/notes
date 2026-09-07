@@ -7,7 +7,7 @@ tags:
 
 It's important to check first  [[Advice on Dzogchen Meditation]].
 
-![[A Meditation.png]]
+![[Tibetan A.png]]
 
 Sit and look straight at the ཨ.
 
