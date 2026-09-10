@@ -28,6 +28,10 @@ tags:
 
 *[[100-Syllable Mantra of Vajrasattva|ཡི་གེ་བརྒྱ་པ་བརྗོད།]]*
 
+![[100-Syllable Mantra of Vajrasattva#༄༅། །རྡོ་རྗེ་སེམས་དཔའི་ཡིག་བརྒྱ།]]
+
+![[100-Syllable Mantra of Vajrasattva#Audio]]
+
 རྡོར་སེམས་འོད་ཞུ་རང་ལ་ཐིམ། །
 
 ཨོཾ་ཨཱཿཧཱུྃ།
