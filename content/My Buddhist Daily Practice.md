@@ -108,13 +108,6 @@ Review the [[Advice on Dzogchen Meditation]] if needed. They are common across a
 
 ![["A" Meditation]]
 
-## Dedicating the Merits
-
-![[Dedication Prayer#༄༅། །བསྔོ་བ་སྨོན་ལམ།]]
-
-![[Dedication Prayer#Audio]]
-
-
 ## Preliminaries (Ngöndro)
 
 ![[Preliminaries Sadhana — The Excellent Path to Enlightenment#༄༅། །སྔོན་འགྲོ་མདོར་བསྡུས་བྱང་ཆུབ་ལམ་བཟང་བཞུགས་སོ། །]]
@@ -125,3 +118,10 @@ Recite extra liturgies I received from my teacher. I investigated and they are c
 
 - An adaptation [Rigdzin Düpa Sadhana](https://www.lotsawahouse.org/tibetan-masters/jigme-lingpa/rigdzin-dupa) (Gathering of Vidyādharas; inner practice of the guru).
 - And some other texts I fail to identify. #todo *Explore what are those texts I have been given to read daily*
+
+## Dedicating the Merits
+
+![[Dedication Prayer#༄༅། །བསྔོ་བ་སྨོན་ལམ།]]
+
+![[Dedication Prayer#Audio]]
+
