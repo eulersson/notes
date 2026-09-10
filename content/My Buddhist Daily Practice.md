@@ -43,6 +43,7 @@ If at home: [[Water Bowl Offering]]
 
 ![[Offering Mudras#Video]]
 
+
 ## 100-Syllable Mantra of Vajrasattva
 
 ![[100-Syllable Mantra of Vajrasattva#༄༅། །རྡོ་རྗེ་སེམས་དཔའི་ཡིག་བརྒྱ།]]
@@ -68,10 +69,6 @@ If at home: [[Water Bowl Offering]]
 ## Examination of Self and Phenomena
 
 ![[Nagarjuna Examination of Self and Phenomena — Mūlamadhyamakakārikā Verse 5#Mūlamadhyamakakārikā — Verse 5]]
-
-## Seven-Line Prayer
-
-![[Seven Line Prayer#༄༅། །གུ་རུ་རིན་པོ་ཆེའི་ཚིག་བདུན་གསོལ་འདེབས་བཞུགས་སོ། །]]
 
 ## Prayer to Manjushree
 
@@ -117,12 +114,14 @@ Review the [[Advice on Dzogchen Meditation]] if needed. They are common across a
 
 ![[Dedication Prayer#Audio]]
 
+
+## Preliminaries (Ngöndro)
+
+![[Preliminaries Sadhana — The Excellent Path to Enlightenment#༄༅། །སྔོན་འགྲོ་མདོར་བསྡུས་བྱང་ཆུབ་ལམ་བཟང་བཞུགས་སོ། །]]
+
 ## Pecha
 
-Recite *pecha* (liturgic text) I received. Best in early morning and late night to leverage memory and reading speed.
+Recite extra liturgies I received from my teacher. I investigated and they are composed of:
 
-They are composed of:
-
-- [The Excellent Path to Enlightenment by Jamyang Khyentse Wangpo](https://www.lotsawahouse.org/tibetan-masters/jamyang-khyentse-wangpo/excellent-path) (short Longchen Nyingtik ngöndro — four thoughts, refuge and bodhicitta, Vajrasattva, maṇḍala offering, and guru yoga, all in a few pages.)
-	- #todo augment the comments on the *pecha* with the actual missing prayers the author assumes I already know
-- #todo identify the rest of pages.
+- An adaptation [Rigdzin Düpa Sadhana](https://www.lotsawahouse.org/tibetan-masters/jigme-lingpa/rigdzin-dupa) (Gathering of Vidyādharas; inner practice of the guru).
+- And some other texts I fail to identify. #todo *Explore what are those texts I have been given to read daily*
