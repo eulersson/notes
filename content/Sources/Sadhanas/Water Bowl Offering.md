@@ -12,7 +12,7 @@ Never offer empty bowls (it's like offering nothing to the Buddhas, and can call
 
 ## Preparation
 
-Recite the [[Taking Refuge (Kyabdro)|Taking Refuge]] prayer.
+Recite the [[Taking Refuge Prayer|Taking Refuge]] prayer.
 
 Recite [[4 Immeasurables Prayer]].
 
