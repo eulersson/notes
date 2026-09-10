@@ -33,6 +33,6 @@ The four schools (their philosophy progressively getting subtler):
 
 
 > [!INFO]
-> Another categorization of the teachings of the Buddha: [[NDC601 3 Baskets and 3 Higher Trainings#^6c9a33|Tipitaka]].
+> Another categorization of the teachings of the Buddha: [[3 Baskets and 3 Higher Trainings#^6c9a33|Tipitaka]].
 
 Chittamatra, intellectually, were  average, not as deep thinkers as the other schools, so they were confused about the bold statements from the first turning and second which feel contradictory.

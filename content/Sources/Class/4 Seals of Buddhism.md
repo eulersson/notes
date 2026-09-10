@@ -57,7 +57,7 @@ Just as in the same way you say “I have hands, but I am not hands”.
 > [!DANGER] In Buddhism Everything is Impermanent! → ❌
 > Be careful with such statements. It's common to hear people interested in Buddhism saying such claims. Everything **that is composite** is impermanent.
 
-There is **permanent** phenomena in Buddhism. This comes later on with the [[NDC611 Tenet Systems|Tenet Systems]].
+There is **permanent** phenomena in Buddhism. This comes later on with the [[Tenet Systems|Tenet Systems]].
 
 Alexander the Great's last wills at his time of death expresses very well **gross impermanence**.
 

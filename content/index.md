@@ -33,7 +33,7 @@ How to navigate:
 - By clicking tags
 
 > [!TIP] Where to start?
-> At the moment I am putting most of my effort on [[Mustang Trip]], [[Tibetan Language/Diary/index|Tibetan Language Diary]], #tibetan-language, [[NDC600 Notes|Nalanda Diploma Course Notes]] and [[English Beginner Classes]] (ESL resources and games for children).
+> At the moment I am putting most of my effort on [[Mustang Trip]], [[Tibetan Language/Diary/index|Tibetan Language Diary]], #tibetan-language, [[NDC Notes|Nalanda Diploma Course Notes]] and [[English Beginner Classes]] (ESL resources and games for children).
 
 ## Recently updated
 

@@ -12,7 +12,7 @@ impermanent as permanent, miseries as happiness, impure as pure, selfless as sel
 3. Ignorance which misconceives impure things as pure
 4. Ignorance which misconceives what is selfless nature as selfhood
 
-They get counteracted by the [[NDC605 4 Seals of Buddhism]]
+They get counteracted by the [[4 Seals of Buddhism]]
 
 ---
 
