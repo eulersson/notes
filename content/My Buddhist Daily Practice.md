@@ -13,6 +13,10 @@ tags:
 ```toc
 style: nestedOrderedList
 ```
+## Water Bowl Offering
+
+If at home, in the morning: [[Water Bowl Offering]]
+
 ## Theravada Practice
 
 I like to practice the mind-body sensing meditations the *bhikkhu* was teaching to the *lamas* in [[Pema Tsal]] because they are universal enough and won't interfere. They build a strong base. Otherwise I don't believe they would teach them in a *sakya* monastery. If the main practice is performed at morning time, then this is suitable for evening, or viceversa.
@@ -33,22 +37,11 @@ Prostrate 3 times while reciting this mantra:
 
 ![[4 Immeasurables Prayer#༄༅། །ཚད་མེད་བཞི།།]]
 
-## Water Bowl Offering
-
-If at home: [[Water Bowl Offering]]
-
 ## Offering Mudras
 
 ![[Offering Mudras#Mantra]]
 
 ![[Offering Mudras#Video]]
-
-
-## 100-Syllable Mantra of Vajrasattva
-
-![[100-Syllable Mantra of Vajrasattva#༄༅། །རྡོ་རྗེ་སེམས་དཔའི་ཡིག་བརྒྱ།]]
-
-![[100-Syllable Mantra of Vajrasattva#Audio]]
 
 ## Brief Offering to Ekajati
 
@@ -82,6 +75,10 @@ If at home: [[Water Bowl Offering]]
 
 ![[Song of the Vajra#Audio]]
 
+## Preliminaries (Ngöndro)
+
+![[Preliminaries Sadhana — The Excellent Path to Enlightenment#༄༅། །སྔོན་འགྲོ་མདོར་བསྡུས་བྱང་ཆུབ་ལམ་བཟང་བཞུགས་སོ། །]]
+
 ## 9 Breaths Meditation
 
 ![[9 Breaths Meditation#Steps]]
@@ -108,10 +105,6 @@ Review the [[Advice on Dzogchen Meditation]] if needed. They are common across a
 
 ![["A" Meditation]]
 
-## Preliminaries (Ngöndro)
-
-![[Preliminaries Sadhana — The Excellent Path to Enlightenment#༄༅། །སྔོན་འགྲོ་མདོར་བསྡུས་བྱང་ཆུབ་ལམ་བཟང་བཞུགས་སོ། །]]
-
 ## Pecha
 
 Recite extra liturgies I received from my teacher. I investigated and they are composed of:
@@ -125,3 +118,6 @@ Recite extra liturgies I received from my teacher. I investigated and they are c
 
 ![[Dedication Prayer#Audio]]
 
+## Remove Water Bowl Offering
+
+Remember to remove it and have [[Water Bowl Offering]] ready for next day.

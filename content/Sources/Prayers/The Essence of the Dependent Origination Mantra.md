@@ -12,10 +12,7 @@ Skt. pratītyasamutpāda hṛidaya mantra, Tib. རྟེན་འབྲེལ�
 
 ## Mantra 
 
-oṃ ye dharmā hetuprabhavā  
-hetuṃ teṣāṃ tathāgato hyavadat  
-teṣāṃ ca yo nirodha  
-evaṃvādī mahāśramaṇaḥ ye svāhā
+om ye dharma hetuprabhava hetum tesham tathagato hyavadat tesham cha yo nirodha evamvadi mahashramanah ye svaha
 
 ## Audio
 
