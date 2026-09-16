@@ -7,13 +7,13 @@ tags:
 > Tib. རླུང་རོ་དགུ་ཕྲུགས།
 
 > [!TIP]
-> It's important to first check out [[Advice on Dzogchen Meditation]]
+> It's important to first check out [[Khenpo Urgyen Tsering — Advice on Dzogchen Meditation]]
 
 This is good to do when starting the day.
 
 ## Steps
 
-- Start with the mudra where thumb touches the base of the ring finger and all fingers except for index curl into the palm of the hand.
+- Start with the single point vajra mudra where thumb touches the base of the ring finger and all fingers except for index curl into the palm of the hand.
 - Place the hands at the groins and press.
 - Unfold first the right hand, and do a circular motions into ourselves before placing the finger on the right nostril.
 - Once in the nostril, inhale from the mouth deeply, and release the air through the left nostril.

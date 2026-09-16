@@ -7,7 +7,7 @@ tags:
 
 > [!WARN] Disclaimer
 > 
-> In [[3 Vehicles in Buddhism|Vajrayana]] you always need the guidance of a teacher. This is is not a secret *sadhana*, it's mostly a mix of beneficial prayers and [[Shiné]] practice. What's secret it has been hidden from the published version — yet nowadays many secret practices are available online. You can follow the links of the excerpts to find out the full explanation, and translation of the prayer. 
+> In [[3 Vehicles in Buddhism|Vajrayana]] you always need the guidance of a teacher. This is is not a secret *sadhana*, it's mostly a mix of beneficial prayers and [[Shamatha]] practice. What's secret it has been hidden from the published version — yet nowadays many secret practices are available online. You can follow the links of the excerpts to find out the full explanation, and translation of the prayer. 
 
 ## Table of Contents
 ```toc
@@ -19,8 +19,7 @@ If at home, in the morning: [[Water Bowl Offering]]
 
 ## Theravada Practice
 
-I like to practice the mind-body sensing meditations the *bhikkhu* was teaching to the *lamas* in [[Pema Tsal]] because they are universal enough and won't interfere. They build a strong base. Otherwise I don't believe they would teach them in a *sakya* monastery. If the main practice is performed at morning time, then this is suitable for evening, or viceversa.
-
+I like to practice the mind-body sensing meditations the *bhikkhu* was teaching to the *lamas* in [[Pema Tsal]] because they are universal enough and won't interfere. They build a strong base. Otherwise I don't believe they would teach them in a *sakya* monastery. If the main practice is performed at morning time, then this is suitable for evening, or 
 ![[Theravada Meditation for Vajrayana Monks#20 Minutes Daily Practice]]
 
 ## Prostrations
@@ -89,7 +88,7 @@ Prostrate 3 times while reciting this mantra:
 
 With this meditations we purify: body, speech and mind.
 
-Review the [[Advice on Dzogchen Meditation]] if needed. They are common across all meditations.
+Review the [[Khenpo Urgyen Tsering — Advice on Dzogchen Meditation]] if needed. They are common across all meditations.
 
 ### Body: Burning Vajra Yoga
 
@@ -103,7 +102,7 @@ Review the [[Advice on Dzogchen Meditation]] if needed. They are common across a
 
 ### Mind: A Meditation
 
-![["A" Meditation]]
+![["A" ཨ Meditation]]
 
 ## Pecha
 

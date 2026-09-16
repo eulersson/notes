@@ -16,4 +16,6 @@ The formless realm has **four** divisions, in ascending subtlety:
 | 3   | Sphere of Vacuity (Nothingness)                                     | Ākiñcanyāyatana                      | ཅི་ཡང་མེད་      | "There is nothing"          |
 | 4   | Sphere of Neither Perception nor Non-Perception (Peak of Existence) | Naivasaṃjñānāsaṃjñāyatana / Bhavāgra | སྲིད་རྩེ        | Subtlest possible cognition |
 
+^e9d463
+
 The fourth — *Bhavāgra*, "peak of existence" (སྲིད་རྩེ་, *srid rtse*) — is the highest possible rebirth in saṃsāra.

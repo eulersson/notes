@@ -9,9 +9,9 @@ tags:
 > [!WARN] Disclaimer
 > I'm a beginner and my involvement in the [[Dzogchen]] is not as strong as many serious practitioners, so these notes I believe [[Khenpo Urgyen Tsering]] adapted for a smaller-capacity person, such me.
 
-We are a composite of *feelings*, *mind*, and *thought* on one side and *body* and *speech* on the other. The *feelings* can drag the rest of aggregates around. To illustrate it, he showed the famous painting [[9 Stages of Samatha]] (monkey = thought, elephant = mind, lama = mindfulness). The mind is the boss.
+We are a composite of *feelings*, *mind*, and *thought* on one side and *body* and *speech* on the other. The *feelings* can drag the rest of aggregates around. To illustrate it, he showed the famous painting [[9 Stages of Shamatha]] (monkey = thought, elephant = mind, lama = mindfulness). The mind is the boss.
 
-With [[Shiné|Shiné or Calm Abiding]] we control the thought through the use of *mindfulness*, instead of approaching the speech or body directly. The Buddha gave many teachings because there are many different thoughts.
+With [[Shamatha|Shamatha or Calm Abiding]] we control the thought through the use of *mindfulness*, instead of approaching the speech or body directly. The Buddha gave many teachings because there are many different thoughts.
 
 There is a correspondence between the number of senses and the number of realms: 6 senses → 6 realms.
 
@@ -19,9 +19,9 @@ The spine must be straight pointing up, so the *lung* (air) can flow freely.
 
 The tongue tip touches the back of the teeth creating a slope for the saliva to slide back into the throat.
 
-In the general [[Shiné]] the hands are placed on top of the other and thumbs touch, but in [[Dzogpa Chenpo]] they are placed on our knees and it a way to express *"Oh, we have lived through all realms for many lifes, so I relax."*.
+In the general [[Shamatha]] the hands are placed on top of the other and thumbs touch, but in [[Dzogpa Chenpo]] they are placed on our knees and it a way to express *"Oh, we have lived through all realms for many lifes, so I relax."*.
 
-Another aspect of this type of [[Shiné]] is that we look straight instead of looking down ([[Theravada|hinayana]] way). By looking forward we can visualize elements and also we can feel more awake. The meditations get clear and it's more difficult to fall under dullness. [[Dzogchen]]'s [[Shiné]] is more energetic and active in that sense, and clear.
+Another aspect of this type of [[Shamatha]] is that we look straight instead of looking down ([[Theravada|hinayana]] way). By looking forward we can visualize elements and also we can feel more awake. The meditations get clear and it's more difficult to fall under dullness. [[Dzogchen]]'s [[Shamatha]] is more energetic and active in that sense, and clear.
 
 The *[[3 Vehicles in Buddhism|hinayana]]* way analyses attachment and where does it come from, boiling it down to particles (called [[Atta Kalapa]]). The *[[3 Vehicles in Buddhism|mahayana]]* way questions those particles further and sees that they are empty of existence too. And the *[[3 Vehicles in Buddhism|vajrayana]]* way is visualizing the gods and their influence in all those interactions on top of that.
 
