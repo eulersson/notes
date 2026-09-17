@@ -14,7 +14,7 @@ Never offer empty bowls (it's like offering nothing to the Buddhas, and can call
 
 Recite the [[Taking Refuge Prayer|Taking Refuge]] prayer.
 
-Recite [[4 Immeasurables Prayer]].
+Recite [[4 Imeasurables Prayer]].
 
 Prostrate 3 times.
 

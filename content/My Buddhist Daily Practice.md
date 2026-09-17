@@ -28,13 +28,18 @@ Prostrate 3 times while reciting this mantra:
 
  ![[Prostration Mantra#Mantra]]
 
-## Going for Refuge
+## Refuge and Bodhicitta Prayer
 
-![[Taking Refuge Prayer#༄༅། །སྐྱབས་འགྲོ།།]]
+![[Taking Refuge Prayer#༄༅། །སྐྱབས་འགྲོ་སེམས་བསྐྱེད།།]]
 
-## Four Immeasurables
 
-![[4 Immeasurables Prayer#༄༅། །ཚད་མེད་བཞི།།]]
+> [!NOTE]
+> Generate a bodhicitta mind.
+
+
+## Four Imeasurables
+
+![[4 Imeasurables Prayer#༄༅། །ཚད་མེད་བཞི།།]]
 
 ## Offering Mudras
 
@@ -110,6 +115,12 @@ Recite extra liturgies I received from my teacher. I investigated and they are c
 
 - An adaptation [Rigdzin Düpa Sadhana](https://www.lotsawahouse.org/tibetan-masters/jigme-lingpa/rigdzin-dupa) (Gathering of Vidyādharas; inner practice of the guru).
 - And some other texts I fail to identify. #todo *Explore what are those texts I have been given to read daily*
+
+## Sur Offering
+
+#todo
+
+![[Sur Offering Prayer]]
 
 ## Dedicating the Merits
 

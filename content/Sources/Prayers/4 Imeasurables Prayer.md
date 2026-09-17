@@ -21,6 +21,10 @@ May they be free from suffering and the causes of suffering!
 May they never be separated from the sacred happiness devoid of suffering!
 And may they dwell in boundless equanimity that is free from attachment and aversion!
 
+## Audio
+
+![[Four Immesurables.m4a]]
+
 ## Notes
 
 The four immeasurables: loving-kindness (unconditional love), compassion (feeling and responding to the suffering of others), empathetic joy (joy in the happiness and success of others), and equanimity (inner balance and peace regardless of circumstances)
