@@ -12,7 +12,7 @@ Never offer empty bowls (it's like offering nothing to the Buddhas, and can call
 
 ## Preparation
 
-Recite the [[Taking Refuge Prayer|Taking Refuge]] prayer.
+Recite the [[Refuge and Bodhicitta Prayer|Taking Refuge]] prayer.
 
 Recite [[4 Imeasurables Prayer]].
 

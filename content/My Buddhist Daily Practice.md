@@ -24,13 +24,13 @@ I like to practice the mind-body sensing meditations the *bhikkhu* was teaching 
 
 ## Prostrations
 
-Prostrate 3 times while reciting this mantra:
+Prostrate 3 times while reciting:
 
- ![[Prostration Mantra#Mantra]]
+ ![[Nyingtik Prostration Prayer#Prayer]]
 
 ## Refuge and Bodhicitta Prayer
 
-![[Taking Refuge Prayer#༄༅། །སྐྱབས་འགྲོ་སེམས་བསྐྱེད།།]]
+![[Refuge and Bodhicitta Prayer#༄༅། །སྐྱབས་འགྲོ་སེམས་བསྐྱེད།།]]
 
 
 > [!NOTE]
