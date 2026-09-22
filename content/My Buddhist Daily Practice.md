@@ -26,7 +26,7 @@ I like to practice the mind-body sensing meditations the *bhikkhu* was teaching 
 
 Prostrate 3 times while reciting:
 
- ![[Nyingtik Prostration Prayer#Prayer]]
+ ![[Nyingtik Prostration Prayer#Nyingtik Prostration Prayer]]
 
 ## Refuge and Bodhicitta Prayer
 
@@ -107,7 +107,7 @@ Review the [[Khenpo Urgyen Tsering — Advice on Dzogchen Meditation]] if needed
 
 ### Mind: A Meditation
 
-![["A" ཨ Meditation]]
+![["A" ཨ Meditation#Image]]
 
 ## Pecha
 
