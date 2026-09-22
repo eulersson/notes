@@ -116,11 +116,11 @@ Recite extra liturgies I received from my teacher. I investigated and they are c
 - An adaptation [Rigdzin Düpa Sadhana](https://www.lotsawahouse.org/tibetan-masters/jigme-lingpa/rigdzin-dupa) (Gathering of Vidyādharas; inner practice of the guru).
 - And some other texts I fail to identify. #todo *Explore what are those texts I have been given to read daily*
 
-## Sur Offering
+## Butter Lamp Offering
 
-#todo
+![[Butter Lamp Offering Prayer#༄༅། །མར་མེའི་སྨོན་ལམ།]]
 
-![[Sur Offering Prayer]]
+![[Butter Lamp Offering Prayer#Audio]]
 
 ## Dedicating the Merits
 
