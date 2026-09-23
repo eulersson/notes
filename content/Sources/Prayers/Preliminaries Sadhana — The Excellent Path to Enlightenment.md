@@ -67,6 +67,8 @@ tags:
 
 *[[Dedication Prayer|དགེ་བ་བསྔོའོ།།]]*
 
+![[Dedication Prayer#༄༅། །བསྔོ་བ་སྨོན་ལམ།]]
+
 ## Translation
 
 Guru, care for me! *Three times*
