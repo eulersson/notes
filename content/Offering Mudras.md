@@ -21,6 +21,9 @@ oṃ guru ārya lokeśvara saparivāra śabda pratīccha svāhā
 
 ![[Offering Mudras.mp4]]
 
+### Short Version
+
+![[Offering Mudras Short.mp4]]
 
 ## Explanation
 
