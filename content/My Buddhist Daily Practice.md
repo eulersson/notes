@@ -13,11 +13,11 @@ tags:
 ```toc
 style: nestedOrderedList
 ```
-## Water Bowl Offering
+## Morning: Water Bowl Offering
 
 If at home, in the morning: [[Water Bowl Offering]]
 
-## Theravada Practice
+## Morning: Theravada Practice
 
 I like to practice the mind-body sensing meditations the *bhikkhu* was teaching to the *lamas* in [[Pema Tsal]] because they are universal enough and won't interfere. They build a strong base. Otherwise I don't believe they would teach them in a *sakya* monastery. If the main practice is performed at morning time, then this is suitable for evening, or 
 ![[Theravada Meditation for Vajrayana Monks#20 Minutes Daily Practice]]
@@ -128,6 +128,6 @@ Recite extra liturgies I received from my teacher. I investigated and they are c
 
 ![[Dedication Prayer#Audio]]
 
-## Remove Water Bowl Offering
+## Evening: Remove Water Bowl Offering
 
 Remember to remove it and have [[Water Bowl Offering]] ready for next day.
