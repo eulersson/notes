@@ -5,12 +5,18 @@ tags:
 - prayer
 ---
 
-༈ ཤེས་བྱ་ཐམས་ཅད་གཟིགས་པའི་སྤྱན་ཡངས་པ་། །
+## Sakya Pandita Kunga Gyaltzen
+
+ཤེས་བྱ་ཐམས་ཅད་གཟིགས་པའི་སྤྱན་ཡངས་པ་། །
 འགྲོ་ཀུན་དགེ་ལེགས་སྒྲུབ་པའི་ཐུགས་རྗེ་ཅན། །
 བསམ་ཡས་ཕྲིན་ལས་མཛད་པའི་སྟོབས་མངའ་བ། །
 འཇམ་མགོན་བླ་མའི་ཞབས་ལ་གོས་ཕྱགས་འཚལ། །
 
+## Audio
+
 ![[Kunga Gyaltzen Prayer.mp3]]
+
+## Phonetics
 
 shéja tamché zikpé chen yangpa
 dro kün gelek drubpé tukjé chen

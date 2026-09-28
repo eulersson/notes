@@ -79,6 +79,12 @@ Prostrate 3 times while reciting:
 
 ![[Song of the Vajra#Audio]]
 
+## Sakya Pandita
+
+![[Sakya Pandita Kunga Gyaltzen#Sakya Pandita Kunga Gyaltzen]]
+
+![[Sakya Pandita Kunga Gyaltzen#Audio]]
+§
 ## Preliminaries (Ngöndro)
 
 ![[Preliminaries Sadhana — The Excellent Path to Enlightenment#༄༅། །སྔོན་འགྲོ་མདོར་བསྡུས་བྱང་ཆུབ་ལམ་བཟང་བཞུགས་སོ། །]]
