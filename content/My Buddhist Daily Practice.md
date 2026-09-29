@@ -22,12 +22,23 @@ If at home, in the morning: [[Water Bowl Offering]]
 I like to practice the mind-body sensing meditations the *bhikkhu* was teaching to the *lamas* in [[Pema Tsal]] because they are universal enough and won't interfere. They build a strong base. Otherwise I don't believe they would teach them in a *sakya* monastery. If the main practice is performed at morning time, then this is suitable for evening, or 
 ![[Theravada Meditation for Vajrayana Monks#20 Minutes Daily Practice]]
 
+## 8 Auspicious Sings
+
+## Wangdu soldeb, cloud of blessing
+
+## Prayer to Manjushree
+
+![[Prayer to Manjushri#༄༅། །འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ།།]]
+
+![[Prayer to Manjushri#Audio]]
+
+
+
 ## Prostrations
 
 Prostrate 3 times while reciting:
 
  ![[Nyingtik Prostration Prayer#Nyingtik Prostration Prayer]]
-
 ## Refuge and Bodhicitta Prayer
 
 ![[Refuge and Bodhicitta Prayer#༄༅། །སྐྱབས་འགྲོ་སེམས་བསྐྱེད།།]]
@@ -41,17 +52,13 @@ Prostrate 3 times while reciting:
 
 ![[4 Imeasurables Prayer#༄༅། །ཚད་མེད་བཞི།།]]
 
+## Confession
+
 ## Offering Mudras
 
 ![[Offering Mudras#Mantra]]
 
 ![[Offering Mudras#Video]]
-
-## Brief Offering to Ekajati
-
-![[Brief Offering Prayer to Ekajati#༄༅། །ཨེ་ཀ་ཛ་ཊཱིའི་གསོལ་བསྡུས།]]
-
-![[Brief Offering Prayer to Ekajati#Audio]]
 
 ## Prayer to Guru Rinpoche
 
@@ -67,12 +74,6 @@ Prostrate 3 times while reciting:
 
 ![[Nagarjuna Examination of Self and Phenomena — Mūlamadhyamakakārikā Verse 5#Mūlamadhyamakakārikā — Verse 5]]
 
-## Prayer to Manjushree
-
-![[Prayer to Manjushri#༄༅། །འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ།།]]
-
-![[Prayer to Manjushri#Audio]]
-
 ## Song of the Vajra
 
 ![[Song of the Vajra#༄༅། །རྡོ་རྗེའི་གླུ། །]]
@@ -84,7 +85,7 @@ Prostrate 3 times while reciting:
 ![[Sakya Pandita Kunga Gyaltzen#Sakya Pandita Kunga Gyaltzen]]
 
 ![[Sakya Pandita Kunga Gyaltzen#Audio]]
-§
+
 ## Preliminaries (Ngöndro)
 
 ![[Preliminaries Sadhana — The Excellent Path to Enlightenment#༄༅། །སྔོན་འགྲོ་མདོར་བསྡུས་བྱང་ཆུབ་ལམ་བཟང་བཞུགས་སོ། །]]
@@ -127,6 +128,13 @@ Recite extra liturgies I received from my teacher. I investigated and they are c
 ![[Butter Lamp Offering Prayer#༄༅། །མར་མེའི་སྨོན་ལམ།]]
 
 ![[Butter Lamp Offering Prayer#Audio]]
+
+## Brief Offering to Ekajati
+
+![[Brief Offering Prayer to Ekajati#༄༅། །ཨེ་ཀ་ཛ་ཊཱིའི་གསོལ་བསྡུས།]]
+
+![[Brief Offering Prayer to Ekajati#Audio]]
+
 
 ## Dedicating the Merits
 
