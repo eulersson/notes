@@ -56,9 +56,9 @@ If at home, in the morning: [[Water Bowl Offering]]
 
 ### Prayer to Manjushree
 
-![[Prayer to Manjushri#༄༅། །འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ།།]]
+![[Manjushri Gangloma#༄༅། །འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ།།]]
 
-![[Prayer to Manjushri#Audio]]
+![[Manjushri Gangloma#Audio]]
 
 
 ### Prostrations and Refuge
@@ -68,7 +68,7 @@ Prostrate 3 times while reciting the **refuge prayer**.
  ![[Nyingtik Refuge#༄༅། །སྐྱབས་སུ་འགྲོ་བ། །]]
 ### Bodhicitta Prayer
 
-![[Nyingthik Bodhicitta Prayer#༄༅། །སེམས་བསྐྱེད་པ། །]]
+![[Bodhicitta#༄༅། །སེམས་བསྐྱེད་པ། །]]
 
 
 > [!NOTE]
@@ -157,11 +157,11 @@ I like to practice the mind-body sensing meditations the *bhikkhu* was teaching 
 
 ### 10th Guru Rinpoche Day
 
-On the 10th day of the lunar calendar it's good to offer to [[Guru Rinpoche]].
+On the 10th day of the lunar calendar it's good to offer to [[Drafts/Guru Rinpoche]].
 
 #### 21 Prayer to Guru Rinpoche
 
-![[Prayer to Guru Rinpoche#༄༅། །གསོལ་འདེབས་རྒྱ་གར་པཎ་ཆེན་མ་བཞུགས།]]
+![[Guru Rinpoche Supplication#༄༅། །གསོལ་འདེབས་རྒྱ་གར་པཎ་ཆེན་མ་བཞུགས།]]
 
 #### 21 Seven-Line Prayer
 

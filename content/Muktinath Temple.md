@@ -8,7 +8,7 @@ Area with various temples workshipped both by Buddhists and Hindus.
 
 ![[Muktinath Temple.jpeg]]
 
-The Hindus see it as the abode of Vishnu. And for Buddhists it's seen as a land where daikinis and [[Guru Rinpoche]] meditated (*Hundred Waters* ཆུ་མིག་བརྒྱ་རྩ་)..
+The Hindus see it as the abode of Vishnu. And for Buddhists it's seen as a land where daikinis and [[Drafts/Guru Rinpoche]] meditated (*Hundred Waters* ཆུ་མིག་བརྒྱ་རྩ་)..
 
 The element of water purification is present: there are 108 water taps arranged in a semicircle as well as two ponds. Devotees run under the extremely cold 108 waters and then dio into those ponds — one for Lakshmi (wealth, prosperity) and one for Saraswati (wisdom). After “having washed impurities” or “sins” they cloth and proceed into the temple.
 
@@ -24,12 +24,12 @@ No access was allowed in the statue room, you could only see it from a window. B
 
 ![[Muktinath Drolma Mebar.jpeg]]
 
-Nearby there was also a Buddhist temple to [[Guru Rinpoche]] with a very old Padmasambhava statue and a park with a big stone Buddha Shakyamuni statue.
+Nearby there was also a Buddhist temple to [[Drafts/Guru Rinpoche]] with a very old Padmasambhava statue and a park with a big stone Buddha Shakyamuni statue.
 
 ![[Muktinath Guru Rinpoche Temple.jpeg]]
 ![[Muktinath Temple Buddha Statue.jpeg]]
 
-Outside of the temple complex there's a big [[Guru Rinpoche]] statue with nice views very suitable for practice.
+Outside of the temple complex there's a big [[Drafts/Guru Rinpoche]] statue with nice views very suitable for practice.
 
 ![[Muktinath Padmasambhava 001.jpeg]]
 

@@ -5,13 +5,13 @@ tags:
 - pilgrimage
 ---
 
-It's said that [[Guru Rinpoche]] after achieving immortality came here to meditate and go deeper into practice. He found this area very beneficial because the trees and plants were all medicinal.
+It's said that [[Drafts/Guru Rinpoche]] after achieving immortality came here to meditate and go deeper into practice. He found this area very beneficial because the trees and plants were all medicinal.
 
 He practiced in the **Yangdeshö Cave** (Tib. ཡང་ལེ་ཤོད་ཀྱི་བྲག་ཕུག)  despite having [[Nagas]] acting as obstacles around him. He achieved *siddhis*. Finally he subdued those *nagas* as protectors. When he left the cave the *nagas* went for him and he melted them into the cliff that can be seen above:
 
 ![[Yangleshö Cave Nagas.mp4]]
 
-It's said also that the [[Nagas]] caused natural obstacles, such as stopping the water springs the hill is infused with. After 3 years, [[Guru Rinpoche]] subdued them and ask them to bring it back. There are some ponds and water taps where you can clearly see how pure the water is: in other ponds the water is translucent or opaque with a green tone, but in that area it was crystal clear, and you could count even the smallest stones underneath, among the various fishes that moved around.
+It's said also that the [[Nagas]] caused natural obstacles, such as stopping the water springs the hill is infused with. After 3 years, [[Drafts/Guru Rinpoche]] subdued them and ask them to bring it back. There are some ponds and water taps where you can clearly see how pure the water is: in other ponds the water is translucent or opaque with a green tone, but in that area it was crystal clear, and you could count even the smallest stones underneath, among the various fishes that moved around.
 
 When visiting the holy place you usually visit these three places:
 
