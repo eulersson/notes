@@ -14,7 +14,14 @@ tags:
 
 ## Translation
 
+སངས་རྒྱས་ཆོས་དང་ཚོགས་ཀྱི་མཆོག་རྣམས་ལ། །
 In the Buddha, the Dharma and the Supreme Assembly
+
+བྱང་ཆུབ་བར་དུ་བདག་ནི་སྐྱབས་སུ་མཆི། །
 I take refuge until I attain enlightenment.
+
+བདག་གི་སྦྱིན་སོགས་བགྱིས་པའི་ཚོགས་ནམས་ཀྱིས། །
 Through the merit of practising generosity and so on,
+
+འགྲོ་ལ་ཕན་ཕྱིར་སངས་རྒྱས་འགྲུབ་པར་ཤོག །
 May I attain buddhahood for the benefit of all beings.

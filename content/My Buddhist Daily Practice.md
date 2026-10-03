@@ -78,6 +78,7 @@ Prostrate 3 times while reciting the **refuge prayer**.
 ### Eight Auspcious Signs
 
 #awaiting-answer 
+![[The Verses of the Eight Noble Auspicious Ones]]
 
 ### Mudra Offering
 

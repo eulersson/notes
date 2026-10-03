@@ -16,6 +16,6 @@ tags:
 ## Phonetics
 
 om benza sato samaya | manupalaya | benza sato tenopa tishta dridho mé bhava | sutokhayo mé bhava | supokhayo mé bhava | anurakto mé bhava | sarva siddhi mé prayaccha | sarva karma su tsa mé | tsittam shreyang | kuru hung | ha ha ha ha ho | bhagavan | sarva tatagata benza ma mé muntsa benzi bhava maha samaya sato ah
-## Sources
+## Source
 
 [Lotsawa House - Vajrasattva Visualization and Recitation](https://www.lotsawahouse.org/tibetan-masters/shabkar/vajrasattva-visualization-recitation)
