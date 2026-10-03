@@ -71,6 +71,8 @@ const config: QuartzConfig = {
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      // Before Description, so the page description and search text lose the delimiters.
+      Plugin.SmallText(),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Tibetan(),
