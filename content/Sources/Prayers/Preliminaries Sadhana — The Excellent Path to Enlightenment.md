@@ -52,11 +52,11 @@ tags:
 བརྒྱུད་གསུམ་རིག་འཛིན་རྒྱ་མཚོས་སྐོར། །
 སྐྱབས་ཀུན་འདུས་པའི་ངོ་བོར་བཞུགས། །
 
-*[[Prayer to Guru Rinpoche|ཚིག་བདུན་གསོལ་འདེབས་]]དང་[[Tibetan Common Mantras|བསྙེན་པ་བཛྲ་གུ་རུ་ལ་འབད]]།*
+*[[Prayer to Guru Rinpoche|ཚིག་བདུན་གསོལ་འདེབས་]]དང་[[Tibetan Mantras|བསྙེན་པ་བཛྲ་གུ་རུ་ལ་འབད]]།*
 
 ![[Seven Line Prayer#༄༅། །གུ་རུ་རིན་པོ་ཆེའི་ཚིག་བདུན་གསོལ་འདེབས་བཞུགས་སོ། །]]
 
-![[Tibetan Common Mantras#Guru Rinpoche Mantra]]
+![[Tibetan Mantras#Guru Rinpoche Mantra]]
 
 *མཐར།*
 
@@ -117,11 +117,11 @@ Is my own root guru in the form of Padma Tötreng Tsal,
 Surrounded by a vast gathering of vidyādharas of the three transmissions,
 And embodying every source of refuge.
 
-_Put your energy into reciting the [[Seven Line Prayer|Seven-Line Prayer]] and the [[Tibetan Common Mantras#Guru Rinpoche Mantra|Vajra Guru mantra]]. 
+_Put your energy into reciting the [[Seven Line Prayer|Seven-Line Prayer]] and the [[Tibetan Mantras#Guru Rinpoche Mantra|Vajra Guru mantra]]. 
 
 ![[Seven Line Prayer#Translation]]
 
-![[Tibetan Common Mantras#Guru Rinpoche Mantra]]
+![[Tibetan Mantras#Guru Rinpoche Mantra]]
 
 _At the end, recite:_
 

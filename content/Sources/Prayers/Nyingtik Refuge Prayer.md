@@ -1,11 +1,14 @@
 ---
 publish: true
 tags:
+- tibetan-buddhism
 - prayer
-- ritual
+- nyingthik
 ---
 
-## Nyingtik Prostration Prayer
+This prayer is also used for prostration.
+
+## ༄༅། །སྐྱབས་སུ་འགྲོ་བ། །
 
 དཀོན་མཆོག་གསུམ་དངོས་བདེ་གཤེགས་རྩ་བ་གསུམ། །
 རྩ་རླུང་ཐིག་ལེའི་རང་བཞིན་བྱང་ཆུབ་སེམས། །
@@ -25,3 +28,7 @@ essence-nature-and-capacity.GEN mandala OBL
 
 བྱང་ཆུབ་སྙིང་པོའི་བར་དུ་སྐྱབས་སུ་མཆི། ། 
 supreme-enlightenment.GEN interstice OBL go-for-refuge
+
+## Explanation
+
+#awaiting-answer

@@ -7,141 +7,179 @@ tags:
 
 > [!WARN] Disclaimer
 > 
-> In [[3 Vehicles in Buddhism|Vajrayana]] you always need the guidance of a teacher. This is is not a secret *sadhana*, it's mostly a mix of beneficial prayers and [[Shamatha]] practice. What's secret it has been hidden from the published version — yet nowadays many secret practices are available online. You can follow the links of the excerpts to find out the full explanation, and translation of the prayer. 
+> In [[3 Vehicles in Buddhism|Vajrayana]] you always need the guidance of a teacher. This is is not a secret *sadhana*, it's mostly a mix of beneficial prayers — with an inclination towards [[Longchen Nyingthig]] *nyingma* tradition — and [[Shamatha]] practice. What's secret it has been hidden from the published version — yet nowadays many secret practices are available online. You can follow the links of the excerpts to find out the full explanation, and translation of the prayer. 
 
 ## Table of Contents
 ```toc
 style: nestedOrderedList
 ```
-## Morning: Water Bowl Offering
+
+## Core Essentials
+
+If have very little time only do:
+
+- [[#Prostrations and Refuge]]
+- [[#Bodhicitta Prayer]]
+- [[#Preliminaries (Ngöndro)]]
+- [[#Mind A Meditation]]
+
+## Prerequisites
+
+There are four [[Shamatha]] meditations scattered in the document to purify **body**, **speech**, and **mind**: 
+
+- [[#9 Breaths Meditation]]
+- (body) [[#Vajra Yoga]]
+- (speech) [[#Breath Meditation]]
+- (mind) [[#“A” Meditation]]
+
+Review the [[Khenpo Urgyen Tsering — Advice on Dzogchen Meditation]] if needed. They are common across all meditations.
+
+## After Wakup
+
+### Water Bowl Offering
 
 If at home, in the morning: [[Water Bowl Offering]]
 
-## Morning: Theravada Practice
+### 9 Breaths Meditation
 
-I like to practice the mind-body sensing meditations the *bhikkhu* was teaching to the *lamas* in [[Pema Tsal]] because they are universal enough and won't interfere. They build a strong base. Otherwise I don't believe they would teach them in a *sakya* monastery. If the main practice is performed at morning time, then this is suitable for evening, or 
-![[Theravada Meditation for Vajrayana Monks#20 Minutes Daily Practice]]
+![[9 Breaths Meditation#Steps]]
 
-## 8 Auspicious Sings
+![[9 Breaths Meditation#Visualization]]
 
-## Wangdu soldeb, cloud of blessing
 
-## Prayer to Manjushree
+
+### Vajra Yoga
+
+![[Vajra Position#Vajra Position]]
+
+## Morning
+
+### Prayer to Manjushree
 
 ![[Prayer to Manjushri#༄༅། །འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ།།]]
 
 ![[Prayer to Manjushri#Audio]]
 
 
+### Prostrations and Refuge
 
-## Prostrations
+Prostrate 3 times while reciting the **refuge prayer**.
 
-Prostrate 3 times while reciting:
+ ![[Nyingtik Refuge Prayer#༄༅། །སྐྱབས་སུ་འགྲོ་བ། །]]
+### Bodhicitta Prayer
 
- ![[Nyingtik Prostration Prayer#Nyingtik Prostration Prayer]]
-## Refuge and Bodhicitta Prayer
-
-![[Refuge and Bodhicitta Prayer#༄༅། །སྐྱབས་འགྲོ་སེམས་བསྐྱེད།།]]
+![[Nyingthik Bodhicitta Prayer#༄༅། །སེམས་བསྐྱེད་པ། །]]
 
 
 > [!NOTE]
 > Generate a bodhicitta mind.
 
 
-## Four Imeasurables
+### Eight Auspcious Signs
 
-![[4 Imeasurables Prayer#༄༅། །ཚད་མེད་བཞི།།]]
+#awaiting-answer 
 
-## Confession
-
-## Offering Mudras
+### Mudra Offering
 
 ![[Offering Mudras#Mantra]]
 
 ![[Offering Mudras#Video]]
 
-## Prayer to Guru Rinpoche
 
-![[Prayer to Guru Rinpoche#༄༅། །གསོལ་འདེབས་རྒྱ་གར་པཎ་ཆེན་མ་བཞུགས།]]
+### Wangdu Soldeb
 
-## The Essence of the Dependent Origination Mantra
+#awaiting-answer 
+
+### Confession
+
+#awaiting-answer
+
+### The Essence of the Dependent Origination Mantra
 
 ![[The Essence of the Dependent Origination Mantra#Mantra]]
 
 ![[The Essence of the Dependent Origination Mantra#Audio]]
 
-## Examination of Self and Phenomena
+### Examination of Self and Phenomena
 
 ![[Nagarjuna Examination of Self and Phenomena — Mūlamadhyamakakārikā Verse 5#Mūlamadhyamakakārikā — Verse 5]]
 
-## Song of the Vajra
+### Song of the Vajra
 
 ![[Song of the Vajra#༄༅། །རྡོ་རྗེའི་གླུ། །]]
 
 ![[Song of the Vajra#Audio]]
 
-## Sakya Pandita
+### Sakya Pandita
 
 ![[Sakya Pandita Kunga Gyaltzen#Sakya Pandita Kunga Gyaltzen]]
 
 ![[Sakya Pandita Kunga Gyaltzen#Audio]]
 
-## Preliminaries (Ngöndro)
+### Preliminaries (Ngöndro)
 
 ![[Preliminaries Sadhana — The Excellent Path to Enlightenment#༄༅། །སྔོན་འགྲོ་མདོར་བསྡུས་བྱང་ཆུབ་ལམ་བཟང་བཞུགས་སོ། །]]
 
-## 9 Breaths Meditation
-
-![[9 Breaths Meditation#Steps]]
-
-![[9 Breaths Meditation#Visualization]]
-
-## Dzogchen Purification Practice
-
-With this meditations we purify: body, speech and mind.
-
-Review the [[Khenpo Urgyen Tsering — Advice on Dzogchen Meditation]] if needed. They are common across all meditations.
-
-### Body: Burning Vajra Yoga
-
-![[Vajra Position#Vajra Pose]]
-
-![[Vajra Position#Audio]]
-
-### Speech: Om Ah Hung Breath
-
-![[Om Ah Hung Breath Meditation]]
-
-### Mind: A Meditation
-
-![["A" ཨ Meditation#Image]]
-
-## Pecha
-
-Recite extra liturgies I received from my teacher. I investigated and they are composed of:
-
-- An adaptation [Rigdzin Düpa Sadhana](https://www.lotsawahouse.org/tibetan-masters/jigme-lingpa/rigdzin-dupa) (Gathering of Vidyādharas; inner practice of the guru).
-- And some other texts I fail to identify. #todo *Explore what are those texts I have been given to read daily*
-
-## Butter Lamp Offering
-
-![[Butter Lamp Offering Prayer#༄༅། །མར་མེའི་སྨོན་ལམ།]]
-
-![[Butter Lamp Offering Prayer#Audio]]
-
-## Brief Offering to Ekajati
+### Brief Offering to Ekajati
 
 ![[Brief Offering Prayer to Ekajati#༄༅། །ཨེ་ཀ་ཛ་ཊཱིའི་གསོལ་བསྡུས།]]
 
 ![[Brief Offering Prayer to Ekajati#Audio]]
 
+### “A” Meditation
 
-## Dedicating the Merits
+![["A" ཨ Meditation#Image]]
 
-![[Dedication Prayer#༄༅། །བསྔོ་བ་སྨོན་ལམ།]]
 
-![[Dedication Prayer#Audio]]
+## Afternoon
 
-## Evening: Remove Water Bowl Offering
+### Breath Meditation
+
+![[Om Ah Hung Breath Meditation]]
+
+## Evening
+
+### Remove Water Bowl Offering
 
 Remember to remove it and have [[Water Bowl Offering]] ready for next day.
+
+### Theravada Meditations
+
+I like to practice the mind-body sensing meditations the *bhikkhu* was teaching to the *lamas* in [[Pema Tsal]] because they are universal enough and won't interfere. They build a strong base. Otherwise I don't believe they would teach them in a *sakya* monastery. If the main practice is performed at morning time, then this is suitable for evening, or 
+![[Theravada Meditation for Vajrayana Monks#20 Minutes Daily Practice]]
+
+### Butter Lamp Offering
+
+![[Butter Lamp Offering Prayer#༄༅། །མར་མེའི་སྨོན་ལམ།]]
+
+![[Butter Lamp Offering Prayer#Audio]]
+
+## Special Days
+
+### 10th Guru Rinpoche Day
+
+On the 10th day of the lunar calendar it's good to offer to [[Guru Rinpoche]].
+
+#### 21 Prayer to Guru Rinpoche
+
+![[Prayer to Guru Rinpoche#༄༅། །གསོལ་འདེབས་རྒྱ་གར་པཎ་ཆེན་མ་བཞུགས།]]
+
+#### 21 Seven-Line Prayer
+
+![[Seven Line Prayer#༄༅། །གུ་རུ་རིན་པོ་ཆེའི་ཚིག་བདུན་གསོལ་འདེབས་བཞུགས་སོ། །]]
+
+#### 108 Guru Rinpoche Mantra
+
+![[Tibetan Mantras#Guru Rinpoche Mantra]]
+
+#### Offering Tsok
+
+Offer something (e.g. tea) to Guru Rinpoche
+
+![[Song of the Feast]]
+
+### 15th Buddha Sakyamuni Day
+
+#### 108 Buddha Sakyamuni Mantra
+
+![[Tibetan Mantras#Buddha Sakyamuni]]

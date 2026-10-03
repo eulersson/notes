@@ -1,14 +1,16 @@
 ---
 publish: true
 tags:
+- tibetan-buddhism
 - meditation
+- shamatha
 - yoga
 - dzogchen
 ---
 
-Vajra Position - Adopting the Standing Position of the Blue Three-pointed Vajra Blazing With Fire
+Vajra Position - Adopting the Standing Position of the Blue Three-Pointed Vajra Blazing With Fire
 
-## Vajra Pose
+## Vajra Position
 
 ![[Vajra Pose.png]]
 
