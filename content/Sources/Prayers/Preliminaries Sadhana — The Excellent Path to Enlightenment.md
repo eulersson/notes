@@ -53,7 +53,7 @@ tags:
 
 ,,[[Prayer to Guru Rinpoche|ཚིག་བདུན་གསོལ་འདེབས་]]དང་[[Tibetan Mantras|བསྙེན་པ་བཛྲ་གུ་རུ་ལ་འབད]]།,,
 
-![[Seven Line Prayer#༄༅། །གུ་རུ་རིན་པོ་ཆེའི་ཚིག་བདུན་གསོལ་འདེབས་བཞུགས་སོ། །]]
+![[Seven Line#༄༅། །གུ་རུ་རིན་པོ་ཆེའི་ཚིག་བདུན་གསོལ་འདེབས་བཞུགས་སོ། །]]
 
 ![[Tibetan Mantras#Guru Rinpoche Mantra]]
 
@@ -64,9 +64,9 @@ tags:
 བླ་མ་འོད་ཞུ་རང་ལ་ཐིམ། །
 དབྱེར་མེད་མ་བཅོས་ལྷུག་པར་བཞག །
 
-,,[[Dedication Prayer|དགེ་བ་བསྔོའོ།།]],,
+,,[[Dedication|དགེ་བ་བསྔོའོ།།]],,
 
-![[Dedication Prayer#༄༅། །བསྔོ་བ་སྨོན་ལམ།]]
+![[Dedication#༄༅། །བསྔོ་བ་སྨོན་ལམ།]]
 
 ## Translation
 
@@ -175,11 +175,11 @@ Surrounded by a vast gathering of vidyādharas of the three transmissions,
 And embodying every source of refuge.
 
 
-,,[[Seven Line Prayer|ཚིག་བདུན་གསོལ་འདེབས་]]དང་[[Tibetan Mantras|བསྙེན་པ་བཛྲ་གུ་རུ་ལ་འབད]]།,,
-_Put your energy into reciting the [[Seven Line Prayer|Seven-Line Prayer]] and the [[Tibetan Mantras#Guru Rinpoche Mantra|Vajra Guru mantra]]._
+,,[[Seven Line|ཚིག་བདུན་གསོལ་འདེབས་]]དང་[[Tibetan Mantras|བསྙེན་པ་བཛྲ་གུ་རུ་ལ་འབད]]།,,
+_Put your energy into reciting the [[Seven Line|Seven-Line Prayer]] and the [[Tibetan Mantras#Guru Rinpoche Mantra|Vajra Guru mantra]]._
 
 
-![[Seven Line Prayer#Translation]]
+![[Seven Line#Translation]]
 
 
 ![[Tibetan Mantras#Guru Rinpoche Mantra]]
@@ -202,5 +202,5 @@ The guru melts into light and dissolves into me.
 Inseparably, I rest in a natural state of ease.
 
 
-,,[[Dedication Prayer|དགེ་བ་བསྔོའོ།།]],,
-[[Dedication Prayer|Dedicate the merit]].
+,,[[Dedication|དགེ་བ་བསྔོའོ།།]],,
+[[Dedication|Dedicate the merit]].

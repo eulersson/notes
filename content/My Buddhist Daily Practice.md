@@ -65,7 +65,7 @@ If at home, in the morning: [[Water Bowl Offering]]
 
 Prostrate 3 times while reciting the **refuge prayer**.
 
- ![[Nyingtik Refuge Prayer#༄༅། །སྐྱབས་སུ་འགྲོ་བ། །]]
+ ![[Nyingtik Refuge#༄༅། །སྐྱབས་སུ་འགྲོ་བ། །]]
 ### Bodhicitta Prayer
 
 ![[Nyingthik Bodhicitta Prayer#༄༅། །སེམས་བསྐྱེད་པ། །]]
@@ -74,10 +74,8 @@ Prostrate 3 times while reciting the **refuge prayer**.
 > [!NOTE]
 > Generate a bodhicitta mind.
 
-
 ### Eight Auspcious Signs
 
-#awaiting-answer 
 ![[The Verses of the Eight Noble Auspicious Ones]]
 
 ### Mudra Offering
@@ -123,9 +121,9 @@ Prostrate 3 times while reciting the **refuge prayer**.
 
 ### Brief Offering to Ekajati
 
-![[Brief Offering Prayer to Ekajati#༄༅། །ཨེ་ཀ་ཛ་ཊཱིའི་གསོལ་བསྡུས།]]
+![[Brief Offering to Ekajati#༄༅། །ཨེ་ཀ་ཛ་ཊཱིའི་གསོལ་བསྡུས།]]
 
-![[Brief Offering Prayer to Ekajati#Audio]]
+![[Brief Offering to Ekajati#Audio]]
 
 ### “A” Meditation
 
@@ -151,9 +149,9 @@ I like to practice the mind-body sensing meditations the *bhikkhu* was teaching 
 
 ### Butter Lamp Offering
 
-![[Butter Lamp Offering Prayer#༄༅། །མར་མེའི་སྨོན་ལམ།]]
+![[Butter Lamp Offering#༄༅། །མར་མེའི་སྨོན་ལམ།]]
 
-![[Butter Lamp Offering Prayer#Audio]]
+![[Butter Lamp Offering#Audio]]
 
 ## Special Days
 
@@ -167,7 +165,7 @@ On the 10th day of the lunar calendar it's good to offer to [[Guru Rinpoche]].
 
 #### 21 Seven-Line Prayer
 
-![[Seven Line Prayer#༄༅། །གུ་རུ་རིན་པོ་ཆེའི་ཚིག་བདུན་གསོལ་འདེབས་བཞུགས་སོ། །]]
+![[Seven Line#༄༅། །གུ་རུ་རིན་པོ་ཆེའི་ཚིག་བདུན་གསོལ་འདེབས་བཞུགས་སོ། །]]
 
 #### 108 Guru Rinpoche Mantra
 

@@ -12,9 +12,9 @@ Never offer empty bowls (it's like offering nothing to the Buddhas, and can call
 
 ## Preparation
 
-Recite the [[Refuge and Bodhicitta Prayer|Taking Refuge]] prayer.
+Recite the [[Refuge and Bodhicitta|Taking Refuge]] prayer.
 
-Recite [[4 Imesurables Prayer]].
+Recite [[4 Imesurables]].
 
 Prostrate 3 times.
 
@@ -72,7 +72,7 @@ Visualisation:
 
 From right to left, wiping with clean cloth, and turn them upside down (optionally stacking them on the left). While emptying pronouncing OM BENZA SATTO HUM (Vajrasattva's short mantra) or the long version [[100-Syllable Mantra of Vajrasattva]].
 
-Recite [[Dedication Prayer]].
+Recite [[Dedication]].
 
 Use the water for watering plants or animals. Never use it for yourself. Dispose the water to a clean place, not at dirty sinks or toilet.
 
