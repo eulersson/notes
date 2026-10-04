@@ -34,3 +34,4 @@ I take refuge until enlightenment is fully realized.
 This refuge prayer is very complete because it's about taking various refuges at once:
 
 ![[Outer, Inner and Secret Refuge]]
+
