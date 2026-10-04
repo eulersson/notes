@@ -18,17 +18,19 @@ This prayer is also used for prostration.
 ## Translation
 
 དཀོན་མཆོག་གསུམ་དངོས་བདེ་གཤེགས་རྩ་བ་གསུམ། །
-Three-Jewels reality sugata Three-Roots
+In the Three Jewels, and their essence, the sugatas, in the three roots: lama, yidam, and khandro,
 
 རྩ་རླུང་ཐིག་ལེའི་རང་བཞིན་བྱང་ཆུབ་སེམས། །
-Channels-winds-and-essences.GEN essence bodhichitta
+In the channels, inner air, and bindus, and their nature, the bodhicitta,
 
 ངོ་བོ་རང་བཞིན་ཐུགས་རྗེའི་དཀྱིལ་འཁོར་ལ། །
-essence-nature-and-capacity.GEN mandala OBL
+In the mandala of essence, nature, and compassion,
 
 བྱང་ཆུབ་སྙིང་པོའི་བར་དུ་སྐྱབས་སུ་མཆི། ། 
-supreme-enlightenment.GEN interstice OBL go-for-refuge
+I take refuge until enlightenment is fully realized.
 
 ## Explanation
 
-#awaiting-answer
+This refuge prayer is very complete because it's about taking various refuges at once:
+
+![[Outer, Inner and Secret Refuge]]

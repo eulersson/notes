@@ -58,7 +58,6 @@ If at home, in the morning: [[Water Bowl Offering]]
 
 ![[Manjushri Gangloma#Audio]]
 
-
 ### Prostrations and Refuge
 
 Prostrate 3 times while reciting the **refuge prayer**.
@@ -121,20 +120,19 @@ Prostrate 3 times while reciting the **refuge prayer**.
 
 ![[Sakya Pandita Kunga Gyaltzen#Audio]]
 
+![[Brief Offering to Ekajati#༄༅། །ཨེ་ཀ་ཛ་ཊཱིའི་གསོལ་བསྡུས།]]
+
+![[Brief Offering to Ekajati#Audio]]
+
 ### Preliminaries (Ngöndro)
 
 ![[Preliminaries Sadhana — The Excellent Path to Enlightenment#༄༅། །སྔོན་འགྲོ་མདོར་བསྡུས་བྱང་ཆུབ་ལམ་བཟང་བཞུགས་སོ། །]]
 
 ### Brief Offering to Ekajati
 
-![[Brief Offering to Ekajati#༄༅། །ཨེ་ཀ་ཛ་ཊཱིའི་གསོལ་བསྡུས།]]
-
-![[Brief Offering to Ekajati#Audio]]
-
 ### “A” Meditation
 
 ![["A" ཨ Meditation#Image]]
-
 
 ## Afternoon
 
@@ -194,3 +192,5 @@ Offer something (e.g. tea) to Guru Rinpoche
 #### 108 Buddha Sakyamuni Mantra
 
 ![[Tibetan Mantras#Buddha Sakyamuni]]
+
+## Learning
