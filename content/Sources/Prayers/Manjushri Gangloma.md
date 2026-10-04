@@ -34,7 +34,8 @@ tags:
 
 ## Audio
 
-![[Prayer to Manjushree.mp3]]
+![[Prayer for Wisdom Pema Tsal.mp3]]
+![[Prayer for Wisdom.mp3]]
 
 ## Source
 
