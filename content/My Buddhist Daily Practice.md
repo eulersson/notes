@@ -52,6 +52,8 @@ If at home, in the morning: [[Water Bowl Offering]]
 
 ## Morning
 
+Invite 3 sounds of the bell at the start and at the end of the practice.
+
 ### Prayer to Manjushree
 
 ![[Manjushri Gangloma#༄༅། །འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ།།]]
