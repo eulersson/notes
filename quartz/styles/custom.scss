@@ -34,6 +34,57 @@ article img {
   margin: 1rem auto;
 }
 
+// Larger reading size for the page body. Popovers and the sidebars keep the
+// default. base.scss sizes headings, code and line heights in rem, which would
+// ignore this, so inside the article they are restated in em to scale with it.
+.center > article {
+  font-size: 1.125rem;
+
+  & h1 {
+    font-size: 1.75em;
+  }
+
+  & > h1 {
+    font-size: 2em;
+  }
+
+  & h2 {
+    font-size: 1.4em;
+  }
+
+  & h3 {
+    font-size: 1.12em;
+  }
+
+  & h4,
+  & h5,
+  & h6 {
+    font-size: 1em;
+  }
+
+  & tbody,
+  & li,
+  & p {
+    line-height: 1.6em;
+  }
+
+  & .table-container > table > * {
+    line-height: 2em;
+  }
+
+  & figure[data-rehype-pretty-code-figure] {
+    line-height: 1.6em;
+
+    & > [data-rehype-pretty-code-title] {
+      font-size: 0.9em;
+    }
+  }
+
+  & pre > code {
+    font-size: 0.85em;
+  }
+}
+
 // Rendered by the RecentNotesBlock transformer from a ```recent-notes fence.
 // Deliberately not `.recent-notes` — that class belongs to the built-in
 // RecentNotes sidebar component.
