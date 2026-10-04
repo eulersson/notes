@@ -74,9 +74,11 @@ Prostrate 3 times while reciting the **refuge prayer**.
 > [!NOTE]
 > Generate a bodhicitta mind.
 
-### Eight Auspcious Signs
+### Eight Auspicious Symbols
 
-![[The Verses of the Eight Noble Auspicious Ones]]
+![[The Verses of the Eight Noble Auspicious Ones#༄༅། །འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པའི་ཚིགས་སུ་བཅད་པ།]]
+
+![[The Verses of the Eight Noble Auspicious Ones#Audio]]
 
 ### Mudra Offering
 
@@ -84,10 +86,11 @@ Prostrate 3 times while reciting the **refuge prayer**.
 
 ![[Offering Mudras#Video]]
 
+### Wangdü
 
-### Wangdu Soldeb
+![[Wangdü — The Great Cloud of Blessings#༄༅། །སྣང་སྲིད་དབང་དུ་སྡུད་པའི་གསོལ་འདེབས་བྱིན་རླབས་སྤྲིན་ཆེན་བཞུགས་སོ། །]]
 
-#awaiting-answer 
+![[Wangdü — The Great Cloud of Blessings#Audio]]
 
 ### Confession
 
