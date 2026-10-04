@@ -46,8 +46,6 @@ If at home, in the morning: [[Water Bowl Offering]]
 
 ![[9 Breaths Meditation#Visualization]]
 
-
-
 ### Vajra Yoga
 
 ![[Vajra Position#Vajra Position]]
@@ -70,7 +68,6 @@ Prostrate 3 times while reciting the **refuge prayer**.
 
 ![[Bodhicitta#༄༅། །སེམས་བསྐྱེད་པ། །]]
 
-
 > [!NOTE]
 > Generate a bodhicitta mind.
 
@@ -79,6 +76,12 @@ Prostrate 3 times while reciting the **refuge prayer**.
 ![[The Verses of the Eight Noble Auspicious Ones#༄༅། །འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པའི་ཚིགས་སུ་བཅད་པ།]]
 
 ![[The Verses of the Eight Noble Auspicious Ones#Audio]]
+
+### 21 Taras
+
+![[Praise to 21 Taras#༄༅། །སྒྲོལ་མ་ལ་ཕྱག་འཚལ་ཉི་ཤུ་རྩ་གཅིག་གིས་བསྟོད་པ་ཕན་ཡོན་དང་བཅས་པ།]]
+
+![[Praise to 21 Taras#Audio]]
 
 ### Mudra Offering
 
