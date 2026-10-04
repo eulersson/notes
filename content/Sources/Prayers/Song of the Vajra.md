@@ -95,3 +95,6 @@ In the womb of Samantabhadrī, her sky-like space,
 ཀློང་གསལ་ལྷུན་གྲུབ་ཡེ་རྫོགས་ཆེ། །
 Open clarity, instantly present—the ever great perfection!
 
+## Source
+
+- [Lotsawa — Song of the Vajra](https://www.lotsawahouse.org/words-of-the-buddha/ema-kiri-kiri-song-of-vajra)
