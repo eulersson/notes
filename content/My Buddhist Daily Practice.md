@@ -177,6 +177,12 @@ On the 10th day of the lunar calendar it's good to offer to [[Drafts/Guru Rinpoc
 
 ![[Tibetan Mantras#Guru Rinpoche Mantra]]
 
+#### Offering Chant
+
+![[Offering Chant#༄༅། །སྐུ་གསུང་ཐུགས་ཡོན་ཏན་ཕྲིན་ལས་ཀྱི་མཆོད་པ། །]]
+
+![[Offering Chant#Audio]]
+
 #### Offering Tsok
 
 Offer something (e.g. tea) to Guru Rinpoche
