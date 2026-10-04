@@ -11,12 +11,16 @@ From Longchenpa’s Treasury of the Supreme Vehicle[1](https://www.lotsawahouse.
 
 ## ༄༅། །རྡོ་རྗེའི་གླུ། །
 
-ཨེ་མ་ཀི་རི་ཀི་རི། མཥྚ་བཱ་ལི་བཱ་ལི། ས་མི་ཏཱ་སུ་རུ་སུ་རུ། ཀུ་ཏཱ་ལི་མ་སུ་མ་སུ། ཨི་ཀ་རཱ་སུ་ལི་བྷ་ཏ་ཡེ། <i class="r">ཙ་</i><i class="g">ཅི་</i>ཀི་ར་བྷུ་ལི་<i class="r">ས་ལ་</i><i class="g">བཱ་ཏ་</i>ཡེ། ས་མུནྟ་ཙརྻ་སུ་གྷ་<i class="r">ཡཻ</i><i class="g">ཡ</i>། བྷེ་ཏ་ས་ན་<i class="r">བྷ་</i><i class="g">བྷེ་</i>ཀུ་<i class="r">ལི་</i>ལ་ཡཻ། ས་ཀ་རི་དྷཱུ་ཀ་ན། མ་ཏ་རི་བཻ་ཏ་ན། བ་ར་ལི་ཧི་སཱ་ན། མ་ཁརྟ་ཀི་ལ་ནཱཾ། སཾ་བྷ་ར་ཏ་མེ་ཀ་<i class="r">ཙ</i><i class="g">གྱ</i>རྟཾ་པ། སུརྻ་བྷ་ཏ་<i class="r">ར་ཨེ་</i><i class="g">རེད་</i>པ་ཤ་ན་<i class="r">ས</i><i class="g">བ</i>། རན་<i class="y">ལ་</i>བྷི་ཏི་ས་གྷུ་ར་ལཱ་<i class="r">ས</i><i class="g">བ</i>། མ་<i class="y">སུར་</i>སྨིན་<i class="r">པ</i><i class="g">ཙ</i>་གུ་ལི་ཏ་ཡ་<i class="r">ས</i><i class="g">བ</i>། འགུ་རཱ་འགུ་རཱ་སག་ཁ་ར་ན་<i class="r">ལཱི</i><i class="g">ནཱཾ</i>། ན་ར་ན་རཱ་ཨི་ཐ་<i class="r">ར་</i>པ་<i class="r">ཊཱ</i><i class="g">ཧ</i><i class="y">ཏ</i>་<i class="r">ལ</i><i class="g">ལཾ</i>། སིར་ཎཱ་སིར་ཎཱ་བྷེ་ས་ར་ས་པ་ལཾ། བྷུན་དྷ་བྷུན་དྷ་ཚིཥ་<i class="r">པ་</i><i class="g">ས་</i>ཀེ་ལཾ། ས་སཱ། རི་རཱི། ལི་ལཱི། ཨི་ཨཱི། མི་མཱི། ར་ར་རཱ།
+ཨེ་མ་ཀི་རི་ཀི་རི། མཥྚ་བཱ་ལི་བཱ་ལི། ས་མི་ཏཱ་སུ་རུ་སུ་རུ། ཀུ་ཏཱ་ལི་མ་སུ་མ་སུ། ཨི་ཀ་རཱ་སུ་ལི་བྷ་ཏ་ཡེ། <i class="r">ཙ་</i><i class="g">ཅི་</i>ཀི་ར་བྷུ་ལི་<i class="r">ས་ལ་</i><i class="g">བཱ་ཏ་</i>ཡེ། ས་མུནྟ་ཙརྻ་སུ་གྷ་<i class="r">ཡཻ</i><i class="g">ཡ</i>། བྷེ་ཏ་ས་ན་<i class="r">བྷ་</i><i class="g">བྷེ་</i>ཀུ་<i class="r">ལི་</i>ལ་ཡཻ། ས་ཀ་རི་དྷཱུ་ཀ་ན། མ་ཏ་རི་བཻ་ཏ་ན། བ་ར་ལི་ཧི་སཱ་ན། མ་ཁརྟ་ཀི་ལ་ནཱཾ། སཾ་བྷ་ར་ཏ་མེ་ཀ་<i class="r">ཙ</i><i class="g">གྱ</i>རྟཾ་པ། སུརྻ་བྷ་ཏ་<i class="r">ར་ཨེ་</i><i class="g">རེད་</i>པ་ཤ་ན་<i class="r">ས</i><i class="g">བ</i>། རན་<i class="y">ལ་</i>བྷི་ཏི་ས་གྷུ་ར་ལཱ་<i class="r">ས</i><i class="g">བ</i>། <i class="r">མ</i><i class="g">ལ</i>་<i class="y">སུར་</i>སྨིན་<i class="r">པ</i><i class="g">ཙ</i>་གུ་ལི་ཏ་ཡ་<i class="r">ས</i><i class="g">བ</i>། འགུ་རཱ་འགུ་རཱ་སག་ཁ་ར་ན་<i class="r">ལཱི</i><i class="g">ནཱཾ</i>། ན་ར་ན་རཱ་ཨི་ཐ་<i class="r">ར་</i>པ་<i class="r">ཊཱ</i><i class="r">ཏ</i>་<i class="r">ལ</i><i class="g">ལཾ</i>། སིར་ཎཱ་སིར་ཎཱ་བྷེ་ས་ར་ས་པ་ལཾ། བྷུན་དྷ་བྷུན་དྷ་ཚིཥ་<i class="r">པ་</i><i class="g">ས་</i>ཀེ་ལཾ། ས་སཱ། རི་རཱི། ལི་ལཱི། ཨི་ཨཱི། མི་མཱི། ར་ར་རཱ།
+
+## Corrections
+
+I added phonetic corrections in base of the [audio recordings below](#Audio). The meaning of the colors is as follows: <i class="r">red</i>-<i class="g">green</i> pairs is different pronunciation comparing the text from [Lotsawa](https://www.lotsawahouse.org/words-of-the-buddha/ema-kiri-kiri-song-of-vajra) against the [recordings below](#Audio), <i class="r">red</i> means it doesn't sound like that but sounds like <i class="r">green</i> instead. And <i class="y">yellow</i> means it's an extra syllable that can be heard in the [recordings below](#Audio).
 
 ## Audio
 
-![[The Song of the Vajra (Namkai Norbu).mp3]]
 ![[Song of the Vajra (Elliot Diamond).mp3]]
+![[The Song of the Vajra (Namkai Norbu).mp3]]
 
 ## Phonetics
 
@@ -90,3 +94,4 @@ In the womb of Samantabhadrī, her sky-like space,
 
 ཀློང་གསལ་ལྷུན་གྲུབ་ཡེ་རྫོགས་ཆེ། །
 Open clarity, instantly present—the ever great perfection!
+

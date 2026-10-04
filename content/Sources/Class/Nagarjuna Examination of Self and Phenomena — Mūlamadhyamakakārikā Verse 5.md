@@ -13,6 +13,10 @@ tags:
 དེ་དག་སྤྲོས་ལས་སྤྲོས་པ་ནི།  
 སྟོང་པ་ཉིད་ཀྱིས་འགག་པར་འགྱུར།
 
+## Chanting
+
+The *kagyu* melody for the [[100-Syllable Mantra of Vajrasattva#Audio]] works well here. It's the same HH the 17th Karmapa uses for the [[Wangdü — The Great Cloud of Blessings|Wangdü]] in this [YouTube video](https://www.youtube.com/watch?v=FDxJse1WCw8).
+
 ## Translation
 
 > Ceasing of (contaminated) karmas and afflictions is liberation.
