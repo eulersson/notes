@@ -40,6 +40,11 @@ article img {
 .center > article {
   font-size: 1.125rem;
 
+  // a touch smaller on phones: 15px instead of 18px
+  @media all and ($mobile) {
+    font-size: 0.9375rem;
+  }
+
   & h1 {
     font-size: 1.75em;
   }
