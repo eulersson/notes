@@ -21,7 +21,7 @@ I kind of built a defensive wall against poverty. I was tired to see child begga
 
 ## The Girl That Changed My Pattern
 
-Still in Rajasthan, one day, getting off the taxi, after walking 20 meters a little girl, dirty, in ragged clothes came to me, and I was aversive towards her thinking it was an other *puppet* from an adult collecting money. I was ignoring her until I realized she was insisting on giving me something. That, which intended to give, was actually $ 20 worth of Indian currency that I had dropped — I knew because she was pointing at where the car dropped me. I was shocked at her honesty. I froze. I was so stupid that I accepted the money, still frozen while she was leaving... Instead I should have given her those $ 20 as a reward for her honesty... I felt very bad. So from there onwards I decided to be more relaxed and open. She shattered my ego.
+Still in Rajasthan, one day, getting off the taxi, after walking 20 meters a little girl, dirty, in ragged clothes came to me, and I was aversive towards her thinking it was an other *puppet* from an adult collecting money. I was ignoring her until I realized she was insisting on giving me something. That, which intended to give, was actually 20 dollars worth of Indian currency that I had dropped — I knew because she was pointing at where the car dropped me. I was shocked at her honesty. I froze. I was so stupid that I accepted the money, still frozen while she was leaving... Instead I should have given her those 20 dollars as a reward for her honesty... I felt very bad. So from there onwards I decided to be more relaxed and open. She shattered my ego.
 
 ## The Famous “Give Me Rice”
 
