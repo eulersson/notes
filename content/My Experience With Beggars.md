@@ -4,7 +4,6 @@ tags:
 - travel
 ---
 
-
 I am getting more confident on dealing with the situation where beggars — usually Indian, not so many Nepalis as I have observed — around Boudha stop you asking for your generosity. But let's see first what previous experiences I had.
 
 ## My First Experience
