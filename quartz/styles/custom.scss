@@ -68,6 +68,12 @@ article img {
     line-height: 1.6em;
   }
 
+  // Prose only: headings, table cells and code keep their own alignment.
+  & li,
+  & p {
+    text-align: justify;
+  }
+
   & .table-container > table > * {
     line-height: 2em;
   }
