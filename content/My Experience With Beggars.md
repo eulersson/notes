@@ -48,3 +48,5 @@ It's important for me to feel relaxed.
 To not get your ego affected in neither the (1) *I don't want them to give money because it's mine and they should find work* nor (2) *I don't want them to give money because they will spend it in alcohol or it won't get them out of poverty* nor (3) *I don't want to give them money because they will get used to begging*.
 
 If my mind is relaxed I can confidently practice generosity without thinking about all those things, only with a positive mind that this money that I made working now I'm giving to others without expecting anything in return.
+
+We forget that part of the act of giving is also from our side: giving what we have. Before, I put personally too much emphasis on the receiving part because I didn't want to be fooled, which is a defence mechanism of the ego. I'm still calibrating this middle way!
