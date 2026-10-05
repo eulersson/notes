@@ -74,3 +74,14 @@ The connector of the colloquial imperfective auxiliary is spelled with the same 
 - ཐུག་<i class="g">གི་</i>འདུག (ག་)
 - བྱེད་<i class="b">ཀྱི་</i>ཡོད། (ད་)
 - ཉན་<i class="p">གྱི་</i>ཡོད། (ན་)
+
+## Similar Idea for པ་ / བ་
+
+The nominalizer/possessor particles (བདག་སྒྲ་) པ་ བ་ པོ་ བོ་ also depend on the previous suffix. They are not genitive particles, and the groups are different: hard suffixes take པ་, soft and open ones take བ་. See [[Tibetan པ་ བ་ at Nouns]].
+
+| Previous suffix                  | Particle | Example                                                                                  |
+| -------------------------------- | -------- | ---------------------------------------------------------------------------------------- |
+| ག་ ད་ ན་ བ་ མ་ ས་ (and da-drag)  | པ་ / པོ་ | བྱེད་<i class="b">པ་</i>, བསྟན་<i class="b">པ་</i>, བསམ་<i class="b">པ་</i>             |
+| ང་ འ་ ར་ ལ་ or none (མཐའ་མེད་) | བ་ / བོ་ | མཐོང་<i class="y">བ་</i>, གསོལ་<i class="y">བ་</i>, ཟ་<i class="y">བ་</i>               |
+
+Watch ན་ མ་: with the genitive they go with ར་ ལ་ (གྱི་), but here they go with the hard suffixes (པ་).
