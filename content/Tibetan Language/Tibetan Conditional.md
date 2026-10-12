@@ -21,6 +21,7 @@ The result-clause can have auxiliaries of probability such as ས་ in ཡོ�
 > The following examples will be done with ཟ་ and བཟོ་.
 
 ## Present
+
 For non-verbs:
 - ཡིན་ན་ / ཡོད་ན་ (to be, to be at)
 - ་་་ལ་་་ཡོད་ན་ (to have)
