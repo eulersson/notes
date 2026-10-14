@@ -7,6 +7,30 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer]]
 
+```toc
+style: nestedOrderedList
+```
+
+---
+## One Example of Each
+
+| Word          | Example                                                                                                                                                                                                            |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| དུས་          | - ཁ་སང་ང་ཚོ་ འཛིན་གྲྭ་ལ་==ཡོད་དུས་== གངས་མང་པོ་བབས་སོང་།<br>- དེ་རིང་ཞོགས་གས་ འབྲུག་སྐད་རྒྱག་==དུས་== སྤུ་གུ་ཚོ་ཞེད་སོང་།                                                                                          |
+| སྐབས་         | - ངས་བལ་ཡུལ་ལ་ བསྡད་པའི་==སྐབས་==ལ་ སྤྱིད་པོ་བྱུང་།<br>- བོད་སྐད་ འཛིན་གྲྭའི་==སྐབས་==ལ་ ཚིགས་མང་པོ་བློ་འཛིན་བྱེད་དགོས་རེད།<br>- ཁོང་ལ་དྭགས་ལ་ འགྲོ་མྱོང་==མདེ་==པའི་སྐབས་ལ་ གླེ་དེའི་རྒྱལ་ས་ཡིན་པ་ཧ་གོ་ཡོད་མ་རེད། |
+| རིང་          | - ཁྱེད་རང་ སྨོན་ལམ་བརྒྱབ་པའི་==རིང་==ལ་ བསམ་བློ་གཞན་དག་མང་པོ་མ་གཏོང་ཨ།                                                                                                                                             |
+| ཤུང་རིང་ཀ་    | - ངའི་ཁྱོ་གས་དེབ་ལྟ་==ཤུལ་རིང་ཀ==ར་ངས་ནང་གཙོང་མ་བཟོ་གི་ཡོད།                                                                                                                                                        |
+| ཞོར་ལ་        | <br>- ང་དེང་སང་ཉམས་ལེན་མང་པོ་བྱེད་ཀྱི་ཡོད། ==ཞོར་ལ་==སྐད་སྒྱུར་ཡང་ཏོག་ཙམ་བྱེད་ཀྱི་ཡོད།                                                                                                                             |
+| བཞིན་དུ་      | - ཁ་ལག་ ཟ་==བཞིན་དུ་== བརྙན་འཕྲིན་བལྟས་ན་ཁ་ལག་ལ་བྲོ་བ་ཡོད་མ་རེད།<br>- ཕྲུ་གུ་འདིས་ང་ལ་ ==ཤེས་བཞིན་དུ་== རྫུན་བཤད་བྱུང་།<br>- ངས་བྱས་ན་ ==དངུལ་མེད་བཞིན་དུ་== འགྲོ་སོང་ཆེན་པོ་བཏང་ན་ཁྱད་མཚར་པོ་འདུག                 |
+| བཞིན་པ་       | - ང་ལ་ད་ལྟ་ཅ་སུན་པོ་མ་བཟོ། ང་ བསམ་བློ་བཏང་==བཞིན་པ་ཡིན།==                                                                                                                                                          |
+| ་་་གིན་་་གིན་ | - ངས་ཚིག་མཛོད་ལ་ ལྟ་==གིན་==ལྟ་==གིན་== དཔེ་ཆ་ཡིག་སྒྱུར་བྱས་པ་ཡིན།                                                                                                                                                 |
+| སྒང་ལ་        | ང་ཁ་ལག་ ཟ་བའི/བགས་པའི ==སྒང་==༼ལ་༽་ཡིན།                                                                                                                                                                            |
+
+
+
+
+---
+
 ## དུས་
 
 *when*, *at the time when*, *while*, ...
@@ -18,7 +42,6 @@ tags:
 > - Not a strict rule on whether བྱེད་སྒྲ་ must be in the དུས་ predicate
 
 ^a76e35
-
 
 Other part of the sentence can be in any tense.
 
@@ -47,6 +70,7 @@ Other part of the sentence can be in any tense.
 ![[2026-10#Using ཡོད་ in Modal Verb In དུས་ Constructions]]
 
 ![[2026-10#Negating Modal Verb In དུས་ or སྐབས་ Constructions]]
+
 ## སྐབས་
 
 ### What We Know
@@ -70,13 +94,19 @@ According to [[Franziska Oertle|Franziska-la]]'s observation, but not limited to
 
 ### Usage
 
-> clause + ༼བྱ་ཚིག་༽ + nominalizer པ་ + འབྲེལ་སྒྲ་ + སྐབས་ + ལ་
+> clause + ༼བྱ་ཚིག་༽ + nominalizer པ་ + འབྲེལ་སྒྲ་ + ==སྐབས་== + ལ་
 
 > [!NOTE] Instruction: སྐབས་་་...
 > 1. ... can follow **nominalised verb** in **present**, **past** or **future** form.
 > 2. ... is (mostly) **connected** to the nominalised verb or non-verb (བདག) with a **འབྲེལ་སྒྲ**་.
 > 3. ... is (usually) followed by a **ལ་དོན་** particle
 > 4. ... **can also follow a noun** and not just a verb or non-verb.
+
+
+> [!NOTE] Example
+> ངས་བལ་ཡུལ་ལ་བསྡད་པའི་==སྐབས་==ལ་སྤྱིད་པོ་བྱུང་།
+> *While I was living in Nepal it was nice.*
+
 
 ### ལ་དོན་
 
@@ -88,10 +118,112 @@ Sometimes in ཁ་སྐད་ the ལ་དོན་ might get dropped, and w
 
 ### Following Noun
 
-| Correct | Sentence                   | Shape                          |
-| ------- | -------------------------- | ------------------------------ |
-| ✅       | བོད་སྐད་འཛིན་གྲྭའི་སྐབས་ལ་ | སྐབས་                          |
-| ❌       | བོད་སྐད་འཛིན་གྲྭ་དུས་      | དུས་ without verb nor non-verb |
-| ✅       | བོད་སྐད་འཛིན་གྲྭ་ཡོད་དུས་  | དུས་ with non-verb             |
-| ✅       | བོད་སྐད་འཛིན་གྲྭ་ཚུགས་དུས་ | དུས་ with verb                 |
+| Correct | Sentence                       | Shape                          |
+| ------- | ------------------------------ | ------------------------------ |
+| ✅       | བོད་སྐད་འཛིན་གྲྭའི་==སྐབས་==ལ་ | སྐབས་                          |
+| ❌       | བོད་སྐད་འཛིན་གྲྭ་==དུས་==      | དུས་ without verb nor non-verb |
+| ✅       | བོད་སྐད་འཛིན་གྲྭ་ཡོད་==དུས་==  | དུས་ with non-verb             |
+| ✅       | བོད་སྐད་འཛིན་གྲྭ་ཚུགས་==དུས་== | དུས་ with verb                 |
 
+### Past Perfect
+
+> *Before they ==had visited== Ladakh, they didn't know that Leh was its capital.*
+> ཁོང་ཚོ་ལ་དྭགས་ལ་ འགྲོ་མྱོང་==མདེ་==པའི་སྐབས་ལ་ གླེ་དེའི་རྒྱལ་ས་ཡིན་པ་ཧ་གོ་ཡོད་མ་རེད།
+
+Tibetan does not have a ==past perfect== tense so it works around it using the negated form above.
+
+## རིང་
+
+Although དུས་ and སྐབས་ are usually translated as *while*, རིང་ has a stronger sense of **duration** than those two.
+
+Functions gramatically in the same way as [[#སྐབས་]]:
+
+> clause + ༼བྱ་ཚིག་༽ + nominalizer པ་ + འབྲེལ་སྒྲ་ + ==རིང་== + ལ་
+
+
+> [!NOTE] Example
+> ཁྱེད་རང་ སྨོན་ལམ་བརྒྱབ་པའི་==རིང་==ལ་ བསམ་བློ་གཞན་དག་མང་པོ་མ་གཏོང་ཨ།
+
+
+## ཤུང་རིང་ཀ་
+
+Conveys:
+- **Two** different **agents** are
+- performing the action at the **same time**.
+
+Can be used in all tenses.
+
+Functions gramatically in the same way as [[#སྐབས་]]:
+
+> clause + ༼བྱ་ཚིག་༽ + nominalizer པ་ + འབྲེལ་སྒྲ་ + ==ཤིང་རིང་ཀ== + -ར
+
+> [!NOTE] Example
+> ངའི་ཁྱོ་གས་དེབ་ལྟ་==ཤུལ་རིང་ཀ==ར་ངས་ནང་གཙོང་མ་བཟོ་གི་ཡོད།
+> *While my husband reads books, I clean the house.*
+
+## ཞོར་ལ་
+
+Conveys:
+- **Single agent**
+- performs **two** actions
+	- **one** being the **main** and
+	- the **other** being **secondary**
+
+**Don't use with non-verbs**: 
+- ❌ ཁོང་རྒན་ལགས་ཡིན་པའི་ཞོར་ལ་རོལ་དབྱངས་ཡང་མང་པོ་གཏོང་གི་ཡོད་རེད།
+- ✅ ཁོང་རྒན་ལགས་བྱས་པའི་ཞོར་ལ་་་
+
+Canonical case with འགྲོ་བ་: *on the way / on one's way*: ང་འཛིན་གྲྭ་ལ་འགྲོ་བའི་ཞོར་ལ་སྐོར་ར་ཁ་ཤས་ཡང་རྒྱག་གི་ཡོད།
+
+Otherwise translated as: *besides*, *in addition to*, *apart from*:
+- *Besides*
+	- བློ་བཟང་གིས་དབྱིན་སྐད་ སློབ་སྦྱོང་བྱས་པ==འི་ཞོར་ལ་== རྒྱ་སྐད་ཡང་ཏོག་ཙམ་སྦྱོང་གི་འདུག 
+	- *Besides studying English, Lobsang is also learning a little Chinese.*
+- *Apart from that, also*
+	- ང་དེང་སང་ཉམས་ལེན་མང་པོ་བྱེད་ཀྱི་ཡོད། ==ཞོར་ལ་==སྐད་སྒྱུར་ཡང་ཏོག་ཙམ་བྱེད་ཀྱི་ཡོད།
+	- *These days I do a lot of practice. Apart from that, I'm also doing some interpreting.*
+
+## བཞིན་དུ་
+
+དུ་ is the ལ་དོན་ for the ན་ suffix.
+
+Used to:
+- Express “**while**”
+	- ཁ་ལག་ ཟ་==བཞིན་དུ་== བརྙན་འཕྲིན་བལྟས་ན་ཁ་ལག་ལ་བྲོ་བ་ཡོད་མ་རེད།
+	- *If one watches TV while (during) eating, the food won't be tasty.*
+- to form an **adverb** 
+	- verb
+		- ཕྲུ་གུ་འདིས་ང་ལ་ ==ཤེས་བཞིན་དུ་== རྫུན་བཤད་བྱུང་།
+		- *This child lied to me knowlingly.*
+	- non-verb
+		- ངས་བྱས་ན་ ==དངུལ་མེད་བཞིན་དུ་== འགྲོ་སོང་ཆེན་པོ་བཏང་ན་ཁྱད་མཚར་པོ་འདུག
+		- *In my opinion, it's strange to spend lots of money when not having any.*
+
+## བཞིན་པ་
+
+བཞིན་༼པ་༽ཡིན/རེད། is another option for [[#བཞིན་དུ་]].
+
+Carries also the meaning of an **ongoing** action → translates into ==present continuous== (-ing).
+
+ང་ལ་ད་ལྟ་ཅ་སུན་པོ་མ་བཟོ། ང་ བསམ་བློ་བཏང་==བཞིན་པ་ཡིན།==
+
+## ་་་གིན་་་གིན་
+
+Person does two things at the same time.
+
+Adverbial construction.
+
+> [!NOTE] Example
+> ངས་ཚིག་མཛོད་ལ་ ལྟ་==གིན་==ལྟ་==གིན་== དཔེ་ཆ་ཡིག་སྒྱུར་བྱས་པ་ཡིན།
+
+## སྒང་ལ་
+
+Means “**to be in the middle of doing something**”, stressing the action happens **at the moment of speech**. It therefore doesn't connect two actions.
+
+Probably connects with the nominalized verb and a འབྲེལ་སྒྲ་ and a ལ་དོན་ after it, but there's **no clear rules** about what **tense** to have the verb in or what **non-verb should be used** to connect it with, since it's not used very often.
+
+> [!NOTE] Example
+> ང་ཁ་ལག་ ཟ་བའི/བགས་པའི ==སྒང་==༼ལ་༽་ཡིན།
+> *I'm in the middle of eating.*
+
+It necessarily needs to be *literally* happening at the moment of speech, but simply an **ongoing action** is enough: དེང་སང་ཁྱེད་རང་གི་ཨ་ཁུ་ཕྱག་ལས་ག་རེ་གནང་གི་ཡོད་རེད། ཁོང་ཕྱག་དེབ་ཅིག་རྩོམ་གནང་པའི་སྒང་རེད།

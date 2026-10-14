@@ -10,6 +10,7 @@ tags:
 > In [[3 Vehicles in Buddhism|Vajrayana]] you always need the guidance of a teacher. This is is not a secret *sadhana*, it's mostly a mix of beneficial prayers — with an inclination towards [[Longchen Nyingthig]] *nyingma* tradition — and [[Shamatha]] practice. What's secret it has been hidden from the published version — yet nowadays many secret practices are available online. You can follow the links of the excerpts to find out the full explanation, and translation of the prayer. 
 
 ## Table of Contents
+
 ```toc
 style: nestedOrderedList
 ```

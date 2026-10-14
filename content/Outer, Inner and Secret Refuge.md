@@ -15,9 +15,7 @@ tags:
   </thead>
   <tbody>
 	  <tr>
-		  <td rowspan="4">Outer</td>
-	  </tr>
-	  <tr>
+		  <td rowspan="6" style="vertical-align: middle">Outer</td>
 	  	<td>Buddha</td>
 	  	<td>སངས་རྒྱས།</td>
 	  	<td>The supreme guide and historical teacher who demonstrated complete awakening.</td>
@@ -31,9 +29,6 @@ tags:
 	  	<td>Sangha</td>
 	  	<td>དགེ་དུན།</td>
 	  	<td>The spiritual community of realized practitioners who assist and accompany you on the path.</td>
-	  </tr>
-	  <tr>
-		  <td rowspan="4">Inner</td>
 	  </tr>
 	 <tr>
 	  	<td>Guru</td>
@@ -50,10 +45,8 @@ tags:
 	  	<td>མཁའ་འགྲོ་མ།</td>
 	  	<td>The root of enlightened activity (འཕྲིན་ལས།). These protectors clear away inner and outer obstacles, creating conductive conditions for practice.</td>
 	  </tr>
-		  <tr>
-	<td rowspan="4">Secret</td>
-	  </tr>
 	 <tr>
+		  <td rowspan="3" style="vertical-align: middle">Inner</td>
 	  	<td>Channels</td>
 	  	<td>རྩ།</td>
 	  	<td>The paths through which energy flows.</td>
@@ -67,6 +60,22 @@ tags:
 	  	<td>Drops</td>
 	  	<td>ཐིག་ལེ།</td>
 	  	<td>Subtle liquid essence, physical-spiritual concentrates stored within the channels (white, red, ultimate essence [union of <i>primordial purity</i> དག་པ། and <i>spontaneous presence</i> ལྷུན་གྲུབ།])</td>
+	  </tr>
+	  <tr>
+		  <td rowspan="3" style="vertical-align: middle">Secret</td>
+	  	<td>Essence</td>
+	  	<td>ངོ་བོ།</td>
+	  	<td>Emptiness, primordial purity (ཀ་དག). Mind's nature has no solid, findable substance. Paired with the dharmakaya (ཆོས་སྐུ།).</td>
+	  </tr>
+	  <tr>
+	  	<td>Nature</td>
+	  	<td>རང་བཞིན།</td>
+	  	<td>Luminosity or clarity, spontaneous presence (ལྷུན་གྲུབ།). Although empty, mind is vividly aware and knowing. Paired with the sambhogakaya (ལོངས་སྐུ།).</td>
+	  </tr>
+	  <tr>
+	  	<td>Compassion</td>
+	  	<td>ཐུགས་རྗེ།</td>
+	  	<td>The all-pervading, unobstructed responsiveness of awareness: the dynamic expression of the union of emptiness and clarity. Paired with the nirmanakaya (སྤྲུལ་སྐུ།).</td>
 	  </tr>
   </tbody>
 </table>
