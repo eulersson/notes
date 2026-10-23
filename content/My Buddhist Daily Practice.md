@@ -65,7 +65,7 @@ Invite 3 sounds of the bell at the start and at the end of the practice.
 
 Prostrate 3 times while reciting the **refuge prayer**.
 
- ![[Nyingtik Refuge#༄༅། །སྐྱབས་སུ་འགྲོ་བ། །]]
+ ![[Refuge Prayer#༄༅། །སྐྱབས་སུ་འགྲོ་བ། །]]
 ### Bodhicitta Prayer
 
 ![[Bodhicitta#༄༅། །སེམས་བསྐྱེད་པ། །]]

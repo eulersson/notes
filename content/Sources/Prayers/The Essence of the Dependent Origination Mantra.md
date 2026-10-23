@@ -25,7 +25,14 @@ The causes are taught by the Tathāgata,
 Whatever is the cessation of these (causes),
 Is taught thus by the Great Seer.
 
----
+## Tibetan
+
+ཆོས་རྣམས་ཐམས་ཅད་རྒྱུ་ལས་བྱུང་།
+དེ་རྒྱུ་དེ་བཞིན་གཤེགས་པས་གསུངས།
+དེ་ལ་འགོག་པ་གང་ཡིན་པ།
+དགེ་སྦྱོང་ཆེན་པོས་འདི་སྐད་གསུངས།
+
+## Explanation
 
 **OM** common among *jainism*, *buddhism*, *hinduism*
 

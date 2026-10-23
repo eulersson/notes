@@ -4,10 +4,10 @@ tags:
 - meditation
 ---
 
-> These are notes taken after receiving teachings from [[Khenpo Urgyen Tsering]] and are about how must one meditate in the [[Dzogchen]] tradition.
+> These are notes taken after receiving teachings from [[Khenpo Orgyen Tsering]] and are about how must one meditate in the [[Dzogchen]] tradition.
 
 > [!WARN] Disclaimer
-> I'm a beginner and my involvement in the [[Dzogchen]] is not as strong as many serious practitioners, so these notes I believe [[Khenpo Urgyen Tsering]] adapted for a smaller-capacity person, such me.
+> I'm a beginner and my involvement in the [[Dzogchen]] is not as strong as many serious practitioners, so these notes I believe [[Khenpo Orgyen Tsering]] adapted for a smaller-capacity person, such me.
 
 We are a composite of *feelings*, *mind*, and *thought* on one side and *body* and *speech* on the other. The *feelings* can drag the rest of aggregates around. To illustrate it, he showed the famous painting [[9 Stages of Shamatha]] (monkey = thought, elephant = mind, lama = mindfulness). The mind is the boss.
 

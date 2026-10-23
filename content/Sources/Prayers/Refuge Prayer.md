@@ -17,7 +17,7 @@ This prayer is also used for prostration.
 
 ## Translation
 
-དཀོན་མཆོག་གསུམ་དངོས་བདེ་གཤེགས་རྩ་བ་གསུམ། །
+དཀོན་མཆོག་གསུམ་དངོས་བདེ་གཤེགས་རྩ་བ་གསུམ། ། 
 In the Three Jewels, and their essence, the sugatas, in the three roots: lama, yidam, and khandro,
 
 རྩ་རླུང་ཐིག་ལེའི་རང་བཞིན་བྱང་ཆུབ་སེམས། །
