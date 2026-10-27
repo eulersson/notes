@@ -34,3 +34,6 @@ This document compiles words written in [[Tibetan Quick Script (འཁྱུག�
 
 ![[Tibetan Practice Words 009.png]]
 ཡོན་ཏན།
+
+![[Screenshot 2026-10-24 at 11.41.56.png]]
+གོམས་གཤིས་
