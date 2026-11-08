@@ -17,7 +17,7 @@ That **granularity** statement is important, because if you simply want to offer
 
 > The MCP tool is twofold: metadata + input schema, and a handler that runs when the tool is called. Clients reach it over a transport: stdio for local servers, Streamable HTTP for remote ones.
 
-Clear benefits of an MCP tool:
+## Benefits of an MCP Tool
 
 1. Can serve different **client implementations**, so it's very easy to distribute
 

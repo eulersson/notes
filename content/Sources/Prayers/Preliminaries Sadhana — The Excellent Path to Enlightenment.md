@@ -57,8 +57,6 @@ tags:
 
 ![[Tibetan Mantras#Guru Rinpoche Mantra]]
 
-[[Tibetan Mantras#Audio]]
-
 ,,མཐར།,,
 
 གནས་གསུམ་འབྲུ་གསུམ་འོད་ཟེར་གྱིས། །

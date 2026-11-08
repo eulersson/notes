@@ -14,3 +14,4 @@ List of resources that might help you during your #tibetan-language learning jou
 5. [Learn Tibetan with easy podcast on Spotify](https://open.spotify.com/show/745bpxFhQP3OAhDd0pG39S?si=a18f29945bbd4aff)
 6. [Tenzin's World Cartoons With Subtitles on YouTube](https://www.youtube.com/playlist?list=PL4QYPXhibIEuvyWVMW1nLX48KGBsXN31n)
 7. [ManjuTib's A2 - Practice Tibetan Speaking](https://youtube.com/playlist?list=PLetUaJh0l0aSRpPpCuUFZPlvKtaITLT5B&si=GmyuiEuzLZpeZBlb)
+8. [THL Tibetan Grammatical Functions](https://nod-subjects.utm.utoronto.ca/features/286)
