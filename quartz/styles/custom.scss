@@ -31,9 +31,9 @@ i.p {
 // Color highlights, ==🔴text==. ObsidianFlavoredMarkdown sets data-highlight
 // as Obsidian does, so these rules match Obsidian's <mark> markup too. The
 // colors are Obsidian's palette, light then dark.
-@each $name, $light, $dark in (red, #e93147, #fb464c), (orange, #ec7500, #e9973f),
-  (yellow, #e0ac00, #e0de71), (green, #08b94e, #44cf6e), (blue, #086ddd, #027aff),
-  (purple, #7852ee, #a882ff)
+@each $name, $light, $dark in ("red", #e93147, #fb464c), ("orange", #ec7500, #e9973f),
+  ("yellow", #e0ac00, #e0de71), ("green", #08b94e, #44cf6e), ("blue", #086ddd, #027aff),
+  ("purple", #7852ee, #a882ff)
 {
   [data-highlight="#{$name}"] {
     background-color: rgba($light, 0.3);
