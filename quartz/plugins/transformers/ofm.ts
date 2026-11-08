@@ -141,6 +141,26 @@ function normalizeAnchor(anchor: string): string {
 export const tableWikilinkRegex = new RegExp(/(!?\[\[[^\]]*?\]\]|\[\^[^\]]*?\])/g)
 
 const highlightRegex = new RegExp(/==([^=]+)==/g)
+// Obsidian 1.14 colors a highlight from a leading emoji and drops the emoji:
+// `==🔴 text==` renders as `<mark data-highlight="red"> text</mark>`. Six
+// colors, each as a circle or a square. Ported from Quartz v5's
+// rehype-obsidian (src/lib/coloured-highlights.ts), which matched it against
+// Obsidian's own HTML: only the first codepoint counts (a trailing U+FE0F
+// stays) and whatever follows it, a space included, is kept.
+const highlightColors = new Map<number, string>([
+  [0x1f534, "red"],
+  [0x1f7e5, "red"],
+  [0x1f7e0, "orange"],
+  [0x1f7e7, "orange"],
+  [0x1f7e1, "yellow"],
+  [0x1f7e8, "yellow"],
+  [0x1f7e2, "green"],
+  [0x1f7e9, "green"],
+  [0x1f535, "blue"],
+  [0x1f7e6, "blue"],
+  [0x1f7e3, "purple"],
+  [0x1f7ea, "purple"],
+])
 const commentRegex = new RegExp(/%%[\s\S]*?%%/g)
 // from https://github.com/escwxyz/remark-obsidian-callout/blob/main/src/index.ts
 const calloutRegex = new RegExp(/^\[\!([\w-]+)\|?(.+?)?\]([+-]?)/)
@@ -334,6 +354,15 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
               highlightRegex,
               (_value: string, ...capture: string[]) => {
                 const [inner] = capture
+                const marker = inner.codePointAt(0)!
+                const color = highlightColors.get(marker)
+                if (color) {
+                  const text = inner.slice(String.fromCodePoint(marker).length)
+                  return {
+                    type: "html",
+                    value: `<span class="text-highlight" data-highlight="${color}">${text}</span>`,
+                  }
+                }
                 return {
                   type: "html",
                   value: `<span class="text-highlight">${inner}</span>`,
