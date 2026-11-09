@@ -31,6 +31,13 @@ insert(transformers, { after: "Latex" }, [
   Plugin.TableOfContentsBlock(),
 ])
 insert(emitters, { after: "Assets" }, [Plugin.VideoPosters()])
+// Social preview images in the site's Tokyo Night colors, with Tibetan text: OgImages draws
+// them in place of the og-image plugin, whose <meta> tags it keeps.
+const ogImages = emitters.findIndex((plugin) => plugin.name === "CustomOgImages")
+if (ogImages === -1) {
+  throw new Error(`quartz.ts: can't replace the social images: the og-image plugin is not enabled`)
+}
+emitters[ogImages] = Plugin.OgImages(emitters[ogImages])
 
 export default config
 

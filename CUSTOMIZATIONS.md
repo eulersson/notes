@@ -46,6 +46,7 @@ git add package.json package-lock.json
 | Custom plugins added to the build, "Recent" sidebar                   | `quartz.ts`                                                                                        |
 | Transformers (captions, small text, Tibetan, lightbox, video, blocks) | `quartz/plugins/transformers/`                                                                     |
 | Video posters                                                         | `quartz/plugins/emitters/videoPosters.ts`, `quartz/util/video.ts`, cached in `posters/`            |
+| Social preview images (Tokyo Night colors, Tibetan text)              | `quartz/plugins/emitters/ogImages.ts`, `quartz/static/ddc_uchen.ttf`                               |
 | "Recent" sidebar                                                      | `quartz/components/RecentNotes.tsx`, `styles/recentNotes.scss`, `scripts/recentNotes.inline.ts`    |
 | ` ```recent-notes ` blocks                                            | `quartz/plugins/transformers/recentNotes.ts`, rendered by `quartz/components/renderRecentNotes.ts` |
 | URLs without dashes or quotes                                         | `quartz/util/path.ts`, `quartz/util/ctx.ts`                                                        |
@@ -64,6 +65,8 @@ Their source is no longer in this repository, so they are adjusted through optio
 - `npx tsx --test quartz/util/path.test.ts`: the URL rules wrap functions that `quartz/util/path.ts` re-exports from `@quartz-community/utils`.
 - `quartz.ts` places the custom transformers next to ObsidianFlavoredMarkdown, Description, Latex and Assets by name, and stops the build if one of them is missing.
 - Captions under embedded videos (`![[clip.mp4|caption]]`): `MediaCaptions` reads the `wikilink` nodes of ObsidianFlavoredMarkdown.
+- Social preview images, e.g. `public/tibetan-language/diary/2026-11-og-image.webp`: `quartz.ts` puts `OgImages` in the og-image plugin's place, keeping that plugin's `<meta>` tags.
+  `OgImages` keeps the plugin's emitter name, `CustomOgImages`, which `quartz/components/Head.tsx` looks for to leave out its default image tags.
 - Breadcrumbs on notes whose names contain dashes or quotes, e.g. "Thought — Buddha Nature and Jesus".
 - On a phone: the Explorer drawer, with "Recent" docked at its bottom.
 
