@@ -124,11 +124,33 @@ describe("transforms", () => {
         ["note with — em dash.md", "note-with---em-dash"],
         ['note with "quotes".md', "note-with-quotes"],
         ["note with \u201Ccurly quotes\u201D.md", "note-with-curly-quotes"],
+        // Obsidian "Folder Notes" convention: folder/folder.md is the folder's landing page
+        ["characters/characters.md", "characters/index"],
+        ["fiction/books/books.md", "fiction/books/index"],
+        ["a/a/a.md", "a/a/index"],
+        // Top-level single-segment: NOT rewritten (parentFolder storage, out of scope)
+        ["characters.md", "characters"],
+        // Non-matching last two segments: no rewrite
+        ["characters/alice.md", "characters/alice"],
+        ["characters/sub/characters.md", "characters/sub/characters"],
+        // Folder literally named "index" is unaffected by the rewrite
+        ["index/index.md", "index/index"],
+        ["docs/index/index.md", "docs/index/index"],
       ],
       path.slugifyFilePath,
       path.isFilePath,
       path.isFullSlug,
     )
+  })
+
+  test("slugifyFilePath + simplifySlug end-to-end canonicalization", () => {
+    // Both folder-note conventions must produce identical user-facing URLs.
+    const indexStyle = path.simplifySlug(path.slugifyFilePath("characters/index.md" as any))
+    const folderNameStyle = path.simplifySlug(
+      path.slugifyFilePath("characters/characters.md" as any),
+    )
+    assert.strictEqual(indexStyle, folderNameStyle)
+    assert.strictEqual(indexStyle, "characters/")
   })
 
   test("transformInternalLink", () => {
@@ -152,6 +174,15 @@ describe("transforms", () => {
         ["content/with spaces", "./content/with-spaces"],
         ["content/with spaces/index", "./content/with-spaces/"],
         ["content/with spaces#and Anchor!", "./content/with-spaces#and-anchor"],
+        // Folder note convention: same-name parent triggers /index rewrite → folder path
+        ["characters/characters", "./characters/"],
+        ["My Folder/My Folder", "./my-folder/"],
+        ["a/b/c/d/d", "./a/b/c/d/"],
+        ["My Folder/My Folder#heading", "./my-folder/#heading"],
+        // Non-matching last segments: no folder rewrite
+        ["characters/alice", "./characters/alice"],
+        // Percent-encoded spaces
+        ["My%20Folder/My%20Note", "./my-folder/my-note"],
       ],
       path.transformInternalLink,
       (_x: string): _x is string => true,
@@ -316,6 +347,68 @@ describe("link strategies", () => {
       assert.strictEqual(path.transformLink(cur, "e/g/h", opts), "./e/g/h")
       assert.strictEqual(path.transformLink(cur, "a/b/index", opts), "./a/b/")
     })
+  })
+})
+
+describe("custom slug rules", () => {
+  test("slugTag drops quotes and turns dashes into hyphens", () => {
+    assert.strictEqual(path.slugTag("Rinpoche's — talks"), "rinpoches---talks")
+  })
+
+  test("links written with the stock rules resolve to the custom slugs", () => {
+    const allSlugs = [
+      "index",
+      "alexander-the-greats-last-3-wills",
+      "thought---buddha-nature",
+      "attachments/coses-pokhara-pema-tsal-monsatery.png",
+    ] as FullSlug[]
+    const opts: TransformOptions = { strategy: "shortest", allSlugs }
+    const cur = "index" as FullSlug
+    // what ObsidianFlavoredMarkdown writes for [[Alexander the Great's Last 3 Wills]]
+    assert.strictEqual(
+      path.transformLink(cur, "./alexander-the-great's-last-3-wills", opts),
+      "./alexander-the-greats-last-3-wills",
+    )
+    // anchors are kept exactly as written
+    assert.strictEqual(
+      path.transformLink(cur, "./thought-—-buddha-nature#second-part", opts),
+      "./thought---buddha-nature#second-part",
+    )
+    // percent-encoded markdown links
+    assert.strictEqual(
+      path.transformLink(cur, "Thought%20%E2%80%94%20Buddha%20Nature.md", opts),
+      "./thought---buddha-nature",
+    )
+    assert.strictEqual(
+      path.transformLink(cur, "Attachments/Coses Pokhara Pema Ts'al Monsatery.png", opts),
+      "./attachments/coses-pokhara-pema-tsal-monsatery.png",
+    )
+    // block references come out as Quartz writes them
+    assert.strictEqual(
+      path.transformLink(cur, "./thought-—-buddha-nature#^abc123", opts),
+      path.transformLink(cur, "./thought---buddha-nature#^abc123", opts),
+    )
+  })
+
+  test("normalizeHastElement rebases video posters", () => {
+    const el = {
+      type: "element" as const,
+      tagName: "div",
+      properties: {},
+      children: [
+        {
+          type: "element" as const,
+          tagName: "video",
+          properties: { src: "./clip.mp4", poster: "./clip.mp4.poster.webp" },
+          children: [],
+        },
+      ],
+    }
+    const rebased = path.normalizeHastElement(el, "a/b/page" as FullSlug, "c/other" as FullSlug)
+    const video = rebased.children[0] as (typeof el.children)[0]
+    // the poster is rebased exactly like the src
+    assert.notStrictEqual(video.properties.src, "./clip.mp4")
+    assert.strictEqual(video.properties.poster, `${video.properties.src}.poster.webp`)
   })
 })
 

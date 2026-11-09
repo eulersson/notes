@@ -7,7 +7,6 @@ import style from "./styles/recentNotes.scss"
 // @ts-ignore
 import script from "./scripts/recentNotes.inline"
 import { Date, getDate } from "./Date"
-import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
 
@@ -20,13 +19,13 @@ interface Options {
   sort: (f1: QuartzPluginData, f2: QuartzPluginData) => number
 }
 
-const defaultOptions = (cfg: GlobalConfiguration): Options => ({
+const defaultOptions: Options = {
   limit: 3,
   linkToMore: false,
   showTags: true,
   filter: () => true,
-  sort: byDateAndAlphabetical(cfg),
-})
+  sort: byDateAndAlphabetical(),
+}
 
 let numRecentNotes = 0
 export default ((userOpts?: Partial<Options>) => {
@@ -36,7 +35,7 @@ export default ((userOpts?: Partial<Options>) => {
     displayClass,
     cfg,
   }: QuartzComponentProps) => {
-    const opts = { ...defaultOptions(cfg), ...userOpts }
+    const opts = { ...defaultOptions, ...userOpts }
     const pages = allFiles.filter(opts.filter).sort(opts.sort)
     const remaining = Math.max(0, pages.length - opts.limit)
     const id = `recent-notes-${numRecentNotes++}`
@@ -82,7 +81,7 @@ export default ((userOpts?: Partial<Options>) => {
                     </div>
                     {page.dates && (
                       <p class="meta">
-                        <Date date={getDate(cfg, page)!} locale={cfg.locale} />
+                        <Date date={getDate(page)!} locale={cfg.locale} />
                       </p>
                     )}
                     {opts.showTags && (

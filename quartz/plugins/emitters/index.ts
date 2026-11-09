@@ -1,13 +1,6 @@
-export { ContentPage } from "./contentPage"
-export { TagPage } from "./tagPage"
-export { FolderPage } from "./folderPage"
-export { ContentIndex as ContentIndex } from "./contentIndex"
-export { AliasRedirects } from "./aliases"
 export { Assets } from "./assets"
 export { Static } from "./static"
-export { Favicon } from "./favicon"
 export { ComponentResources } from "./componentResources"
-export { NotFoundPage } from "./404"
-export { CNAME } from "./cname"
-export { CustomOgImages } from "./ogImage"
+
+// Custom emitters, added to the build in quartz.ts
 export { VideoPosters } from "./videoPosters"

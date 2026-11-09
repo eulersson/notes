@@ -64,7 +64,7 @@ function renderItem(
     children: [text(page.frontmatter?.title ?? page.slug!)],
   })
 
-  const date = getDate(cfg, page)
+  const date = getDate(page)
   if (showDate && date) {
     item.children.push({
       type: "element",
@@ -114,7 +114,7 @@ export function renderRecentNotes(
 
     const pages = componentData.allFiles
       .filter((page) => page.slug !== undefined && page.slug !== slug)
-      .sort(byDateAndAlphabetical(cfg))
+      .sort(byDateAndAlphabetical())
       .slice(0, Number.isFinite(limit) && limit > 0 ? limit : 10)
 
     if (pages.length === 0) {
