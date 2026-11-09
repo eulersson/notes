@@ -53,6 +53,7 @@ git add package.json package-lock.json
 | `.html` attachments served as pages                                   | `quartz/plugins/emitters/assets.ts`                                                                |
 | Google Analytics consent mode                                         | `quartz/plugins/emitters/componentResources.ts`                                                    |
 | Styles: Tibetan font, highlights, text size, mobile drawer            | `quartz/styles/custom.scss`, `quartz/styles/tibetan.scss`                                          |
+| Tokyo Night colors, matched to the Obsidian vault's Style Settings    | theme colors in `quartz.config.yaml`, the rest in `quartz/styles/custom.scss`                      |
 
 Quartz's own components (Explorer, Search, Graph, …) are npm plugins now.
 Their source is no longer in this repository, so they are adjusted through options in `quartz.config.yaml` and CSS in `custom.scss`.
