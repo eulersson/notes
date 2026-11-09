@@ -69,12 +69,17 @@ function soleElement(node: Element): Element | undefined {
   return kids[0].type === "element" ? kids[0] : undefined
 }
 
+// An image embedded without a caption, `![[pic.png]]`, gets its file path as alt text (and so
+// does an embed of an image the site doesn't have). That is not a caption.
+const imageFileName = /\.(png|jpe?g|gif|bmp|webp|jxl|svg|avif|tiff?)$/i
+
 function getCaption(node: Element): string | undefined {
   const props = node.properties ?? {}
-  // `alt` for images, `data-caption` for the raw <video>/<audio> that ofm emits
+  // `alt` for images, `data-caption` for the raw <video>/<audio> that MediaCaptions emits
   const raw = props.alt ?? props.dataCaption ?? props["data-caption"]
   if (typeof raw !== "string") return undefined
   const caption = raw.trim()
+  if (node.tagName === "img" && imageFileName.test(caption)) return undefined
   return caption === "" ? undefined : caption
 }
 

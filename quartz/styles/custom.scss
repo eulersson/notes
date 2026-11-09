@@ -1,6 +1,9 @@
-@use "./base.scss";
 @use "./variables.scss" as *;
 @use "./tibetan.scss";
+
+// Unlike Quartz's own styles and the plugins' styles, which sit in the `quartz-base` cascade
+// layer, everything here is unlayered: these rules win over theirs whatever the selector
+// specificity. (So no `@use "./base.scss"` here either: Quartz already includes it, layered.)
 
 // put your custom CSS here!
 i.g {
@@ -202,6 +205,42 @@ article img {
     color: var(--gray);
     font-style: italic;
     margin: 0;
+  }
+}
+
+// Explorer. The explorer plugin brings its own styles; these adjust them.
+
+// Suppress iOS double-tap-to-zoom: the toggle swaps the layout underneath the
+// second tap, so the zoom lands with nothing left to double-tap back out of.
+button.mobile-explorer,
+button.desktop-explorer,
+.folder-container div > button,
+.folder-icon {
+  touch-action: manipulation;
+}
+
+@media all and ($mobile) {
+  // The drawer doesn't slide in. Recent is docked to the bottom of this same
+  // overlay as a separate `position: fixed` element, and on iOS a transformed
+  // fixed element composites on its own layer, so it visibly lagged behind the
+  // drawer's transform even on the same duration and easing. Appearing in place
+  // is the only way the two arrive together on every browser.
+  .explorer .explorer-content {
+    transform: none;
+    transition: none;
+    visibility: visible;
+  }
+
+  // Hiding is `display`, not `visibility`: `.folder-outer.open` sets
+  // `visibility: visible` and the file links set `pointer-events: all`, and
+  // both of those beat a hidden ancestor — an expanded folder would paint over
+  // the article and still take taps.
+  //
+  // Only the collapsed state sets `display`. The open state is left alone, so
+  // the plugin's `.hide-until-loaded ~ .explorer-content` guard still keeps the
+  // drawer shut on first paint, before the explorer script has run.
+  .explorer.collapsed > .explorer-content {
+    display: none;
   }
 }
 

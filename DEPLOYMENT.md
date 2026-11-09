@@ -38,12 +38,26 @@ The cost is small. The shallow clone already carries all ~300 MB of
 `content/Attachments`, so deepening pulls only historical blobs — measured at
 +62 MB and +43 s.
 
+Quartz 5 needs Node 22 or later. Cloudflare Pages picks the version up from
+`.node-version`.
+
+All plugins in `quartz.config.yaml` are npm packages, installed by the regular
+`npm` install step, so the build command needs nothing else. A plugin added
+from GitHub (`npx quartz plugin add github:…`) is cloned at build time; prefix
+the build with `npx quartz plugin install &&` then, so a failed clone stops the
+build instead of deploying a site without it.
+
 ## How note dates are resolved
 
-`quartz.config.ts` sets `defaultDateType: "modified"` and:
+`quartz.config.yaml` configures the `created-modified-date` plugin with:
 
-```ts
-Plugin.CreatedModifiedDate({ priority: ["frontmatter", "git", "filesystem"] })
+```yaml
+options:
+  defaultDateType: modified
+  priority:
+    - frontmatter
+    - git
+    - filesystem
 ```
 
 so the date rendered on a page is `modified`, resolved in this order:
