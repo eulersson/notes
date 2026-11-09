@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Sampithsal
-  pageTitleSuffix: " | Sampitshal (Garden of Thoughts)"
+  pageTitleSuffix: " | Sampitshal"
   enableSPA: true
   enablePopovers: true
   prefetch: viewport

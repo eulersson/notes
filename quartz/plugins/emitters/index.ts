@@ -4,3 +4,4 @@ export { ComponentResources } from "./componentResources"
 
 // Custom emitters, added to the build in quartz.ts
 export { VideoPosters } from "./videoPosters"
+export { OgImages } from "./ogImages"
