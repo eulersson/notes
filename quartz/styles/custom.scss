@@ -6,44 +6,158 @@
 // specificity. (So no `@use "./base.scss"` here either: Quartz already includes it, layered.)
 
 // put your custom CSS here!
-i.g {
-  font-style: normal;
-  color: #6aa84f;
+
+// Tokyo Night, matched to the Obsidian vault: the values are its Style Settings for the
+// Minimal theme, light then dark. The page colors (background, text, links) are the theme
+// colors in quartz.config.yaml.
+:root {
+  --tn-h1: #2e7de9;
+  --tn-h2: #8c6c3e;
+  --tn-h3: #587539;
+  --tn-h4: #118c74;
+  --tn-h5: #9854f1;
+  --tn-h6: #7847bd;
+  --tn-bold: #5a4a78;
+  --tn-italic: #0f4b6e;
+  --tn-tag: #9854f1;
+  --tn-red: #f52a65;
+  --tn-orange: #b15c00;
+  --tn-yellow: #8c6c3e;
+  --tn-green: #587539;
+  --tn-cyan: #007197;
+  --tn-blue: #2e7de9;
+  --tn-purple: #7847bd;
+  --tn-code-background: #d0d5e3;
+  --tn-quote-background: #cbccd1;
+  --tn-selection: #b7c1e3;
 }
 
-i.r {
-  font-style: normal;
-  color: #cc0000;
+:root[saved-theme="dark"] {
+  --tn-h1: #82aaff;
+  --tn-h2: #ffc777;
+  --tn-h3: #c3e88d;
+  --tn-h4: #4fd6be;
+  --tn-h5: #c099ff;
+  --tn-h6: #fca7ea;
+  --tn-bold: #bb9af7;
+  --tn-italic: #7dcfff;
+  --tn-tag: #c099ff;
+  --tn-red: #ff757f;
+  --tn-orange: #ff966c;
+  --tn-yellow: #ffc777;
+  --tn-green: #c3e88d;
+  --tn-cyan: #86e1fc;
+  --tn-blue: #82aaff;
+  --tn-purple: #fca7ea;
+  --tn-code-background: #1e2030;
+  --tn-quote-background: #16161e;
+  --tn-selection: #2d3f76;
 }
 
-i.b {
-  font-style: normal;
-  color: #3c78d8;
+// Inside notes and their hover previews only, so sidebar headings keep the text color.
+// The note title takes the H1 color, as Obsidian's inline title does.
+.article-title,
+:is(article, .popover-inner) h1 {
+  color: var(--tn-h1);
 }
 
-i.y {
-  font-style: normal;
-  color: #f1c231;
+@for $level from 2 through 6 {
+  :is(article, .popover-inner) h#{$level} {
+    color: var(--tn-h#{$level});
+  }
 }
 
-i.p {
-  font-style: normal;
-  color: #d679d6;
+// base.scss colors bold with `.page article p > strong`, hence the second selector.
+:is(article, .popover-inner) :is(strong, b),
+.page article p > strong {
+  color: var(--tn-bold);
 }
 
-// Color highlights, ==🔴text==. ObsidianFlavoredMarkdown sets data-highlight
-// as Obsidian does, so these rules match Obsidian's <mark> markup too. The
-// colors are Obsidian's palette, light then dark.
-@each $name, $light, $dark in ("red", #e93147, #fb464c), ("orange", #ec7500, #e9973f),
-  ("yellow", #e0ac00, #e0de71), ("green", #08b94e, #44cf6e), ("blue", #086ddd, #027aff),
-  ("purple", #7852ee, #a882ff)
-{
-  [data-highlight="#{$name}"] {
-    background-color: rgba($light, 0.3);
+:is(article, .popover-inner) em {
+  color: var(--tn-italic);
+}
+
+// Links are underlined, without Quartz's background chip.
+:is(article, .popover-inner) a:is(.internal, .external):not(.tag-link) {
+  background-color: transparent;
+  padding: 0;
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+}
+
+a.internal.tag-link {
+  color: var(--tn-tag);
+  background-color: color-mix(in srgb, var(--tn-tag) 15%, transparent);
+}
+
+// Callouts are blockquotes too.
+article blockquote:not(.callout) {
+  background-color: var(--tn-quote-background);
+  border-left: 1px solid var(--lightgray);
+  padding: 0.6rem 1.2rem;
+}
+
+:not(pre) > code {
+  background-color: var(--tn-code-background);
+}
+
+::selection {
+  background: var(--tn-selection);
+  color: inherit;
+}
+
+// Callouts take the color Obsidian gives each type, on a 10% background.
+.callout[data-callout] {
+  --color: var(--tn-blue);
+  --border: color-mix(in srgb, var(--color) 25%, transparent);
+  --bg: color-mix(in srgb, var(--color) 10%, transparent);
+
+  &[data-callout="abstract"],
+  &[data-callout="tip"] {
+    --color: var(--tn-cyan);
   }
 
-  :root[saved-theme="dark"] [data-highlight="#{$name}"] {
-    background-color: rgba($dark, 0.3);
+  &[data-callout="success"] {
+    --color: var(--tn-green);
+  }
+
+  &[data-callout="question"],
+  &[data-callout="warning"] {
+    --color: var(--tn-orange);
+  }
+
+  &[data-callout="failure"],
+  &[data-callout="danger"],
+  &[data-callout="bug"] {
+    --color: var(--tn-red);
+  }
+
+  &[data-callout="example"] {
+    --color: var(--tn-purple);
+  }
+
+  &[data-callout="quote"] {
+    --color: #9e9e9e;
+  }
+}
+
+// Color highlights, ==🔴text==, which ObsidianFlavoredMarkdown renders as
+// <mark class="text-highlight" data-highlight="red">. Like Obsidian, a 30% tint
+// of the color, mixed in oklch. The plugin brings its own colors (Obsidian's
+// default palette, in both modes) in an unlayered stylesheet, with
+// `mark.text-highlight[data-highlight]`; `:root` makes these rules win over it.
+@each $name in "red", "orange", "yellow", "green", "blue", "purple" {
+  :root mark.text-highlight[data-highlight="#{$name}"] {
+    background-color: color-mix(in oklch, var(--tn-#{$name}) 30%, transparent);
+  }
+}
+
+// Colored text, <i class="r">…</i>
+@each $class, $name in ("g", "green"), ("r", "red"), ("b", "blue"), ("y", "yellow"), ("p", "purple")
+{
+  i.#{$class} {
+    font-style: normal;
+    color: var(--tn-#{$name});
   }
 }
 

@@ -21,27 +21,31 @@ configuration:
       header: Schibsted Grotesk
       body: Source Sans Pro
       code: IBM Plex Mono
+    # Tokyo Night, as set in the Obsidian vault's Style Settings for the Minimal theme
+    # (comments give the setting). Headings, bold, italic, callouts and highlights are in
+    # quartz/styles/custom.scss.
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#e1e2e7" # base
+        lightgray: "#a8aecb" # ui1
+        gray: "#50525b" # tx2
+        darkgray: "#303136" # tx1
+        dark: "#303136" # tx1
+        # Obsidian's #188092 and #118c74, darkened to be readable (4.5:1 and 4.8:1)
+        secondary: "#146f7e" # link-color
+        tertiary: "#0c6e5b" # link-color-hover
+        highlight: "#c4c8da" # bg3
+        textHighlight: "#b15c0040" # hl2
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#222436" # base
+        lightgray: "#3b4261" # ui1
+        gray: "#828bb8" # tx2
+        darkgray: "#c8d3f5" # tx1
+        dark: "#c8d3f5" # tx1
+        secondary: "#65bcff" # link-color
+        tertiary: "#4fd6be" # link-color-hover
+        highlight: "#2f334d" # bg3
+        textHighlight: "#ff966c40" # hl2
   links:
     markdownLinkResolution: shortest
   contentIndex:
@@ -62,7 +66,7 @@ plugins:
     options:
       theme:
         light: github-light
-        dark: github-dark
+        dark: tokyo-night
       keepBackground: false
     order: 20
   - source: "@quartz-community/github-flavored-markdown"
