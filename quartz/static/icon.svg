@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!--
+    Site icon: a snow peak under a crescent moon, in the Tokyo Night colors.
+    icon.png, which the favicon and og-image plugins read, is this drawing at 256 px:
+    node -e "require('sharp')('quartz/static/icon.svg').resize(256).png().toFile('quartz/static/icon.png')"
+  -->
+  <defs>
+    <clipPath id="disc">
+      <circle cx="256" cy="256" r="256" />
+    </clipPath>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1e2030" />
+      <stop offset="1" stop-color="#2f334d" />
+    </linearGradient>
+    <mask id="crescent">
+      <rect width="512" height="512" fill="#fff" />
+      <circle cx="373" cy="126" r="45" fill="#000" />
+    </mask>
+  </defs>
+  <g clip-path="url(#disc)">
+    <rect width="512" height="512" fill="url(#sky)" />
+    <!-- moon and stars -->
+    <circle cx="352" cy="142" r="50" fill="#ffc777" mask="url(#crescent)" />
+    <circle cx="148" cy="118" r="6" fill="#c8d3f5" opacity=".8" />
+    <circle cx="214" cy="78" r="4" fill="#c8d3f5" opacity=".6" />
+    <circle cx="420" cy="250" r="4" fill="#c8d3f5" opacity=".6" />
+    <!-- the range behind -->
+    <path d="M-20 512 L120 330 L196 410 L256 330 L330 430 L400 360 L540 512 Z" fill="#3b4261" />
+    <!-- the peak, its snow and its shaded side -->
+    <path d="M50 512 L256 168 L462 512 Z" fill="#82aaff" />
+    <path d="M256 168 L318 272 L292 258 L270 284 L250 260 L226 282 L204 258 L194 272 Z" fill="#c8d3f5" />
+    <path d="M256 168 L462 512 L356 512 L268 300 Z" fill="#3d59a1" opacity=".55" />
+  </g>
+</svg>

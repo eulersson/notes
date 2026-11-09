@@ -47,6 +47,7 @@ git add package.json package-lock.json
 | Transformers (captions, small text, Tibetan, lightbox, video, blocks) | `quartz/plugins/transformers/`                                                                     |
 | Video posters                                                         | `quartz/plugins/emitters/videoPosters.ts`, `quartz/util/video.ts`, cached in `posters/`            |
 | Social preview images (Tokyo Night colors, Tibetan text)              | `quartz/plugins/emitters/ogImages.ts`, `quartz/static/ddc_uchen.ttf`                               |
+| Site icon and favicon (snow peak under a crescent moon)               | `quartz/static/icon.png`, drawn from `quartz/static/icon.svg`                                      |
 | "Recent" sidebar                                                      | `quartz/components/RecentNotes.tsx`, `styles/recentNotes.scss`, `scripts/recentNotes.inline.ts`    |
 | ` ```recent-notes ` blocks                                            | `quartz/plugins/transformers/recentNotes.ts`, rendered by `quartz/components/renderRecentNotes.ts` |
 | URLs without dashes or quotes                                         | `quartz/util/path.ts`, `quartz/util/ctx.ts`                                                        |
