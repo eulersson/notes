@@ -57,6 +57,8 @@ This is the book we are using for the online course at SINI and below you will f
 	- [[Tibetan Intensifier Reducers Ranking]]
 - Lesson 21
 	- [[Tibetan Connectives of Simultaneity]]
+- Lesson 21
+	- [[Tibetan Connectives of Temporal Sequence]]
 
 > [!NOTE] Sentences
 > I collected sentences in this [Anki deck](https://ankiweb.net/shared/info/306915111) if you want to practice them.

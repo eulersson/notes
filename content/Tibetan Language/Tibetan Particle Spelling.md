@@ -22,20 +22,20 @@ Several particles are written in different ways depending on the suffix (རྗ�
 
 The ten suffixes in their traditional order (ག་ང་ད་ན་བ་མ་འ། །ར་ལ་ས་རྣམས་རྗེས་འཇུག་བཅུ།), plus da-drag and open syllables:
 
-| Previous suffix  | Genitive                                    | Agentive                                    | Possessor              | Indefinite / imperative |
-| ---------------- | ------------------------------------------- | ------------------------------------------- | ---------------------- | ----------------------- |
-| ག་               | <i class="g">གི་</i>                        | <i class="g">གིས་</i>                       | <i class="b">པ་</i>    | <i class="b">ཅིག་</i>   |
-| ང་               | <i class="g">གི་</i>                        | <i class="g">གིས་</i>                       | <i class="y">བ་</i>    | <i class="y">ཞིག་</i>   |
-| ད་               | <i class="b">ཀྱི་</i>                       | <i class="b">ཀྱིས་</i>                      | <i class="b">པ་</i>    | <i class="b">ཅིག་</i>   |
-| ན་               | <i class="p">གྱི་</i>                       | <i class="p">གྱིས་</i>                      | <i class="b">པ་</i>    | <i class="y">ཞིག་</i>   |
-| བ་               | <i class="b">ཀྱི་</i>                       | <i class="b">ཀྱིས་</i>                      | <i class="b">པ་</i>    | <i class="b">ཅིག་</i>   |
-| མ་               | <i class="p">གྱི་</i>                       | <i class="p">གྱིས་</i>                      | <i class="b">པ་</i>    | <i class="y">ཞིག་</i>   |
-| འ་               | <i class="y">འི་</i> / <i class="y">ཡི་</i> | <i class="y">ས་</i> / <i class="y">ཡིས་</i> | <i class="y">བ་</i>    | <i class="y">ཞིག་</i>   |
-| ར་               | <i class="p">གྱི་</i>                       | <i class="p">གྱིས་</i>                      | <i class="y">བ་</i>    | <i class="y">ཞིག་</i>   |
-| ལ་               | <i class="p">གྱི་</i>                       | <i class="p">གྱིས་</i>                      | <i class="y">བ་</i>    | <i class="y">ཞིག་</i>   |
-| ས་               | <i class="b">ཀྱི་</i>                       | <i class="b">ཀྱིས་</i>                      | <i class="b">པ་</i>    | <i class="r">ཤིག་</i>   |
-| da-drag (archaic) | <i class="b">ཀྱི་</i>                       | <i class="b">ཀྱིས་</i>                      | <i class="b">པ་</i>    | <i class="b">ཅིག་</i>   |
-| none (མཐའ་མེད་)  | <i class="y">འི་</i> / <i class="y">ཡི་</i> | <i class="y">ས་</i> / <i class="y">ཡིས་</i> | <i class="y">བ་</i>    | <i class="y">ཞིག་</i>   |
+| Previous suffix   | Genitive                                    | Agentive                                    | Possessor           | Indefinite / imperative |
+| ----------------- | ------------------------------------------- | ------------------------------------------- | ------------------- | ----------------------- |
+| ག་                | <i class="g">གི་</i>                        | <i class="g">གིས་</i>                       | <i class="b">པ་</i> | <i class="b">ཅིག་</i>   |
+| ང་                | <i class="g">གི་</i>                        | <i class="g">གིས་</i>                       | <i class="y">བ་</i> | <i class="y">ཞིག་</i>   |
+| ད་                | <i class="b">ཀྱི་</i>                       | <i class="b">ཀྱིས་</i>                      | <i class="b">པ་</i> | <i class="b">ཅིག་</i>   |
+| ན་                | <i class="p">གྱི་</i>                       | <i class="p">གྱིས་</i>                      | <i class="b">པ་</i> | <i class="y">ཞིག་</i>   |
+| བ་                | <i class="b">ཀྱི་</i>                       | <i class="b">ཀྱིས་</i>                      | <i class="b">པ་</i> | <i class="b">ཅིག་</i>   |
+| མ་                | <i class="p">གྱི་</i>                       | <i class="p">གྱིས་</i>                      | <i class="b">པ་</i> | <i class="y">ཞིག་</i>   |
+| འ་                | <i class="y">འི་</i> / <i class="y">ཡི་</i> | <i class="y">ས་</i> / <i class="y">ཡིས་</i> | <i class="y">བ་</i> | <i class="y">ཞིག་</i>   |
+| ར་                | <i class="p">གྱི་</i>                       | <i class="p">གྱིས་</i>                      | <i class="y">བ་</i> | <i class="y">ཞིག་</i>   |
+| ལ་                | <i class="p">གྱི་</i>                       | <i class="p">གྱིས་</i>                      | <i class="y">བ་</i> | <i class="y">ཞིག་</i>   |
+| ས་                | <i class="b">ཀྱི་</i>                       | <i class="b">ཀྱིས་</i>                      | <i class="b">པ་</i> | <i class="r">ཤིག་</i>   |
+| da-drag (archaic) | <i class="b">ཀྱི་</i>                       | <i class="b">ཀྱིས་</i>                      | <i class="b">པ་</i> | <i class="b">ཅིག་</i>   |
+| none (མཐའ་མེད་)   | <i class="y">འི་</i> / <i class="y">ཡི་</i> | <i class="y">ས་</i> / <i class="y">ཡིས་</i> | <i class="y">བ་</i> | <i class="y">ཞིག་</i>   |
 
 The groups don't line up across families. Watch ན་ and མ་ in particular: soft with the genitive (གྱི་) and with ཞིག་, but hard with པ་. And ས་ gets its own form only with ཤིག་.
 
