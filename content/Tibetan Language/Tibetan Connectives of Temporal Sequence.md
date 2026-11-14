@@ -23,11 +23,10 @@ The fact verb is in *usually* the **present** tense (some people might use **pas
 > [!WARNING] Don't Set In Stone
 > Sometimes you might also hear བཟས་བའི་སྔོན་ལ་ instead of མ་ཟ་སྔོན་ལ་
 
-Some more features:
-- Works with བྱེད་མེད་ལས་ཚིག་ verbs
-	- ཁེ་ས་དགོང་དག་ང་==🟣གཉིད་== ==🔵མ་== ==🟣ཤོར་== ==🟡སྔོན་ལ་==་་་
-- Not limited to one agent
-	- ==🟢རྒན་ལགས་==(ཀྱིས་)འགྲེལ་བཤད་==🔵མ་== ==🟣སྐྱོན་== ==🟡སྔོན་ལ་== ==🟠ང་==མགོ་འཐོམ་སོང་།
+Works with བྱེད་མེད་ལས་ཚིག་ verbs:
+
+ཁེ་ས་དགོང་དག་ང་==🟣གཉིད་== ==🔵མ་== ==🟣ཤོར་== ==🟡སྔོན་ལ་==་་་
+“Yesterday ==🟡before== I ==🟣fell asleep== ...”
 
 > [!TIP]
 > Remember that English has **past perfect** which we can use when translating the **second part of the sentence** if it happens to be before the point marked with སྔོན་ལ་ if it's in the past. 
@@ -76,6 +75,16 @@ We don't construct སྔོན་ལ་ with ལ་་་ཡོད་ or ཡི
 > You might still hear nominalised non-verbs:
 > - ཁོང་དགོན་པ་ལ་==🟣མེད་པའི་==སྔོན་ལ་་་་ “Before ==🟣being== at the monastery ...”
 
+### Agents
+The usage is **not limited to one** agent: ==🟢རྒན་ལགས་==(ཀྱིས་)འགྲེལ་བཤད་==🔵མ་== ==🟣སྐྱོན་== ==🟡སྔོན་ལ་== ==🟠ང་==མགོ་འཐོམ་སོང་།
 
+### Pronoun & Agentive Particle
+
+The agentive particle follows the [[Tibetan Using Agentive Particle བྱེད་སྒྲ་|common rules]] and also the case of [[Tibetan Agentive Particle on Uncontrolled Perception|uncontrolled perception]]. It's also needed in cases of  འཁྲུལ་གཞི་ (confusion).
+
+We have freedom to shift the pronoun:
+
+ད་གིན་ཁ་ལག་མ་ཟ་སྔོན་ལ་==ངས་==ལག་པ་བཀྲུ་པ་ཡིན།
+==🟡ངས་==ད་གིན་ཁ་ལག་མ་ཟ་སྔོན་ལ་ལག་པ་བཀྲུས་པ་ཡིན།
 
 4/18
