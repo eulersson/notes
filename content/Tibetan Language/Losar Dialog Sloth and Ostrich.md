@@ -110,17 +110,14 @@ S: ཡ་ཡ། ཡིན་ནའི་ཞབ་བྲོ་འཁྲབ་�
 S: Oh yes.  But at the time of dancing I won't look like I'm flying with wings! By the time the other dancers complete 10 rounds I probably only can do one. But if they drank lot's of beer and rice they won't be able to do many! Ha ha ha.
 
 ## Corrections
-
 ### Arms
-
 ![[#^55daeb]]
 
-དུས་ཚོད་ནི་ཁྱེད་རང་གི་==དཔུང་པ་==དང་མི་འདྲ་བར་ཐུང་ཐུང་རེད། 
+དུས་ཚོད་ནི་ཁྱེད་རང་གི་==དཔུང་པ==་དང་མི་འདྲ་བར་ཐུང་ཐུང་རེད། 
 
 ལག་པ། = hands. དཔུང་པ། = arms
 
 ### Why that early?
-
 ![[#^416e77]]
 
 ཁྱེད་རང་འདི་འདྲའི་ (ཞོགས་གས་) སྔ་པོ་ག་རེ་བྱས་ནས་ཡར་ལངས་འདོད་ཡོད་པའི་མི་ཞིག་ཡིན་ན། (འདོད་མཁན་ཞིག་ཡིན་ན།)
@@ -128,7 +125,6 @@ S: Oh yes.  But at the time of dancing I won't look like I'm flying with wings! 
 With the ཡིན་ན། ending it doesn't sound very good. Another way to express this is like *What do you want to do such early?* ཁྱེད་རང་འདི་འདྲའི་(ཞོགས་གས་)སྔ་པོ་ཡར་ལངས་ནས་ག་རེ་བྱེད་འདོད་ཡོད་པས།.
 
 ### Bothering 
-
 ![[#^dd1253]]
 
 The agentive particle on the fact of making noise makes it clearer. I need to keep thinking an agentive particle needn't be a sentient being.
@@ -136,13 +132,11 @@ The agentive particle on the fact of making noise makes it clearer. I need to ke
 ཁྱེད་<i class="y">ཀྱིས་</i> གཙང་མ་བཟོ་དུས་ སྐད་ཅོར་<i class="y">རྒྱག་</i>པ་ <i class="y">དེས་</i> ང་ཚོའི་ཁྱིམ་མཚེས་ལ་སུན་པོ་བཟོ་གི་རེད་ད།
 
 ### Who is the person I gave the broom to?
-
 ![[#^d5c1f8]]
 
 ངས་ཕྱགས་མ་སྤྲད་སའི་ (or མཁན་) <i class="y">མི་དེ་</i>སུ་ཡིན་ན།
 
 ### Inviting on the third day of Losar
-
 ![[#^ed3b6c]]
 
 ངས་ལོ་གསར་ཚེས་པ་གསུམ་ཉིན་ ང་ཚོ་ཚང་མ་གྲོགས་པོ་ཚོ་དང་ཐུག་འཕྲད་བྱེད་སྐབས་ ཁྱེད་ལ་སྐད་གཏོང་ཡག་དྲན་པ་བརྗེད་ཀྱི་མིན།
