@@ -15,10 +15,12 @@
   font-size: 1.5em;
   line-height: 1.6em;
   
-  // Make it inline-block to enable vertical positioning
-  display: inline-block;
-  
-  // Using position: relative is more reliable than transform for inline-block elements
+  // Kept inline, so a sentence wraps at any tsheg even when a highlight
+  // (==…==) or other markup splits it into several spans. As an inline-block,
+  // each span moved to the next line as a whole.
+  //
+  // Uchen sits high next to Latin text. Relative positioning lowers it and,
+  // unlike a transform, works on inline boxes.
   position: relative;
   top: 0.3em;
 
