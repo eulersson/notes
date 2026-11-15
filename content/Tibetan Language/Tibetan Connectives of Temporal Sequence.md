@@ -8,7 +8,6 @@ tags:
 ## སྔོན་ལ་ and གོང་ལ་ — Before
 
 ### Verbs
-
 > ==🔵དགག་སྒྲ་== + ==🟣verb== (present) + ==🟡སྔོན་ལ་== / གོང་ལ་ + rest of the sentence
 
 ཁ་ལག་==🔵མ་== ==🟣ཟ་== ==🟡སྔོན་ལ་==ལག་པ་འཁྲུད་ཀྱི་ཡོད།
@@ -35,7 +34,6 @@ Works with བྱེད་མེད་ལས་ཚིག་ verbs:
 “Yesterday, ==🟢when I reached home==, my mother ==🔵had prepared== delicious momos” 
 
 #### Translation Choices
-
 ད་གིན་ཁ་ལག་མ་ཟ་སྔོན་ལ་ལག་པ་འཁྲུད་ཀྱི་ཡིན།
 - A moment ago, before *eating*, I washed my hands
 - A moment ago, before *I ate*, I washed my hands
@@ -43,10 +41,9 @@ Works with བྱེད་མེད་ལས་ཚིག་ verbs:
 - *Having not eaten* — stays more literal.
 
 ### Nouns
-
 > ==🔵noun== + ==🟡འབྲེལ་སྒྲ་== + ==🟣སྔོན་ལ་== + rest of the sentence
 
-👀 No need for དགག་སྒྲ་
+👀 No need for ==🔵དགག་སྒྲ་==
 
 ==🔵འཛིན་གྲྭ== ==🟡འི་== ==🟣སྔོན་ལ་== ང་གྲ་སྒྲིག་ཡག་པོ་བྱེད་ཀྱི་ཡོད།
 “Before class, I prepare well.”
@@ -61,7 +58,6 @@ The order can be tweaked to shift the emphasis:
 | ==🔵བསྐྱེད་རིམ་== དེ་ ==🟡རྫོགས་རིམ་==གྱི་==🟣གང་ལ་==ཉམས་ལེན་བྱེད་དགོས་རེད།་  | ==🔵generation stage== |
 
 ### Non-Verbs
-
 We don't construct སྔོན་ལ་ with ལ་་་ཡོད་ or ཡིན་, instead **we find another equivalent verb**, which we can select based on whether the sentence requires བྱེད་འབྲེལ་ལས་ཚིག or བྱེད་མེད་ལས: 
 - Before I had kids ...
 	- ==ང་ལ་==སྤུ་གུ་==🔴མེད་པའི་==སྔོན་ལ་་་
@@ -79,12 +75,53 @@ We don't construct སྔོན་ལ་ with ལ་་་ཡོད་ or ཡི
 The usage is **not limited to one** agent: ==🟢རྒན་ལགས་==(ཀྱིས་)འགྲེལ་བཤད་==🔵མ་== ==🟣སྐྱོན་== ==🟡སྔོན་ལ་== ==🟠ང་==མགོ་འཐོམ་སོང་།
 
 ### Pronoun & Agentive Particle
-
 The agentive particle follows the [[Tibetan Using Agentive Particle བྱེད་སྒྲ་|common rules]] and also the case of [[Tibetan Agentive Particle on Uncontrolled Perception|uncontrolled perception]]. It's also needed in cases of  འཁྲུལ་གཞི་ (confusion).
 
 We have freedom to shift the pronoun:
+- ད་གིན་ཁ་ལག་མ་ཟ་སྔོན་ལ་==ངས་==ལག་པ་བཀྲུ་པ་ཡིན།
+- ==🟡ངས་==ད་གིན་ཁ་ལག་མ་ཟ་སྔོན་ལ་ལག་པ་བཀྲུས་པ་ཡིན།
 
-ད་གིན་ཁ་ལག་མ་ཟ་སྔོན་ལ་==ངས་==ལག་པ་བཀྲུ་པ་ཡིན།
-==🟡ངས་==ད་གིན་ཁ་ལག་མ་ཟ་སྔོན་ལ་ལག་པ་བཀྲུས་པ་ཡིན།
+Pronoun might drop when it's clear it's “I” or “we” the doers of the action, e.g. by seeing the conjugation ཀྱི་ཡོད། ཀྱི་ཡིན། etc.
 
-4/18
+More than one བྱེད་སྒྲ་ can be used when more than one agent is in the sentence!
+
+### Modal Verbs
+#### འདོད་
+
+| Possibility                                                                                        | Translation                                             |     |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --- |
+| རྒྱ་གར་ལ་==🟠སྤོ་== ==🟣འདོད་== ==🔵མ་== ==🟢བྱུང་== ==🟡སྔོན་ལ་==་་་                              | “Before wanting to move to India ...”                   |     |
+| ང་རྒྱ་གར་ལ་==🟠སྤོ་== <i class="y">ཡག་གི་</i> ==🟣འདོད་པ་== ==🔵མ་== ==🟢བྱུང་== ==🟡སྔོན་ལ་==་་་  | “Before the wish to move to India arose ...”            |     |
+| ང་རྒྱ་གར་ལ་==🟠སྤོ་== <i class="y">ཡག་གི་</i> ==🟣བསམ་བློ་== ==🔵མ་== ==🟣འཁོར་== ==🟡སྔོན་ལ་==་་་ | “Before the idea of going to India crossed my mind ...” |     |
+|                                                                                                    |                                                         |     |
+
+#### དགོས་པ་
+| Possibility                                                                           | Translation                                 | Remark                                                                                                                                                         |
+| ------------------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ཁོང་སྨན་ཁང་ལ་==🟣བཞུགས་== ==🔵མ་== ==🟠དགོས་པ== <i class="y">འི་</i> ==🟡སྔོན་ལ་==་་་ | “Before he had to stay at the hospital ...” | Not incorrect, but very smooth ...                                                                                                                             |
+| ཁོང་སྨན་ཁང་ལ་ ==🔵མ་== ==🟣བཞུགས་== ==🟡སྔོན་ལ་==་་་                                  | “Before he went to the hospital ...”        | Smoother. The sense of *having to* ends up being kind of contextual... People don't usually go *for a stroll* to the hospital, they go because *they have to*. |
+
+#### ཐུབ་པ་
+ཁོང་གིས་==🟣བོད་སྐད་ཆུ་==རྒྱུགས་རྒྱུགས་བྱས་ནས་==🟣རྒྱག་== ==🔵མ་== ==🟠ཐུབ་== ==🟡སྔོན་ལ་==་་་
+
+#### ཤེས་པ་
+ཁོང་གིས་==🟣མོ་ཊ་གཏོང་== ==🔵མ་== ==🟠ཤེས་== ==🟡སྔོན་ལ་==་་་
+
+#### མྱོང་བ་
+
+> [!QUOTE] Franziska says:
+> Because of the connotation it carries, one can already see that it won't work. Even just as a concept, it makes no sense to try talking about a point in time before somebody has ever done certain action.
+
+##### Why མྱོང་བ་ Doesn't Work?
+#needs-teacher because I don't see it so strange to say *Before I ever started going to Nepal I didn't know how great it was* wouldn't it be བལ་ཡུལ་ལ་==🟣འགྲོ་== ==🔵མ་== ==🟠མྱོང་== ==🟡སྒནོ་ལ་==་་་ ?
+
+### Compound Verbs and Honorific
+When making verbs into ཞེ་ས་ by adding a ==🟣གནང་== after the ==🟣verb==, put the ==🔵དགག་སྒྲ་== before the ==🟣གནང་==, and not before the ==🟣action verb==: པ་ལགས་བཞེས་མོག་==🟣བཟོ་== ==🔵མ་== ==🟢གནང་== ==🟡སྔོན་ལ་==་་་
+
+### Expression: Repeating Verb To Imply སྨན་
+This can be heard. It's rare and not everyone might be familiar with it:
+- ཁ་ལག་==ཟ་ཟ་ལ་==་་ ་་་ལག་པ་ཡག་པོ་འཁྲུད་དགོས་རེད།
+- ཁ་ལག་==མ་ཟ་སྔོན་ལ་==་་
+
+---
+at page 60; 10 pages left
