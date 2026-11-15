@@ -17,6 +17,7 @@ style: nestedOrderedList
 ---
 
 ## One Example of Each
+
 | Word          | Example                                                                                                                                                                                                                                                                                |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | དུས་          | - ཁ་སང་ང་ཚོ་ འཛིན་གྲྭ་ལ་==ཡོད་དུས==་ གངས་མང་པོ་བབས་སོང་།<br>- དེ་རིང་ཞོགས་གས་ འབྲུག་སྐད་རྒྱག་==དུས==་ སྤུ་གུ་ཚོ་ཞེད་སོང་།                                                                                                                                                              |
@@ -38,6 +39,7 @@ style: nestedOrderedList
 ---
 
 ## དུས་
+
 *when*, *at the time when*, *while*, ...
 
 > [!abstract] Rules
@@ -59,6 +61,7 @@ Other part of the sentence can be in any tense.
 > If the action performed at that time was habitual we use the present tense instead of the past: ང་ལོ་ཆུང་ཆུང་ཡིན་དུས་རྩེད་མོ་མང་པོ་རྩེ་<i class="r">པ་ཡིན།</i><i class="g">གི་ཡོད།</i>
 
 ### Negation
+
 ✅ With non-verb “to have” isn't strange:
 - ང་ལ་དངུལ་==མེད་དུས==་ཟ་ཁང་ལ་འགྲོ་གི་མེད།
 
@@ -67,6 +70,7 @@ Other part of the sentence can be in any tense.
 	- More natural rephrasing: ང་ཤ་མེད་==ཡིན་དུས==་ངས་ཚལ་བཟས་པ་ཡིན། (when I wasn't vegetarian)
 
 ### Modal Verbs Preceding དུས་
+
 > [!WARNING] Help
 > Before writing I must answer to this question:
 
@@ -75,7 +79,9 @@ Other part of the sentence can be in any tense.
 ![[2026-10#Negating Modal Verb In དུས་ or སྐབས་ Constructions]]
 
 ## སྐབས་
+
 ### What We Know
+
 We might seen སྐབས་ with the meaning of *chance, opportunity* when *getting the chance to do something* ་་་༼བྱ་ཚིག་༽ཡག་གི་སྒོ་སྐབས་རག་པ་.
 
 Other constructions using སྐབས་ which mean *occasionally, sometimes, at times*:
@@ -85,6 +91,7 @@ Other constructions using སྐབས་ which mean *occasionally, sometimes, a
 In literary Tibetan ཆེ་སྐབས་ is the name of one of the subdivisions of the ལ་དོན་ particle རྣམ་དབྱེ་བདུན་པ་ རྟེན་གནས་ and shows the time when an action is done. ^13d48f
 
 ### Meaning
+
 According to [[Franziska Oertle|Franziska-la]]'s observation, but not limited to it (investigate, since many times both cases are valid):
 
 | Particle | When                         |
@@ -93,6 +100,7 @@ According to [[Franziska Oertle|Franziska-la]]'s observation, but not limited to
 | སྐབས་    | the duration, *when (while)* |
 
 ### Usage
+
 > clause + ༼བྱ་ཚིག་༽ + nominalizer པ་ + འབྲེལ་སྒྲ་ + ==སྐབས==་ + ལ་
 
 > [!NOTE] Instruction: སྐབས་་་...
@@ -108,6 +116,7 @@ According to [[Franziska Oertle|Franziska-la]]'s observation, but not limited to
 
 
 ### ལ་དོན་
+
 Sometimes we might see སུ་ instead of ལ་ because ལ་དོན་ is a ཕྲད་གཞན་དབང་ཅན་ and based on the gender of the suffix, different spellings of the ལ་དོན་ applies. For སྐབས་, the suffix is ས་ and therefore we use སུ་. Actually some Tibetans might correct us to use སུ་.
 
 Sometimes in ཁ་སྐད་ the ལ་དོན་ might get dropped, and when this happens also the པའི་ (nominalizer + འབྲེལ་སྒྲ་) seem to go away with it too.
@@ -115,6 +124,7 @@ Sometimes in ཁ་སྐད་ the ལ་དོན་ might get dropped, and w
 ཁེ་ས་ངའི་རོགས་པ་དེ་ཚོ་ཐུག་<i class="r">པའི་</i>སྐབས་<i class="r">ལ་</i>དཔེ་སྐྱིད་པོ་བྱུང་།
 
 ### Following Noun
+
 | Correct | Sentence                       | Shape                          |
 | ------- | ------------------------------ | ------------------------------ |
 | ✅       | བོད་སྐད་འཛིན་གྲྭའི་==སྐབས==་ལ་ | སྐབས་                          |
@@ -123,12 +133,14 @@ Sometimes in ཁ་སྐད་ the ལ་དོན་ might get dropped, and w
 | ✅       | བོད་སྐད་འཛིན་གྲྭ་ཚུགས་==དུས==་ | དུས་ with verb                 |
 
 ### Past Perfect
+
 > *Before they ==had visited== Ladakh, they didn't know that Leh was its capital.*
 > ཁོང་ཚོ་ལ་དྭགས་ལ་ འགྲོ་མྱོང་==མདེ==་པའི་སྐབས་ལ་ གླེ་དེའི་རྒྱལ་ས་ཡིན་པ་ཧ་གོ་ཡོད་མ་རེད།
 
 Tibetan does not have a ==past perfect== tense so it works around it using the negated form above.
 
 ## རིང་
+
 Although དུས་ and སྐབས་ are usually translated as *while*, རིང་ has a stronger sense of **duration** than those two.
 
 Functions gramatically in the same way as [[#སྐབས་]]:
@@ -141,6 +153,7 @@ Functions gramatically in the same way as [[#སྐབས་]]:
 
 
 ## ཤུང་རིང་ཀ་
+
 Conveys:
 - **Two** different **agents** are
 - performing the action at the **same time**.
@@ -156,6 +169,7 @@ Functions gramatically in the same way as [[#སྐབས་]]:
 > *While my husband reads books, I clean the house.*
 
 ## ཞོར་ལ་
+
 Conveys:
 - **Single agent**
 - performs **two** actions
@@ -181,6 +195,7 @@ Otherwise translated as: *besides*, *in addition to*, *apart from*:
 > Try to use when there's a main and subsidiary action. A good example that illustrates it is: ཁྱེད་རང་<i class="b">བོད་སྐད་སློབ་སྦྱོང་བྱེད་</i>པའི་<i class="g">ཞོར་ལ་</i>བོད་ཀྱི་ལོ་རྒྱུས་ཀྱི་སྐོར་ལ་ཡང་ཏོག་ཙམ་<i class="p">ཤེས་</i>ཡོང་གི་རེད། *Besides studying Tibetan language, you'll also know a bit about Tibetan history*.
 
 ## བཞིན་དུ་
+
 དུ་ is the ལ་དོན་ for the ན་ suffix.
 
 Used to:
@@ -196,6 +211,7 @@ Used to:
 		- *In my opinion, it's strange to spend lots of money when not having any.*
 
 ## བཞིན་པ་
+
 བཞིན་༼པ་༽ཡིན/རེད། is another option for [[#བཞིན་དུ་]].
 
 Carries also the meaning of an **ongoing** action → translates into ==present continuous== (-ing).
@@ -203,6 +219,7 @@ Carries also the meaning of an **ongoing** action → translates into ==present 
 ང་ལ་ད་ལྟ་ཅ་སུན་པོ་མ་བཟོ། ང་ བསམ་བློ་བཏང་==བཞིན་པ་ཡིན།==
 
 ## ་་་གིན་་་གིན་
+
 Person does two things at the same time.
 
 Adverbial construction.
@@ -211,6 +228,7 @@ Adverbial construction.
 > ངས་ཚིག་མཛོད་ལ་ ལྟ་==གིན==་ལྟ་==གིན==་ དཔེ་ཆ་ཡིག་སྒྱུར་བྱས་པ་ཡིན།
 
 ## སྒང་ལ་
+
 Means “**to be in the middle of doing something**”, stressing the action happens **at the moment of speech**. It therefore doesn't connect two actions.
 
 Probably connects with the nominalized verb and a འབྲེལ་སྒྲ་ and a ལ་དོན་ after it, but there's **no clear rules** about what **tense** to have the verb in or what **non-verb should be used** to connect it with, since it's not used very often.

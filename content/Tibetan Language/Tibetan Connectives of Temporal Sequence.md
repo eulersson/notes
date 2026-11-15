@@ -6,6 +6,7 @@ tags:
 ---
 
 ## Before: སྔོན་ལ་ / གོང་ལ་ 
+
 ### Verbs
 > ==🔵དགག་སྒྲ==་ + ==🟣verb== (present) + ==🟡སྔོན་ལ==་ / ==🟡གོང་ལ==་ + rest of the sentence
 
@@ -40,7 +41,7 @@ Works with བྱེད་མེད་ལས་ཚིག་ verbs:
 - *Having not eaten* — stays more literal.
 
 ### Nouns
-> ==🔵noun== + ==🟡འབྲེལ་སྒྲ==་ + ==🟣སྔོན་ལ==་ / ==🟣གོང་ལ་== + rest of the sentence
+> ==🔵noun== + ==🟡འབྲེལ་སྒྲ==་ + ==🟣སྔོན་ལ==་ / ==🟣གོང་ལ==་ + rest of the sentence
 
 👀 No need for ==🔵དགག་སྒྲ==་
 
@@ -86,6 +87,8 @@ More than one བྱེད་སྒྲ་ can be used when more than one agent i
 
 ### Modal Verbs
 #### འདོད་
+
+
 | Possibility                                                                                        | Translation                                             |     |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --- |
 | རྒྱ་གར་ལ་==🟠སྤོ==་==🟣འདོད==་==🔵མ==་==🟢བྱུང==་==🟡སྔོན་ལ==་་་་                                  | “Before wanting to move to India ...”                   |     |
@@ -106,6 +109,7 @@ More than one བྱེད་སྒྲ་ can be used when more than one agent i
 ཁོང་གིས་==🟣མོ་ཊ་གཏོང==་==🔵མ==་==🟠ཤེས==་==🟡སྔོན་ལ==་་་་
 
 #### མྱོང་བ་
+
 > [!QUOTE] Franziska says:
 > Because of the connotation it carries, one can already see that it won't work. Even just as a concept, it makes no sense to try talking about a point in time before somebody has ever done certain action.
 
@@ -121,6 +125,7 @@ This can be heard. It's rare and not everyone might be familiar with it:
 - ཁ་ལག་==མ་ཟ་སྔོན་ལ==་་་
 
 ## After: རྗེས་ལ་ / གཞུག་ལ་
+
 > [!INFO] 
 > There are other ways to express two actions take place in sequence which will be explained in next lesson (ནས་, བྱས་, ཏེ་སྟེ་དེ་).
 
@@ -142,8 +147,6 @@ The verb part is nominalised, so the first thing that comes to mind is nominalis
 | ------------------------------------------------------------------------------------ | ---------- |
 | དགོང་དག་ཞལ་ལག་==🟡གི==་==🟣རྗེས་ལ==་་་ ་་་བརྙན་འཕྲིན་ཏོག་ཙམ་==🔵གཟིགས==་ཀྱི་ཡོད་རེད། | The moment |
 | རྨོ་ལགས་ཀྱི་བརྙན་འཕྲིན་་་ ་་་དགོང་དག་ཞལ་ལག་གི་གཞུག་ལ་་་ ་་་==🔵གཟིགས==་ཀྱི་ཡོད་རེད།  | The action |
-
-
 
 ---
 at page 63; 8 pages left
