@@ -6,6 +6,7 @@ tags:
 ---
 
 ## ༄༅། །སྔོན་འགྲོ་མདོར་བསྡུས་བྱང་ཆུབ་ལམ་བཟང་བཞུགས་སོ། །
+
  བླ་མ་མཁྱེན། ,,ལན་གསུམ།,,
  
 བླ་མ་དཀོན་མཆོག་གསུམ་པོ་ཁྱེད་མཁྱེན་ནོ། ། ,,ལན་གསུམ།,,
@@ -53,7 +54,7 @@ tags:
 
 ,,[[Guru Rinpoche Supplication|ཚིག་བདུན་གསོལ་འདེབས་]]དང་[[Tibetan Mantras|བསྙེན་པ་བཛྲ་གུ་རུ་ལ་འབད]]།,,
 
-![[Seven Line#༄༅། །གུ་རུ་རིན་པོ་ཆེའི་ཚིག་བདུན་གསོལ་འདེབས་བཞུགས་སོ། །]]
+![[Seven-Line Prayer#^seven-lines]]
 
 ![[Tibetan Mantras#Guru Rinpoche Mantra]]
 
@@ -175,11 +176,11 @@ Surrounded by a vast gathering of vidyādharas of the three transmissions,
 And embodying every source of refuge.
 
 
-,,[[Seven Line|ཚིག་བདུན་གསོལ་འདེབས་]]དང་[[Tibetan Mantras|བསྙེན་པ་བཛྲ་གུ་རུ་ལ་འབད]]།,,
-_Put your energy into reciting the [[Seven Line|Seven-Line Prayer]] and the [[Tibetan Mantras#Guru Rinpoche Mantra|Vajra Guru mantra]]._
+,,[[Seven-Line Prayer|ཚིག་བདུན་གསོལ་འདེབས་]]དང་[[Tibetan Mantras|བསྙེན་པ་བཛྲ་གུ་རུ་ལ་འབད]]།,,
+_Put your energy into reciting the [[Seven-Line Prayer]] and the [[Tibetan Mantras#Guru Rinpoche Mantra|Vajra Guru mantra]]._
 
 
-![[Seven Line#Translation]]
+![[Seven-Line Prayer#Verse 1 — The Seven Lines]]
 
 
 ![[Tibetan Mantras#Guru Rinpoche Mantra]]

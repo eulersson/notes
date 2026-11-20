@@ -58,9 +58,9 @@ Invite 3 sounds of the bell at the start and at the end of the practice.
 
 ### Prayer to Manjushree
 
-![[Manjushri Gangloma#༄༅། །འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ།།]]
-
 ![[Manjushri Gangloma#Audio]]
+
+![[Manjushri Gangloma#༄༅། །འཇམ་དཔལ་དབྱངས་ལ་བསྟོད་པ་གང་བློ་མ།།]]
 
 ### Prostrations and Refuge
 
@@ -76,15 +76,15 @@ Prostrate 3 times while reciting the **refuge prayer**.
 
 ### Eight Auspicious Symbols
 
-![[The Verses of the Eight Noble Auspicious Ones#༄༅། །འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པའི་ཚིགས་སུ་བཅད་པ།]]
-
 ![[The Verses of the Eight Noble Auspicious Ones#Audio]]
+
+![[The Verses of the Eight Noble Auspicious Ones#༄༅། །འཕགས་པ་བཀྲ་ཤིས་བརྒྱད་པའི་ཚིགས་སུ་བཅད་པ།]]
 
 ### 21 Taras
 
-![[Praise to 21 Taras#༄༅། །སྒྲོལ་མ་ལ་ཕྱག་འཚལ་ཉི་ཤུ་རྩ་གཅིག་གིས་བསྟོད་པ་ཕན་ཡོན་དང་བཅས་པ།]]
-
 ![[Praise to 21 Taras#Audio]]
+
+![[Praise to 21 Taras#༄༅། །སྒྲོལ་མ་ལ་ཕྱག་འཚལ་ཉི་ཤུ་རྩ་གཅིག་གིས་བསྟོད་པ་ཕན་ཡོན་དང་བཅས་པ།]]
 
 ### Mudra Offering
 
@@ -94,9 +94,9 @@ Prostrate 3 times while reciting the **refuge prayer**.
 
 ### Wangdü
 
-![[Wangdü — The Great Cloud of Blessings#༄༅། །སྣང་སྲིད་དབང་དུ་སྡུད་པའི་གསོལ་འདེབས་བྱིན་རླབས་སྤྲིན་ཆེན་བཞུགས་སོ། །]]
-
 ![[Wangdü — The Great Cloud of Blessings#Audio]]
+
+![[Wangdü — The Great Cloud of Blessings#༄༅། །སྣང་སྲིད་དབང་དུ་སྡུད་པའི་གསོལ་འདེབས་བྱིན་རླབས་སྤྲིན་ཆེན་བཞུགས་སོ། །]]
 
 ### Confession
 
@@ -120,13 +120,13 @@ Prostrate 3 times while reciting the **refuge prayer**.
 
 ### Sakya Pandita
 
-![[Sakya Pandita Kunga Gyaltzen#Sakya Pandita Kunga Gyaltzen]]
-
 ![[Sakya Pandita Kunga Gyaltzen#Audio]]
 
-![[Brief Offering to Ekajati#༄༅། །ཨེ་ཀ་ཛ་ཊཱིའི་གསོལ་བསྡུས།]]
+![[Sakya Pandita Kunga Gyaltzen#Sakya Pandita Kunga Gyaltzen]]
 
 ![[Brief Offering to Ekajati#Audio]]
+
+![[Brief Offering to Ekajati#༄༅། །ཨེ་ཀ་ཛ་ཊཱིའི་གསོལ་བསྡུས།]]
 
 ### Preliminaries (Ngöndro)
 
@@ -173,17 +173,17 @@ On the 10th day of the lunar calendar it's good to offer to [[Drafts/Guru Rinpoc
 
 #### 21 Seven-Line Prayer
 
-![[Seven Line#༄༅། །གུ་རུ་རིན་པོ་ཆེའི་ཚིག་བདུན་གསོལ་འདེབས་བཞུགས་སོ། །]]
+![[Seven-Line Prayer#^seven-lines]]
 
 #### 108 Guru Rinpoche Mantra
 
 ![[Tibetan Mantras#Guru Rinpoche Mantra]]
 
+![[Offering Chant#Audio]]
+
 #### Offering Chant
 
 ![[Offering Chant#༄༅། །སྐུ་གསུང་ཐུགས་ཡོན་ཏན་ཕྲིན་ལས་ཀྱི་མཆོད་པ། །]]
-
-![[Offering Chant#Audio]]
 
 #### Offering Tsok
 
