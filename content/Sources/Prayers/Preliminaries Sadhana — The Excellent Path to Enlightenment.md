@@ -52,7 +52,7 @@ tags:
 བརྒྱུད་གསུམ་རིག་འཛིན་རྒྱ་མཚོས་སྐོར། །
 སྐྱབས་ཀུན་འདུས་པའི་ངོ་བོར་བཞུགས། །
 
-,,[[Guru Rinpoche Supplication|ཚིག་བདུན་གསོལ་འདེབས་]]དང་[[Tibetan Mantras|བསྙེན་པ་བཛྲ་གུ་རུ་ལ་འབད]]།,,
+,,[[Seven-Line Prayer|ཚིག་བདུན་གསོལ་འདེབས་]]དང་[[Tibetan Mantras|བསྙེན་པ་བཛྲ་གུ་རུ་ལ་འབད]]།,,
 
 ![[Seven-Line Prayer#^seven-lines]]
 
