@@ -21,15 +21,6 @@ aliases:
 བྱིན་གྱིས་བརླབ་ཕྱིར་གཤེགས་སུ་གསོལ༔
 གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔ ^seven-lines
 
-གནས་མཆོག་འདི་རུ་བྱིན་ཕོབ་ལ༔
-སྒྲུབ་མཆོག་བདག་ལ་དབང་བཞི་བསྐུར༔
-བགེགས་དང་ལོག་འདྲེན་བར་ཆད་སོལ༔
-མཆོག་དང་ཐུན་མོང་དངོས་གྲུབ་སྩོལ༔
-
-ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
-ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ༔
-བཛྲ་ས་མ་ཡ་ཛཿ སིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱཿ
-
 ## Translation & Gloss
 
 ### Verse 1 — The Seven Lines
@@ -65,35 +56,3 @@ Come, I pray, to grant your blessing!
 གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
 guru padma siddhi HUM (Skt.)
 Guru Padma, [grant] attainment, hūṃ! — recited untranslated.
-
-### Verse 2 — Blessing and empowerment
-
-གནས་མཆོག་འདི་རུ་བྱིན་ཕོབ་ལ༔
-place supreme this OBL blessing pour.IMP CON
-Pour down your blessings on this supreme place,
-
-སྒྲུབ་མཆོག་བདག་ལ་དབང་བཞི་བསྐུར༔
-practitioner supreme 1sg OBL empowerment four confer.IMP
-Confer the four empowerments on me, the supreme practitioner,
-
-བགེགས་དང་ལོག་འདྲེན་བར་ཆད་སོལ༔
-obstructor CON misleader obstacle dispel.IMP
-Dispel obstructors, misleading forces and obstacles,
-
-མཆོག་དང་ཐུན་མོང་དངོས་གྲུབ་སྩོལ༔
-supreme CON common attainment bestow.IMP
-And bestow the supreme and common attainments!
-
-### Mantras
-
-ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་སིདྡྷི་ཧཱུྃ༔
-om ah hum vajra guru padma siddhi HUM (Skt.)
-The Vajra Guru mantra, recited untranslated.
-
-ཨོཾ་ཨཱཿཧཱུྃ་བཛྲ་གུ་རུ་པདྨ་ཐོད་ཕྲེང་རྩལ༔
-om ah hum vajra guru padma skull garland power
-The same, addressed to Padma Thötreng Tsal, "Mighty Lotus Skull-Garland" — a wrathful name of Padmasambhava.
-
-བཛྲ་ས་མ་ཡ་ཛཿ སིདྡྷི་ཕ་ལ་ཧཱུྃ་ཨཱཿ
-vajra samaya DZA siddhi phala HUM AH (Skt.)
-Vajra samaya dza, siddhi phala hūṃ āḥ — the syllables of summoning and of attainment.
