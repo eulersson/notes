@@ -7,7 +7,7 @@ tags:
 
 ![[Jigme Khyentse Rinpoche – Tenderness – Poster.png|380]]
 
-![[Talk Notes Disclaimer]]
+![[Talk Notes Disclaimer#^disclaimer]]
 
 Before coming to the talk I was confused by seeing “unbearable” and “tenderness” together in the title. As [[Jigme Khyentse Rinpoche|Rinpoche]]  went on talking it beautifully cleared the confusion around the*oxymoron*.
 

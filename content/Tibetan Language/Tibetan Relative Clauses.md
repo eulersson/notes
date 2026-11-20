@@ -5,7 +5,7 @@ tags:
 - tibetan-language
 ---
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 There's a [[Tibetan Relative Clauses Summary Table]].
 

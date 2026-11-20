@@ -5,7 +5,7 @@ tags:
 - tibetan-language
 ---
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 If we were to sort them ([[Tibetan  Intensifiers]], [[Tibetan དྲགས་ Excess]], [[Tibetan རང་ and སེ་]], [[Tibetan ཙམ་ "A bit more X", "Merely"]], [[Tibetan Reducers ཁྱོན་ནས། རྩ་བ་(ཉིད་)ནས། གཏན་ནས།]]) by intensity we would end up with the following order, but don't take it as hard truth, it's based on intuition.
 

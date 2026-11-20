@@ -99,6 +99,8 @@ aliases:
 
 ## Translation & Gloss
 
+![[Tibetan Gloss Conventions#^gloss-key]]
+
 ### Title and author
 
 ༄༅། །སྤུངས་གཏོར་བསྡུས་པ་བཞུགས།
@@ -358,7 +360,7 @@ Recite this, and so on.
 ### Closing note and colophon
 
 ཅེས་པ་ཙམ་གྱིས་ཀྱང་རྒན་རྒོན་དང་ཤེས་བྱ་ལ་རྨོངས་པ་རྣམས་ལ་དགེ་བའི་གྲོགས་སུ་འགྱུར་ཏེ།
-thus NOM mere INS also old-man old-woman CON knowable OBL ignorant NOM PL OBL virtue GEN friend OBL become CON
+thus NOM mere INS also old-man old-woman CON knowable OBL ignorant NOM PL OBL virtue GEN friend OBL become CONT
 Even this much will be an aid to virtue for the elderly and the unlearned,
 
 ཁ་འབར་མ་དང་། གཟུགས་ལེགས་ལ་སོགས་པ་སྟོན་པའི་གསུང་རབས་རྣམས་ནས་

@@ -5,7 +5,7 @@ tags:
 - tibetan-language
 ---
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 Regularly means *only*, *merely*
 - ཁམས་གསུམ་སེམས་<i class="y">ཙམ་</i>མོ།། *The three realms are merely \[a manifestation of\] mind.*

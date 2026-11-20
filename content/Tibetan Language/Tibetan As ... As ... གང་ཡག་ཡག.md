@@ -5,7 +5,7 @@ tags:
 - tibetan-language
 ---
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 To say sentences like *I did as much as I could.* we use གང་ + <i class="y">repeating</i> <i class="b">first syllable</i> of the <i class="g">adjective</i> (or <i class="p">verb</i>) <i class="y">twice</i>.
 

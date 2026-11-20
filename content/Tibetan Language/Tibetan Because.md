@@ -6,7 +6,7 @@ tags:
 ---
 
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 Three ways to say because:
 - ཁོང་བོད་<i class="y">ཇ་</i>མང་པོ་འཐུང་གི་རེད། <i class="b">གང་ཡིན་ཟེར་ན་</i>ཁོང་བོད་པ་རེད།

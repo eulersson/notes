@@ -23,6 +23,8 @@ aliases:
 
 ## Translation & Gloss
 
+![[Tibetan Gloss Conventions#^gloss-key]]
+
 ### Verse 1 — The Seven Lines
 
 ཧཱུྃ༔ ཨོ་རྒྱན་ཡུལ་གྱི་ནུབ་བྱང་མཚམས༔

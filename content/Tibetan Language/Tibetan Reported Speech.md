@@ -5,7 +5,7 @@ tags:
 - tibetan-language
 ---
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 - [[#Direct Reported Speech|Direct Reported Speech]]
 - [[#Reporting Verbs|Reporting Verbs]]

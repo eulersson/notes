@@ -5,7 +5,7 @@ tags:
 - tibetan-language
 ---
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 In Tibetan syllables have meanings. For instance ཉོབ་ would mean "bored", or "upset about". In this case it can be used as a verb ཉོབ་པ།, "to be bored".
 

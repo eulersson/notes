@@ -5,7 +5,7 @@ tags:
 - tibetan-language
 ---
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 བྱེད་པ། རྒྱག་པ། བཟོ་བ། གཏོང་བ། ཤོར་བ། ... are used to construct verbs.
 

@@ -6,7 +6,7 @@ tags:
 - memo-table
 ---
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 ## Conditional: Verbs and Non-Verbs
 

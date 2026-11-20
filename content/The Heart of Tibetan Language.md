@@ -5,7 +5,7 @@ tags:
 - tibetan-language
 ---
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 This is the book we are using for the online course at SINI and below you will find my personal notes. I like it because it's a very systematic attempt at explaining the difficult subtleties of the spoken language.
 

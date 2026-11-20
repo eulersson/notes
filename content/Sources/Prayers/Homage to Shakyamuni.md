@@ -19,6 +19,8 @@ aliases:
 
 ## Translation & Gloss
 
+![[Tibetan Gloss Conventions#^gloss-key]]
+
 ### Verse 1
 
 ཐབས་མཁས་ཐུགས་རྗེས་ཤཱཀྱའི་རིགས་སུ་འཁྲུངས། །

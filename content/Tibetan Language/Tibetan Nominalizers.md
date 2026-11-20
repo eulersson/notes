@@ -6,7 +6,7 @@ tags:
 ---
 ཡག་ རྒྱོག་ མཁན་ ས་ པ་
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 - [[#Standard Nominalizer|Standard Nominalizer]]
 - [[#Alternative Interpretation of ཡག|Alternative Interpretation of ཡག]]

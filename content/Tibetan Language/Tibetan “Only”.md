@@ -5,7 +5,7 @@ tags:
 - tibetan-language
 ---
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 ༡༽ གཅིག་པུ། ༢༽ མ་གཏོགས། ༣༽ ལས། ༤༽ མ་གཞི།
 

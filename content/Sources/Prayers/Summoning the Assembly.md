@@ -22,6 +22,8 @@ aliases:
 
 ## Translation & Gloss
 
+![[Tibetan Gloss Conventions#^gloss-key]]
+
 ### Verse 1 — The invitation
 
 གང་དག་ཕྱོགས་བཅུ་སྟོང་གི་འཇིག་རྟེན་ན། །

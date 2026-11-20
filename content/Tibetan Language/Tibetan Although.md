@@ -5,7 +5,7 @@ tags:
 - tibetan-language
 ---
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 Similarly as it happens with [[Tibetan Because]] there's two was to expose a contradiction to a fact that would be expected otherwise:
 - ཁོང་བོད་པ་རེད། <i class="b">ཡིན་ནའི་</i>བོད་ཇ་ལ་དགའ་པོ་ཡོད་མ་རེད།

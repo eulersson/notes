@@ -5,7 +5,7 @@ tags:
 - tibetan-language
 ---
 
-![[Tibetan Colloquial Disclaimer]]
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
 ## Only
 Usually it has the meaning of "<i class="b">only</i>" as explained in [[Tibetan “Only”]].
