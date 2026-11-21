@@ -49,12 +49,12 @@ Works with བྱེད་མེད་ལས་ཚིག་ verbs:
 - *Having not eaten* — stays more literal.
 
 ### Nouns
-> ==🔵noun== + ==🟡འབྲེལ་སྒྲ==་ + ==🟣སྔོན་ལ==་ / ==🟣གོང་ལ==་ + rest of the sentence
+> ==🟣noun== + ==🟠འབྲེལ་སྒྲ==་ + ==🟡སྔོན་ལ==་ / ==🟡གོང་ལ==་ + rest of the sentence
 
 👀 No need for ==🔵དགག་སྒྲ==་
 
-==🔵འཛིན་གྲྭ== ==🟡འི==་==🟣སྔོན་ལ==་ ང་གྲ་སྒྲིག་ཡག་པོ་བྱེད་ཀྱི་ཡོད།
-“Before class, I prepare well.”
+==🟣འཛིན་གྲྭ== ==🟠འི==་==🟡སྔོན་ལ==་ ང་གྲ་སྒྲིག་ཡག་པོ་བྱེད་ཀྱི་ཡོད།
+“==🟡Before== ==🟣class==, I prepare well.”
 
 The order can be tweaked to shift the emphasis:
 
@@ -92,7 +92,7 @@ The agentive particle follows the [[Tibetan Using Agentive Particle བྱེད
 
 We have freedom to shift the pronoun:
 - ད་གིན་ཁ་ལག་མ་ཟ་སྔོན་ལ་==ངས==་ལག་པ་བཀྲུ་པ་ཡིན།
-- ==🟡ངས==་ད་གིན་ཁ་ལག་མ་ཟ་སྔོན་ལ་ལག་པ་བཀྲུས་པ་ཡིན།
+- ==ངས==་ད་གིན་ཁ་ལག་མ་ཟ་སྔོན་ལ་ལག་པ་བཀྲུས་པ་ཡིན།
 
 Pronoun might drop when it's clear it's “I” or “we” the doers of the action, e.g. by seeing the conjugation ཀྱི་ཡོད། ཀྱི་ཡིན། etc.
 
@@ -102,12 +102,11 @@ More than one བྱེད་སྒྲ་ can be used when more than one agent i
 #### འདོད་
 
 
-| Possibility                                                                                        | Translation                                             |     |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --- |
-| རྒྱ་གར་ལ་==🟠སྤོ==་==🟣འདོད==་==🔵མ==་==🟢བྱུང==་==🟡སྔོན་ལ==་་་་                                  | “Before wanting to move to India ...”                   |     |
-| ང་རྒྱ་གར་ལ་==🟠སྤོ==་ <i class="y">ཡག་གི་</i> ==🟣འདོད་པ==་==🔵མ==་==🟢བྱུང==་==🟡སྔོན་ལ==་་་་     | “Before the wish to move to India arose ...”            |     |
-| ང་རྒྱ་གར་ལ་==🟠སྤོ==་ <i class="y">ཡག་གི་</i> ==🟣བསམ་བློ==་==🔵མ==་==🟣འཁོར==་==🟡སྔོན་ལ==་་་་    | “Before the idea of going to India crossed my mind ...” |     |
-|                                                                                                    |                                                         |     |
+| Possibility                                                                                     | Translation                                             |     |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------- | --- |
+| རྒྱ་གར་ལ་==🟠སྤོ==་==🟣འདོད==་==🔵མ==་==🟢བྱུང==་==🟡སྔོན་ལ==་་་་                               | “Before wanting to move to India ...”                   |     |
+| ང་རྒྱ་གར་ལ་==🟠སྤོ==་ <i class="y">ཡག་གི་</i> ==🟣འདོད་པ==་==🔵མ==་==🟢བྱུང==་==🟡སྔོན་ལ==་་་་  | “Before the wish to move to India arose ...”            |     |
+| ང་རྒྱ་གར་ལ་==🟠སྤོ==་ <i class="y">ཡག་གི་</i> ==🟣བསམ་བློ==་==🔵མ==་==🟣འཁོར==་==🟡སྔོན་ལ==་་་་ | “Before the idea of going to India crossed my mind ...” |     |
 
 #### དགོས་པ་
 | Possibility                                                                           | Translation                                 | Remark                                                                                                                                                         |
@@ -178,7 +177,6 @@ This topic didn't apply with [[#Before སྔོན་ལ་ / གོང་ལ�
 “The police did not allow them to enter Nepal when they reached the border without having applied for the visa.”
 
 ### Agents
-### Agents
 The usage is **not limited to one** agent:
 
 ==🟢རྒན་ལགས==་(ཀྱིས་)འགྲེལ་བཤད་་==🟣སྐྱོན==་པའི་==🟡རྗེས་ལ==་==🟠ང==་ཧ་གོ་ས་རེད་།
@@ -196,27 +194,52 @@ Order of the pronoun: does not change a lot. Usually it's after རྗེས་�
 
 ### Modal Verbs
 
-A bit uncommon, but not impossible...
+A bit uncommon, but not impossible to say *after knowing to X* or *after being able to X*, *after wanting*
 
 #### ཤེས་པ་
 
-ངའི་རེ་བ་ལ་ང་ཚོའི་སློབ་ཕྲུག་དེ་ཚོས་ཞེ་ས་ཡག་པོ་རྒྱག་ཤེས་པའི་གཞུག་ལ་ང་ལ་ཚུར་བསླབ་འགྲིག་ས་རེད།
-“It's my hope that after our students learn how to speak well in ཞེ་ས་, they might teach me.”
+ངའི་རེ་བ་ལ་ང་ཚོའི་སློབ་ཕྲུག་དེ་ཚོས་ཞེ་ས་ཡག་པོ་==🟣རྒྱག==་==🔵ཤེས==་==པའི་གཞུག་ལ==་ང་ལ་ཚུར་བསླབ་འགྲིག་ས་རེད།
+“It's my hope that ==after== our students ==🟣learn== ==🔵how== to speak well in ཞེ་ས་, they might teach me.”
 
 #### ཐུབ་པ་
 
 སྤུ་གུ་ཆུང་ཆུང་དེས་གོམ་པ་ཡག་ཐག་ཆོད་གསུམ་==🟣རྒྱག==་==🔵ཐུབ==་==པའི་རྗེས་ལ==་མར་རིལ་སོང་།
-“After the little child was able to make three perfect steps, it fell”
+“==After== the little child was ==🔵able to== ==🟣make== three perfect steps, it fell”
 
-### འདོད་པ་
-སྤུ་གུ་ཚོ་ནང་ལ་==ལོག་འདོད་མེད་པའི==་རྗེས་ལ་ཨ་མ་ལགས་ཀྱིས་བློས་བཏང་བྱས། ཁོ་རང་ཚོ་མུ་མཐུད་ནས་རྩེད་རུ་བཅུག་པ་རེད། (also ==ལོག་འདོད་མ་བྱས་པའི་== is correct).
-“After the kids didn't want to return home, the mother gave up and let them play.”
+#### འདོད་པ་
+སྤུ་གུ་ཚོ་ནང་ལ་==🟣ལོག==་==🔵འདོད==་==🟡མེད==་==པའི་རྗེས་ལ==་ཨ་མ་ལགས་ཀྱིས་བློས་བཏང་བྱས། ཁོ་རང་ཚོ་མུ་མཐུད་ནས་རྩེད་རུ་བཅུག་པ་རེད།  
+,,(also ==🟣ལོག==་==🔵འདོད==་==🟡མ==་==🟢བྱས==་==པའི་རྗེས་ལ==་ is correct),,
+“==After== the kids did==🟡n't== ==🔵want== to ==🟣return== home, the mother gave up and let them play.”
 
-### Combining With Intermediate Structures
+### རྗེས་ལ་ / རྗེས་མ་ And སྔོན་ལ་ / སྔོན་མ་
 
+| Word    | Meaning              | Remark         |
+| ------- | -------------------- | -------------- |
+| རྗེས་ལ་ | after *preposition*  | Marks a point  |
+| རྗེས་མ་ | next *adjective*     | Marks a period |
+| སྔོན་ལ་ | before *preposition* | Marks a point  |
+| སྔོན་མ་ | previous *adjective* | Marks a period |
 
+> [!NOTE]
+> སྔོན་མ་སྔོན་མ་ connotes looooooong time ago, *once upon a time*. Similarly རྗེས་མ་རྗེས་མ་ connotes in the far future.
 
----
-at page 67; 4 pages left
+### Until: བར་དུ་
+
+འབྲེལ་སྒྲ་ is often dropped.
+
+#### Verbs
+> ==🔵དགག་སྒྲ==་ + ==🟣verb== (present) + ==🟡བར་དུ་==་ + rest of the sentence
+
+མོ་རང་གི་ཨ་མ་ལགས་ནང་ལ་==🔵མ==་==🟣ཕེབས==་==🟡བར་དུ==་མོ་བློ་བདེ་པོ་བྱེད་ཐུབ་ཀྱི་ཡོད་ས་མ་རེད།
+“She probably can't relax ==🟡until== her mother ==🟣comes== home. (H)”
+
+#### Nouns
+
+>  ==🟣noun== (present)+ ==🟡བར་དུ་==་ + rest of the sentence
+
+👀 No need for ==🔵དགག་སྒྲ==་
+
+==🟣ལོ་གསར==་==🟡བར་དུ==་ད་དུང་ཉི་མ་ག་ཚོད་འགོར་གྱི་རེད།
+“How many days are left ==🟡until== ==🟣Losar== arrives?”
 
 [^1]: Some people might use **present** tense.
