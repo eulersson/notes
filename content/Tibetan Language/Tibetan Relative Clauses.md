@@ -7,6 +7,12 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
+```toc
+style: nestedOrderedList
+```
+
+---
+
 There's a [[Tibetan Relative Clauses Summary Table]].
 
 Connecting two sentences with *which*, *what*, *who*, *whom*, *where*, *that*.

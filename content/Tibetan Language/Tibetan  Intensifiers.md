@@ -5,9 +5,15 @@ tags:
 - tibetan-language
 ---
 
-དཔེ།   ཞེ་དྲགས།   ཞེ་པོ་གཅིག   ཧ་ཅང་(གིས།)   ཧང་སང་ཡག   དཔེ་མི་སྲིད་པའི་   སའི། ཐག་ཆོད།   རྐྱང་།
-
 ![[Tibetan Colloquial Disclaimer#^disclaimer]]
+
+```toc
+style: nestedOrderedList
+```
+
+---
+
+དཔེ།   ཞེ་དྲགས།   ཞེ་པོ་གཅིག   ཧ་ཅང་(གིས།)   ཧང་སང་ཡག   དཔེ་མི་སྲིད་པའི་   སའི། ཐག་ཆོད།   རྐྱང་།
 
 ## དཔེ།
 **Precedes** an **adjective** (རྒྱན་ཚིག), but occasionally **follows** it.

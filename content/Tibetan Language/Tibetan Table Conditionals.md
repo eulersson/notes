@@ -8,6 +8,12 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
+```toc
+style: nestedOrderedList
+```
+
+---
+
 ## Conditional: Verbs and Non-Verbs
 
 |                    | Verbs                                        | To have / To be at | To be          |

@@ -5,6 +5,14 @@ tags:
 - tibetan-language
 ---
 
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
+
+```toc
+style: nestedOrderedList
+```
+
+---
+
 ཁྱོན་ནས། རྩ་བ་(ཉིད་)ནས། གཏན་ནས། (occasionally རྒྱུན་ནས།) used to express *not at all X*, *never X*, *not X in the slightest*.
 
 ## Etymology

@@ -7,6 +7,12 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
+```toc
+style: nestedOrderedList
+```
+
+---
+
 ## Only
 Usually it has the meaning of "<i class="b">only</i>" as explained in [[Tibetan “Only”]].
 

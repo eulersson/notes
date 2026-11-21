@@ -7,16 +7,11 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
-- [[#Direct Reported Speech|Direct Reported Speech]]
-- [[#Reporting Verbs|Reporting Verbs]]
-- [[#Humilific "Told Me"|Humilific "Told Me"]]
-- [[#To Me|To Me]]
-- [[#Imperatives|Imperatives]] ^2f8130
-- [[#Indirect Reported Speech|Indirect Reported Speech]]
-- [[#Skipping Pronoun|Skipping Pronoun]]
-- [[#Honorific|Honorific]]
-	- [[#Honorific#Reporting Honorific|Reporting Honorific]]
-- [[#I heard ...|I heard ...]]
+```toc
+style: nestedOrderedList
+```
+
+---
 
 ## Direct Reported Speech
 

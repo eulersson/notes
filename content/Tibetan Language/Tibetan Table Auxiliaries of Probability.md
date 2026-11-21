@@ -7,6 +7,12 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
+```toc
+style: nestedOrderedList
+```
+
+---
+
 ## Non-Verbs (to be, to have)
 
 | ས་རེད།                                                                        |  པ་འདྲ།                                                    | གི་རེད།                                                                           | འགྲོའོ                                                       |

@@ -7,6 +7,12 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
+```toc
+style: nestedOrderedList
+```
+
+---
+
 Before using comparatives and superlatives we need to identify **the root**. For **two syllable adjectives** (most of them) it's done by chopping the ending syllable:
 
 | Full Adjective (Regular) | Translation     | Root (Adjective minus last syllable) |

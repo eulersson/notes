@@ -4,19 +4,16 @@ tags:
 - tibetan
 - tibetan-language
 ---
-ཡག་ རྒྱོག་ མཁན་ ས་ པ་
 
 ![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
-- [[#Standard Nominalizer|Standard Nominalizer]]
-- [[#Alternative Interpretation of ཡག|Alternative Interpretation of ཡག]]
-- [[#Infinitive With ཡག Not Always|Infinitive With ཡག Not Always]]
-- [[#Should Not Do X|Should Not Do X]]
-- [[#Nominalizer མཁན།|Nominalizer མཁན།]]
-- [[#Negation|Negation]]
-- [[#The Ones Who Have / Don't Have|The Ones Who Have / Don't Have]]
-- [[#Nominalizer ས།|Nominalizer ས།]]
-- [[#Nominalizer པ།|Nominalizer པ།]]
+```toc
+style: nestedOrderedList
+```
+
+---
+
+ཡག་ རྒྱོག་ མཁན་ ས་ པ་
 
 ## Nominalizer ཡག
 

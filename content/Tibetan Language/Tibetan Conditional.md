@@ -7,6 +7,12 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
+```toc
+style: nestedOrderedList
+```
+
+---
+
 Prefix condition with གལ་སྲིད་ to add emphasis.
 
 > \[གལ་སྲིད་\] condition (auxiliary or non-verb related to བདག) + ན་ + rest

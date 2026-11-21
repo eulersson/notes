@@ -7,6 +7,12 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
+```toc
+style: nestedOrderedList
+```
+
+---
+
 བྱེད་པ། རྒྱག་པ། བཟོ་བ། གཏོང་བ། ཤོར་བ། ... are used to construct verbs.
 
 The <i class="g">modifiers</i> go between the <i class="p">word</i> and the <i class="b">verbalizer</i>: <i class="p">རང་སྦྱོང་</i><i class="g">མང་པོ་</i><i class="b">བྱེད་པ་</i>.

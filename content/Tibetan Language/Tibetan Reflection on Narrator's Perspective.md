@@ -7,6 +7,12 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
+```toc
+style: nestedOrderedList
+```
+
+---
+
 ## When Asking You Can Prompt for a More Personal Versus General Answer
 Through grammar it's great you can prompt for questions expressing what kind of answer you want to get back (more personal, or general):
 - ཁོང་མི་སྐྱིད་པོ་ཡོད་རེད་པས། Have you heard about it?

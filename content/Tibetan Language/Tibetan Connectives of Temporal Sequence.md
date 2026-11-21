@@ -5,6 +5,14 @@ tags:
 - tibetan-language
 ---
 
+![[Tibetan Colloquial Disclaimer#^disclaimer]]
+
+```toc
+style: nestedOrderedList
+```
+
+---
+
 ## Before: སྔོན་ལ་ / གོང་ལ་ 
 
 ### Verbs

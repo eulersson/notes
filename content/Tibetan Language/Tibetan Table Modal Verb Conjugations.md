@@ -8,6 +8,12 @@ tags:
 
 ![[Tibetan Colloquial Disclaimer#^disclaimer]]
 
+```toc
+style: nestedOrderedList
+```
+
+---
+
 ## ་་་ན་འགྲིག་གི་རེད་པས།
 
 > Subject (བྱེད་སྒྲ་ / no བྱེད་སྒྲ་) + Volitional verb past + ན་འགྲིག་གི་རེད་པས།
