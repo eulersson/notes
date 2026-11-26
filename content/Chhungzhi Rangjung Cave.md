@@ -27,4 +27,5 @@ At the base there's a small brick wall that delimits an area where subterranean 
 This is the informative leaflet that was on site, which to me was too Buddhist for the general audience:
 
 ![[Chhungzhi Information Leaflet 001.jpg]]
+
 ![[Chhungzhi Information Leaflet 002.jpg]]

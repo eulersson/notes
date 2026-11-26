@@ -5,6 +5,7 @@ tags:
 ---
 
 ![[Mustang Mineral Pigments 001.jpeg]]
+
 ![[Mustang Mineral Pigments 002.jpeg]]
 
 Many monuments, houses, monasteries and other buildings are painted often with four colours.

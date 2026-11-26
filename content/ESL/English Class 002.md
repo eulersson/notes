@@ -44,6 +44,7 @@ Write in the portable whiteboard one word and ask if they think it's a word or n
 ---
 ### Work: Changing from Capital to Small Letter (2.5 min)
 [[Headway English Grammar and Composition 1#Page 10|Grammar and Composition, Page 10]], exercise I, II.
+
 ![[Headway Grammar Composition Page 10.jpg]]
 
 ---

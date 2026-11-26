@@ -17,10 +17,15 @@ The academy is a non-sectarian study center with around 10,000 monks, nuns and l
 The abbot [[Khenpo Tsulrim Lodrö]], it's abbot, is very known worldwide, as he travels and is interviewed.
 
 ![[Travel Kham Sertar General.png]]
+
 ![[Travel Kham Sertar Night.png]]
+
 ![[Travel Kham Sertar Mountain.png]]
+
 ![[Travel Kham Sertar Middle.png]]
+
 ![[Travel Kham Sertar Slope.png]]
+
 ![[Travel Kham Larung Gar.png]]
 
 [[Jigme Phuntsok]] built it just to set himself away from the tensions from the [[Cultural Revolution]].

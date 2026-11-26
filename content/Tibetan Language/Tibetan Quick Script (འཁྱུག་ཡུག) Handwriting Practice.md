@@ -24,7 +24,9 @@ The links below are private and only work from my local note-taking software to 
 [[Tibetan Handwriting Workbook 2.pdf]]
 
 However I can give some samples:
+
 ![[Tibetan Handwriting Workbook 2 Sample 1.jpg]]
+
 ![[Tibetan Handwriting Workbook 2 Sample 2.jpg]]
 
 ## Videos

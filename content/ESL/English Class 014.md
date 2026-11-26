@@ -59,9 +59,11 @@ By using the ==balloon== with body parts select students and they have to ask "H
 
 ### Activity: Book: Describing Word
 [[Headway English Grammar and Composition 1#Page 28-29|Grammar and Composition, Page 28-29]]
+
 ![[Headway Grammar Composition Page 28-29.jpg]]
 
 [[Headway English Grammar and Composition 1#Page 30-31|Grammar and Composition, Page 30-31]]
+
 ![[Headway Grammar Composition Page 30-31.jpg]]
 ## 3. Like / Dislike (20 min)
 
@@ -83,9 +85,11 @@ By using the ==balloon== with body parts select students and they have to ask "H
 ![[Headway Activity Page 28-29.jpg]] ^01e44f
 
 [[Headway English Activity Book 1#Page 30|Activity Book Page 30]]
+
 ![[Headway Activity Page 30.jpg]]
 
 [[Headway English Activity Book 1#Page 37|Activity Book Page 37]]
+
 ![[Headway Activity Page 37.jpg]]
 
 ## Navigate

@@ -21,6 +21,7 @@ Students should write the answers as follows on their notebook.
 
 Complete the following prepositions:
 next to, among, in front, far from, under, below, on, between, over, in, behind, close to
+
 ![[Prepositions of Place Exam.jpg]]
 
 ---
@@ -36,6 +37,7 @@ Fix the order the following sentences:
 ---
 
 Complete the sentences:
+
 ![[ESL Prepositions Shapes.jpg]]
 18. There ( <i class="b">is</i> / <i class="p">are</i> ) ( <i class="b">one</i> / <i class="p">two</i> ) ( <i class="b">triangle</i> / <i class="p">triangles</i> ) on the table
 19. There \_\_\_ \_\_\_\_\_ balls
