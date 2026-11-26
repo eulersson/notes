@@ -104,7 +104,7 @@ Glacier ལ་གྲང་མོ་ཡོད་ཙང་==དཀའ་ལས==�
 ## ༦༽ དག་སྣང་༼visions༽དང་མཚན་གསོལ ༼giving of names༽། 
 
 
-![[Himalayan Cave Ritual with Marigold Petals 1.png]]
+![[Himalayan Cave Ritual with Marigold Petals 1.png]]p
 ![[Sacred Light Before the Golden Buddha.png]]
 
 ཁོང་ ==གཏེར་སྟོན==་ Pema Ledreltsal གྱི་ ==ཡང་སྲིད==༼reincarnation༽ ཡོད་ན་ཡང་ ཁོང་ད་དུང་ ==🟣བརྒྱུད་པ་ཆད་མེད==་ ༼unbroken transmission༽ ནས་ terma དེ་==ཐོབ་འདོད==་པ་རེད། Pema Ledreltsal གྱི་==🟣དངོས་སློབ==་༼direct disciple༽ གཅིག་==སྙེད==་པ་རེད། ད་ལྟ་ཁོང་ལ་ མཉམ་ལན་དེ་ བཀའ་མ་དང་གཏེར་མ་ གཉིས་ཀ་ ནས་ ཐོབ་ པ་རེད།
