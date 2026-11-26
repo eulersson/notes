@@ -410,6 +410,34 @@ describe("custom slug rules", () => {
     assert.notStrictEqual(video.properties.src, "./clip.mp4")
     assert.strictEqual(video.properties.poster, `${video.properties.src}.poster.webp`)
   })
+
+  test("normalizeRelativeURLs rebases video posters", () => {
+    // Just enough of a DOM for the attribute selectors normalizeRelativeURLs uses
+    const video = new Map([
+      ["src", "./jhong-caves/.././attachments/clip.mp4"],
+      ["poster", "./jhong-caves/.././attachments/clip.poster.webp"],
+    ])
+    const element = {
+      getAttribute: (name: string) => video.get(name) ?? null,
+      setAttribute: (name: string, value: string) => video.set(name, value),
+    }
+    const doc = {
+      querySelectorAll: (selectors: string) =>
+        selectors.split(", ").some((selector) => {
+          const [, name, op, value] = selector.match(/^\[(\w+)(\^?=)"(.*)"\]$/)!
+          const current = video.get(name)
+          return (
+            current !== undefined && (op === "=" ? current === value : current.startsWith(value))
+          )
+        })
+          ? [element]
+          : [],
+    }
+    // the page a reader clicks through to, from a page in a folder
+    path.normalizeRelativeURLs(doc as unknown as Document, "https://example.com/mustang-trip")
+    assert.strictEqual(video.get("src"), "/attachments/clip.mp4")
+    assert.strictEqual(video.get("poster"), "/attachments/clip.poster.webp")
+  })
 })
 
 describe("resolveRelative", () => {
