@@ -117,6 +117,10 @@ Longchenpa འི་ཞབས་ཕྱི་གྱིས་ Vishu གིས་
 ཁོང་གི་ ཚེ་རྗེས་ལ་ སྦྲུག་ཡུལ་ཀྱི་ གཏེར་སྟོན་ ==Pema Lingpa==  རེད།
 ཁོང་==🔵འདས་རྗེས==་==ལོ་བརྒྱ་བཞི==་ཕྱིན་པའི་རྗེས་སུ། Jigme Lingpa དག་སྣང་༼vision༽ རྗེས་ལ་ Longchenpa གྱི་ དགོངས་གཏེར་ ༼mind treasure༽ རག་ཡག་དེ་ Longchen Nyingthik རྙིང་མ་ནང་ནས་ གལ་ཆེན་ཤོས་ གཅིག་ ཆག་པ་རེད།
 
+## Questions (Comprehension)
+
+To be written.
+
 ## Sources
 Most of the information was extracted from the following resources:
 - **Chödrak Zangpo**, The Biography of the Omniscient Drimé Özer: Meaningful to Behold

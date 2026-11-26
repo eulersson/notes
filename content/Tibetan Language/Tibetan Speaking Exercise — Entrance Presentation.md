@@ -5,8 +5,6 @@ tags:
 - tibetan-language
 - tibetan-speaking-exercise
 - homework
-links:
-- "[[Letters]]"
 ---
 
 [Tib. 201 2025 Entrance presentations to enter the Lower Intermediate Course](https://docs.google.com/document/d/1EmFVPiEA72UQEoiVRxvd6Kv9OFu-ho8hWVEmulnAlas/edit?usp=sharing)
