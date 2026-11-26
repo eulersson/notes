@@ -67,6 +67,7 @@ Their source is no longer in this repository, so they are adjusted through optio
 - `npx tsx --test quartz/util/path.test.ts`: the URL rules wrap functions that `quartz/util/path.ts` re-exports from `@quartz-community/utils`.
 - `quartz.ts` places the custom transformers next to ObsidianFlavoredMarkdown, Description, Latex and Assets by name, and stops the build if one of them is missing.
 - Captions under embedded videos (`![[clip.mp4|caption]]`): `MediaCaptions` reads the `wikilink` nodes of ObsidianFlavoredMarkdown.
+- Video posters, e.g. on "Jhong Caves", also when reached by a click from a note in a folder: `VideoPosters` makes the images, `VideoEmbed` gives each `<video>` its `poster` and `preload="none"`, and `normalizeRelativeURLs` in `quartz/util/path.ts` rebases `poster` on page changes (a test in `path.test.ts` covers it).
 - Image layout words (`![[photo.jpg|Caption|right|35%]]`): `ImageCaptions` reads them from the alt text that ObsidianFlavoredMarkdown gives the image, everything in the alias but a final pixel size.
 - Social preview images, e.g. `public/tibetan-language/diary/2026-11-og-image.webp`: `quartz.ts` puts `OgImages` in the og-image plugin's place, keeping that plugin's `<meta>` tags.
   `OgImages` keeps the plugin's emitter name, `CustomOgImages`, which `quartz/components/Head.tsx` looks for to leave out its default image tags.

@@ -132,4 +132,10 @@ export function normalizeRelativeURLs(el: Element | Document, destination: strin
   el.querySelectorAll('[src=""], [src^="./"], [src^="../"]').forEach((item) => {
     _rebaseHtmlElement(item, "src", destination)
   })
+  // <video poster> too. On a page change the new page's elements go in before the address
+  // changes, so a relative poster loads from the old page's folder: a 404, and on Safari an empty
+  // box, since with preload="none" it has no frame to show instead.
+  el.querySelectorAll('[poster^="./"], [poster^="../"]').forEach((item) => {
+    _rebaseHtmlElement(item, "poster", destination)
+  })
 }
