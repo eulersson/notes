@@ -115,6 +115,49 @@ describe("captionImages", () => {
     )
   })
 
+  test("images on adjacent lines become a row", () => {
+    assert.strictEqual(
+      render("![a.png](a.png)\n![b.png](b.png)\n![c.png](c.png)"),
+      '<div class="image-row"><img src="a.png" alt="a.png"><img src="b.png" alt="b.png"><img src="c.png" alt="c.png"></div>',
+    )
+  })
+
+  test("images written on one line become a row too", () => {
+    assert.strictEqual(
+      render("![a.png](a.png)![b.png](b.png)"),
+      '<div class="image-row"><img src="a.png" alt="a.png"><img src="b.png" alt="b.png"></div>',
+    )
+  })
+
+  test("an image in a row keeps its caption, width and link", () => {
+    assert.strictEqual(
+      render("![Stupa](a.png)\n![50%](b.png)\n[![c.png](c.png)](https://example.org)"),
+      '<div class="image-row"><figure class="captioned"><img src="a.png" alt="Stupa"><figcaption>Stupa</figcaption></figure><figure class="image-layout sized" style="--image-width: 50%"><img src="b.png" alt=""></figure><a href="https://example.org"><img src="c.png" alt="c.png"></a></div>',
+    )
+  })
+
+  test("a left or right image keeps the paragraph out of a row, to float", () => {
+    assert.strictEqual(
+      render("![right|30%](a.png)\n![b.png](b.png)"),
+      '<figure data-align="right" class="image-layout sized" style="--image-width: 30%"><img src="a.png" alt=""></figure><p><img src="b.png" alt="b.png"></p>',
+    )
+    assert.strictEqual(
+      render("![a.png](a.png)\n![left](b.png)"),
+      '<p><img src="a.png" alt="a.png"><br>\n<img src="b.png" alt="" data-align="left"></p>',
+    )
+  })
+
+  test("images apart from each other, or with text, make no row", () => {
+    assert.strictEqual(
+      render("![a.png](a.png)\n\n![b.png](b.png)"),
+      '<p><img src="a.png" alt="a.png"></p>\n<p><img src="b.png" alt="b.png"></p>',
+    )
+    assert.strictEqual(
+      render("![a.png](a.png)\n![b.png](b.png)\nText."),
+      '<p><img src="a.png" alt="a.png"><br>\n<img src="b.png" alt="b.png"><br>\nText.</p>',
+    )
+  })
+
   test("a video takes its caption from data-caption", () => {
     const tree: Root = {
       type: "root",

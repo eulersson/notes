@@ -111,6 +111,40 @@ article::after {
     width: min(100%, 2 * var(--image-width));
   }
 }
+
+/* Images on adjacent lines, as the vault's Minimal theme shows them with its "Image grids"
+   option: one row, a column of equal width per image however many there are, each image as
+   wide as its column at its own proportions and centered in the row's height. */
+article .image-row {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: minmax(0, 1fr);
+  align-items: center;
+  column-gap: 0.5rem;
+  margin: 1rem 0;
+  clear: both;
+}
+
+article .image-row > figure {
+  margin-block: 0;
+}
+
+article .image-row > a {
+  display: block;
+}
+
+article .image-row img {
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+
+/* Minimal's gap on a phone; 400pt is its breakpoint */
+@media all and (max-width: 400pt) {
+  article .image-row {
+    column-gap: 0.25rem;
+  }
+}
 `
 
 /** Text nodes that only carry markdown whitespace don't count as content. */
@@ -253,12 +287,48 @@ function figureFor(content: Element, media: Element): Element | undefined {
 const imagesOnly = new Set(["img"])
 
 /**
+ * Images on adjacent lines, with no blank line between them, share a paragraph, which the
+ * vault's Minimal theme ("Image grids" in Minimal Settings) shows as one row of images. Such a
+ * paragraph becomes a <div class="image-row">, and each image in it a figure if it has a
+ * caption or a width. Returns undefined for any other paragraph, and for one with a left or
+ * right image, which keeps its paragraph so that it can float: the vault's Images.css snippet
+ * turns the row off for it too.
+ */
+function imageRow(node: Element): Element | undefined {
+  const items = node.children.filter(
+    (child) => !isBlank(child) && !(child.type === "element" && child.tagName === "br"),
+  )
+  if (items.length < 2) return undefined
+  const cells: [Element, Element][] = []
+  for (const item of items) {
+    const image = mediaIn(item, imagesOnly)
+    if (!image || item.type !== "element") return undefined
+    const alt = image.properties?.alt
+    const align = typeof alt === "string" ? parseImageLayout(alt).align : undefined
+    if (align === "left" || align === "right") return undefined
+    cells.push([item, image])
+  }
+  return {
+    type: "element",
+    tagName: "div",
+    properties: { className: ["image-row"] },
+    children: cells.map(([item, image]) => figureFor(item, image) ?? item),
+  }
+}
+
+/**
  * Turn images (and, with `captionable`, videos and audio) into figures with captions and
- * layout words, in place.
+ * layout words, and images on adjacent lines into rows, in place.
  */
 export function captionImages(tree: Root, captionable: Set<string>) {
   visit(tree, "element", (node, index, parent) => {
     if (node.tagName !== "p" || !parent || index === undefined) return
+
+    const row = imageRow(node)
+    if (row) {
+      parent.children[index] = row
+      return SKIP
+    }
 
     // A paragraph holding nothing but the media becomes a figure.
     const only = soleElement(node)
