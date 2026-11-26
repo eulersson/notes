@@ -46,6 +46,7 @@ git add package.json package-lock.json
 | Custom plugins added to the build, "Recent" sidebar                   | `quartz.ts`                                                                                        |
 | Transformers (captions, small text, Tibetan, lightbox, video, blocks) | `quartz/plugins/transformers/`                                                                     |
 | Image widths and floats from layout words in the alias                | `quartz/plugins/transformers/imageCaptions.ts`; in the vault, the `Images.css` snippet             |
+| Images on adjacent lines in one row                                   | `quartz/plugins/transformers/imageCaptions.ts`; in the vault, Minimal Settings' "Image grids"      |
 | Video posters                                                         | `quartz/plugins/emitters/videoPosters.ts`, `quartz/util/video.ts`, cached in `posters/`            |
 | Social preview images (Tokyo Night colors, Tibetan text)              | `quartz/plugins/emitters/ogImages.ts`, `quartz/static/ddc_uchen.ttf`                               |
 | Site icon and favicon (snow peak under a crescent moon)               | `quartz/static/icon.png`, drawn from `quartz/static/icon.svg`                                      |
@@ -69,6 +70,7 @@ Their source is no longer in this repository, so they are adjusted through optio
 - Captions under embedded videos (`![[clip.mp4|caption]]`): `MediaCaptions` reads the `wikilink` nodes of ObsidianFlavoredMarkdown.
 - Video posters, e.g. on "Jhong Caves", also when reached by a click from a note in a folder: `VideoPosters` makes the images, `VideoEmbed` gives each `<video>` its `poster` and `preload="none"`, and `normalizeRelativeURLs` in `quartz/util/path.ts` rebases `poster` on page changes (a test in `path.test.ts` covers it).
 - Image layout words (`![[photo.jpg|Caption|right|35%]]`): `ImageCaptions` reads them from the alt text that ObsidianFlavoredMarkdown gives the image, everything in the alias but a final pixel size.
+- Images on adjacent lines or on one line, e.g. in "Tibetan Speaking Exercise — Longchenpa's Biography + English", in one row, on a phone too: `ImageCaptions` makes the row from a paragraph that holds only images.
 - Social preview images, e.g. `public/tibetan-language/diary/2026-11-og-image.webp`: `quartz.ts` puts `OgImages` in the og-image plugin's place, keeping that plugin's `<meta>` tags.
   `OgImages` keeps the plugin's emitter name, `CustomOgImages`, which `quartz/components/Head.tsx` looks for to leave out its default image tags.
 - Breadcrumbs on notes whose names contain dashes or quotes, e.g. "Thought — Buddha Nature and Jesus".
