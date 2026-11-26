@@ -3,6 +3,7 @@ publish: true
 tags:
 - tibetan
 - tibetan-language
+- tibetan-speaking-exercise
 - homework
 ---
 
