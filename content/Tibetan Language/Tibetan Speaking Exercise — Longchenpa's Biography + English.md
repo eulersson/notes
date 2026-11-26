@@ -40,7 +40,9 @@ tags:
 
 ## ༢༽ སྐུ་བལྟམས་པ། ༼birth༽
 
-![[Longchenpa Namthar — The Mother's Dream of the Lion.png]]![[Longchenpa Namthar — Remati Guarding the Door.png]]
+![[Longchenpa Namthar — The Mother's Dream of the Lion.png]]
+
+![[Longchenpa Namthar — Remati Guarding the Door.png]]
 
 1308 སྟོང་ཕྲག་གཅིག་དང་སུམ་བརྒྱ་དང་བརྒྱད་ ལ་ ==Tötrong== ལ་ ==🟣སྐུ་བལྟམས==་པ་རེད།
 
@@ -64,7 +66,9 @@ tags:
 
 ## ༣༽ སྐུ་ཆུང་དུས་༼childhood༽དང་ཐོས་བསམ ༼studies༽།
 
-![[Longchenpa Namthar — The boy reciting by lamplight.png]]![[3a. the renunciation at twelve.png]]![[3b. The vision of Sarasvatī.png]]
+![[Longchenpa Namthar — The boy reciting by lamplight.png]]![[3a. the renunciation at twelve.png]]
+
+![[3b. The vision of Sarasvatī.png]]
 
 དགུང་ལོ་ 5 ==ལྔ==་ནས་ལོ་==བདུན==་བར་དུ་ ཁོང་གི་ཡབ་ནས་ ==ཀློག་རྩལ==་ སྦྱངས་པ་རེད
 
@@ -126,7 +130,11 @@ Sangphu དགོན་པ་ལ་ ==མཁམ་པ==་ དེ་ཚོ་
 
 
 ## ༥༽ Kumaradza
-![[Monastic Shelter’s Guiding Light.png]]![[Himalayan Elders Beneath the Morning Sky.png]]![[Snowbound Yak Spirit and Mountain Guardian.png]]![[Meditative Dawn in the Himalayan Icefield.png]]
+![[Monastic Shelter’s Guiding Light.png]]
+![[Himalayan Elders Beneath the Morning Sky.png]]
+
+![[Snowbound Yak Spirit and Mountain Guardian.png]]
+![[Meditative Dawn in the Himalayan Icefield.png]]
 
 Kumaradza ནི་ ==འདོད་ཆགས==་༼attachment༽ མེད་པའི་ཆེད་དུ་ ==བཞུགས་ས་== མུ་མཐུད་ནས་ ==རྒྱུར==་བ་རེད། འབྲོག་པ་ནང་བཞིན།
 
